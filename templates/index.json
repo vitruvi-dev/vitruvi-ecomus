@@ -41,8 +41,8 @@
       "settings": {
         "full_width": true,
         "item_round": "rounded-lg",
-        "image_height": "adapt_image",
-        "fixed_height": 860,
+        "image_height": "fixed",
+        "fixed_height": 700,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
         "color_scheme": "",
