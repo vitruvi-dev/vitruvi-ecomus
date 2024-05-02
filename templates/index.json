@@ -27,7 +27,7 @@
             "alignment": "center",
             "hide_subtext_mb": true,
             "content_position_mb": "center-start",
-            "alignment_mb": "left"
+            "alignment_mb": "center"
           }
         }
       },
