@@ -104,7 +104,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Our best sellers",
+        "sec_heading": "Best-Selling Diffusers & Humidifiers",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "<p>Premium, natural air care products that elevate your home.<\/p>",
@@ -114,10 +114,10 @@
         "sec_heading_spacing": 63,
         "collection": "",
         "product_list": [
-          "stone-essential-oil-diffuser",
           "cloud-humidifier",
-          "signature-essential-oil-kit",
-          "essential-oil-kit"
+          "move-cordless-essential-oil-diffuser",
+          "stone-essential-oil-diffuser",
+          "glow-essential-oil-diffuser"
         ],
         "product_des": "1",
         "image_ratio": "square",
