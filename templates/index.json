@@ -26,7 +26,7 @@
             "content_position": "center",
             "alignment": "center",
             "hide_subtext_mb": true,
-            "content_position_mb": "center-start",
+            "content_position_mb": "center",
             "alignment_mb": "center"
           }
         }
@@ -142,7 +142,7 @@
         ".hdt-sec-heading {font-weight: 700;}"
       ],
       "settings": {
-        "heading_align": "hdt-align-center",
+        "heading_align": "center",
         "sec_heading": "MORE TO EXPLORE",
         "heading_tag": "h3",
         "heading_size": "text-lg",
@@ -163,7 +163,7 @@
         "content_padding": 30,
         "image_ratio": "asos",
         "image_size": true,
-        "col_dk": "3",
+        "col_dk": "4",
         "col_tb": "2",
         "col_mb": "2",
         "space_items": "x",
