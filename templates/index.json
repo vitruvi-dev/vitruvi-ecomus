@@ -329,7 +329,7 @@
         "content_size": "2xl",
         "content_weight": "normal",
         "text_transform": false,
-        "content_position": "end-start",
+        "content_position": "center",
         "content_padding": 30,
         "image_ratio": "asos",
         "image_size": true,
