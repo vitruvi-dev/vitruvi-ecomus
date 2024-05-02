@@ -507,72 +507,6 @@
         "padding_rate": 75
       }
     },
-    "282a0160-505d-43ff-b601-043a5a327bc1": {
-      "type": "collections-list",
-      "blocks": {
-        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "fashion-accessories",
-            "title": "Accessories Galore",
-            "collection_link": ""
-          }
-        },
-        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "womens-fashion",
-            "title": "Statement Pieces",
-            "collection_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1",
-        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "hdt-align-center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "hdt-text-base",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
-        "collection_des": "8",
-        "content_size": "10xl",
-        "content_weight": "normal",
-        "text_transform": false,
-        "content_position": "end-center",
-        "content_padding": 30,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "col_dk": "2",
-        "col_tb": "2",
-        "col_mb": "1",
-        "space_items": "x",
-        "half_item": false,
-        "navUI": false,
-        "nav_des": "default",
-        "nav_pos": "middle_out",
-        "dotUI": true,
-        "dots_pos": "default",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "boxed_content": false,
-        "color_scheme": "",
-        "padding_top": 10,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "622f5d6a-09b6-4b2d-ad46-6ded3943164b": {
       "type": "testimonials",
       "blocks": {
@@ -839,7 +773,6 @@
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "collections_list_iEN73m",
     "5a75954e-0672-460a-9a96-1f07a182b8d7",
-    "282a0160-505d-43ff-b601-043a5a327bc1",
     "622f5d6a-09b6-4b2d-ad46-6ded3943164b",
     "2114b9b3-c579-4b90-90d4-7c53d71f6449",
     "cef9818d-d174-4a85-935f-31cd9035f495"
