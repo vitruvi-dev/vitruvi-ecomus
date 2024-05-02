@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Kaftan";
+  src: url("./VitruviKaftan-Regular.woff2") format("woff2"),
+    url("./VitruviKaftan-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Heldane";
+  src: url("./HeldaneText-Regular.woff2") format("woff2"),
+    url("./HeldaneText-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Heldane";
+  src: url("./HeldaneText-RegularItalic.woff2") format("woff2"),
+    url("./HeldaneText-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Founders Grotesk";
+  src: url("./FoundersGrotesk-Regular.woff2") format("woff2"),
+    url("./FoundersGrotesk-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Founders Grotesk";
+  src: url("./FoundersGrotesk-Medium.woff2") format("woff2"),
+    url("./FoundersGrotesk-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Founders Grotesk";
+  src: url("./FoundersGrotesk-Light.woff2") format("woff2"),
+    url("./FoundersGrotesk-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Founders Grotesk Condensed";
+  src: url("./FoundersGroteskCond-Reg.woff2") format("woff2"),
+    url("./FoundersGroteskCond-Reg.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Founders Grotesk Condensed";
+  src: url("./FoundersGroteskCond-Lt.woff2") format("woff2"),
+    url("./FoundersGroteskCond-Lt.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
