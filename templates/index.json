@@ -357,9 +357,9 @@
         "collection_item_YixYcT": {
           "type": "collection_item",
           "settings": {
-            "collection": "essential-oil-blends",
+            "collection": "best-essential-oils-for-sleep",
             "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_sejour_gallery_3_v2_image.jpg",
-            "title": "Diffuser Blends",
+            "title": "For Your Best Sleep",
             "collection_link": ""
           }
         },
@@ -368,7 +368,7 @@
           "settings": {
             "collection": "essential-oils",
             "image": "shopify:\/\/shop_images\/pdp_essential-oil_frankincense_gallery_2_image_43e99e15-d696-4780-910d-6bb56534f2e0.png",
-            "title": "Essential Oils",
+            "title": "For Decreasing Anxiety",
             "collection_link": ""
           }
         },
@@ -377,12 +377,13 @@
           "settings": {
             "collection": "natural-air-freshener-sprays",
             "image": "shopify:\/\/shop_images\/pdp_natural-air-freshener-spray_warm-linen_gallery-single-cannister_3_image_e8bf97b8-1cc2-413e-9f1a-5352e1673757.jpg",
-            "title": "Air Freshener Sprays",
+            "title": "For Sprucing Up",
             "collection_link": ""
           }
         },
         "view_all_pAmnHz": {
           "type": "view_all",
+          "disabled": true,
           "settings": {
             "title": "Shop all scents",
             "item_link": "shopify:\/\/collections\/scents"
@@ -395,12 +396,14 @@
         "collection_item_jm467N",
         "view_all_pAmnHz"
       ],
-      "disabled": true,
+      "custom_css": [
+        ".hdt-sec-heading {font-weight: 700;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "All-natural scents and aromas that transport you",
         "heading_tag": "h3",
-        "heading_size": "text-lg",
+        "heading_size": "h5",
         "sec_subheading": "<p>Explore<\/p>",
         "subheading_size": "hdt-text-base",
         "heading_reverse": true,
