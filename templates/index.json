@@ -416,6 +416,7 @@
         "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-2",
         "4ea4d3a7-2225-4775-ab9a-7b1fbc65a543"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
@@ -444,12 +445,101 @@
         "padding_rate": 75
       }
     },
+    "testimonials_e3eK9e": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_CjqTMg": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press-logo_wellandgood_black_v5_image_x100_06cde0a5-e5e0-448c-a63c-0c8613c2c3b8.png",
+            "heading": "Best Online Fashion Site",
+            "content": "<p>“I always find something stylish and affordable on this web fashion site”<\/p>",
+            "author": "Robert smith",
+            "pos": "Customer from USA",
+            "enable_verify": true,
+            "product": "jersey-thong-body",
+            "rating": 5
+          }
+        },
+        "quote_ghFj6k": {
+          "type": "quote",
+          "settings": {
+            "heading": "Great Selection and Quality",
+            "content": "<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>",
+            "author": "Allen Lyn",
+            "pos": "Customer from Fance",
+            "enable_verify": false,
+            "product": "cotton-jersey-top",
+            "rating": 5
+          }
+        },
+        "quote_GDjwX4": {
+          "type": "quote",
+          "settings": {
+            "heading": "Best Customer Service",
+            "content": "<p>\"I finally found a web fashion site with stylish and flattering options in my size.\"<\/p>",
+            "author": "Peter Rope",
+            "pos": "Customer from USA",
+            "enable_verify": false,
+            "product": "ribbed-modal-t-shirt",
+            "rating": 5
+          }
+        },
+        "quote_iC9fTA": {
+          "type": "quote",
+          "settings": {
+            "heading": "Great Selection and Quality",
+            "content": "<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>",
+            "author": "Hellen Ase",
+            "pos": "Customer from Japan",
+            "enable_verify": false,
+            "product": "ribbed-tank-top",
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_CjqTMg",
+        "quote_ghFj6k",
+        "quote_GDjwX4",
+        "quote_iC9fTA"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "14,000+ 5 STAR REVIEWS",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "sec_subheading": "<p>13123<\/p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "content_align": "center",
+        "testimonial_des": "3",
+        "col_dk": "1",
+        "col_tb": "1",
+        "col_mb": "1",
+        "navUI": true,
+        "nav_pos": "middle_out",
+        "nav_des": "default",
+        "dotUI": true,
+        "dis_dot": 30,
+        "color_scheme": "scheme-2",
+        "pr_rating": "#ff7b54",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
     "51599d10-cb42-475f-a7c1-94de5836c125": {
       "type": "brands",
       "blocks": {
         "8496afbb-ac5f-45e9-9a97-3a029a021740": {
           "type": "brand_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/press-logo_wellandgood_black_v5_image_x100_06cde0a5-e5e0-448c-a63c-0c8613c2c3b8.png",
             "url": ""
           }
         },
@@ -497,10 +587,10 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "",
+        "sec_heading": "1323123",
         "heading_tag": "h3",
         "heading_size": "h4",
-        "sec_subheading": "",
+        "sec_subheading": "<p>12312321<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -701,6 +791,7 @@
     "5a75954e-0672-460a-9a96-1f07a182b8d7",
     "282a0160-505d-43ff-b601-043a5a327bc1",
     "622f5d6a-09b6-4b2d-ad46-6ded3943164b",
+    "testimonials_e3eK9e",
     "51599d10-cb42-475f-a7c1-94de5836c125",
     "2114b9b3-c579-4b90-90d4-7c53d71f6449",
     "cef9818d-d174-4a85-935f-31cd9035f495"
