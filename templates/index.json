@@ -196,16 +196,6 @@
             "author": "The Wirecutter | New York Times"
           }
         },
-        "quote_WyLKV4": {
-          "type": "quote",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
-            "heading": "",
-            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
-            "author": "Esquire"
-          }
-        },
         "quote_e9fWFr": {
           "type": "quote",
           "settings": {
@@ -214,13 +204,42 @@
             "content": "<p>“The world’s chicest diffuser.”<\/p>",
             "author": "Who What Wear"
           }
+        },
+        "quote_WyLKV4": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
+            "heading": "",
+            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
+            "author": "Esquire"
+          }
+        },
+        "quote_g3TVgk": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BHG-logo-brandprimary-dark_1_1_1.png",
+            "heading": "",
+            "content": "<p>“The best humidifier from a design standpoint.”<\/p>",
+            "author": "Better Homes & Gardens"
+          }
+        },
+        "quote_ThmjAB": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
+            "heading": "",
+            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
+            "author": "Esquire"
+          }
         }
       },
       "block_order": [
         "quote_EDf3LR",
         "quote_BCQy7e",
+        "quote_e9fWFr",
         "quote_WyLKV4",
-        "quote_e9fWFr"
+        "quote_g3TVgk",
+        "quote_ThmjAB"
       ],
       "settings": {
         "heading_align": "center",
