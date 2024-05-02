@@ -166,9 +166,10 @@
         "quote_BCQy7e": {
           "type": "quote",
           "settings": {
-            "heading": "AS SEE IN",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name"
+            "image": "shopify:\/\/shop_images\/press-logo_wellgood.png",
+            "heading": "",
+            "content": "<p>“Vitruvi’s stunning humidifier will put your old machine to shame.”<\/p>",
+            "author": "Well + Good"
           }
         },
         "quote_WyLKV4": {
@@ -197,8 +198,8 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "content_align": "center",
-        "navUI": false,
-        "nav_des": "default",
+        "navUI": true,
+        "nav_des": "outline",
         "dotUI": false,
         "dis_dot": 30,
         "color_scheme": "scheme-4a2da587-4cb4-4de4-a833-b6e068c30a6f",
