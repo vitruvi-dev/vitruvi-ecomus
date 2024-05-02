@@ -683,6 +683,62 @@
         "padding_bottom": 60,
         "padding_rate": 75
       }
+    },
+    "testinonial_with_image_jnqLjH": {
+      "type": "testinonial-with-image",
+      "blocks": {
+        "quote_DkpFcC": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>A perfect addition to your nightstand.<\/p>",
+            "author": "Architectural Digest",
+            "product": "",
+            "rating": 5,
+            "image_first": "shopify:\/\/shop_images\/press-logo_architecturaldigest_black_v5_image_x100_47ee4345-9e0f-427a-956a-b27ba3389e60.png"
+          }
+        },
+        "quote_z4mtNP": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "product": "",
+            "rating": 5
+          }
+        },
+        "quote_BpJmPe": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "product": "",
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_DkpFcC",
+        "quote_z4mtNP",
+        "quote_BpJmPe"
+      ],
+      "settings": {
+        "dri_img_first": false,
+        "image_width": "one_img_fixed",
+        "font_size_content": "hdt-text-2xl",
+        "navUI": false,
+        "nav_pos": "middle_in",
+        "nav_des": "default",
+        "dotUI": false,
+        "color_scheme": "",
+        "pr_rating": "#FF7B54",
+        "section_fullwidth": false,
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -695,6 +751,7 @@
     "282a0160-505d-43ff-b601-043a5a327bc1",
     "622f5d6a-09b6-4b2d-ad46-6ded3943164b",
     "2114b9b3-c579-4b90-90d4-7c53d71f6449",
-    "cef9818d-d174-4a85-935f-31cd9035f495"
+    "cef9818d-d174-4a85-935f-31cd9035f495",
+    "testinonial_with_image_jnqLjH"
   ]
 }
