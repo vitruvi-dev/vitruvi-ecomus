@@ -31,12 +31,15 @@
     "header_e_commerce_Dh7GX6": {
       "type": "header-e-commerce",
       "blocks": {
-        "mega_shop_ARpfxD": {
+        "mega_shop_hGexz8": {
           "type": "mega_shop",
           "settings": {
             "title": "Title",
             "collection_list": [
-              "accessories"
+              "accessories",
+              "natural-air-freshener-single-sprays",
+              "all-products-no-filters",
+              "sale"
             ],
             "image_ratio": "adapt_image",
             "image_size": true,
@@ -45,21 +48,10 @@
             "mega_width": "full",
             "mega_custom_width": 1200
           }
-        },
-        "mega_page_CdVMrp": {
-          "type": "mega_page",
-          "settings": {
-            "title": "Title",
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "full",
-            "mega_custom_width": 1200
-          }
         }
       },
       "block_order": [
-        "mega_shop_ARpfxD",
-        "mega_page_CdVMrp"
+        "mega_shop_hGexz8"
       ],
       "settings": {
         "header_fullwidth": false,
