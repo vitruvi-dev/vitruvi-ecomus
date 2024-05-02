@@ -175,9 +175,10 @@
         "quote_WyLKV4": {
           "type": "quote",
           "settings": {
-            "heading": "AS SEE IN",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name"
+            "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
+            "heading": "",
+            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
+            "author": "Esquire"
           }
         }
       },
