@@ -171,7 +171,7 @@
         "fullwidth": false,
         "color_scheme": "scheme-4a2da587-4cb4-4de4-a833-b6e068c30a6f",
         "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
