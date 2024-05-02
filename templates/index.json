@@ -664,8 +664,9 @@
         "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1": {
           "type": "gallery_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2_emilytartaglia_diffuser-stone_terracotta.jpg",
             "item_link": "",
-            "product_item": "tula-explore-babytrage"
+            "product_item": "stone-essential-oil-diffuser"
           }
         },
         "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-4": {
