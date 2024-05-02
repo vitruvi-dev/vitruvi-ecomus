@@ -418,6 +418,26 @@
           "input_primary": "#ffffff",
           "input_secondary": "#909090"
         }
+      },
+      "scheme-89191dcd-678c-4243-956d-d26ae648a266": {
+        "settings": {
+          "text": "{{ shop.brand.colors.primary[0].foreground }}",
+          "text2": "{{ shop.brand.colors.primary[1].background }}",
+          "background": "{{ shop.brand.colors.primary[0].background }}",
+          "background_gradient": "",
+          "background2": "{{ shop.brand.colors.primary[0].background }}",
+          "button": "#000000",
+          "button_label": "#ffffff",
+          "button_border": "#000000",
+          "secondary_button_label": "#000000",
+          "line_border": "#ebebeb",
+          "overlay": "#000000",
+          "pr_text": "#000000",
+          "price": "#000000",
+          "sale_price": "#db1215",
+          "input_primary": "#ffffff",
+          "input_secondary": "#909090"
+        }
       }
     }
   }
