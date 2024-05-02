@@ -141,6 +141,65 @@
         "padding_rate": 50
       }
     },
+    "testimonials_2_6EMDRP": {
+      "type": "testimonials-2",
+      "blocks": {
+        "quote_Xf4Qfr": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        },
+        "quote_UF46TF": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        },
+        "quote_Maatde": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_Xf4Qfr",
+        "quote_UF46TF",
+        "quote_Maatde"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "top_heading": "14,000+ 5 Star Reviews",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "top_description": "",
+        "subheading_size": "hdt-text-base",
+        "show_rating": true,
+        "rating": 5,
+        "content_align": "start",
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "color_scheme": "",
+        "pr_rating": "#FF7B54",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
     "testimonials_3_j4nTTT": {
       "type": "testimonials-3",
       "blocks": {
@@ -184,6 +243,7 @@
         "quote_zaC9Xg",
         "quote_bKY44P"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "14,000+ 5 star reviews",
@@ -684,56 +744,65 @@
         "padding_rate": 75
       }
     },
-    "testinonial_with_image_jnqLjH": {
-      "type": "testinonial-with-image",
+    "testimonials_3_Gf4Tfd": {
+      "type": "testimonials-3",
       "blocks": {
-        "quote_DkpFcC": {
+        "quote_EDf3LR": {
           "type": "quote",
           "settings": {
-            "heading": "",
-            "content": "<p>A perfect addition to your nightstand.<\/p>",
-            "author": "Architectural Digest",
-            "product": "",
-            "rating": 5,
-            "image_first": "shopify:\/\/shop_images\/press-logo_architecturaldigest_black_v5_image_x100_47ee4345-9e0f-427a-956a-b27ba3389e60.png"
+            "image": "shopify:\/\/shop_images\/press-logo_architectural-digest_grey.png",
+            "heading": "The Cloud Humidifier",
+            "content": "<p>“A perfect addition to your nightstand.”<\/p>",
+            "author": ""
           }
         },
-        "quote_z4mtNP": {
+        "quote_e9fWFr": {
           "type": "quote",
           "settings": {
-            "heading": "",
-            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "product": "",
-            "rating": 5
+            "heading": "AS SEE IN",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name"
           }
         },
-        "quote_BpJmPe": {
+        "quote_BCQy7e": {
           "type": "quote",
           "settings": {
-            "heading": "",
-            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "product": "",
-            "rating": 5
+            "heading": "AS SEE IN",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "quote_WyLKV4": {
+          "type": "quote",
+          "settings": {
+            "heading": "AS SEE IN",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name"
           }
         }
       },
       "block_order": [
-        "quote_DkpFcC",
-        "quote_z4mtNP",
-        "quote_BpJmPe"
+        "quote_EDf3LR",
+        "quote_e9fWFr",
+        "quote_BCQy7e",
+        "quote_WyLKV4"
       ],
       "settings": {
-        "dri_img_first": false,
-        "image_width": "one_img_fixed",
-        "font_size_content": "hdt-text-2xl",
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "content_align": "center",
         "navUI": false,
-        "nav_pos": "middle_in",
         "nav_des": "default",
         "dotUI": false,
+        "dis_dot": 30,
         "color_scheme": "",
-        "pr_rating": "#FF7B54",
         "section_fullwidth": false,
         "padding_top": 30,
         "padding_bottom": 30,
@@ -745,6 +814,7 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "d81e394c-3467-4709-a303-1d274f42da41",
+    "testimonials_2_6EMDRP",
     "testimonials_3_j4nTTT",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "5a75954e-0672-460a-9a96-1f07a182b8d7",
@@ -752,6 +822,6 @@
     "622f5d6a-09b6-4b2d-ad46-6ded3943164b",
     "2114b9b3-c579-4b90-90d4-7c53d71f6449",
     "cef9818d-d174-4a85-935f-31cd9035f495",
-    "testinonial_with_image_jnqLjH"
+    "testimonials_3_Gf4Tfd"
   ]
 }
