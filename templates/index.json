@@ -40,7 +40,7 @@
       ],
       "settings": {
         "full_width": true,
-        "item_round": "rounded",
+        "item_round": "rounded-lg",
         "image_height": "adapt_image",
         "fixed_height": 860,
         "image_height_mb": "fixed",
