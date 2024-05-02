@@ -53,6 +53,7 @@
       "block_order": [
         "mega_shop_hGexz8"
       ],
+      "disabled": true,
       "settings": {
         "header_fullwidth": false,
         "logo": "shopify:\/\/shop_images\/vitruvi-wordmark-black-medium.png",
@@ -152,7 +153,6 @@
         "a503e0d7-367d-45ea-9298-fe6e14683f79",
         "46a3191f-a3ab-4661-a59b-167e0743a9e5"
       ],
-      "disabled": true,
       "settings": {
         "header_layout": "logo_center",
         "header_fullwidth": true,
@@ -173,7 +173,7 @@
         "header_menu_colors": "",
         "enabled_user": true,
         "enabled_compare": false,
-        "enabled_wishlist": true,
+        "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
         "main_menu_mobile": "",
