@@ -141,6 +141,71 @@
         "padding_rate": 50
       }
     },
+    "testimonials_3_j4nTTT": {
+      "type": "testimonials-3",
+      "blocks": {
+        "quote_FVtLXM": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press-logo_architecturaldigest_black_v5_image_x100_47ee4345-9e0f-427a-956a-b27ba3389e60.png",
+            "heading": "",
+            "content": "<p>“A perfect addition to your nightstand.”<\/p>",
+            "author": "Arcitectural Digest"
+          }
+        },
+        "quote_kfBGYh": {
+          "type": "quote",
+          "settings": {
+            "heading": "AS SEE IN",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "quote_zaC9Xg": {
+          "type": "quote",
+          "settings": {
+            "heading": "AS SEE IN",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "quote_bKY44P": {
+          "type": "quote",
+          "settings": {
+            "heading": "AS SEE IN",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "quote_FVtLXM",
+        "quote_kfBGYh",
+        "quote_zaC9Xg",
+        "quote_bKY44P"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "14,000+ 5 star reviews",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "content_align": "center",
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "dis_dot": 30,
+        "color_scheme": "",
+        "section_fullwidth": false,
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
     "282a0160-505d-43ff-b601-043a5a327bc2": {
       "type": "collections-list",
       "blocks": {
@@ -270,6 +335,7 @@
         "6edb3aab-1d14-4f47-9430-cade7305ef94",
         "5126238c-4a21-46ad-b07e-17524e535f60"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
@@ -442,170 +508,6 @@
         "section_fullwidth": false,
         "padding_top": 0,
         "padding_bottom": 76,
-        "padding_rate": 75
-      }
-    },
-    "testimonials_e3eK9e": {
-      "type": "testimonials",
-      "blocks": {
-        "quote_CjqTMg": {
-          "type": "quote",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_wellandgood_black_v5_image_x100_06cde0a5-e5e0-448c-a63c-0c8613c2c3b8.png",
-            "heading": "Best Online Fashion Site",
-            "content": "<p>“I always find something stylish and affordable on this web fashion site”<\/p>",
-            "author": "Robert smith",
-            "pos": "Customer from USA",
-            "enable_verify": true,
-            "product": "jersey-thong-body",
-            "rating": 5
-          }
-        },
-        "quote_ghFj6k": {
-          "type": "quote",
-          "settings": {
-            "heading": "Great Selection and Quality",
-            "content": "<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>",
-            "author": "Allen Lyn",
-            "pos": "Customer from Fance",
-            "enable_verify": false,
-            "product": "cotton-jersey-top",
-            "rating": 5
-          }
-        },
-        "quote_GDjwX4": {
-          "type": "quote",
-          "settings": {
-            "heading": "Best Customer Service",
-            "content": "<p>\"I finally found a web fashion site with stylish and flattering options in my size.\"<\/p>",
-            "author": "Peter Rope",
-            "pos": "Customer from USA",
-            "enable_verify": false,
-            "product": "ribbed-modal-t-shirt",
-            "rating": 5
-          }
-        },
-        "quote_iC9fTA": {
-          "type": "quote",
-          "settings": {
-            "heading": "Great Selection and Quality",
-            "content": "<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>",
-            "author": "Hellen Ase",
-            "pos": "Customer from Japan",
-            "enable_verify": false,
-            "product": "ribbed-tank-top",
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_CjqTMg",
-        "quote_ghFj6k",
-        "quote_GDjwX4",
-        "quote_iC9fTA"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "14,000+ 5 STAR REVIEWS",
-        "heading_tag": "h4",
-        "heading_size": "h4",
-        "sec_subheading": "<p>13123<\/p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "content_align": "center",
-        "testimonial_des": "3",
-        "col_dk": "1",
-        "col_tb": "1",
-        "col_mb": "1",
-        "navUI": true,
-        "nav_pos": "middle_out",
-        "nav_des": "default",
-        "dotUI": true,
-        "dis_dot": 30,
-        "color_scheme": "scheme-2",
-        "pr_rating": "#ff7b54",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 76,
-        "padding_rate": 75
-      }
-    },
-    "51599d10-cb42-475f-a7c1-94de5836c125": {
-      "type": "brands",
-      "blocks": {
-        "8496afbb-ac5f-45e9-9a97-3a029a021740": {
-          "type": "brand_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_wellandgood_black_v5_image_x100_06cde0a5-e5e0-448c-a63c-0c8613c2c3b8.png",
-            "url": ""
-          }
-        },
-        "a629936d-b7a2-4878-97d9-260ca38ef6c7": {
-          "type": "brand_item",
-          "settings": {
-            "url": ""
-          }
-        },
-        "882363d3-17d8-4284-b6a9-bdbf19bb4bcc": {
-          "type": "brand_item",
-          "settings": {
-            "url": ""
-          }
-        },
-        "49988bf6-4a94-45cb-b991-dd419c0665e2": {
-          "type": "brand_item",
-          "settings": {
-            "url": ""
-          }
-        },
-        "770d8d89-30f6-4f19-a7da-371a94b98424": {
-          "type": "brand_item",
-          "settings": {
-            "url": ""
-          }
-        },
-        "e18b07b0-c9d7-4870-abdf-1be828cf94a7": {
-          "type": "brand_item",
-          "settings": {
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "8496afbb-ac5f-45e9-9a97-3a029a021740",
-        "a629936d-b7a2-4878-97d9-260ca38ef6c7",
-        "882363d3-17d8-4284-b6a9-bdbf19bb4bcc",
-        "49988bf6-4a94-45cb-b991-dd419c0665e2",
-        "770d8d89-30f6-4f19-a7da-371a94b98424",
-        "e18b07b0-c9d7-4870-abdf-1be828cf94a7"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "1323123",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>12312321<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "color_scheme": "",
-        "border_item": true,
-        "url_target": "_self",
-        "navUI": false,
-        "dotUI": false,
-        "col_dk": "6",
-        "animated": "none",
-        "col_tb": "3",
-        "col_mb": "2",
-        "padding_top": 0,
-        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -787,12 +689,11 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "d81e394c-3467-4709-a303-1d274f42da41",
+    "testimonials_3_j4nTTT",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "5a75954e-0672-460a-9a96-1f07a182b8d7",
     "282a0160-505d-43ff-b601-043a5a327bc1",
     "622f5d6a-09b6-4b2d-ad46-6ded3943164b",
-    "testimonials_e3eK9e",
-    "51599d10-cb42-475f-a7c1-94de5836c125",
     "2114b9b3-c579-4b90-90d4-7c53d71f6449",
     "cef9818d-d174-4a85-935f-31cd9035f495"
   ]
