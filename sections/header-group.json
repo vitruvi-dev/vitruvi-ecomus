@@ -28,63 +28,6 @@
         "marquee_pause_when_hover": false
       }
     },
-    "header_e_commerce_Dh7GX6": {
-      "type": "header-e-commerce",
-      "blocks": {
-        "mega_shop_hGexz8": {
-          "type": "mega_shop",
-          "settings": {
-            "title": "Title",
-            "collection_list": [
-              "accessories",
-              "natural-air-freshener-single-sprays",
-              "all-products-no-filters",
-              "sale"
-            ],
-            "image_ratio": "adapt_image",
-            "image_size": true,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "full",
-            "mega_custom_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "mega_shop_hGexz8"
-      ],
-      "disabled": true,
-      "settings": {
-        "header_fullwidth": false,
-        "logo": "shopify:\/\/shop_images\/vitruvi-wordmark-black-medium.png",
-        "logo_width": 136,
-        "brand_transform": false,
-        "header_height": 68,
-        "header_colors": "",
-        "enabled_user": true,
-        "enabled_compare": false,
-        "enabled_wishlist": false,
-        "header_bottom_height": 60,
-        "lazy_mn": true,
-        "menu_position": "center",
-        "menu_size": "lg",
-        "menu_weight": "medium",
-        "text_transform": false,
-        "dropdown_arrow": false,
-        "active_link": false,
-        "spacing_nav": 30,
-        "open_event": "hover",
-        "header_menu_colors": "",
-        "header_border": "top_bottom",
-        "lazy_mn_mb": true,
-        "header_height_mb": 60,
-        "logo_width_mb": 130,
-        "only_click_icon": false,
-        "header_mobile_colors": "",
-        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base hdt-font-medium\" style=\"border-bottom: solid 1px rgb(var(--color-line-border));margin-bottom: 11px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base hdt-font-medium\" style=\"line-height: 24px;\"><span>Address: 1234 Fashion Street, Suite 567,<br> New York, NY 10001<\/span><span>Email: <b>info@fashionshop.com<\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
-        "sticky_type": "on_scroll_up"
-      }
-    },
     "header": {
       "type": "header-inline",
       "blocks": {
@@ -190,7 +133,6 @@
   },
   "order": [
     "announcement_bar_xypBPq",
-    "header_e_commerce_Dh7GX6",
     "header"
   ]
 }
