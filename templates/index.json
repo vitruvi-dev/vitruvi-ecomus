@@ -77,9 +77,7 @@
       "block_order": [
         "template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1"
       ],
-      "custom_css": [
-
-      ],
+      "disabled": true,
       "settings": {
         "space_item": 48,
         "speed": 0.1,

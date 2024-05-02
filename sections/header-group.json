@@ -2,6 +2,39 @@
   "type": "header",
   "name": "Header Group",
   "sections": {
+    "announcement_bar_xypBPq": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_RzCepp": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store"
+          }
+        },
+        "announcement_rNk66a": {
+          "type": "announcement",
+          "settings": {
+            "text": "The best shopify theme"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_RzCepp",
+        "announcement_rNk66a"
+      ],
+      "settings": {
+        "design": "slider",
+        "color_scheme": "",
+        "show_close_btn": true,
+        "show_line_separator": false,
+        "adding_border": false,
+        "au_time": 3.5,
+        "slider_pause_when_hover": false,
+        "speed": 0.3,
+        "direction": "rtl",
+        "marquee_pause_when_hover": false
+      }
+    },
     "header": {
       "type": "header-inline",
       "blocks": {
@@ -102,43 +135,10 @@
         "sticky_type": "on_scroll_up",
         "sticky_glass": false
       }
-    },
-    "announcement_bar_xypBPq": {
-      "type": "announcement-bar",
-      "blocks": {
-        "announcement_RzCepp": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store"
-          }
-        },
-        "announcement_rNk66a": {
-          "type": "announcement",
-          "settings": {
-            "text": "The best shopify theme"
-          }
-        }
-      },
-      "block_order": [
-        "announcement_RzCepp",
-        "announcement_rNk66a"
-      ],
-      "settings": {
-        "design": "slider",
-        "color_scheme": "",
-        "show_close_btn": true,
-        "show_line_separator": false,
-        "adding_border": false,
-        "au_time": 3.5,
-        "slider_pause_when_hover": false,
-        "speed": 0.3,
-        "direction": "rtl",
-        "marquee_pause_when_hover": false
-      }
     }
   },
   "order": [
-    "header",
-    "announcement_bar_xypBPq"
+    "announcement_bar_xypBPq",
+    "header"
   ]
 }
