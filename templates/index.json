@@ -669,41 +669,36 @@
             "product_item": ""
           }
         },
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-4": {
+        "gallery_item_tYmTPp": {
           "type": "gallery_item",
           "settings": {
-            "item_link": "",
-            "product_item": "shopper"
+            "image": "shopify:\/\/shop_images\/ugc_4_sahnndra_cloud-humidifier_oat_v2.jpg",
+            "item_link": "shopify:\/\/products\/cloud-humidifier",
+            "product_item": ""
           }
         },
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-3": {
+        "gallery_item_HjHmnE": {
           "type": "gallery_item",
           "settings": {
-            "item_link": "",
-            "product_item": "cotton-twill-cap"
+            "image": "shopify:\/\/shop_images\/ugc_6_carissavianca_diffuser-stone_suede.jpg",
+            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "product_item": ""
           }
         },
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-5": {
+        "gallery_item_VCqMjr": {
           "type": "gallery_item",
           "settings": {
-            "item_link": "",
-            "product_item": "campo-chromefree-leather"
-          }
-        },
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-2": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": "campo-chromefree-leather"
+            "image": "shopify:\/\/shop_images\/ugc_3_silchuknest_diffuser-stone_white.jpg",
+            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "product_item": ""
           }
         }
       },
       "block_order": [
         "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1",
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-4",
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-3",
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-5",
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-2"
+        "gallery_item_tYmTPp",
+        "gallery_item_HjHmnE",
+        "gallery_item_VCqMjr"
       ],
       "settings": {
         "heading_align": "center",
