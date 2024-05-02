@@ -1,6 +1,6 @@
 {
   "current": {
-    "purchase_code": "",
+    "purchase_code": "d73daf1c-7794-4014-a4fc-1b4c8797200b",
     "color_scheme_dialog": "scheme-1",
     "color_accent": "#db1215",
     "color_focus": "#d53a3d",
@@ -181,7 +181,8 @@
           },
           "ae2f8f42-c195-4bd9-99c3-d52095ce0902": {
             "type": "2",
-            "settings": {}
+            "settings": {
+            }
           }
         },
         "block_order": [
@@ -209,7 +210,8 @@
         "blocks": {
           "cb3a1a9a-4fd5-4372-aef2-be6126703c9c": {
             "type": "basic",
-            "settings": {}
+            "settings": {
+            }
           },
           "cc33d131-be49-46d9-bb5f-0b5fc20f5f1d": {
             "type": "availability",
@@ -253,7 +255,9 @@
         }
       }
     },
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "color_schemes": {
       "scheme-1": {
         "settings": {

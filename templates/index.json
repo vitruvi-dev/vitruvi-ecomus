@@ -1,1 +1,766 @@
-{"sections":{"c28ddbdb-d0df-4b86-9b0a-674df42ecc5c":{"type":"slideshow","blocks":{"742a3693-7d5d-4e92-914c-270e1d777d11":{"type":"slide_base","settings":{"image":"shopify:\/\/shop_images\/001fashion-slideshow-01.jpg","image_mb":"shopify:\/\/shop_images\/001fashion-slideshow-01.jpg","url":"","banner_target":false,"color_scheme":"scheme-1","heading":"Glamorous <br>Glam","heading_fs":"h1","heading_fw":"normal","sub_heading":"From casual to formal, we've got you covered","sub_heading_fs":"h6","sub_heading_fw":"normal","btn_label":"Shop collection","btn_link":"shopify:\/\/collections\/frontpage","target":false,"btn_size":"xl","btn_style":"solid","btn_fw":"medium","btn_icon":"1","content_position":"center-start","alignment":"left","hide_subtext_mb":true,"content_position_mb":"center-start","alignment_mb":"left"}},"a75fa7c6-f347-4c0b-8db4-81eb7b6c2c9f":{"type":"slide_base","settings":{"image":"shopify:\/\/shop_images\/001fashion-slideshow-02.jpg","url":"","banner_target":false,"color_scheme":"scheme-1","heading":"Simple <br class=\"hdt-hidden md:hdt-block\">Style","heading_fs":"h1","heading_fw":"normal","sub_heading":"From casual to formal, we've got you covered","sub_heading_fs":"h6","sub_heading_fw":"normal","btn_label":"Shop collection","btn_link":"shopify:\/\/collections\/frontpage","target":false,"btn_size":"xl","btn_style":"solid","btn_fw":"medium","btn_icon":"1","content_position":"center-start","alignment":"left","hide_subtext_mb":true,"content_position_mb":"center-start","alignment_mb":"left"}},"913c17cf-d084-4946-bcfd-30a96e29f8e2":{"type":"slide_base","settings":{"image":"shopify:\/\/shop_images\/001fashion-slideshow-03.jpg","url":"","banner_target":false,"color_scheme":"scheme-1","heading":"Discreet  <br>style","heading_fs":"h1","heading_fw":"normal","sub_heading":"From casual to formal, we've got you covered","sub_heading_fs":"h6","sub_heading_fw":"normal","btn_label":"Shop collection","btn_link":"shopify:\/\/collections\/frontpage","target":false,"btn_size":"xl","btn_style":"solid","btn_fw":"medium","btn_icon":"1","content_position":"center-start","alignment":"left","hide_subtext_mb":true,"content_position_mb":"center-start","alignment_mb":"left"}}},"block_order":["742a3693-7d5d-4e92-914c-270e1d777d11","a75fa7c6-f347-4c0b-8db4-81eb7b6c2c9f","913c17cf-d084-4946-bcfd-30a96e29f8e2"],"custom_css":[".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}"],"settings":{"full_width":true,"item_round":"rounded","image_height":"adapt_image","fixed_height":860,"image_height_mb":"fixed","fixed_height_mb":450,"color_scheme":"","loop":true,"auto_play":0,"pause_hover":false,"navUI":false,"dotUI":true,"dot_style":"bg_active","dot_direction":"horizontal","dot_align":"center","dot_space":57,"padding_top":0,"padding_bottom":0,"padding_rate":75}},"25d95633-b21f-43fa-90ad-eef09163772b":{"type":"marquee","blocks":{"template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1":{"type":"item","settings":{"text":"<p>Spring Clearance Event: Save Up to 70%<\/p>","icon_svg":"flash","custom_svg":"","icon_width":18,"icon_width_mb":14}}},"block_order":["template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1"],"custom_css":[],"settings":{"space_item":48,"speed":0.3,"direction":"rtl","marquee_pause_when_hover":true,"text_fs":"h5","text_fw":"normal","adding_border":true,"icon_position_between":false,"color_scheme":"scheme-4f7d5921-8567-40ac-8211-ef87792674d6","padding_top":31,"padding_bottom":31,"padding_rate":75}},"282a0160-505d-43ff-b601-043a5a327bc2":{"type":"collections-list","blocks":{"template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1":{"type":"collection_item","settings":{"collection":"frontpage","image":"shopify:\/\/shop_images\/cate1_b88e3840-6968-463e-813c-2fd50a66faf9.jpg","title":"Clothing","collection_link":""}},"template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2":{"type":"collection_item","settings":{"collection":"fashion-accessories","image":"shopify:\/\/shop_images\/cate2.jpg","title":"Sunglasses","collection_link":""}},"4fb04760-f15f-40fb-9566-65e01d74325b":{"type":"collection_item","settings":{"collection":"handbag","image":"shopify:\/\/shop_images\/cate3_5a91e60c-3356-4035-8640-4b36a3f989fe.jpg","title":"Bags","collection_link":""}},"64391ffc-c043-4f35-a51e-da90b7143a42":{"type":"collection_item","settings":{"collection":"mens-fashion","image":"shopify:\/\/shop_images\/cate5_9dccfd49-4b19-4a24-9ed7-d402feadf5a6.jpg","title":"Fashion","collection_link":""}},"72a99e49-16d6-4138-83a1-4f452229667b":{"type":"collection_item","settings":{"collection":"fashion-accessories","image":"shopify:\/\/shop_images\/cate6.jpg","title":"Accessories","collection_link":""}},"666bec38-cee5-4282-94d2-8eadd2c4dbd0":{"type":"view_all","settings":{"title":"Discovery <br>all new items","item_link":"shopify:\/\/collections"}}},"block_order":["template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1","template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2","4fb04760-f15f-40fb-9566-65e01d74325b","64391ffc-c043-4f35-a51e-da90b7143a42","72a99e49-16d6-4138-83a1-4f452229667b","666bec38-cee5-4282-94d2-8eadd2c4dbd0"],"custom_css":[".hdt-sec-heading {font-weight: 700;}"],"settings":{"heading_align":"hdt-align-center","sec_heading":"SHOP BY CATEGORIES","heading_tag":"h3","heading_size":"text-lg","sec_subheading":"","subheading_size":"hdt-text-base","btn_heading_collection":false,"sec_heading_spacing":33,"collection_list":[],"collection_des":"1","content_size":"xl","content_weight":"medium","text_transform":false,"content_position":"end-start","content_padding":30,"image_ratio":"asos","image_size":true,"col_dk":"3","col_tb":"2","col_mb":"2","space_items":"x","half_item":false,"navUI":true,"nav_des":"outline","nav_pos":"ontop_left","dotUI":false,"dots_pos":"ontop","section_fullwidth":true,"boxed_fullwidth":true,"color_scheme":"scheme-2","padding_top":56,"padding_bottom":100,"padding_rate":60}},"d81e394c-3467-4709-a303-1d274f42da41":{"type":"featured-collection-grid","custom_css":[".hdt-collection-products {--spacing-y: 30px;}",".hdt-view-all-btn {letter-spacing: 0.1px;}","@media (min-width: 768px) {.hdt-collection-products {--spacing-y: 50px; }}","@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}"],"settings":{"heading_align":"center","sec_heading":"Best Seller","heading_tag":"h3","heading_size":"h4","sec_subheading":"<p>Shop the Latest Styles: Stay ahead of the curve with our newest arrivals<\/p>","heading_reverse":false,"sec_heading_spacing":63,"collection":"frontpage","product_list":[],"product_des":"1","image_ratio":"custom-pr","image_size":true,"show_vendor":false,"pr_border":"none","products_count":8,"col_dk":"4","col_tb":"3","col_mb":"2","pagination_type":"load_more","paginate_pos":"center","dis_pagination":80,"btn_label":"Load more","btn_style":"outline","btn_fw":"semibold","section_fullwidth":false,"boxed_fullwidth":false,"color_scheme":"scheme-2","padding_top":0,"padding_bottom":76,"padding_rate":50}},"5a75954e-0672-460a-9a96-1f07a182b8d7":{"type":"lookbook-carousel","blocks":{"6edb3aab-1d14-4f47-9430-cade7305ef94":{"type":"lookbook_item","settings":{"image":"shopify:\/\/shop_images\/lookbook3.jpg","product":"wild-one-triangle-tug","pos_top":63,"pos_left":45,"product1":"ribbed-tank-top","pos_top1":90,"pos_left1":62,"product2":"","pos_top2":50,"pos_left2":50,"product3":"","pos_top3":50,"pos_left3":50}},"5126238c-4a21-46ad-b07e-17524e535f60":{"type":"lookbook_item","settings":{"image":"shopify:\/\/shop_images\/lookbook4.jpg","product":"stillkissen-rosa","pos_top":20,"pos_left":58,"product1":"","pos_top1":50,"pos_left1":50,"product2":"","pos_top2":50,"pos_left2":50,"product3":"","pos_top3":50,"pos_left3":50}}},"block_order":["6edb3aab-1d14-4f47-9430-cade7305ef94","5126238c-4a21-46ad-b07e-17524e535f60"],"settings":{"top_heading":"Shop the look","heading_tag":"h4","top_description":"Inspire and let yourself be inspired, from one unique fashion to another.","margin-heading_bottom":60,"image_ratio":"adapt_image","item_show":"2","color_scheme":"scheme-2","placement":"top","navigate_style":"normal","navUI":true,"dotUI":false,"padding_top":40,"padding_bottom":100,"padding_rate":75}},"282a0160-505d-43ff-b601-043a5a327bc1":{"type":"collections-list","blocks":{"template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1":{"type":"collection_item","settings":{"collection":"fashion-accessories","image":"shopify:\/\/shop_images\/cate2_38fd3330-5d0d-4fe2-8bde-a3ebe0e50891.jpg","title":"Accessories Galore","collection_link":""}},"template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2":{"type":"collection_item","settings":{"collection":"womens-fashion","image":"shopify:\/\/shop_images\/lookbook2.jpg","title":"Statement Pieces","collection_link":""}}},"block_order":["template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1","template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2"],"disabled":true,"settings":{"heading_align":"hdt-align-center","sec_heading":"","heading_tag":"h3","heading_size":"h4","sec_subheading":"","subheading_size":"hdt-text-base","btn_heading_collection":false,"sec_heading_spacing":30,"collection_list":[],"collection_des":"8","content_size":"10xl","content_weight":"normal","text_transform":false,"content_position":"end-center","content_padding":30,"image_ratio":"adapt_image","image_size":true,"col_dk":"2","col_tb":"2","col_mb":"1","space_items":"x","half_item":false,"navUI":false,"nav_des":"default","nav_pos":"middle_out","dotUI":true,"dots_pos":"default","section_fullwidth":true,"boxed_fullwidth":true,"color_scheme":"","padding_top":10,"padding_bottom":80,"padding_rate":75}},"622f5d6a-09b6-4b2d-ad46-6ded3943164b":{"type":"testimonials","blocks":{"template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-1":{"type":"quote","settings":{"heading":"Best Online Fashion Site","content":"<p>“I always find something stylish and affordable on this web fashion site”<\/p>","author":"Robert smith","pos":"Customer from USA","enable_verify":false,"product":"jersey-thong-body","rating":5}},"template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-3":{"type":"quote","settings":{"heading":"Great Selection and Quality","content":"<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>","author":"Allen Lyn","pos":"Customer from Fance","enable_verify":false,"product":"cotton-jersey-top","rating":5}},"template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-2":{"type":"quote","settings":{"heading":"Best Customer Service","content":"<p>\"I finally found a web fashion site with stylish and flattering options in my size.\"<\/p>","author":"Peter Rope","pos":"Customer from USA","enable_verify":false,"product":"ribbed-modal-t-shirt","rating":5}},"4ea4d3a7-2225-4775-ab9a-7b1fbc65a543":{"type":"quote","settings":{"heading":"Great Selection and Quality","content":"<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>","author":"Hellen Ase","pos":"Customer from Japan","enable_verify":false,"product":"ribbed-tank-top","rating":5}}},"block_order":["template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-1","template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-3","template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-2","4ea4d3a7-2225-4775-ab9a-7b1fbc65a543"],"settings":{"heading_align":"center","top_heading":"Happy Clients","heading_tag":"h4","heading_size":"h4","top_description":"<p>Hear what they say about us<\/p>","subheading_size":"hdt-text-lg","margin-heading_bottom":55,"content_align":"start","testimonial_des":"1","col_dk":"3","col_tb":"2","col_mb":"1","navUI":true,"nav_pos":"middle_out","nav_des":"outline","dotUI":false,"dis_dot":30,"color_scheme":"scheme-2","pr_rating":"#ff7b54","section_fullwidth":false,"padding_top":0,"padding_bottom":76,"padding_rate":75}},"51599d10-cb42-475f-a7c1-94de5836c125":{"type":"brands","blocks":{"8496afbb-ac5f-45e9-9a97-3a029a021740":{"type":"brand_item","settings":{"image":"shopify:\/\/shop_images\/001fashion-brand-01.png","url":""}},"a629936d-b7a2-4878-97d9-260ca38ef6c7":{"type":"brand_item","settings":{"image":"shopify:\/\/shop_images\/001fashion-brand-06.png","url":""}},"882363d3-17d8-4284-b6a9-bdbf19bb4bcc":{"type":"brand_item","settings":{"image":"shopify:\/\/shop_images\/001fashion-brand-02.png","url":""}},"49988bf6-4a94-45cb-b991-dd419c0665e2":{"type":"brand_item","settings":{"image":"shopify:\/\/shop_images\/001fashion-brand-03.png","url":""}},"770d8d89-30f6-4f19-a7da-371a94b98424":{"type":"brand_item","settings":{"image":"shopify:\/\/shop_images\/001fashion-brand-05.png","url":""}},"e18b07b0-c9d7-4870-abdf-1be828cf94a7":{"type":"brand_item","settings":{"image":"shopify:\/\/shop_images\/001fashion-brand-04.png","url":""}}},"block_order":["8496afbb-ac5f-45e9-9a97-3a029a021740","a629936d-b7a2-4878-97d9-260ca38ef6c7","882363d3-17d8-4284-b6a9-bdbf19bb4bcc","49988bf6-4a94-45cb-b991-dd419c0665e2","770d8d89-30f6-4f19-a7da-371a94b98424","e18b07b0-c9d7-4870-abdf-1be828cf94a7"],"custom_css":[],"settings":{"top_heading":"","heading_tag":"h3","heading_size":"h4","top_description":"","color_scheme":"","margin-heading_bottom":0,"border_item":true,"url_target":"_self","navUI":false,"dotUI":false,"col_dk":"6","animated":"none","col_tb":"3","col_mb":"2","padding_top":0,"padding_bottom":80,"padding_rate":75}},"2114b9b3-c579-4b90-90d4-7c53d71f6449":{"type":"image-gallery","blocks":{"template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1":{"type":"gallery_item","settings":{"image":"shopify:\/\/shop_images\/im1.jpg","item_link":"","product_item":"tula-explore-babytrage"}},"template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-4":{"type":"gallery_item","settings":{"image":"shopify:\/\/shop_images\/im2.jpg","item_link":"","product_item":"shopper"}},"template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-3":{"type":"gallery_item","settings":{"image":"shopify:\/\/shop_images\/im3.jpg","item_link":"","product_item":"cotton-twill-cap"}},"template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-5":{"type":"gallery_item","settings":{"image":"shopify:\/\/shop_images\/im4.jpg","item_link":"","product_item":"campo-chromefree-leather"}},"template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-2":{"type":"gallery_item","settings":{"image":"shopify:\/\/shop_images\/im5.jpg","item_link":"","product_item":"campo-chromefree-leather"}}},"block_order":["template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1","template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-4","template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-3","template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-5","template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-2"],"settings":{"sec_heading":"Shop Gram","heading_size":"h4","sec_subheading":"<p>Inspire and let yourself be inspired, from one unique fashion to another.<\/p>","subheading_size":"lg","sec_heading_spacing":60,"image_ratio":"square","image_size":true,"col_dk":"5","col_tb":"3","col_mb":"2","spacing_items":7,"navUI":false,"nav_des":"default","dotUI":true,"dots_pos":"outline","section_fullwidth":false,"boxed_fullwidth":false,"color_scheme":"scheme-2","padding_top":0,"padding_bottom":60,"padding_rate":75}},"cef9818d-d174-4a85-935f-31cd9035f495":{"type":"icon-box","blocks":{"template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-1":{"type":"item","settings":{"icon_svg":"box","custom_svg":"","icon_width":30,"icon_width_mb":30,"link":"","open_link":false,"title":"Free Shipping","content":"<p>You will love at great low prices<\/p>","adding_border":false}},"template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-2":{"type":"item","settings":{"icon_svg":"payment","custom_svg":"","icon_width":30,"icon_width_mb":30,"link":"","open_link":false,"title":"Flexible Payment","content":"<p>Pay with Multiple Credit Cards<\/p>","adding_border":false}},"template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3":{"type":"item","settings":{"icon_svg":"return","custom_svg":"","icon_width":30,"icon_width_mb":30,"link":"","open_link":false,"title":"14 Day Returns","content":"<p>Within 30 days for an exchange<\/p>","adding_border":false}},"template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4":{"type":"item","settings":{"icon_svg":"support","custom_svg":"","icon_width":30,"icon_width_mb":30,"link":"","open_link":false,"title":"Premium Support","content":"<p>Outstanding premium support<\/p>","adding_border":false}}},"block_order":["template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-1","template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-2","template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3","template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4"],"custom_css":[".hdt-icon-box__title {font-weight: 500;}"],"settings":{"heading_align":"center","sec_heading":"","heading_tag":"h3","heading_size":"h4","heading_weight":"normal","sec_subheading":"","subheading_size":"hdt-text-base","heading_reverse":false,"sec_heading_spacing":30,"icon_pos_center":true,"icon_pos_center_mb":true,"icon_circle":false,"space_icon_heading":"medium","size_heading":"medium","heading_uppercase":false,"space_heading_content":"small","col_dk":"4","col_tb":"2","col_mb":"1","carousel_mobile":true,"border_style":"1","fullwidth":true,"boxed_fullwidth":false,"color_scheme":"scheme-2","padding_top":0,"padding_bottom":60,"padding_rate":75}}},"order":["c28ddbdb-d0df-4b86-9b0a-674df42ecc5c","25d95633-b21f-43fa-90ad-eef09163772b","282a0160-505d-43ff-b601-043a5a327bc2","d81e394c-3467-4709-a303-1d274f42da41","5a75954e-0672-460a-9a96-1f07a182b8d7","282a0160-505d-43ff-b601-043a5a327bc1","622f5d6a-09b6-4b2d-ad46-6ded3943164b","51599d10-cb42-475f-a7c1-94de5836c125","2114b9b3-c579-4b90-90d4-7c53d71f6449","cef9818d-d174-4a85-935f-31cd9035f495"]}
+{
+  "sections": {
+    "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
+      "type": "slideshow",
+      "blocks": {
+        "742a3693-7d5d-4e92-914c-270e1d777d11": {
+          "type": "slide_base",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-slideshow-01.jpg",
+            "image_mb": "shopify:\/\/shop_images\/001fashion-slideshow-01.jpg",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "scheme-1",
+            "heading": "Glamorous <br>Glam",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "From casual to formal, we've got you covered",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/frontpage",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "content_position": "center-start",
+            "alignment": "left",
+            "hide_subtext_mb": true,
+            "content_position_mb": "center-start",
+            "alignment_mb": "left"
+          }
+        },
+        "a75fa7c6-f347-4c0b-8db4-81eb7b6c2c9f": {
+          "type": "slide_base",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-slideshow-02.jpg",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "scheme-1",
+            "heading": "Simple <br class=\"hdt-hidden md:hdt-block\">Style",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "From casual to formal, we've got you covered",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/frontpage",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "content_position": "center-start",
+            "alignment": "left",
+            "hide_subtext_mb": true,
+            "content_position_mb": "center-start",
+            "alignment_mb": "left"
+          }
+        },
+        "913c17cf-d084-4946-bcfd-30a96e29f8e2": {
+          "type": "slide_base",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-slideshow-03.jpg",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "scheme-1",
+            "heading": "Discreet  <br>style",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "From casual to formal, we've got you covered",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/frontpage",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "content_position": "center-start",
+            "alignment": "left",
+            "hide_subtext_mb": true,
+            "content_position_mb": "center-start",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "742a3693-7d5d-4e92-914c-270e1d777d11",
+        "a75fa7c6-f347-4c0b-8db4-81eb7b6c2c9f",
+        "913c17cf-d084-4946-bcfd-30a96e29f8e2"
+      ],
+      "custom_css": [
+        ".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}"
+      ],
+      "settings": {
+        "full_width": true,
+        "item_round": "rounded",
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "color_scheme": "",
+        "loop": true,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": true,
+        "dot_style": "bg_active",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 57,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "25d95633-b21f-43fa-90ad-eef09163772b": {
+      "type": "marquee",
+      "blocks": {
+        "template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Spring Clearance Event: Save Up to 70%<\/p>",
+            "icon_svg": "flash",
+            "custom_svg": "",
+            "icon_width": 18,
+            "icon_width_mb": 14
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "space_item": 48,
+        "speed": 0.3,
+        "direction": "rtl",
+        "marquee_pause_when_hover": true,
+        "text_fs": "h5",
+        "text_fw": "normal",
+        "adding_border": true,
+        "icon_position_between": false,
+        "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d6",
+        "padding_top": 31,
+        "padding_bottom": 31,
+        "padding_rate": 75
+      }
+    },
+    "282a0160-505d-43ff-b601-043a5a327bc2": {
+      "type": "collections-list",
+      "blocks": {
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "frontpage",
+            "image": "shopify:\/\/shop_images\/cate1_b88e3840-6968-463e-813c-2fd50a66faf9.jpg",
+            "title": "Clothing",
+            "collection_link": ""
+          }
+        },
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "fashion-accessories",
+            "image": "shopify:\/\/shop_images\/cate2.jpg",
+            "title": "Sunglasses",
+            "collection_link": ""
+          }
+        },
+        "4fb04760-f15f-40fb-9566-65e01d74325b": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "handbag",
+            "image": "shopify:\/\/shop_images\/cate3_5a91e60c-3356-4035-8640-4b36a3f989fe.jpg",
+            "title": "Bags",
+            "collection_link": ""
+          }
+        },
+        "64391ffc-c043-4f35-a51e-da90b7143a42": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "mens-fashion",
+            "image": "shopify:\/\/shop_images\/cate5_9dccfd49-4b19-4a24-9ed7-d402feadf5a6.jpg",
+            "title": "Fashion",
+            "collection_link": ""
+          }
+        },
+        "72a99e49-16d6-4138-83a1-4f452229667b": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "fashion-accessories",
+            "image": "shopify:\/\/shop_images\/cate6.jpg",
+            "title": "Accessories",
+            "collection_link": ""
+          }
+        },
+        "666bec38-cee5-4282-94d2-8eadd2c4dbd0": {
+          "type": "view_all",
+          "settings": {
+            "title": "Discovery <br>all new items",
+            "item_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1",
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2",
+        "4fb04760-f15f-40fb-9566-65e01d74325b",
+        "64391ffc-c043-4f35-a51e-da90b7143a42",
+        "72a99e49-16d6-4138-83a1-4f452229667b",
+        "666bec38-cee5-4282-94d2-8eadd2c4dbd0"
+      ],
+      "custom_css": [
+        ".hdt-sec-heading {font-weight: 700;}"
+      ],
+      "settings": {
+        "heading_align": "hdt-align-center",
+        "sec_heading": "SHOP BY CATEGORIES",
+        "heading_tag": "h3",
+        "heading_size": "text-lg",
+        "sec_subheading": "",
+        "subheading_size": "hdt-text-base",
+        "btn_heading_collection": false,
+        "sec_heading_spacing": 33,
+        "collection_list": [
+
+        ],
+        "collection_des": "1",
+        "content_size": "xl",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "end-start",
+        "content_padding": 30,
+        "image_ratio": "asos",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "2",
+        "space_items": "x",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "ontop_left",
+        "dotUI": false,
+        "dots_pos": "ontop",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "scheme-2",
+        "padding_top": 56,
+        "padding_bottom": 100,
+        "padding_rate": 60
+      }
+    },
+    "d81e394c-3467-4709-a303-1d274f42da41": {
+      "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-collection-products {--spacing-y: 30px;}",
+        ".hdt-view-all-btn {letter-spacing: 0.1px;}",
+        "@media (min-width: 768px) {.hdt-collection-products {--spacing-y: 50px; }}",
+        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Best Seller",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Shop the Latest Styles: Stay ahead of the curve with our newest arrivals<\/p>",
+        "heading_reverse": false,
+        "sec_heading_spacing": 63,
+        "collection": "frontpage",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "custom-pr",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "pagination_type": "load_more",
+        "paginate_pos": "center",
+        "dis_pagination": 80,
+        "btn_label": "Load more",
+        "btn_style": "outline",
+        "btn_fw": "semibold",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 76,
+        "padding_rate": 50
+      }
+    },
+    "5a75954e-0672-460a-9a96-1f07a182b8d7": {
+      "type": "lookbook-carousel",
+      "blocks": {
+        "6edb3aab-1d14-4f47-9430-cade7305ef94": {
+          "type": "lookbook_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lookbook3.jpg",
+            "product": "wild-one-triangle-tug",
+            "pos_top": 63,
+            "pos_left": 45,
+            "product1": "ribbed-tank-top",
+            "pos_top1": 90,
+            "pos_left1": 62,
+            "product2": "",
+            "pos_top2": 50,
+            "pos_left2": 50,
+            "product3": "",
+            "pos_top3": 50,
+            "pos_left3": 50
+          }
+        },
+        "5126238c-4a21-46ad-b07e-17524e535f60": {
+          "type": "lookbook_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lookbook4.jpg",
+            "product": "stillkissen-rosa",
+            "pos_top": 20,
+            "pos_left": 58,
+            "product1": "",
+            "pos_top1": 50,
+            "pos_left1": 50,
+            "product2": "",
+            "pos_top2": 50,
+            "pos_left2": 50,
+            "product3": "",
+            "pos_top3": 50,
+            "pos_left3": 50
+          }
+        }
+      },
+      "block_order": [
+        "6edb3aab-1d14-4f47-9430-cade7305ef94",
+        "5126238c-4a21-46ad-b07e-17524e535f60"
+      ],
+      "settings": {
+        "heading_tag": "h4",
+        "image_ratio": "adapt_image",
+        "item_show": "2",
+        "color_scheme": "scheme-2",
+        "placement": "top",
+        "navigate_style": "normal",
+        "navUI": true,
+        "dotUI": false,
+        "padding_top": 40,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "282a0160-505d-43ff-b601-043a5a327bc1": {
+      "type": "collections-list",
+      "blocks": {
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "fashion-accessories",
+            "image": "shopify:\/\/shop_images\/cate2_38fd3330-5d0d-4fe2-8bde-a3ebe0e50891.jpg",
+            "title": "Accessories Galore",
+            "collection_link": ""
+          }
+        },
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "womens-fashion",
+            "image": "shopify:\/\/shop_images\/lookbook2.jpg",
+            "title": "Statement Pieces",
+            "collection_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1",
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading_align": "hdt-align-center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "hdt-text-base",
+        "btn_heading_collection": false,
+        "sec_heading_spacing": 30,
+        "collection_list": [
+
+        ],
+        "collection_des": "8",
+        "content_size": "10xl",
+        "content_weight": "normal",
+        "text_transform": false,
+        "content_position": "end-center",
+        "content_padding": 30,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "col_dk": "2",
+        "col_tb": "2",
+        "col_mb": "1",
+        "space_items": "x",
+        "half_item": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_out",
+        "dotUI": true,
+        "dots_pos": "default",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 10,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "622f5d6a-09b6-4b2d-ad46-6ded3943164b": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-1": {
+          "type": "quote",
+          "settings": {
+            "heading": "Best Online Fashion Site",
+            "content": "<p>“I always find something stylish and affordable on this web fashion site”<\/p>",
+            "author": "Robert smith",
+            "pos": "Customer from USA",
+            "enable_verify": false,
+            "product": "jersey-thong-body",
+            "rating": 5
+          }
+        },
+        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-3": {
+          "type": "quote",
+          "settings": {
+            "heading": "Great Selection and Quality",
+            "content": "<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>",
+            "author": "Allen Lyn",
+            "pos": "Customer from Fance",
+            "enable_verify": false,
+            "product": "cotton-jersey-top",
+            "rating": 5
+          }
+        },
+        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-2": {
+          "type": "quote",
+          "settings": {
+            "heading": "Best Customer Service",
+            "content": "<p>\"I finally found a web fashion site with stylish and flattering options in my size.\"<\/p>",
+            "author": "Peter Rope",
+            "pos": "Customer from USA",
+            "enable_verify": false,
+            "product": "ribbed-modal-t-shirt",
+            "rating": 5
+          }
+        },
+        "4ea4d3a7-2225-4775-ab9a-7b1fbc65a543": {
+          "type": "quote",
+          "settings": {
+            "heading": "Great Selection and Quality",
+            "content": "<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>",
+            "author": "Hellen Ase",
+            "pos": "Customer from Japan",
+            "enable_verify": false,
+            "product": "ribbed-tank-top",
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-1",
+        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-3",
+        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-2",
+        "4ea4d3a7-2225-4775-ab9a-7b1fbc65a543"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "subheading_size": "hdt-text-lg",
+        "content_align": "start",
+        "testimonial_des": "1",
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "1",
+        "navUI": true,
+        "nav_pos": "middle_out",
+        "nav_des": "outline",
+        "dotUI": false,
+        "dis_dot": 30,
+        "color_scheme": "scheme-2",
+        "pr_rating": "#ff7b54",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "51599d10-cb42-475f-a7c1-94de5836c125": {
+      "type": "brands",
+      "blocks": {
+        "8496afbb-ac5f-45e9-9a97-3a029a021740": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-brand-01.png",
+            "url": ""
+          }
+        },
+        "a629936d-b7a2-4878-97d9-260ca38ef6c7": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-brand-06.png",
+            "url": ""
+          }
+        },
+        "882363d3-17d8-4284-b6a9-bdbf19bb4bcc": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-brand-02.png",
+            "url": ""
+          }
+        },
+        "49988bf6-4a94-45cb-b991-dd419c0665e2": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-brand-03.png",
+            "url": ""
+          }
+        },
+        "770d8d89-30f6-4f19-a7da-371a94b98424": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-brand-05.png",
+            "url": ""
+          }
+        },
+        "e18b07b0-c9d7-4870-abdf-1be828cf94a7": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/001fashion-brand-04.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "8496afbb-ac5f-45e9-9a97-3a029a021740",
+        "a629936d-b7a2-4878-97d9-260ca38ef6c7",
+        "882363d3-17d8-4284-b6a9-bdbf19bb4bcc",
+        "49988bf6-4a94-45cb-b991-dd419c0665e2",
+        "770d8d89-30f6-4f19-a7da-371a94b98424",
+        "e18b07b0-c9d7-4870-abdf-1be828cf94a7"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "color_scheme": "",
+        "border_item": true,
+        "url_target": "_self",
+        "navUI": false,
+        "dotUI": false,
+        "col_dk": "6",
+        "animated": "none",
+        "col_tb": "3",
+        "col_mb": "2",
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "2114b9b3-c579-4b90-90d4-7c53d71f6449": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/im1.jpg",
+            "item_link": "",
+            "product_item": "tula-explore-babytrage"
+          }
+        },
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-4": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/im2.jpg",
+            "item_link": "",
+            "product_item": "shopper"
+          }
+        },
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-3": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/im3.jpg",
+            "item_link": "",
+            "product_item": "cotton-twill-cap"
+          }
+        },
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-5": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/im4.jpg",
+            "item_link": "",
+            "product_item": "campo-chromefree-leather"
+          }
+        },
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-2": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/im5.jpg",
+            "item_link": "",
+            "product_item": "campo-chromefree-leather"
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1",
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-4",
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-3",
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-5",
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-2"
+      ],
+      "settings": {
+        "sec_heading": "Shop Gram",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Inspire and let yourself be inspired, from one unique fashion to another.<\/p>",
+        "subheading_size": "lg",
+        "sec_heading_spacing": 60,
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "spacing_items": 7,
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": true,
+        "dots_pos": "outline",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
+    "cef9818d-d174-4a85-935f-31cd9035f495": {
+      "type": "icon-box",
+      "blocks": {
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-1": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Free Shipping",
+            "content": "<p>You will love at great low prices<\/p>",
+            "adding_border": false
+          }
+        },
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-2": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "payment",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Flexible Payment",
+            "content": "<p>Pay with Multiple Credit Cards<\/p>",
+            "adding_border": false
+          }
+        },
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "return",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "14 Day Returns",
+            "content": "<p>Within 30 days for an exchange<\/p>",
+            "adding_border": false
+          }
+        },
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Premium Support",
+            "content": "<p>Outstanding premium support<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-1",
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-2",
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3",
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4"
+      ],
+      "custom_css": [
+        ".hdt-icon-box__title {font-weight: 500;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "hdt-text-base",
+        "heading_reverse": false,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "1",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "25d95633-b21f-43fa-90ad-eef09163772b",
+    "282a0160-505d-43ff-b601-043a5a327bc2",
+    "d81e394c-3467-4709-a303-1d274f42da41",
+    "5a75954e-0672-460a-9a96-1f07a182b8d7",
+    "282a0160-505d-43ff-b601-043a5a327bc1",
+    "622f5d6a-09b6-4b2d-ad46-6ded3943164b",
+    "51599d10-cb42-475f-a7c1-94de5836c125",
+    "2114b9b3-c579-4b90-90d4-7c53d71f6449",
+    "cef9818d-d174-4a85-935f-31cd9035f495"
+  ]
+}
