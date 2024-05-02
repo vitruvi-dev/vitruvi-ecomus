@@ -187,15 +187,6 @@
             "author": "Architectural Digest"
           }
         },
-        "quote_BCQy7e": {
-          "type": "quote",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/removal.ai__839eb00c-a03e-4931-9930-f06e40fb7974-new-york-times-logopng-new-york-times-logo-png-1500_1500.png",
-            "heading": "",
-            "content": "<p>\"We recommend the Vitruvi Stone Diffuser...the best choice if you want to run it while you’re sleeping\"<\/p>",
-            "author": "The Wirecutter | New York Times"
-          }
-        },
         "quote_e9fWFr": {
           "type": "quote",
           "settings": {
@@ -203,6 +194,15 @@
             "heading": "",
             "content": "<p>“The world’s chicest diffuser.”<\/p>",
             "author": "Who What Wear"
+          }
+        },
+        "quote_BCQy7e": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/removal.ai__839eb00c-a03e-4931-9930-f06e40fb7974-new-york-times-logopng-new-york-times-logo-png-1500_1500.png",
+            "heading": "",
+            "content": "<p>\"We recommend the Vitruvi Stone Diffuser...the best choice if you want to run it while you’re sleeping\"<\/p>",
+            "author": "The Wirecutter | New York Times"
           }
         },
         "quote_WyLKV4": {
@@ -217,8 +217,8 @@
       },
       "block_order": [
         "quote_EDf3LR",
-        "quote_BCQy7e",
         "quote_e9fWFr",
+        "quote_BCQy7e",
         "quote_WyLKV4"
       ],
       "settings": {
