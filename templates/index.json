@@ -325,9 +325,9 @@
         "collection_list": [
 
         ],
-        "collection_des": "1",
-        "content_size": "xl",
-        "content_weight": "medium",
+        "collection_des": "8",
+        "content_size": "2xl",
+        "content_weight": "normal",
         "text_transform": false,
         "content_position": "end-start",
         "content_padding": 30,
@@ -397,6 +397,7 @@
         "collection_item_jm467N",
         "view_all_pAmnHz"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -414,8 +415,8 @@
         "collection_list": [
 
         ],
-        "collection_des": "1",
-        "content_size": "xl",
+        "collection_des": "8",
+        "content_size": "base",
         "content_weight": "medium",
         "text_transform": false,
         "content_position": "end-start",
