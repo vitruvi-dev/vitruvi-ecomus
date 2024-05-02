@@ -110,7 +110,7 @@
         "menu_weight": "medium",
         "text_transform": false,
         "dropdown_arrow": true,
-        "active_link": false,
+        "active_link": true,
         "spacing_nav": 32,
         "open_event": "hover",
         "header_menu_colors": "",
