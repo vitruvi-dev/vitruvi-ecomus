@@ -142,6 +142,39 @@
         "padding_rate": 50
       }
     },
+    "top_heading_EyAW7j": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_WezFEQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "★★★★★",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_jinipG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "14,000+ 5 Star Reviews",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WezFEQ",
+        "sub_heading_jinipG"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "scheme-4a2da587-4cb4-4de4-a833-b6e068c30a6f",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "testimonials_3_Gf4Tfd": {
       "type": "testimonials-3",
       "blocks": {
@@ -190,7 +223,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "14,000+ 5 star reviews",
+        "sec_heading": "",
         "heading_tag": "h3",
         "heading_size": "h3",
         "sec_subheading": "",
@@ -759,6 +792,7 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "d81e394c-3467-4709-a303-1d274f42da41",
+    "top_heading_EyAW7j",
     "testimonials_3_Gf4Tfd",
     "testimonials_3_j4nTTT",
     "282a0160-505d-43ff-b601-043a5a327bc2",
