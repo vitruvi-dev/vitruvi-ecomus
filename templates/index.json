@@ -201,10 +201,12 @@
         "sec_heading_spacing": 63,
         "collection": "frontpage",
         "product_list": [
-
+          "stone-essential-oil-diffuser",
+          "cloud-humidifier",
+          "signature-essential-oil-kit"
         ],
         "product_des": "1",
-        "image_ratio": "custom-pr",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
