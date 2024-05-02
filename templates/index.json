@@ -29,64 +29,10 @@
             "content_position_mb": "center-start",
             "alignment_mb": "left"
           }
-        },
-        "a75fa7c6-f347-4c0b-8db4-81eb7b6c2c9f": {
-          "type": "slide_base",
-          "settings": {
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-1",
-            "heading": "Simple <br class=\"hdt-hidden md:hdt-block\">Style",
-            "heading_fs": "h1",
-            "heading_fw": "normal",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "h6",
-            "sub_heading_fw": "normal",
-            "btn_label": "Shop collection",
-            "btn_link": "shopify:\/\/collections\/frontpage",
-            "target": false,
-            "btn_size": "xl",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "center-start",
-            "alignment": "left",
-            "hide_subtext_mb": true,
-            "content_position_mb": "center-start",
-            "alignment_mb": "left"
-          }
-        },
-        "913c17cf-d084-4946-bcfd-30a96e29f8e2": {
-          "type": "slide_base",
-          "settings": {
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-1",
-            "heading": "Discreet  <br>style",
-            "heading_fs": "h1",
-            "heading_fw": "normal",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "h6",
-            "sub_heading_fw": "normal",
-            "btn_label": "Shop collection",
-            "btn_link": "shopify:\/\/collections\/frontpage",
-            "target": false,
-            "btn_size": "xl",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "center-start",
-            "alignment": "left",
-            "hide_subtext_mb": true,
-            "content_position_mb": "center-start",
-            "alignment_mb": "left"
-          }
         }
       },
       "block_order": [
-        "742a3693-7d5d-4e92-914c-270e1d777d11",
-        "a75fa7c6-f347-4c0b-8db4-81eb7b6c2c9f",
-        "913c17cf-d084-4946-bcfd-30a96e29f8e2"
+        "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
       "custom_css": [
         ".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}",
