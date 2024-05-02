@@ -115,26 +115,19 @@
             "collection_link": ""
           }
         },
-        "64391ffc-c043-4f35-a51e-da90b7143a42": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "mens-fashion",
-            "title": "Fashion",
-            "collection_link": ""
-          }
-        },
         "72a99e49-16d6-4138-83a1-4f452229667b": {
           "type": "collection_item",
           "settings": {
-            "collection": "fashion-accessories",
-            "title": "Accessories",
+            "collection": "scents",
+            "title": "All-Natural Scents",
             "collection_link": ""
           }
         },
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0": {
           "type": "view_all",
+          "disabled": true,
           "settings": {
-            "title": "Discovery <br>all new items",
+            "title": "Discovery all new items",
             "item_link": "shopify:\/\/collections"
           }
         }
@@ -142,7 +135,6 @@
       "block_order": [
         "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1",
         "4fb04760-f15f-40fb-9566-65e01d74325b",
-        "64391ffc-c043-4f35-a51e-da90b7143a42",
         "72a99e49-16d6-4138-83a1-4f452229667b",
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0"
       ],
@@ -151,7 +143,7 @@
       ],
       "settings": {
         "heading_align": "hdt-align-center",
-        "sec_heading": "SHOP BY CATEGORIES",
+        "sec_heading": "MORE TO EXPLORE",
         "heading_tag": "h3",
         "heading_size": "text-lg",
         "sec_subheading": "",
