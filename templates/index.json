@@ -125,7 +125,6 @@
         },
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0": {
           "type": "view_all",
-          "disabled": true,
           "settings": {
             "title": "Discovery all new items",
             "item_link": "shopify:\/\/collections"
@@ -169,8 +168,8 @@
         "space_items": "20",
         "half_item": false,
         "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "ontop_left",
+        "nav_des": "simple",
+        "nav_pos": "middle_in",
         "dotUI": false,
         "dots_pos": "ontop",
         "section_fullwidth": true,
