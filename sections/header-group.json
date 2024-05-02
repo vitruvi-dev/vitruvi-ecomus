@@ -10,18 +10,10 @@
           "settings": {
             "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">FAST, FREE SHIPPING ON ORDERS OVER $45<\/a>"
           }
-        },
-        "announcement_rNk66a": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "The best shopify theme"
-          }
         }
       },
       "block_order": [
-        "announcement_RzCepp",
-        "announcement_rNk66a"
+        "announcement_RzCepp"
       ],
       "settings": {
         "design": "marquee",
@@ -105,7 +97,7 @@
         "46a3191f-a3ab-4661-a59b-167e0743a9e5"
       ],
       "settings": {
-        "header_layout": "logo_left",
+        "header_layout": "logo_center",
         "header_fullwidth": true,
         "header_height": 94,
         "logo": "shopify:\/\/shop_images\/vitruvi-wordmark-black-medium.png",
