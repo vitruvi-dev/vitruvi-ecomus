@@ -126,8 +126,8 @@
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0": {
           "type": "view_all",
           "settings": {
-            "title": "Discovery all new items",
-            "item_link": "shopify:\/\/collections"
+            "title": "Shop all air care products",
+            "item_link": "shopify:\/\/collections\/shop-all"
           }
         }
       },
