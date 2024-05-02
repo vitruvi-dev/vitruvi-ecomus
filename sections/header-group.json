@@ -108,6 +108,7 @@
         "header_layout": "logo_left",
         "header_fullwidth": true,
         "header_height": 94,
+        "logo": "shopify:\/\/shop_images\/vitruvi-wordmark-black-medium.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
         "main_menu": "main-menu",
