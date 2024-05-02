@@ -105,7 +105,7 @@
         "header_colors": "scheme-1",
         "main_menu": "header_desktop_vitruvi",
         "lazy_mn": true,
-        "menu_position": "center",
+        "menu_position": "end",
         "menu_size": "lg",
         "menu_weight": "medium",
         "text_transform": false,
