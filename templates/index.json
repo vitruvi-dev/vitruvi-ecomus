@@ -67,7 +67,7 @@
           "type": "item",
           "settings": {
             "text": "<p>Spring Clearance Event: Save Up to 70%<\/p>",
-            "icon_svg": "flash",
+            "icon_svg": "delicious",
             "custom_svg": "",
             "icon_width": 18,
             "icon_width_mb": 14
@@ -82,14 +82,14 @@
       ],
       "settings": {
         "space_item": 48,
-        "speed": 0.3,
+        "speed": 0.1,
         "direction": "rtl",
         "marquee_pause_when_hover": true,
         "text_fs": "h5",
         "text_fw": "normal",
         "text_uppercase": false,
         "adding_border": true,
-        "icon_position_between": false,
+        "icon_position_between": true,
         "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d6",
         "padding_top": 31,
         "padding_bottom": 31,
