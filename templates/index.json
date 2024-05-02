@@ -198,6 +198,7 @@
         },
         "quote_WyLKV4": {
           "type": "quote",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
             "heading": "",
