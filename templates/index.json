@@ -89,7 +89,8 @@
         "913c17cf-d084-4946-bcfd-30a96e29f8e2"
       ],
       "custom_css": [
-        ".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}"
+        ".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}",
+        "h2 {font-family: \"Kaftan\"; font-style: normal;}"
       ],
       "settings": {
         "full_width": true,
