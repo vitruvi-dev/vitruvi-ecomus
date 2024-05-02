@@ -295,6 +295,7 @@
         },
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0": {
           "type": "view_all",
+          "disabled": true,
           "settings": {
             "title": "Shop all scents",
             "item_link": "shopify:\/\/collections\/scents"
@@ -308,7 +309,7 @@
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0"
       ],
       "custom_css": [
-        ".hdt-sec-heading {font-weight: 700;}"
+
       ],
       "settings": {
         "heading_align": "center",
@@ -397,7 +398,7 @@
         "view_all_pAmnHz"
       ],
       "custom_css": [
-        ".hdt-sec-heading {font-weight: 700;}"
+
       ],
       "settings": {
         "heading_align": "center",
@@ -702,12 +703,12 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Shop Gram",
+        "sec_heading": "Shop Our Instagram",
         "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Inspire and let yourself be inspired, from one unique fashion to another.<\/p>",
+        "heading_size": "h5",
+        "sec_subheading": "<p>#MAKETHEAIRYOURS<\/p>",
         "subheading_size": "lg",
-        "heading_reverse": false,
+        "heading_reverse": true,
         "heading_gap": 18,
         "sec_heading_spacing": 60,
         "image_ratio": "square",
