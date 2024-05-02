@@ -384,7 +384,7 @@
         "settings": {
           "text": "#000000",
           "text2": "#545454",
-          "background": "#fcffb2",
+          "background": "{{ shop.brand.colors.secondary[0].background }}",
           "background_gradient": "",
           "background2": "#ffffff",
           "button": "#000000",
