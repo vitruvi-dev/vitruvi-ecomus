@@ -187,15 +187,6 @@
             "author": "Architectural Digest"
           }
         },
-        "quote_e9fWFr": {
-          "type": "quote",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/removal.ai__e52b6177-79d6-4cc0-a43d-33ee7e67bb90-media-oct20192-1.png",
-            "heading": "",
-            "content": "<p>“The world’s chicest diffuser.”<\/p>",
-            "author": "Who What Wear"
-          }
-        },
         "quote_BCQy7e": {
           "type": "quote",
           "settings": {
@@ -213,13 +204,22 @@
             "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
             "author": "Esquire"
           }
+        },
+        "quote_e9fWFr": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/removal.ai__e52b6177-79d6-4cc0-a43d-33ee7e67bb90-media-oct20192-1.png",
+            "heading": "",
+            "content": "<p>“The world’s chicest diffuser.”<\/p>",
+            "author": "Who What Wear"
+          }
         }
       },
       "block_order": [
         "quote_EDf3LR",
-        "quote_e9fWFr",
         "quote_BCQy7e",
-        "quote_WyLKV4"
+        "quote_WyLKV4",
+        "quote_e9fWFr"
       ],
       "settings": {
         "heading_align": "center",
