@@ -335,17 +335,17 @@
         "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1": {
           "type": "collection_item",
           "settings": {
-            "collection": "humidifiers",
-            "image": "shopify:\/\/shop_images\/pdp_best-sleep-bundle_CloudWhite-StoneBlack_gallery_2_v1_image_3cb5727f-29a3-4dd4-9943-f0d95ba7cddb.jpg",
-            "title": "Award-Winning Humidifiers",
+            "collection": "essential-oil-blends",
+            "image": "shopify:\/\/shop_images\/page_home_grid_springsale2023_image_desktop-2.png",
+            "title": "Diffuser Blends",
             "collection_link": ""
           }
         },
         "4fb04760-f15f-40fb-9566-65e01d74325b": {
           "type": "collection_item",
           "settings": {
-            "collection": "essential-oil-diffusers",
-            "image": "shopify:\/\/shop_images\/pdp_best-sleep-bundle_CloudWhite-StoneWhite_gallery_3_image_04e2d464-6e82-4dae-a894-0ac5e26bd14f.jpg",
+            "collection": "essential-oils",
+            "image": "shopify:\/\/shop_images\/pdp_essential-oil_lavender_30_gallery_2_image_252acae8-6eab-4a02-b921-607082212a2e.png",
             "title": "Best-Selling Diffusers",
             "collection_link": ""
           }
@@ -361,8 +361,8 @@
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0": {
           "type": "view_all",
           "settings": {
-            "title": "Shop all air care products",
-            "item_link": "shopify:\/\/collections\/shop-all"
+            "title": "Shop all scents",
+            "item_link": "shopify:\/\/collections\/scents"
           }
         }
       },
@@ -377,12 +377,12 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "MORE TO EXPLORE",
+        "sec_heading": "All-Natural Scents",
         "heading_tag": "h3",
         "heading_size": "text-lg",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Explore<\/p>",
         "subheading_size": "hdt-text-base",
-        "heading_reverse": false,
+        "heading_reverse": true,
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 33,
