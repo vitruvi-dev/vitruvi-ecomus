@@ -346,15 +346,16 @@
           "settings": {
             "collection": "essential-oils",
             "image": "shopify:\/\/shop_images\/pdp_essential-oil_lavender_30_gallery_2_image_252acae8-6eab-4a02-b921-607082212a2e.png",
-            "title": "Best-Selling Diffusers",
+            "title": "Essential Oils",
             "collection_link": ""
           }
         },
         "72a99e49-16d6-4138-83a1-4f452229667b": {
           "type": "collection_item",
           "settings": {
-            "collection": "scents",
-            "title": "All-Natural Scents",
+            "collection": "natural-air-freshener-sprays",
+            "image": "shopify:\/\/shop_images\/pdp_natural-air-freshener-spray_warm-linen_gallery-single-cannister_3_image_e8bf97b8-1cc2-413e-9f1a-5352e1673757.jpg",
+            "title": "Air Freshener Sprays",
             "collection_link": ""
           }
         },
