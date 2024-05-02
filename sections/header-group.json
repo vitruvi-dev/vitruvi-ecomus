@@ -111,7 +111,7 @@
         "logo": "shopify:\/\/shop_images\/vitruvi-wordmark-black-medium.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "main-menu",
+        "main_menu": "header_desktop_vitruvi",
         "lazy_mn": true,
         "menu_position": "center",
         "menu_size": "lg",
