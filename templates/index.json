@@ -23,8 +23,8 @@
             "btn_style": "solid",
             "btn_fw": "medium",
             "btn_icon": "1",
-            "content_position": "center-start",
-            "alignment": "left",
+            "content_position": "center",
+            "alignment": "center",
             "hide_subtext_mb": true,
             "content_position_mb": "center-start",
             "alignment_mb": "left"
