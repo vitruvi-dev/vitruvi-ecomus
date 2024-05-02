@@ -263,72 +263,6 @@
         "padding_rate": 75
       }
     },
-    "testimonials_3_j4nTTT": {
-      "type": "testimonials-3",
-      "blocks": {
-        "quote_FVtLXM": {
-          "type": "quote",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_architecturaldigest_black_v5_image_x100_47ee4345-9e0f-427a-956a-b27ba3389e60.png",
-            "heading": "",
-            "content": "<p>“A perfect addition to your nightstand.”<\/p>",
-            "author": "Arcitectural Digest"
-          }
-        },
-        "quote_kfBGYh": {
-          "type": "quote",
-          "settings": {
-            "heading": "AS SEE IN",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name"
-          }
-        },
-        "quote_zaC9Xg": {
-          "type": "quote",
-          "settings": {
-            "heading": "AS SEE IN",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name"
-          }
-        },
-        "quote_bKY44P": {
-          "type": "quote",
-          "settings": {
-            "heading": "AS SEE IN",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name"
-          }
-        }
-      },
-      "block_order": [
-        "quote_FVtLXM",
-        "quote_kfBGYh",
-        "quote_zaC9Xg",
-        "quote_bKY44P"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "14,000+ 5 star reviews",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "content_align": "center",
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": false,
-        "dis_dot": 30,
-        "color_scheme": "",
-        "section_fullwidth": false,
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
     "282a0160-505d-43ff-b601-043a5a327bc2": {
       "type": "collections-list",
       "blocks": {
@@ -815,7 +749,6 @@
     "d81e394c-3467-4709-a303-1d274f42da41",
     "top_heading_EyAW7j",
     "testimonials_3_Gf4Tfd",
-    "testimonials_3_j4nTTT",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "5a75954e-0672-460a-9a96-1f07a182b8d7",
     "282a0160-505d-43ff-b601-043a5a327bc1",
