@@ -36,7 +36,7 @@
           "settings": {
             "title": "Title",
             "collection_list": [
-
+              "accessories"
             ],
             "image_ratio": "adapt_image",
             "image_size": true,
