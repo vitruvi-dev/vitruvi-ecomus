@@ -128,7 +128,7 @@
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "load_more",
+        "pagination_type": "none",
         "paginate_pos": "center",
         "dis_pagination": 80,
         "btn_label": "Load more",
