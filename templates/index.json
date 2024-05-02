@@ -166,7 +166,7 @@
         "col_dk": "3",
         "col_tb": "3",
         "col_mb": "2",
-        "space_items": "x",
+        "space_items": "20",
         "half_item": false,
         "navUI": true,
         "nav_des": "outline",
