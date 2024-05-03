@@ -104,7 +104,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Best-Selling Diffusers & Humidifiers",
+        "sec_heading": "Our Best-Sellers",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "<p>Premium, natural air care products that elevate your home.<\/p>",
@@ -164,6 +164,42 @@
         "heading_WezFEQ",
         "sub_heading_jinipG"
       ],
+      "disabled": true,
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "scheme-4a2da587-4cb4-4de4-a833-b6e068c30a6f",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_dF3cHw": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_zYkbjf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Approved By The Best",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_4UiYcC": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "14,000+ 5 Star Reviews",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zYkbjf",
+        "sub_heading_4UiYcC"
+      ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -245,10 +281,10 @@
         "heading_align": "center",
         "sec_heading": "",
         "heading_tag": "h3",
-        "heading_size": "h3",
-        "sec_subheading": "",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Award-Winning & Critically Acclaimed<\/p>",
         "subheading_size": "base",
-        "heading_reverse": false,
+        "heading_reverse": true,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "content_align": "center",
@@ -769,6 +805,7 @@
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "d81e394c-3467-4709-a303-1d274f42da41",
     "top_heading_EyAW7j",
+    "top_heading_dF3cHw",
     "testimonials_3_Gf4Tfd",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "collections_list_iEN73m",
