@@ -47,9 +47,6 @@
           "settings": {
             "option_name": "Choose",
             "option_values": "",
-            "product_list": [
-
-            ],
             "linked_type": "image_with_title",
             "linked_size": "large"
           }
@@ -75,11 +72,11 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": true,
             "show_price_variant": true,
-            "show_wishlist": false,
-            "show_compare": false
+            "show_wishlist": true,
+            "show_compare": true
           }
         },
         "8253e974-5acb-4076-9230-03b0f804dcdf": {
@@ -91,17 +88,16 @@
         "113b254d-cc79-43fc-9ed9-4670522082c9": {
           "type": "extra_link",
           "settings": {
-            "show_cp_cl": false,
-            "show_ask": false,
-            "show_phone": false,
+            "show_cp_cl": true,
+            "show_ask": true,
+            "show_phone": true,
             "show_delivery": true,
-            "page_delivery": "frequently-asked-questions",
-            "show_share_btn": false
+            "page_delivery": "shipping-delivery",
+            "show_share_btn": true
           }
         },
         "9586d18a-306e-45c8-813c-3c4b0cc99315": {
           "type": "delivery_return",
-          "disabled": true,
           "settings": {
             "icon_delivery": "ship",
             "content_devivery": "<p>Estimate delivery times:<strong> 12-26 days<\/strong> (International),<strong> 3-6 days<\/strong> (United States).<\/p>",
@@ -111,7 +107,6 @@
         },
         "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b": {
           "type": "img_trust",
-          "disabled": true,
           "settings": {
             "show_icon": true,
             "mess": "Guarantee Safe Checkout",
@@ -119,30 +114,6 @@
             "wimg": 350,
             "svg": "visa,paypal,master,american_express,amazon_payments",
             "height": 30
-          }
-        },
-        "description_Fh49zX": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "bundle_product_jhH3V3": {
-          "type": "bundle_product",
-          "disabled": true,
-          "settings": {
-            "bundle_prs_inner": true,
-            "product_list": [
-              "best-sleep-diffuser-humidifier-bundle"
-            ]
-          }
-        },
-        "custom_liquid_KRPgfT": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
           }
         }
       },
@@ -158,15 +129,12 @@
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "113b254d-cc79-43fc-9ed9-4670522082c9",
         "9586d18a-306e-45c8-813c-3c4b0cc99315",
-        "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b",
-        "description_Fh49zX",
-        "bundle_product_jhH3V3",
-        "custom_liquid_KRPgfT"
+        "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b"
       ],
       "settings": {
         "space_content_media": true,
         "media_width": 50,
-        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
@@ -174,9 +142,7 @@
         "enable_media_autoplay": true,
         "enable_video_looping": true,
         "enable_thumb_efect": true,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
+        "image_zoom": "zoom",
         "image_zoom_type": "external",
         "zoom_level": 2,
         "max_zoom_lightbox": 3,
@@ -194,7 +160,6 @@
       "blocks": {
         "76effdab-2914-4a34-a303-417cde99ff0a": {
           "type": "tab_des",
-          "disabled": true,
           "settings": {
             "title": "Description"
           }
@@ -279,11 +244,16 @@
           "type": "gallery",
           "settings": {
             "widget_heading": "Gallery",
+            "img1": "shopify:\/\/shop_images\/p-d3-2.jpg",
             "link1": "",
+            "img2": "shopify:\/\/shop_images\/p-d3.png",
             "link2": "",
+            "img3": "shopify:\/\/shop_images\/p-d9-2.jpg",
             "link3": "",
+            "img4": "shopify:\/\/shop_images\/p-d3-1.jpg",
             "link4": "",
             "link5": "",
+            "img6": "shopify:\/\/shop_images\/p-d2-1.jpg",
             "link6": "",
             "open_link": "_blank"
           }
@@ -317,13 +287,10 @@
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 10,
         "product_des": "1",
-        "image_ratio": "square",
+        "image_ratio": "custom-pr",
         "image_size": true,
         "show_vendor": false,
         "col_dk": "4",
@@ -342,16 +309,12 @@
     },
     "recently": {
       "type": "recently-products",
-      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Recently Viewed",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 10,
         "product_des": "1",
