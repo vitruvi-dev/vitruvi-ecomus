@@ -120,6 +120,14 @@
             "svg": "visa,paypal,master,american_express,amazon_payments",
             "height": 30
           }
+        },
+        "description_Fh49zX": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
         }
       },
       "block_order": [
@@ -134,7 +142,8 @@
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "113b254d-cc79-43fc-9ed9-4670522082c9",
         "9586d18a-306e-45c8-813c-3c4b0cc99315",
-        "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b"
+        "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b",
+        "description_Fh49zX"
       ],
       "settings": {
         "space_content_media": true,
@@ -167,6 +176,7 @@
       "blocks": {
         "76effdab-2914-4a34-a303-417cde99ff0a": {
           "type": "tab_des",
+          "disabled": true,
           "settings": {
             "title": "Description"
           }
@@ -200,7 +210,6 @@
         "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf"
       ],
-      "disabled": true,
       "settings": {
         "tabs_design": "tab",
         "enable_first_tab": false,
@@ -276,6 +285,7 @@
         "76c4580d-5d01-4485-b53a-98caea9f4605",
         "5d4020bf-1c84-4908-9a3d-f9d20d6b2025"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "space": 60
