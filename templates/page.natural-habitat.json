@@ -62,6 +62,7 @@
         "banner_3_4mViUi": {
           "type": "banner_3",
           "settings": {
+            "image": "shopify:\/\/shop_images\/pdp_essential-oil_peppermint_gallery_2_image.png",
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
