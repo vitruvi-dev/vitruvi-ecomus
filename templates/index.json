@@ -214,22 +214,32 @@
     "testimonials_2_DtFpRW": {
       "type": "testimonials-2",
       "blocks": {
-        "quote_d3QewM": {
-          "type": "quote",
-          "settings": {
-            "heading": "Vitruvi is true to their word",
-            "content": "<p>I love this company. They stand behind their life long product. Sleep is my favorite scent but I love lavender and dusk. I have one diffuser in every room. Great company!!!<\/p>",
-            "author": "Donald F.",
-            "enable_verify": true,
-            "rating": 5
-          }
-        },
         "quote_iQBLCn": {
           "type": "quote",
           "settings": {
             "heading": "Elegant, High Quality",
             "content": "<p>I rarely write reviews, but I must share that this beautiful ceramic diffuser adds elegant and understated beauty to our home. I had to have one in each room. Clean aromas emanate throughout. Thank you, Vitruvi, for your wonderful products and excellent customer service.<\/p>",
             "author": "Andree F.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_WTxbcc": {
+          "type": "quote",
+          "settings": {
+            "heading": "Elevating Home Comfort and Aesthetics",
+            "content": "<p>The Vitruvi Humidifier has completely transformed my living space and elevated my overall well-being.<\/p><p><\/p><p>Beyond its aesthetic appeal, the humidifier's performance is truly outstanding. It releases a fine mist that instantly refreshes the air, providing a more comfortable and soothing environment, especially during dry seasons.<\/p>",
+            "author": "Olivier M.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_d3QewM": {
+          "type": "quote",
+          "settings": {
+            "heading": "Vitruvi is true to their word",
+            "content": "<p>I love this company. They stand behind their life long product. Sleep is my favorite scent but I love lavender and dusk. I have one diffuser in every room. Great company!!!<\/p>",
+            "author": "Donald F.",
             "enable_verify": true,
             "rating": 5
           }
@@ -253,24 +263,14 @@
             "enable_verify": true,
             "rating": 5
           }
-        },
-        "quote_WTxbcc": {
-          "type": "quote",
-          "settings": {
-            "heading": "Elevating Home Comfort and Aesthetics",
-            "content": "<p>The Vitruvi Humidifier has completely transformed my living space and elevated my overall well-being.<\/p><p><\/p><p>Beyond its aesthetic appeal, the humidifier's performance is truly outstanding. It releases a fine mist that instantly refreshes the air, providing a more comfortable and soothing environment, especially during dry seasons.<\/p>",
-            "author": "Olivier M.",
-            "enable_verify": true,
-            "rating": 5
-          }
         }
       },
       "block_order": [
-        "quote_d3QewM",
         "quote_iQBLCn",
+        "quote_WTxbcc",
+        "quote_d3QewM",
         "quote_LUD398",
-        "quote_xdzEwr",
-        "quote_WTxbcc"
+        "quote_xdzEwr"
       ],
       "settings": {
         "heading_align": "center",
