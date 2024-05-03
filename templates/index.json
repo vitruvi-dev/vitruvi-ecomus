@@ -251,13 +251,13 @@
         "quote_D6QAcJ"
       ],
       "settings": {
-        "heading_align": "start",
+        "heading_align": "center",
         "top_heading": "",
         "heading_tag": "h3",
         "heading_size": "h5",
-        "top_description": "<p>★★★★★<br\/>14,000+ 5 star reviews<\/p>",
+        "top_description": "<p>14,000+ 5 star reviews<\/p>",
         "subheading_size": "hdt-text-12xl",
-        "show_rating": false,
+        "show_rating": true,
         "rating": 5,
         "content_align": "start",
         "navUI": false,
@@ -359,248 +359,6 @@
         "padding_rate": 60
       }
     },
-    "collections_list_iEN73m": {
-      "type": "collections-list",
-      "blocks": {
-        "collection_item_YixYcT": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "best-essential-oils-for-sleep",
-            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_sejour_gallery_3_v2_image.jpg",
-            "title": "For Your Best Sleep",
-            "collection_link": ""
-          }
-        },
-        "collection_item_VX8xKD": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "essential-oils",
-            "image": "shopify:\/\/shop_images\/pdp_essential-oil_frankincense_gallery_2_image_43e99e15-d696-4780-910d-6bb56534f2e0.png",
-            "title": "For Decreasing Anxiety",
-            "collection_link": ""
-          }
-        },
-        "collection_item_jm467N": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "natural-air-freshener-sprays",
-            "image": "shopify:\/\/shop_images\/pdp_natural-air-freshener-spray_warm-linen_gallery-single-cannister_3_image_e8bf97b8-1cc2-413e-9f1a-5352e1673757.jpg",
-            "title": "For Sprucing Up",
-            "collection_link": ""
-          }
-        },
-        "view_all_pAmnHz": {
-          "type": "view_all",
-          "disabled": true,
-          "settings": {
-            "title": "Shop all scents",
-            "item_link": "shopify:\/\/collections\/scents"
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_YixYcT",
-        "collection_item_VX8xKD",
-        "collection_item_jm467N",
-        "view_all_pAmnHz"
-      ],
-      "disabled": true,
-      "custom_css": [
-
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "All-natural scents and aromas that transport you",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Explore<\/p>",
-        "subheading_size": "hdt-text-base",
-        "heading_reverse": true,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 33,
-        "collection_list": [
-
-        ],
-        "collection_des": "8",
-        "content_size": "base",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "end-start",
-        "content_padding": 30,
-        "image_ratio": "asos",
-        "image_size": true,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "2",
-        "space_items": "20",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "simple",
-        "nav_pos": "middle_in",
-        "dotUI": false,
-        "dots_pos": "ontop",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "boxed_content": false,
-        "color_scheme": "scheme-2",
-        "padding_top": 56,
-        "padding_bottom": 100,
-        "padding_rate": 60
-      }
-    },
-    "5a75954e-0672-460a-9a96-1f07a182b8d7": {
-      "type": "lookbook-carousel",
-      "blocks": {
-        "6edb3aab-1d14-4f47-9430-cade7305ef94": {
-          "type": "lookbook_item",
-          "settings": {
-            "product": "wild-one-triangle-tug",
-            "pos_top": 63,
-            "pos_left": 45,
-            "product1": "ribbed-tank-top",
-            "pos_top1": 90,
-            "pos_left1": 62,
-            "product2": "",
-            "pos_top2": 50,
-            "pos_left2": 50,
-            "product3": "",
-            "pos_top3": 50,
-            "pos_left3": 50
-          }
-        },
-        "5126238c-4a21-46ad-b07e-17524e535f60": {
-          "type": "lookbook_item",
-          "settings": {
-            "product": "stillkissen-rosa",
-            "pos_top": 20,
-            "pos_left": 58,
-            "product1": "",
-            "pos_top1": 50,
-            "pos_left1": 50,
-            "product2": "",
-            "pos_top2": 50,
-            "pos_left2": 50,
-            "product3": "",
-            "pos_top3": 50,
-            "pos_left3": 50
-          }
-        }
-      },
-      "block_order": [
-        "6edb3aab-1d14-4f47-9430-cade7305ef94",
-        "5126238c-4a21-46ad-b07e-17524e535f60"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h4",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "image_ratio": "adapt_image",
-        "item_show": "2",
-        "color_scheme": "scheme-2",
-        "placement": "top",
-        "navigate_style": "normal",
-        "navUI": true,
-        "dotUI": false,
-        "padding_top": 40,
-        "padding_bottom": 100,
-        "padding_rate": 75
-      }
-    },
-    "622f5d6a-09b6-4b2d-ad46-6ded3943164b": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-1": {
-          "type": "quote",
-          "settings": {
-            "heading": "Best Online Fashion Site",
-            "content": "<p>“I always find something stylish and affordable on this web fashion site”<\/p>",
-            "author": "Robert smith",
-            "pos": "Customer from USA",
-            "enable_verify": false,
-            "product": "jersey-thong-body",
-            "rating": 5
-          }
-        },
-        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-3": {
-          "type": "quote",
-          "settings": {
-            "heading": "Great Selection and Quality",
-            "content": "<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>",
-            "author": "Allen Lyn",
-            "pos": "Customer from Fance",
-            "enable_verify": false,
-            "product": "cotton-jersey-top",
-            "rating": 5
-          }
-        },
-        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-2": {
-          "type": "quote",
-          "settings": {
-            "heading": "Best Customer Service",
-            "content": "<p>\"I finally found a web fashion site with stylish and flattering options in my size.\"<\/p>",
-            "author": "Peter Rope",
-            "pos": "Customer from USA",
-            "enable_verify": false,
-            "product": "ribbed-modal-t-shirt",
-            "rating": 5
-          }
-        },
-        "4ea4d3a7-2225-4775-ab9a-7b1fbc65a543": {
-          "type": "quote",
-          "settings": {
-            "heading": "Great Selection and Quality",
-            "content": "<p>\"I love the variety of styles and the high-quality clothing on this web fashion site.\"<\/p>",
-            "author": "Hellen Ase",
-            "pos": "Customer from Japan",
-            "enable_verify": false,
-            "product": "ribbed-tank-top",
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-1",
-        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-3",
-        "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-2",
-        "4ea4d3a7-2225-4775-ab9a-7b1fbc65a543"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h4",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "hdt-text-lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "content_align": "start",
-        "testimonial_des": "1",
-        "col_dk": "3",
-        "col_tb": "2",
-        "col_mb": "1",
-        "navUI": true,
-        "nav_pos": "middle_out",
-        "nav_des": "outline",
-        "dotUI": false,
-        "dis_dot": 30,
-        "color_scheme": "scheme-2",
-        "pr_rating": "#ff7b54",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 76,
-        "padding_rate": 75
-      }
-    },
     "testimonials_3_Gf4Tfd": {
       "type": "testimonials-3",
       "blocks": {
@@ -671,9 +429,9 @@
         "heading_align": "center",
         "sec_heading": "",
         "heading_tag": "h3",
-        "heading_size": "h4",
+        "heading_size": "h5",
         "sec_subheading": "<p>Award-Winning & Critically Acclaimed<\/p>",
-        "subheading_size": "base",
+        "subheading_size": "10xl",
         "heading_reverse": true,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
@@ -868,9 +626,6 @@
     "top_heading_dF3cHw",
     "testimonials_2_DtFpRW",
     "282a0160-505d-43ff-b601-043a5a327bc2",
-    "collections_list_iEN73m",
-    "5a75954e-0672-460a-9a96-1f07a182b8d7",
-    "622f5d6a-09b6-4b2d-ad46-6ded3943164b",
     "testimonials_3_Gf4Tfd",
     "2114b9b3-c579-4b90-90d4-7c53d71f6449",
     "cef9818d-d174-4a85-935f-31cd9035f495"
