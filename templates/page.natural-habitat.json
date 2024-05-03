@@ -63,7 +63,7 @@
           "type": "heading",
           "settings": {
             "heading": "The Best Antibacterial and Antimicrobial Essential Oils",
-            "heading_fs": "h6",
+            "heading_fs": "h5",
             "heading_fw": "normal"
           }
         },
@@ -102,14 +102,14 @@
         "target": false,
         "image_behavior": "none",
         "use_overlay": true,
-        "use_bg_content": true,
+        "use_bg_content": false,
         "content_position": "end-start",
         "content_align": "left",
         "content_position_mb": "center",
         "content_align_mb": "center",
         "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
+        "boxed_fullwidth": true,
+        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
         "padding_top": 36,
         "padding_bottom": 36,
         "padding_rate": 75
