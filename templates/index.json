@@ -142,65 +142,6 @@
         "padding_rate": 50
       }
     },
-    "testimonials_2_DtFpRW": {
-      "type": "testimonials-2",
-      "blocks": {
-        "quote_d3QewM": {
-          "type": "quote",
-          "settings": {
-            "heading": "",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
-            "rating": 5
-          }
-        },
-        "quote_YfjNJF": {
-          "type": "quote",
-          "settings": {
-            "heading": "",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
-            "rating": 5
-          }
-        },
-        "quote_D6QAcJ": {
-          "type": "quote",
-          "settings": {
-            "heading": "",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_d3QewM",
-        "quote_YfjNJF",
-        "quote_D6QAcJ"
-      ],
-      "settings": {
-        "heading_align": "start",
-        "top_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "top_description": "<p>★★★★★<br\/>14,000+ 5 star reviews<\/p>",
-        "subheading_size": "hdt-text-12xl",
-        "show_rating": false,
-        "rating": 5,
-        "content_align": "start",
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": false,
-        "color_scheme": "",
-        "pr_rating": "#FF7B54",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
     "top_heading_EyAW7j": {
       "type": "top-heading",
       "blocks": {
@@ -270,89 +211,60 @@
         "padding_rate": 75
       }
     },
-    "testimonials_3_Gf4Tfd": {
-      "type": "testimonials-3",
+    "testimonials_2_DtFpRW": {
+      "type": "testimonials-2",
       "blocks": {
-        "quote_EDf3LR": {
+        "quote_d3QewM": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/arch-digest-logo-04_1.png",
             "heading": "",
-            "content": "<p>“A perfect addition to your nightstand.”<\/p>",
-            "author": "Architectural Digest"
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
           }
         },
-        "quote_BCQy7e": {
+        "quote_YfjNJF": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/removal.ai__839eb00c-a03e-4931-9930-f06e40fb7974-new-york-times-logopng-new-york-times-logo-png-1500_1500.png",
             "heading": "",
-            "content": "<p>\"We recommend the Vitruvi Stone Diffuser...the best choice if you want to run it while you’re sleeping\"<\/p>",
-            "author": "The Wirecutter | New York Times"
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
           }
         },
-        "quote_e9fWFr": {
+        "quote_D6QAcJ": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/removal.ai__e52b6177-79d6-4cc0-a43d-33ee7e67bb90-media-oct20192-1.png",
             "heading": "",
-            "content": "<p>“The world’s chicest diffuser.”<\/p>",
-            "author": "Who What Wear"
-          }
-        },
-        "quote_WyLKV4": {
-          "type": "quote",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
-            "heading": "",
-            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
-            "author": "Esquire"
-          }
-        },
-        "quote_g3TVgk": {
-          "type": "quote",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BHG-logo-brandprimary-dark_1_1_1.png",
-            "heading": "",
-            "content": "<p>“The best humidifier from a design standpoint.”<\/p>",
-            "author": "Better Homes & Gardens"
-          }
-        },
-        "quote_ThmjAB": {
-          "type": "quote",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cnn_logo_PNG2_1.png",
-            "heading": "",
-            "content": "<p>“One of the most stylish humidifiers we’ve seen.”<\/p>",
-            "author": "Esquire"
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
           }
         }
       },
       "block_order": [
-        "quote_EDf3LR",
-        "quote_BCQy7e",
-        "quote_e9fWFr",
-        "quote_WyLKV4",
-        "quote_g3TVgk",
-        "quote_ThmjAB"
+        "quote_d3QewM",
+        "quote_YfjNJF",
+        "quote_D6QAcJ"
       ],
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
+        "heading_align": "start",
+        "top_heading": "",
         "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Award-Winning & Critically Acclaimed<\/p>",
-        "subheading_size": "base",
-        "heading_reverse": true,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "content_align": "center",
-        "navUI": true,
-        "nav_des": "outline",
+        "heading_size": "h5",
+        "top_description": "<p>★★★★★<br\/>14,000+ 5 star reviews<\/p>",
+        "subheading_size": "hdt-text-12xl",
+        "show_rating": false,
+        "rating": 5,
+        "content_align": "start",
+        "navUI": false,
+        "nav_des": "default",
         "dotUI": false,
-        "dis_dot": 30,
         "color_scheme": "scheme-4a2da587-4cb4-4de4-a833-b6e068c30a6f",
-        "section_fullwidth": false,
+        "pr_rating": "#FF7B54",
         "padding_top": 30,
         "padding_bottom": 30,
         "padding_rate": 75
@@ -689,6 +601,94 @@
         "padding_rate": 75
       }
     },
+    "testimonials_3_Gf4Tfd": {
+      "type": "testimonials-3",
+      "blocks": {
+        "quote_EDf3LR": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arch-digest-logo-04_1.png",
+            "heading": "",
+            "content": "<p>“A perfect addition to your nightstand.”<\/p>",
+            "author": "Architectural Digest"
+          }
+        },
+        "quote_BCQy7e": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/removal.ai__839eb00c-a03e-4931-9930-f06e40fb7974-new-york-times-logopng-new-york-times-logo-png-1500_1500.png",
+            "heading": "",
+            "content": "<p>\"We recommend the Vitruvi Stone Diffuser...the best choice if you want to run it while you’re sleeping\"<\/p>",
+            "author": "The Wirecutter | New York Times"
+          }
+        },
+        "quote_e9fWFr": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/removal.ai__e52b6177-79d6-4cc0-a43d-33ee7e67bb90-media-oct20192-1.png",
+            "heading": "",
+            "content": "<p>“The world’s chicest diffuser.”<\/p>",
+            "author": "Who What Wear"
+          }
+        },
+        "quote_WyLKV4": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
+            "heading": "",
+            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
+            "author": "Esquire"
+          }
+        },
+        "quote_g3TVgk": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BHG-logo-brandprimary-dark_1_1_1.png",
+            "heading": "",
+            "content": "<p>“The best humidifier from a design standpoint.”<\/p>",
+            "author": "Better Homes & Gardens"
+          }
+        },
+        "quote_ThmjAB": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cnn_logo_PNG2_1.png",
+            "heading": "",
+            "content": "<p>“One of the most stylish humidifiers we’ve seen.”<\/p>",
+            "author": "Esquire"
+          }
+        }
+      },
+      "block_order": [
+        "quote_EDf3LR",
+        "quote_BCQy7e",
+        "quote_e9fWFr",
+        "quote_WyLKV4",
+        "quote_g3TVgk",
+        "quote_ThmjAB"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Award-Winning & Critically Acclaimed<\/p>",
+        "subheading_size": "base",
+        "heading_reverse": true,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "content_align": "center",
+        "navUI": true,
+        "nav_des": "outline",
+        "dotUI": false,
+        "dis_dot": 30,
+        "color_scheme": "scheme-4a2da587-4cb4-4de4-a833-b6e068c30a6f",
+        "section_fullwidth": false,
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
     "2114b9b3-c579-4b90-90d4-7c53d71f6449": {
       "type": "image-gallery",
       "blocks": {
@@ -754,7 +754,7 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-2",
-        "padding_top": 0,
+        "padding_top": 60,
         "padding_bottom": 60,
         "padding_rate": 75
       }
@@ -863,14 +863,14 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "d81e394c-3467-4709-a303-1d274f42da41",
-    "testimonials_2_DtFpRW",
     "top_heading_EyAW7j",
     "top_heading_dF3cHw",
-    "testimonials_3_Gf4Tfd",
+    "testimonials_2_DtFpRW",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "collections_list_iEN73m",
     "5a75954e-0672-460a-9a96-1f07a182b8d7",
     "622f5d6a-09b6-4b2d-ad46-6ded3943164b",
+    "testimonials_3_Gf4Tfd",
     "2114b9b3-c579-4b90-90d4-7c53d71f6449",
     "cef9818d-d174-4a85-935f-31cd9035f495"
   ]
