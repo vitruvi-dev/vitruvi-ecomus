@@ -5,6 +5,19 @@
     "8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43": {
       "type": "footer",
       "blocks": {
+        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1": {
+          "type": "newsletter",
+          "settings": {
+            "border-column": true,
+            "heading_newsletter": "Sign Up for Email",
+            "text_newsletter": "<p>Get early access to new products and exclusive offers.<\/p>",
+            "button_lb": "Subscribe",
+            "show_icon": true,
+            "btn_fw": "semibold",
+            "padding_inner": "0px,50px,0px,0px",
+            "custom_w_dk": "40"
+          }
+        },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-1": {
           "type": "menu",
           "settings": {
@@ -35,19 +48,6 @@
             "custom_w_dk": "20"
           }
         },
-        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1": {
-          "type": "newsletter",
-          "settings": {
-            "border-column": false,
-            "heading_newsletter": "Sign Up for Email",
-            "text_newsletter": "<p>Get early access to new products and exclusive offers.<\/p>",
-            "button_lb": "Subscribe",
-            "show_icon": true,
-            "btn_fw": "semibold",
-            "padding_inner": "0px,50px,0px,50px",
-            "custom_w_dk": "40"
-          }
-        },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1": {
           "type": "social",
           "disabled": true,
@@ -70,10 +70,10 @@
         }
       },
       "block_order": [
+        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1",
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-1",
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-2",
         "menu_7BcAPW",
-        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1",
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1"
       ],
       "settings": {
