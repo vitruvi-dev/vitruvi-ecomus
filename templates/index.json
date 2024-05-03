@@ -234,12 +234,12 @@
             "rating": 5
           }
         },
-        "quote_d3QewM": {
+        "quote_retT3J": {
           "type": "quote",
           "settings": {
-            "heading": "Vitruvi is true to their word",
-            "content": "<p>I love this company. They stand behind their life long product. Sleep is my favorite scent but I love lavender and dusk. I have one diffuser in every room. Great company!!!<\/p>",
-            "author": "Donald F.",
+            "heading": "Very Happy Customer!",
+            "content": "<p>My diffuser arrived today, and I am already impressed. It was delivered extremely quickly, and the packaging was done both efficiently and effectively. My diffuser is already up and running, it only took a few minutes.<\/p><p>I'm starting with eucalyptus and grapefruit, but I can't wait to order more oils. I know I will be a repeat customer.<\/p><p>The diffuser is gorgeous. I want one for every room (and work too)!<\/p>",
+            "author": "Christine N.",
             "enable_verify": true,
             "rating": 5
           }
@@ -264,13 +264,13 @@
             "rating": 5
           }
         },
-        "quote_retT3J": {
+        "quote_d3QewM": {
           "type": "quote",
           "settings": {
-            "heading": "Very Happy Customer!",
-            "content": "<p>My diffuser arrived today, and I am already impressed. It was delivered extremely quickly, and the packaging was done both efficiently and effectively. My diffuser is already up and running, it only took a few minutes.<\/p><p>I'm starting with eucalyptus and grapefruit, but I can't wait to order more oils. I know I will be a repeat customer.<\/p><p>The diffuser is gorgeous. I want one for every room (and work too)!<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
+            "heading": "Vitruvi is true to their word",
+            "content": "<p>I love this company. They stand behind their life long product. Sleep is my favorite scent but I love lavender and dusk. I have one diffuser in every room. Great company!!!<\/p>",
+            "author": "Donald F.",
+            "enable_verify": true,
             "rating": 5
           }
         }
@@ -278,10 +278,10 @@
       "block_order": [
         "quote_iQBLCn",
         "quote_WTxbcc",
-        "quote_d3QewM",
+        "quote_retT3J",
         "quote_LUD398",
         "quote_xdzEwr",
-        "quote_retT3J"
+        "quote_d3QewM"
       ],
       "settings": {
         "heading_align": "center",
