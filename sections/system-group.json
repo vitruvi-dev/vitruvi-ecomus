@@ -30,7 +30,7 @@
         "54f7a627-75c8-4b50-8c43-45e4be386afb": {
           "type": "bnt_cart_checkout",
           "settings": {
-            "enable_btn_cart": true,
+            "enable_btn_cart": false,
             "btn_style_cart": "outline",
             "btn_fw_cart": "semibold",
             "btn_icon_cart": "none",
