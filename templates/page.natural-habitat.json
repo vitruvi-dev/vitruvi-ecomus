@@ -74,7 +74,7 @@
           "type": "banner_1",
           "settings": {
             "image": "shopify:\/\/shop_images\/20220727-Vitruvi-StudioSantiago-Request_3.jpg",
-            "image_mb": "shopify:\/\/shop_images\/pdp_stone-diffuser-sleep-bundle_feature_image.jpg",
+            "image_mb": "shopify:\/\/shop_images\/20220727-Vitruvi-StudioSantiago-Request_3.jpg",
             "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
             "banner_url": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
             "banner_target": false,
@@ -105,9 +105,44 @@
             "alignment_mb": "left"
           }
         },
+        "banner_1_c6GFkk": {
+          "type": "banner_1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_scent-note_peppermint_image.png",
+            "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+            "banner_url": "shopify:\/\/blogs\/health-and-wellness\/which-essential-oils-are-antibacterial-and-antimicrobial",
+            "banner_target": false,
+            "sub_heading": "These oils—which smell amazing—can be used for a myriad of cleaning and cleansing purposes.",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "sub_heading_space": 15,
+            "heading_first": true,
+            "heading": "The Best Antibacterial and Antimicrobial Essential Oils",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 15,
+            "btn_label": "Read more",
+            "btn_link": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "target": false,
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "col_w": "6",
+            "row_count": 2,
+            "content_position": "end-start",
+            "alignment": "left",
+            "content_pd_y": 30,
+            "content_pd_x": 30,
+            "col_w_mb": "2",
+            "row_count_mb": 2,
+            "content_position_mb": "end-start",
+            "alignment_mb": "left"
+          }
+        },
         "banner_2_Fdyckt": {
           "type": "banner_2",
           "settings": {
+            "image": "shopify:\/\/shop_images\/page_scent-club_requirements_image.png",
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
@@ -133,46 +168,12 @@
             "row_count_mb": 1,
             "alignment_mb": "center"
           }
-        },
-        "banner_3_xi3Mrr": {
-          "type": "banner_3",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "col_w": "6",
-            "row_count": 2,
-            "content_position": "center",
-            "alignment": "center",
-            "content_pd_y": 15,
-            "content_pd_x": 15,
-            "col_w_mb": "2",
-            "row_count_mb": 1,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
         }
       },
       "block_order": [
         "banner_1_7J8ynU",
-        "banner_2_Fdyckt",
-        "banner_3_xi3Mrr"
+        "banner_1_c6GFkk",
+        "banner_2_Fdyckt"
       ],
       "settings": {
         "row_height": 200,
