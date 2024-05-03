@@ -10,7 +10,6 @@
         },
         "b9f31384-d28d-43c3-bab7-7f8793c58f8d": {
           "type": "1",
-          "disabled": true,
           "settings": {
             "heading": "Blog Grid",
             "heading_size": "h4"
@@ -21,7 +20,6 @@
         "ad95c1a5-1776-432d-80af-57c647f901dc",
         "b9f31384-d28d-43c3-bab7-7f8793c58f8d"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "spacing_hd": 5,
