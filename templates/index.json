@@ -25,7 +25,7 @@
             "btn_icon": "1",
             "content_position": "center",
             "alignment": "center",
-            "hide_subtext_mb": true,
+            "hide_subtext_mb": false,
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
