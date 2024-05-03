@@ -298,6 +298,44 @@
         "padding_bottom": 30,
         "padding_rate": 75
       }
+    },
+    "blog_jBitc7": {
+      "type": "blog",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Spaces",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Latest<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "heading_gap": 5,
+        "sec_heading_spacing": 20,
+        "blog": "spaces",
+        "limit": 12,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "show_blog_title": "disable",
+        "show_content": true,
+        "show_tags": false,
+        "show_author": false,
+        "show_comment": false,
+        "show_readmore": true,
+        "show_date": false,
+        "date": "%b %d",
+        "navUI": false,
+        "dotUI": true,
+        "Content_align": "start",
+        "image_ratio": "-square",
+        "image_size": "cover",
+        "layout_des": "2",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -306,6 +344,7 @@
     "top_heading_EEMXf8",
     "banner_masonry_w8zbwP",
     "categories_section_zbcrTJ",
-    "blog_4YVhxw"
+    "blog_4YVhxw",
+    "blog_jBitc7"
   ]
 }
