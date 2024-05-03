@@ -73,9 +73,9 @@
         "banner_1_7J8ynU": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pdp_cloud-humidifier_feature_sleep_photo.jpg",
+            "image": "shopify:\/\/shop_images\/20220727-Vitruvi-StudioSantiago-Request_3.jpg",
             "image_mb": "shopify:\/\/shop_images\/pdp_stone-diffuser-sleep-bundle_feature_image.jpg",
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
             "banner_url": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
             "banner_target": false,
             "sub_heading": "More sleep: something we all want, need, and deserve.",
@@ -95,7 +95,7 @@
             "btn_icon": "1",
             "col_w": "6",
             "row_count": 3,
-            "content_position": "start",
+            "content_position": "end-start",
             "alignment": "left",
             "content_pd_y": 30,
             "content_pd_x": 30,
