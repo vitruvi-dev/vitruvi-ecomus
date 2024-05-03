@@ -67,65 +67,6 @@
         "padding_rate": 75
       }
     },
-    "hero_image_YHGWfr": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_LAafiw": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Best Antibacterial and Antimicrobial Essential Oils",
-            "heading_fs": "h5",
-            "heading_fw": "normal"
-          }
-        },
-        "text_BNLnVY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>These oils—which smell amazing—can be used for a myriad of cleaning and cleansing purposes.<\/p>",
-            "adding_border": false
-          }
-        },
-        "button_rnbGUB": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Read more",
-            "btn_link": "shopify:\/\/blogs\/health-and-wellness\/which-essential-oils-are-antibacterial-and-antimicrobial",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_LAafiw",
-        "text_BNLnVY",
-        "button_rnbGUB"
-      ],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 550,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/page_home_category_diffuser-scents_fresh-air-kit-launch_featured_image.png",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": true,
-        "use_bg_content": false,
-        "content_position": "end-start",
-        "content_align": "left",
-        "content_position_mb": "center",
-        "content_align_mb": "left",
-        "full_width": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
     "banner_masonry_w8zbwP": {
       "type": "banner-masonry",
       "blocks": {
@@ -159,9 +100,9 @@
             "content_pd_y": 30,
             "content_pd_x": 30,
             "col_w_mb": "2",
-            "row_count_mb": 1,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "row_count_mb": 2,
+            "content_position_mb": "end-start",
+            "alignment_mb": "left"
           }
         },
         "banner_2_Fdyckt": {
@@ -284,7 +225,6 @@
     "heading",
     "main",
     "top_heading_EEMXf8",
-    "hero_image_YHGWfr",
     "banner_masonry_w8zbwP",
     "blog_4YVhxw"
   ]
