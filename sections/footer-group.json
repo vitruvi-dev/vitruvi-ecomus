@@ -50,6 +50,7 @@
         },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1": {
           "type": "social",
+          "disabled": true,
           "settings": {
             "border-column": false,
             "heading_sm": "Follow Us",
@@ -85,8 +86,8 @@
         "text_size": "hdt-text-base",
         "padding-t-main": 40,
         "padding-bt-main": 40,
-        "text_copR": "© [year] <span class=\"\">Ecomus<\/span> . All rights reserved.",
-        "svg": "visa,paypal,master,american_express,diners_club",
+        "text_copR": "© [year] <span class=\"\">Vitruvi<\/span> . All rights reserved.",
+        "svg": "",
         "height": 30,
         "width-image_list": 200,
         "enable_follow_on_shop": false,
