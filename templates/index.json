@@ -484,77 +484,6 @@
         "padding_rate": 75
       }
     },
-    "2114b9b3-c579-4b90-90d4-7c53d71f6449": {
-      "type": "image-gallery",
-      "blocks": {
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_2_emilytartaglia_diffuser-stone_terracotta.jpg",
-            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
-            "product_item": ""
-          }
-        },
-        "gallery_item_tYmTPp": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_4_sahnndra_cloud-humidifier_oat_v2.jpg",
-            "item_link": "shopify:\/\/products\/cloud-humidifier",
-            "product_item": ""
-          }
-        },
-        "gallery_item_HjHmnE": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_6_carissavianca_diffuser-stone_suede.jpg",
-            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
-            "product_item": ""
-          }
-        },
-        "gallery_item_VCqMjr": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_3_silchuknest_diffuser-stone_white.jpg",
-            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
-            "product_item": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1",
-        "gallery_item_tYmTPp",
-        "gallery_item_HjHmnE",
-        "gallery_item_VCqMjr"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "#MAKETHEAIRYOURS",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Shop Our Socials<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "heading_gap": 18,
-        "sec_heading_spacing": 60,
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "spacing_items": 7,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": true,
-        "dots_pos": "outline",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-2",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
     "cef9818d-d174-4a85-935f-31cd9035f495": {
       "type": "icon-box",
       "blocks": {
@@ -653,6 +582,77 @@
         "padding_bottom": 60,
         "padding_rate": 75
       }
+    },
+    "2114b9b3-c579-4b90-90d4-7c53d71f6449": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2_emilytartaglia_diffuser-stone_terracotta.jpg",
+            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "product_item": ""
+          }
+        },
+        "gallery_item_tYmTPp": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_4_sahnndra_cloud-humidifier_oat_v2.jpg",
+            "item_link": "shopify:\/\/products\/cloud-humidifier",
+            "product_item": ""
+          }
+        },
+        "gallery_item_HjHmnE": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_6_carissavianca_diffuser-stone_suede.jpg",
+            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "product_item": ""
+          }
+        },
+        "gallery_item_VCqMjr": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_3_silchuknest_diffuser-stone_white.jpg",
+            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "product_item": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1",
+        "gallery_item_tYmTPp",
+        "gallery_item_HjHmnE",
+        "gallery_item_VCqMjr"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "#MAKETHEAIRYOURS",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Shop Our Socials<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "heading_gap": 18,
+        "sec_heading_spacing": 60,
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "spacing_items": 7,
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": true,
+        "dots_pos": "outline",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -664,7 +664,7 @@
     "testimonials_2_DtFpRW",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
-    "2114b9b3-c579-4b90-90d4-7c53d71f6449",
-    "cef9818d-d174-4a85-935f-31cd9035f495"
+    "cef9818d-d174-4a85-935f-31cd9035f495",
+    "2114b9b3-c579-4b90-90d4-7c53d71f6449"
   ]
 }
