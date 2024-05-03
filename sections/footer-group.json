@@ -11,18 +11,18 @@
             "border-column": false,
             "heading_menu": "Help",
             "menu": "footer-ecomus-help",
-            "padding_inner": "10px,10px,10px,10px",
-            "custom_w_dk": "25"
+            "padding_inner": "",
+            "custom_w_dk": "20"
           }
         },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-2": {
           "type": "menu",
           "settings": {
-            "border-column": false,
+            "border-column": true,
             "heading_menu": "Shop",
             "menu": "header_desktop_vitruvi",
-            "padding_inner": "10px,10px,10px,10px",
-            "custom_w_dk": "25"
+            "padding_inner": "",
+            "custom_w_dk": "20"
           }
         },
         "menu_7BcAPW": {
@@ -32,7 +32,7 @@
             "heading_menu": "Company",
             "menu": "footer-company",
             "padding_inner": "10px,10px,10px,10px",
-            "custom_w_dk": "25"
+            "custom_w_dk": "20"
           }
         },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1": {
@@ -45,7 +45,7 @@
             "show_icon": true,
             "btn_fw": "semibold",
             "padding_inner": "",
-            "custom_w_dk": "25"
+            "custom_w_dk": "40"
           }
         },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1": {
@@ -64,7 +64,7 @@
             "socials_style": "simple",
             "socials_size": "medium",
             "padding_inner": "",
-            "custom_w_dk": "25"
+            "custom_w_dk": "100"
           }
         }
       },
