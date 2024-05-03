@@ -69,6 +69,7 @@
       "signature-essential-oil-kit"
     ],
     "currency_code_enabled": false,
+    "round_currency": false,
     "auto_currency": false,
     "favicon": "shopify:\/\/shop_images\/Favicon.png",
     "enable_compare": true,
