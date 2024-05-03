@@ -11,7 +11,7 @@
             "border-column": false,
             "heading_menu": "Help",
             "menu": "footer-ecomus-help",
-            "padding_inner": "",
+            "padding_inner": "10px,10px,10px,10px",
             "custom_w_dk": "25"
           }
         },
@@ -21,7 +21,7 @@
             "border-column": false,
             "heading_menu": "Shop",
             "menu": "header_desktop_vitruvi",
-            "padding_inner": "",
+            "padding_inner": "10px,10px,10px,10px",
             "custom_w_dk": "25"
           }
         },
@@ -31,7 +31,7 @@
             "border-column": false,
             "heading_menu": "Company",
             "menu": "footer-company",
-            "padding_inner": "",
+            "padding_inner": "10px,10px,10px,10px",
             "custom_w_dk": "25"
           }
         },
