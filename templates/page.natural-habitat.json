@@ -77,11 +77,11 @@
         "button_rnbGUB": {
           "type": "button",
           "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
+            "btn_label": "Read more",
+            "btn_link": "shopify:\/\/blogs\/health-and-wellness\/which-essential-oils-are-antibacterial-and-antimicrobial",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
             "btn_icon": "1"
           }
