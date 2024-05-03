@@ -62,13 +62,9 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
     "search_fullwidth": false,
-    "search_quick_link": "search-quick-link",
+    "search_quick_link": "header_desktop_vitruvi",
     "products_suggest": [
-      "cotton-jersey-top",
-      "jersey-thong-body",
-      "mini-crossbody-bag",
-      "cotton-twill-cap",
-      "campo-chromefree-leather"
+
     ],
     "currency_code_enabled": false,
     "auto_currency": false,
