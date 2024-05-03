@@ -545,7 +545,7 @@
         "placeholder_coupon": "Coupon code"
       }
     },
-    "quick_order_list":{
+    "quick_order_list": {
       "variant": "Variant",
       "variants": "Variants",
       "quantity": "Quantity",
@@ -621,7 +621,7 @@
     },
     "page": {
       "title": "Page title",
-      "show_view_all":"Show all"
+      "show_view_all": "Show all"
     },
     "newsletter_form": {
       "email_placeholder": "Enter email address",
