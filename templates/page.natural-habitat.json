@@ -170,64 +170,6 @@
         "padding_rate": 75
       }
     },
-    "hero_image_9gcHLg": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_wF7kWi": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ecomus theme shopify",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_eAa3qj": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
-            "adding_border": false
-          }
-        },
-        "button_3Gzahp": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_wF7kWi",
-        "text_eAa3qj",
-        "button_3Gzahp"
-      ],
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -357,7 +299,6 @@
     "heading",
     "top_heading_EEMXf8",
     "banner_76R9A7",
-    "hero_image_9gcHLg",
     "main",
     "blog_4YVhxw",
     "blog_6UgDC8",
