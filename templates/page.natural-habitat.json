@@ -14,11 +14,103 @@
       "block_order": [
         "5ecb9555-19e4-433b-8817-1ccaa3a41384"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "spacing_hd": 0,
         "padding_top": 80,
         "padding_bottom": 86,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_EEMXf8": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_hbqVRw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Natural Habitat",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_zg8dQV": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "An exploration of what it means to be at home—in our bodies, in our spaces, and in our world.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hbqVRw",
+        "sub_heading_zg8dQV"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_9gcHLg": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_wF7kWi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ecomus theme shopify",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_eAa3qj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
+            "adding_border": false
+          }
+        },
+        "button_3Gzahp": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wF7kWi",
+        "text_eAa3qj",
+        "button_3Gzahp"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
@@ -57,12 +149,12 @@
         "show_readmore": true,
         "show_date": false,
         "date": "%b %d",
-        "navUI": false,
-        "dotUI": false,
+        "navUI": true,
+        "dotUI": true,
         "Content_align": "start",
         "image_ratio": "-adapt_image",
         "image_size": "cover",
-        "layout_des": "2",
+        "layout_des": "1",
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 30,
@@ -100,7 +192,7 @@
         "Content_align": "start",
         "image_ratio": "-adapt_image",
         "image_size": "cover",
-        "layout_des": "2",
+        "layout_des": "1",
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 30,
@@ -149,6 +241,8 @@
   },
   "order": [
     "heading",
+    "top_heading_EEMXf8",
+    "hero_image_9gcHLg",
     "main",
     "blog_4YVhxw",
     "blog_6UgDC8",
