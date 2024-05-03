@@ -36,7 +36,7 @@
       ],
       "custom_css": [
         ".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}",
-        "h2[style=\"font-style: italic;\"] {font-family: \"Kaftan\"; font-style: normal;}"
+        "h2 {font-family: \"Kaftan\"; font-style: normal;}"
       ],
       "settings": {
         "full_width": true,
