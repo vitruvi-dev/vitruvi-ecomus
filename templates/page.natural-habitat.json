@@ -132,6 +132,7 @@
         "slide_item_bgwLix": {
           "type": "slide_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/pdp_essential-oil_peppermint_gallery_2_image.png",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-1",
