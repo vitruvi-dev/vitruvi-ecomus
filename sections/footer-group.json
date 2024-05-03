@@ -10,7 +10,7 @@
           "settings": {
             "border-column": false,
             "heading_menu": "Help",
-            "menu": "footer-ecomus",
+            "menu": "footer-ecomus-help",
             "padding_inner": "",
             "custom_w_dk": "25"
           }
