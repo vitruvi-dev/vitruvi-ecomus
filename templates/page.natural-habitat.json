@@ -294,6 +294,114 @@
         "padding_bottom": 30,
         "padding_rate": 75
       }
+    },
+    "tabs_image_with_text_hztBa8": {
+      "type": "tabs-image-with-text",
+      "blocks": {
+        "tab_item_HCJmim": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tabs name",
+            "image_pos": "left",
+            "alignment": "center",
+            "image": "shopify:\/\/shop_images\/pdp_essential-oil_peppermint_gallery_2_image.png",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_MNrXxq": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tabs name",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_RKRbMq": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tabs name",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_ydt6mf": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tabs name",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_PigXmj": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tabs name",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_HCJmim",
+        "tab_item_MNrXxq",
+        "tab_item_RKRbMq",
+        "tab_item_ydt6mf",
+        "tab_item_PigXmj"
+      ],
+      "settings": {
+        "sec_heading": "Sustainable Style",
+        "heading_tag": "h4",
+        "sec_heading_spacing": 30,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -303,6 +411,7 @@
     "main",
     "blog_4YVhxw",
     "blog_6UgDC8",
-    "blog_ACa8HY"
+    "blog_ACa8HY",
+    "tabs_image_with_text_hztBa8"
   ]
 }
