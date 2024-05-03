@@ -91,16 +91,17 @@
         "113b254d-cc79-43fc-9ed9-4670522082c9": {
           "type": "extra_link",
           "settings": {
-            "show_cp_cl": true,
-            "show_ask": true,
-            "show_phone": true,
+            "show_cp_cl": false,
+            "show_ask": false,
+            "show_phone": false,
             "show_delivery": true,
-            "page_delivery": "shipping-delivery",
-            "show_share_btn": true
+            "page_delivery": "frequently-asked-questions",
+            "show_share_btn": false
           }
         },
         "9586d18a-306e-45c8-813c-3c4b0cc99315": {
           "type": "delivery_return",
+          "disabled": true,
           "settings": {
             "icon_delivery": "ship",
             "content_devivery": "<p>Estimate delivery times:<strong> 12-26 days<\/strong> (International),<strong> 3-6 days<\/strong> (United States).<\/p>",
@@ -110,6 +111,7 @@
         },
         "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b": {
           "type": "img_trust",
+          "disabled": true,
           "settings": {
             "show_icon": true,
             "mess": "Guarantee Safe Checkout",
