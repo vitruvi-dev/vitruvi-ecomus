@@ -30,78 +30,9 @@
         "padding_rate": 75
       }
     },
-    "hero_image_QDmK3e": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_h9Ftgg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Natural Habitat Magazine",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_NUC4ic": {
-          "type": "text",
-          "settings": {
-            "text": "<p>An exploration of what it means to be at home—in our bodies, in our spaces, and in our world.<\/p>",
-            "adding_border": false
-          }
-        },
-        "button_8HbAXL": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_h9Ftgg",
-        "text_NUC4ic",
-        "button_8HbAXL"
-      ],
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/natural-habitat_about-us_banner_image_jpg.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
     "fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d": {
       "type": "main-blog",
       "blocks": {
-        "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-blog_cate-1": {
-          "type": "blog_cate",
-          "disabled": true,
-          "settings": {
-            "title": "Blog categories",
-            "cat_link_list": "",
-            "count": true
-          }
-        },
         "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-post-1": {
           "type": "post",
           "disabled": true,
@@ -113,6 +44,15 @@
             "limit_post": 3,
             "image_ratio": "-adapt_image",
             "image_size": "cover"
+          }
+        },
+        "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-blog_cate-1": {
+          "type": "blog_cate",
+          "disabled": true,
+          "settings": {
+            "title": "Blog categories",
+            "cat_link_list": "",
+            "count": true
           }
         },
         "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-tags-1": {
@@ -143,8 +83,8 @@
         }
       },
       "block_order": [
-        "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-blog_cate-1",
         "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-post-1",
+        "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-blog_cate-1",
         "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-tags-1",
         "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-gallery-1"
       ],
@@ -163,8 +103,8 @@
         "col_mb": "1",
         "hor_space": 30,
         "ver_space": 37,
-        "show_blog_title": "blog_tags",
-        "show_content": false,
+        "show_blog_title": "blog_current",
+        "show_content": true,
         "show_tags": false,
         "show_author": false,
         "show_comment": false,
@@ -191,7 +131,6 @@
   },
   "order": [
     "heading-page",
-    "hero_image_QDmK3e",
     "fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d"
   ]
 }
