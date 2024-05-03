@@ -64,7 +64,9 @@
     "search_fullwidth": false,
     "search_quick_link": "header_desktop_vitruvi",
     "products_suggest": [
-
+      "cloud-humidifier",
+      "stone-essential-oil-diffuser",
+      "signature-essential-oil-kit"
     ],
     "currency_code_enabled": false,
     "auto_currency": false,
