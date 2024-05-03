@@ -492,7 +492,7 @@
       "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
       "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
       "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
-      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
+      "taxes_and_shipping_at_checkout": "Shipping, taxes, and discounts will be calculated at checkout.",
       "terms_and_conditions_html": "I agree with the <a href=\"{{link}}\" target=\"_blank\">terms and conditions<\/a>.",
       "terms_and_conditions": "I agree with the terms and conditions.",
       "gift_wrap_html": "<span>Do you want a gift wrap?<\/span> Only <span class=\"hdt-font-semibold\">{{ money }}<\/span>",
