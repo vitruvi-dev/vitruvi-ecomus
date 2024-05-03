@@ -295,7 +295,7 @@
         "sec_heading_spacing": 50,
         "limit": 10,
         "product_des": "1",
-        "image_ratio": "custom-pr",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "col_dk": "4",
