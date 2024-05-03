@@ -301,44 +301,10 @@
         "tab_item_HCJmim": {
           "type": "tab_item",
           "settings": {
-            "title": "Tabs name",
+            "title": "The Best Antibacterial and Antimicrobial Essential Oils",
             "image_pos": "left",
             "alignment": "center",
             "image": "shopify:\/\/shop_images\/pdp_essential-oil_peppermint_gallery_2_image.png",
-            "heading": "",
-            "content": "",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "tab_item_MNrXxq": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Tabs name",
-            "image_pos": "left",
-            "alignment": "center",
-            "heading": "",
-            "content": "",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "tab_item_RKRbMq": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Tabs name",
-            "image_pos": "left",
-            "alignment": "center",
             "heading": "",
             "content": "",
             "btn_label": "Shop now",
@@ -387,8 +353,6 @@
       },
       "block_order": [
         "tab_item_HCJmim",
-        "tab_item_MNrXxq",
-        "tab_item_RKRbMq",
         "tab_item_ydt6mf",
         "tab_item_PigXmj"
       ],
