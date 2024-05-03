@@ -93,7 +93,7 @@
         "enable_follow_on_shop": false,
         "show_currency": false,
         "show_language": false,
-        "show_policy": true,
+        "show_policy": false,
         "section_fullwidth": false,
         "color_scheme": "scheme-1",
         "spacing_top": 0,
