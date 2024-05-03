@@ -30,31 +30,12 @@
     },
     "main": {
       "type": "main-collection",
-      "blocks": {
-        "gallery_9APghh": {
-          "type": "gallery",
-          "settings": {
-            "widget_heading": "Gallery",
-            "img1": "shopify:\/\/shop_images\/Cnn_logo_PNG2_1.png",
-            "link1": "",
-            "link2": "",
-            "link3": "",
-            "link4": "",
-            "link5": "",
-            "link6": "",
-            "open_link": "_blank"
-          }
-        }
-      },
-      "block_order": [
-        "gallery_9APghh"
-      ],
       "settings": {
-        "product_des": "1",
+        "product_des": "8",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
-        "pr_border": "none",
+        "pr_border": "in_image",
         "products_count": 12,
         "col_dk": "4",
         "col_tb": "3",
@@ -68,7 +49,7 @@
         "widget_heading": "Product categories",
         "cat_source": "2",
         "cat_link_list": "",
-        "count": false,
+        "count": true,
         "section_fullwidth": false,
         "color_scheme": "scheme-2",
         "padding_top": 30,
