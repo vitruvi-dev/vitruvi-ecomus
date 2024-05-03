@@ -142,6 +142,65 @@
         "padding_rate": 50
       }
     },
+    "testimonials_2_DtFpRW": {
+      "type": "testimonials-2",
+      "blocks": {
+        "quote_d3QewM": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        },
+        "quote_YfjNJF": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        },
+        "quote_D6QAcJ": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_d3QewM",
+        "quote_YfjNJF",
+        "quote_D6QAcJ"
+      ],
+      "settings": {
+        "heading_align": "start",
+        "top_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "top_description": "<p>★★★★★<br\/>14,000+ 5 star reviews<\/p>",
+        "subheading_size": "hdt-text-12xl",
+        "show_rating": false,
+        "rating": 5,
+        "content_align": "start",
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "color_scheme": "",
+        "pr_rating": "#FF7B54",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
     "top_heading_EyAW7j": {
       "type": "top-heading",
       "blocks": {
@@ -804,6 +863,7 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "d81e394c-3467-4709-a303-1d274f42da41",
+    "testimonials_2_DtFpRW",
     "top_heading_EyAW7j",
     "top_heading_dF3cHw",
     "testimonials_3_Gf4Tfd",
