@@ -191,10 +191,10 @@
       "type": "blog",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Blogs post",
+        "sec_heading": "Bodies",
         "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>23452<\/p>",
+        "heading_size": "h5",
+        "sec_subheading": "<p>At Home In Our<\/p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "heading_gap": 18,
