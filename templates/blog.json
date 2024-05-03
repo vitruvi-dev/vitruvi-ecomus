@@ -10,6 +10,7 @@
         },
         "b9f31384-d28d-43c3-bab7-7f8793c58f8d": {
           "type": "1",
+          "disabled": true,
           "settings": {
             "heading": "Blog Grid",
             "heading_size": "h4"
@@ -20,11 +21,72 @@
         "ad95c1a5-1776-432d-80af-57c647f901dc",
         "b9f31384-d28d-43c3-bab7-7f8793c58f8d"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "spacing_hd": 5,
         "padding_top": 69,
         "padding_bottom": 65,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_QDmK3e": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_h9Ftgg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Natural Habitat Magazine",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_NUC4ic": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An exploration of what it means to be at home—in our bodies, in our spaces, and in our world.<\/p>",
+            "adding_border": false
+          }
+        },
+        "button_8HbAXL": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_h9Ftgg",
+        "text_NUC4ic",
+        "button_8HbAXL"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/natural-habitat_about-us_banner_image_jpg.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+        "padding_top": 36,
+        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
@@ -129,6 +191,7 @@
   },
   "order": [
     "heading-page",
+    "hero_image_QDmK3e",
     "fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d"
   ]
 }
