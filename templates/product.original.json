@@ -139,16 +139,10 @@
             ]
           }
         },
-        "linked_products_eGmf4R": {
-          "type": "linked_products",
+        "custom_liquid_KRPgfT": {
+          "type": "custom_liquid",
           "settings": {
-            "option_name": "123",
-            "option_values": "123",
-            "product_list": [
-              "best-sleep-diffuser-humidifier-bundle"
-            ],
-            "linked_type": "image",
-            "linked_size": "large"
+            "custom_liquid": ""
           }
         }
       },
@@ -167,7 +161,7 @@
         "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b",
         "description_Fh49zX",
         "bundle_product_jhH3V3",
-        "linked_products_eGmf4R"
+        "custom_liquid_KRPgfT"
       ],
       "settings": {
         "space_content_media": true,
