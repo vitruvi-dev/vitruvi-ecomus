@@ -5,32 +5,12 @@
     "8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43": {
       "type": "footer",
       "blocks": {
-        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1": {
-          "type": "social",
-          "settings": {
-            "border-column": false,
-            "heading_sm": "",
-            "image_sm": "shopify:\/\/shop_images\/logo-black2.svg",
-            "link_img": "",
-            "image_w": 136,
-            "html_content": "<p>Address: 1234 Fashion Street, Suite 567,<\/p><p>New York, NY<\/p><p>Email: <strong>info@fashionshop.com<\/strong><\/p><p>Phone: <strong>(212)555-1234<\/strong><\/p>",
-            "adding_border": false,
-            "btn_label": "Get direction",
-            "btn_link": "shopify:\/\/pages\/contact-1",
-            "btn_fw": "semibold",
-            "enable_social": true,
-            "socials_style": "outline",
-            "socials_size": "medium",
-            "padding_inner": "",
-            "custom_w_dk": "25"
-          }
-        },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-1": {
           "type": "menu",
           "settings": {
             "border-column": false,
             "heading_menu": "Help",
-            "menu": "footer",
+            "menu": "footer_primary",
             "padding_inner": "",
             "custom_w_dk": "25"
           }
@@ -40,7 +20,7 @@
           "settings": {
             "border-column": false,
             "heading_menu": "Useful Links",
-            "menu": "footer-about-us",
+            "menu": "",
             "padding_inner": "",
             "custom_w_dk": "25"
           }
@@ -57,13 +37,32 @@
             "padding_inner": "",
             "custom_w_dk": "25"
           }
+        },
+        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1": {
+          "type": "social",
+          "settings": {
+            "border-column": false,
+            "heading_sm": "",
+            "link_img": "",
+            "image_w": 136,
+            "html_content": "",
+            "adding_border": false,
+            "btn_label": "",
+            "btn_link": "shopify:\/\/pages\/contact-1",
+            "btn_fw": "semibold",
+            "enable_social": true,
+            "socials_style": "simple",
+            "socials_size": "medium",
+            "padding_inner": "",
+            "custom_w_dk": "25"
+          }
         }
       },
       "block_order": [
-        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1",
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-1",
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-2",
-        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1"
+        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1",
+        "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1"
       ],
       "settings": {
         "collapse": true,
@@ -78,6 +77,7 @@
         "text_copR": "© [year] <span class=\"\">Ecomus<\/span> . All rights reserved.",
         "svg": "visa,paypal,master,american_express,diners_club",
         "height": 30,
+        "width-image_list": 200,
         "enable_follow_on_shop": false,
         "show_currency": true,
         "show_language": true,
