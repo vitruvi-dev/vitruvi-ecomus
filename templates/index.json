@@ -224,6 +224,16 @@
             "rating": 5
           }
         },
+        "quote_iQBLCn": {
+          "type": "quote",
+          "settings": {
+            "heading": "Elegant, High Quality",
+            "content": "<p>\"I rarely write reviews, but I must share that this beautiful ceramic diffuser adds elegant and understated beauty to our home. I had to have one in each room. Clean aromas emanate throughout. Thank you, Vitruvi, for your wonderful products and excellent customer service.\"<\/p>",
+            "author": "Donald F.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
         "quote_LUD398": {
           "type": "quote",
           "settings": {
@@ -237,6 +247,7 @@
       },
       "block_order": [
         "quote_d3QewM",
+        "quote_iQBLCn",
         "quote_LUD398"
       ],
       "settings": {
