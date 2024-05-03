@@ -38,7 +38,7 @@
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1": {
           "type": "newsletter",
           "settings": {
-            "border-column": true,
+            "border-column": false,
             "heading_newsletter": "Sign Up for Email",
             "text_newsletter": "<p>Get early access to new products and exclusive offers.<\/p>",
             "button_lb": "Subscribe",
