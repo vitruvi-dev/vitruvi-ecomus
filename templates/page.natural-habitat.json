@@ -207,11 +207,21 @@
             "title": "Spaces",
             "collection_link": "shopify:\/\/blogs\/spaces"
           }
+        },
+        "collection_item_XePrca": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/World.png",
+            "title": "Spaces",
+            "collection_link": "shopify:\/\/blogs\/world"
+          }
         }
       },
       "block_order": [
         "collection_item_NWn7Jk",
-        "collection_item_bRNJAP"
+        "collection_item_bRNJAP",
+        "collection_item_XePrca"
       ],
       "settings": {
         "color_scheme": "",
