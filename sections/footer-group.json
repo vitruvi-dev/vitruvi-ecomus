@@ -31,7 +31,7 @@
             "border-column": false,
             "heading_menu": "Company",
             "menu": "footer-company",
-            "padding_inner": "30px,30px,30px,30px",
+            "padding_inner": "",
             "custom_w_dk": "25"
           }
         },
