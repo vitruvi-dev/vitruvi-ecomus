@@ -243,12 +243,23 @@
             "enable_verify": true,
             "rating": 5
           }
+        },
+        "quote_xdzEwr": {
+          "type": "quote",
+          "settings": {
+            "heading": "In Love with my First Purchase from Vitruvi",
+            "content": "<p>Setting up was a breeze. It filled my whole living room, dining area, and kitchen with its scent. Wow, I could even smell it in the hallway. And when I opened a few windows, the scent traveled throughout the entire house. I’m so happy with my new diffuser. Highly recommend getting one.<\/p>",
+            "author": "Monica V.",
+            "enable_verify": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "quote_d3QewM",
         "quote_iQBLCn",
-        "quote_LUD398"
+        "quote_LUD398",
+        "quote_xdzEwr"
       ],
       "settings": {
         "heading_align": "center",
