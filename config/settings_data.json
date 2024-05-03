@@ -61,7 +61,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
-    "search_fullwidth": true,
+    "search_fullwidth": false,
     "search_quick_link": "search-quick-link",
     "products_suggest": [
       "cotton-jersey-top",
