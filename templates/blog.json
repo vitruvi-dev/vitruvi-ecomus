@@ -36,7 +36,7 @@
           "settings": {
             "title": "Recent Post",
             "color_recent_post": "",
-            "blog": "spaces",
+            "blog": "world",
             "show_blog_title": "blog_current",
             "limit_post": 3,
             "image_ratio": "-adapt_image",
