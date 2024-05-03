@@ -113,7 +113,7 @@
         "Content_align": "start",
         "image_ratio": "-square",
         "image_size": "cover",
-        "pagination_type": "infinite",
+        "pagination_type": "load_more",
         "paginate_pos": "center",
         "dis_pagination": 70,
         "sidebar_drawer": false,
