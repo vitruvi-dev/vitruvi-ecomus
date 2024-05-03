@@ -8,7 +8,7 @@
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-1": {
           "type": "menu",
           "settings": {
-            "border-column": false,
+            "border-column": true,
             "heading_menu": "Help",
             "menu": "footer-ecomus-help",
             "padding_inner": "",
@@ -28,10 +28,10 @@
         "menu_7BcAPW": {
           "type": "menu",
           "settings": {
-            "border-column": false,
+            "border-column": true,
             "heading_menu": "Company",
             "menu": "footer-company",
-            "padding_inner": "10px,10px,10px,10px",
+            "padding_inner": "",
             "custom_w_dk": "20"
           }
         },
