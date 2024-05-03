@@ -168,7 +168,7 @@
             "content_pd_y": 30,
             "content_pd_x": 30,
             "col_w_mb": "2",
-            "row_count_mb": 1,
+            "row_count_mb": 2,
             "content_position_mb": "end-start",
             "alignment_mb": "left"
           }
