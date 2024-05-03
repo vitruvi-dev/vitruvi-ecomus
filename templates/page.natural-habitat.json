@@ -234,6 +234,15 @@
             "title": "Culture",
             "collection_link": "shopify:\/\/blogs\/culture"
           }
+        },
+        "collection_item_aGfx73": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Impact_and_Identity_Mobile.jpg",
+            "title": "Impact & Identity",
+            "collection_link": "shopify:\/\/blogs\/impact-and-identity"
+          }
         }
       },
       "block_order": [
@@ -241,7 +250,8 @@
         "collection_item_bRNJAP",
         "collection_item_XePrca",
         "collection_item_F7LPyP",
-        "collection_item_QtyqBV"
+        "collection_item_QtyqBV",
+        "collection_item_aGfx73"
       ],
       "settings": {
         "color_scheme": "",
