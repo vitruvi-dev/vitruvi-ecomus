@@ -213,7 +213,16 @@
           "settings": {
             "collection": "",
             "image": "shopify:\/\/shop_images\/World.png",
-            "title": "Spaces",
+            "title": "World",
+            "collection_link": "shopify:\/\/blogs\/world"
+          }
+        },
+        "collection_item_F7LPyP": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Health_and_Wellness_Mobile.jpg",
+            "title": "Health & Wellness",
             "collection_link": "shopify:\/\/blogs\/health-and-wellness"
           }
         }
@@ -221,7 +230,8 @@
       "block_order": [
         "collection_item_NWn7Jk",
         "collection_item_bRNJAP",
-        "collection_item_XePrca"
+        "collection_item_XePrca",
+        "collection_item_F7LPyP"
       ],
       "settings": {
         "color_scheme": "",
