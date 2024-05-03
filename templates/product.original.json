@@ -200,6 +200,7 @@
         "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf"
       ],
+      "disabled": true,
       "settings": {
         "tabs_design": "tab",
         "enable_first_tab": false,
@@ -275,7 +276,6 @@
         "76c4580d-5d01-4485-b53a-98caea9f4605",
         "5d4020bf-1c84-4908-9a3d-f9d20d6b2025"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "space": 60
