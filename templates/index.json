@@ -283,6 +283,9 @@
         "quote_xdzEwr",
         "quote_d3QewM"
       ],
+      "custom_css": [
+        "@media only screen and (min-width: 1200px) {.hdt-top-heading {max-width: 20%; }}"
+      ],
       "settings": {
         "heading_align": "center",
         "top_heading": "",
