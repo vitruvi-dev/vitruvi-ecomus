@@ -47,6 +47,9 @@
           "settings": {
             "option_name": "Choose",
             "option_values": "",
+            "product_list": [
+
+            ],
             "linked_type": "image_with_title",
             "linked_size": "large"
           }
@@ -72,11 +75,11 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true,
             "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": true
+            "show_wishlist": false,
+            "show_compare": false
           }
         },
         "8253e974-5acb-4076-9230-03b0f804dcdf": {
@@ -142,6 +145,8 @@
         "enable_media_autoplay": true,
         "enable_video_looping": true,
         "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
         "image_zoom": "zoom",
         "image_zoom_type": "external",
         "zoom_level": 2,
@@ -244,16 +249,11 @@
           "type": "gallery",
           "settings": {
             "widget_heading": "Gallery",
-            "img1": "shopify:\/\/shop_images\/p-d3-2.jpg",
             "link1": "",
-            "img2": "shopify:\/\/shop_images\/p-d3.png",
             "link2": "",
-            "img3": "shopify:\/\/shop_images\/p-d9-2.jpg",
             "link3": "",
-            "img4": "shopify:\/\/shop_images\/p-d3-1.jpg",
             "link4": "",
             "link5": "",
-            "img6": "shopify:\/\/shop_images\/p-d2-1.jpg",
             "link6": "",
             "open_link": "_blank"
           }
@@ -287,6 +287,9 @@
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 10,
         "product_des": "1",
@@ -315,6 +318,9 @@
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 10,
         "product_des": "1",
