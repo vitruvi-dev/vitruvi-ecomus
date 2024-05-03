@@ -125,6 +125,7 @@
     },
     "065b2487-37b3-4771-810e-b88870b5b74f": {
       "type": "back_top",
+      "disabled": true,
       "settings": {
         "enable_hidden_mobile": false,
         "backtop_des": "1",
@@ -199,6 +200,7 @@
         "text_CGRdhi",
         "button_EpYa6c"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
         "heading": "Recommended Products",
