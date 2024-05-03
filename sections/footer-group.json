@@ -30,7 +30,7 @@
           "settings": {
             "border-column": false,
             "heading_newsletter": "Sign Up for Email",
-            "text_newsletter": "<p>Sign up to get first dibs on new arrivals, sales, exclusive content, events and more!<\/p>",
+            "text_newsletter": "<p>Sign up for our emails to get early access to new products and exclusive offers.<\/p>",
             "button_lb": "Subscribe",
             "show_icon": true,
             "btn_fw": "semibold",
