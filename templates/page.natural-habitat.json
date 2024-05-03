@@ -49,7 +49,7 @@
         "col_dk": "3",
         "col_tb": "3",
         "col_mb": "2",
-        "show_blog_title": "blog_current",
+        "show_blog_title": "disable",
         "show_content": false,
         "show_tags": false,
         "show_author": false,
