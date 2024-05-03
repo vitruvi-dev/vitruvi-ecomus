@@ -64,14 +64,14 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/pdp_essential-oil_peppermint_gallery_2_image.png",
             "color_scheme": "",
-            "banner_url": "",
+            "banner_url": "shopify:\/\/blogs\/health-and-wellness\/which-essential-oils-are-antibacterial-and-antimicrobial",
             "banner_target": false,
-            "sub_heading": "Every piece is made to last beyond the season",
+            "sub_heading": "Many plants have natural antibacterial and antimicrobial properties that are concentrated into their essential oils. These oils—which smell amazing—can be used for a myriad of cleaning and cleansing purposes. Here are a few of our favourites.",
             "sub_heading_fs": "base",
             "sub_heading_fw": "normal",
             "sub_heading_space": 15,
             "heading_first": false,
-            "heading": "UV charger",
+            "heading": "The Best Antibacterial and Antimicrobial Essential Oils",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -211,159 +211,11 @@
         "Content_align": "start",
         "image_ratio": "-adapt_image",
         "image_size": "cover",
-        "layout_des": "1",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
-    "blog_6UgDC8": {
-      "type": "blog",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Blogs post",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "blog": "spaces",
-        "limit": 8,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "2",
-        "show_blog_title": "blog_current",
-        "show_content": false,
-        "show_tags": false,
-        "show_author": false,
-        "show_comment": false,
-        "show_readmore": true,
-        "show_date": false,
-        "date": "%b %d",
-        "navUI": false,
-        "dotUI": false,
-        "Content_align": "start",
-        "image_ratio": "-adapt_image",
-        "image_size": "cover",
-        "layout_des": "1",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
-    "blog_ACa8HY": {
-      "type": "blog",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Blogs post",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "blog": "world",
-        "limit": 8,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "2",
-        "show_blog_title": "blog_current",
-        "show_content": false,
-        "show_tags": false,
-        "show_author": false,
-        "show_comment": false,
-        "show_readmore": true,
-        "show_date": false,
-        "date": "%b %d",
-        "navUI": false,
-        "dotUI": false,
-        "Content_align": "start",
-        "image_ratio": "-adapt_image",
-        "image_size": "cover",
         "layout_des": "2",
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 30,
         "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
-    "tabs_image_with_text_hztBa8": {
-      "type": "tabs-image-with-text",
-      "blocks": {
-        "tab_item_HCJmim": {
-          "type": "tab_item",
-          "settings": {
-            "title": "The Best Antibacterial and Antimicrobial Essential Oils",
-            "image_pos": "left",
-            "alignment": "center",
-            "image": "shopify:\/\/shop_images\/pdp_essential-oil_peppermint_gallery_2_image.png",
-            "heading": "",
-            "content": "",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "tab_item_ydt6mf": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Tabs name",
-            "image_pos": "left",
-            "alignment": "center",
-            "heading": "",
-            "content": "",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "tab_item_PigXmj": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Tabs name",
-            "image_pos": "left",
-            "alignment": "center",
-            "heading": "",
-            "content": "",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_HCJmim",
-        "tab_item_ydt6mf",
-        "tab_item_PigXmj"
-      ],
-      "settings": {
-        "sec_heading": "Sustainable Style",
-        "heading_tag": "h4",
-        "sec_heading_spacing": 30,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
         "padding_rate": 75
       }
     }
@@ -373,9 +225,6 @@
     "top_heading_EEMXf8",
     "banner_masonry_jwkgAQ",
     "main",
-    "blog_4YVhxw",
-    "blog_6UgDC8",
-    "blog_ACa8HY",
-    "tabs_image_with_text_hztBa8"
+    "blog_4YVhxw"
   ]
 }
