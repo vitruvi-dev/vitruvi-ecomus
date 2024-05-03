@@ -224,31 +224,20 @@
             "rating": 5
           }
         },
-        "quote_YfjNJF": {
+        "quote_LUD398": {
           "type": "quote",
           "settings": {
-            "heading": "",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
-            "rating": 5
-          }
-        },
-        "quote_D6QAcJ": {
-          "type": "quote",
-          "settings": {
-            "heading": "",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
+            "heading": "Absolutely love them!!! I can’t",
+            "content": "<p>Absolutely love them!!! I can’t wait to add to my collection! The quality of packaging and the bottles are a o clean and pretty! The oils are completely different from store bought oils and smell even better! Vitruvi’s customer service is on point - FedEx lost my package and vitruvi resent it for me!<\/p>",
+            "author": "Amy S.",
+            "enable_verify": true,
             "rating": 5
           }
         }
       },
       "block_order": [
         "quote_d3QewM",
-        "quote_YfjNJF",
-        "quote_D6QAcJ"
+        "quote_LUD398"
       ],
       "settings": {
         "heading_align": "center",
