@@ -133,7 +133,8 @@
           "type": "banner_1",
           "settings": {
             "image": "shopify:\/\/shop_images\/pdp_best-sleep-bundle_CloudWhite-StoneBlack_gallery_2_v1_image_3cb5727f-29a3-4dd4-9943-f0d95ba7cddb.jpg",
-            "color_scheme": "",
+            "image_mb": "shopify:\/\/shop_images\/pdp_humidifier-sleep-bundle_feature_image.jpg",
+            "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
             "banner_url": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
             "banner_target": false,
             "sub_heading": "More sleep: something we all want, need, and deserve.",
