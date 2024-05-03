@@ -139,41 +139,45 @@
             "alignment_mb": "left"
           }
         },
-        "banner_2_Fdyckt": {
-          "type": "banner_2",
+        "banner_1_XEPqtm": {
+          "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_scent-club_requirements_image.png",
-            "color_scheme": "",
-            "banner_url": "",
+            "image": "shopify:\/\/shop_images\/jaclyn-moy-BLZqzDZ02lI-unsplash.jpg",
+            "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+            "banner_url": "shopify:\/\/blogs\/spaces\/the-health-risks-of-burning-scented-candles",
             "banner_target": false,
-            "heading": "UV charger",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "Every piece is made to last beyond the season",
+            "sub_heading": "Burning candles can release harmful particulates, creating a need for a safer alternative.",
             "sub_heading_fs": "base",
             "sub_heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
+            "sub_heading_space": 15,
+            "heading_first": true,
+            "heading": "The Health Risks of Burning Scented Candles",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 15,
+            "btn_label": "Read more",
+            "btn_link": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
             "target": false,
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
             "btn_icon": "1",
             "col_w": "6",
             "row_count": 1,
-            "alignment": "center",
-            "content_pd_y": 15,
-            "content_pd_x": 15,
+            "content_position": "end-start",
+            "alignment": "left",
+            "content_pd_y": 30,
+            "content_pd_x": 30,
             "col_w_mb": "2",
             "row_count_mb": 1,
-            "alignment_mb": "center"
+            "content_position_mb": "end-start",
+            "alignment_mb": "left"
           }
         }
       },
       "block_order": [
         "banner_1_7J8ynU",
         "banner_1_c6GFkk",
-        "banner_2_Fdyckt"
+        "banner_1_XEPqtm"
       ],
       "settings": {
         "row_height": 200,
