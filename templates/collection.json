@@ -41,7 +41,7 @@
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
-        "pr_border": "in_image",
+        "pr_border": "on_item",
         "products_count": 12,
         "col_dk": "4",
         "col_tb": "3",
