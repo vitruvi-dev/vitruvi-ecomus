@@ -106,7 +106,7 @@
         "content_position": "end-start",
         "content_align": "left",
         "content_position_mb": "center",
-        "content_align_mb": "center",
+        "content_align_mb": "left",
         "full_width": true,
         "boxed_fullwidth": true,
         "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
