@@ -93,35 +93,6 @@
             "alignment_mb": "center"
           }
         },
-        "banner_2_VhUeAd": {
-          "type": "banner_2",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "UV charger",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "Every piece is made to last beyond the season",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "col_w": "6",
-            "row_count": 1,
-            "alignment": "center",
-            "content_pd_y": 15,
-            "content_pd_x": 15,
-            "col_w_mb": "2",
-            "row_count_mb": 1,
-            "alignment_mb": "center"
-          }
-        },
         "banner_3_fwtQ4R": {
           "type": "banner_3",
           "settings": {
@@ -145,7 +116,7 @@
             "btn_fw": "normal",
             "btn_icon": "none",
             "col_w": "6",
-            "row_count": 2,
+            "row_count": 1,
             "content_position": "center",
             "alignment": "center",
             "content_pd_y": 15,
@@ -155,12 +126,42 @@
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
+        },
+        "banner_2_VhUeAd": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palosanto.jpg",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "UV charger",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "Every piece is made to last beyond the season",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "col_w": "6",
+            "row_count": 2,
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
         "banner_1_UhK3jm",
-        "banner_2_VhUeAd",
-        "banner_3_fwtQ4R"
+        "banner_3_fwtQ4R",
+        "banner_2_VhUeAd"
       ],
       "settings": {
         "row_height": 200,
