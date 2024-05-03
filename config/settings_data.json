@@ -44,7 +44,7 @@
     "color_event": "hover",
     "remove_collection_url": true,
     "empty_cart_link": "shopify:\/\/collections\/all",
-    "free_ship_pr": "stone-essential-oil-diffuser",
+    "free_ship_pr": "free-shipping",
     "gift_wrap_pr": "gift-wrap",
     "animations_reveal_on_scroll": true,
     "animations_hover_elements": "light_skew",
