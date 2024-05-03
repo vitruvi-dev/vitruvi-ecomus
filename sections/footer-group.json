@@ -19,8 +19,8 @@
           "type": "menu",
           "settings": {
             "border-column": false,
-            "heading_menu": "Useful Links",
-            "menu": "",
+            "heading_menu": "Shop",
+            "menu": "header_desktop_vitruvi",
             "padding_inner": "",
             "custom_w_dk": "25"
           }
