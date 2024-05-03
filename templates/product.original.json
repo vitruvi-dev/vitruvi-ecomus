@@ -314,6 +314,7 @@
     },
     "recently": {
       "type": "recently-products",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Recently Viewed",
