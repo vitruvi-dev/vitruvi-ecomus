@@ -77,7 +77,7 @@
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-social-1"
       ],
       "settings": {
-        "collapse": true,
+        "collapse": false,
         "border-f": "top-bottom",
         "border-ps_main": "container",
         "heading_fs": "hdt-text-xl",
