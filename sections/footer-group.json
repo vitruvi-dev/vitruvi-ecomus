@@ -63,7 +63,7 @@
             "enable_social": true,
             "socials_style": "simple",
             "socials_size": "medium",
-            "padding_inner": "",
+            "padding_inner": "0px,50px,0px,50px",
             "custom_w_dk": "100"
           }
         }
