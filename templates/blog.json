@@ -46,10 +46,9 @@
         },
         "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-blog_cate-1": {
           "type": "blog_cate",
-          "disabled": true,
           "settings": {
-            "title": "Blog categories",
-            "cat_link_list": "",
+            "title": "Explore Natural Habitat",
+            "cat_link_list": "natural-habitat-blogs",
             "count": true
           }
         },
