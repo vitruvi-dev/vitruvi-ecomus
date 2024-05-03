@@ -50,16 +50,16 @@
       "settings": {
         "color_scheme": "",
         "show_free_shipping_bar": true,
-        "show_cart_note": true,
-        "show_gift_wrap": true,
-        "show_shipping_estimator": true,
+        "show_cart_note": false,
+        "show_gift_wrap": false,
+        "show_shipping_estimator": false,
         "heading": "Customers also bought",
         "product_list": [
-          "relaxed-fit-jersey-shirt",
-          "relaxed-fit-jersey-t-shirt-1",
-          "boxy-t-shirt",
-          "alice-mini-dusty-rose",
-          "alfredo-glass-vase"
+          "dusk-essential-oil-blend",
+          "boost-essential-oil-blend",
+          "essential-oil-kit",
+          "humidifier-sensor-hygrometer",
+          "humidifier-filters"
         ],
         "replaces_products_selected": true
       }
