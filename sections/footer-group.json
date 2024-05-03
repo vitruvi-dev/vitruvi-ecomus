@@ -44,7 +44,7 @@
             "button_lb": "Subscribe",
             "show_icon": true,
             "btn_fw": "semibold",
-            "padding_inner": "0px,50px,0px,0px",
+            "padding_inner": "0px,50px,0px,50px",
             "custom_w_dk": "40"
           }
         },
