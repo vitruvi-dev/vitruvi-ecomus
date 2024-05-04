@@ -176,12 +176,89 @@
         "padding_bottom": 36,
         "padding_rate": 75
       }
+    },
+    "image_with_tabs_content_mzLW4b": {
+      "type": "image-with-tabs-content",
+      "blocks": {
+        "tab_item_QQUprC": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Pay With Points",
+            "heading": "",
+            "content_text": "Use your points to save on your orders: 700 points = $1 off. It’s like regular online shopping, but more fun.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_6ERbFj": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tab title",
+            "heading": "Feel your best",
+            "content_text": "Enjoy early access to sitewide sales, product drops, and merch. It’s like priority boarding on an airplane.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_yWdAzt": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tab title",
+            "heading": "Feel your best",
+            "content_text": "During your birthday month, we’ll give you 7,000 points (that’s $10) to spend. Because we’re glad you were born.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_QQUprC",
+        "tab_item_6ERbFj",
+        "tab_item_yWdAzt"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "image_pos": "left",
+        "image_ratio": "adapt_image",
+        "custom_height": 860,
+        "custom_height_tb": 300,
+        "custom_height_mb": 300,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "main",
     "hero_image_eattDT",
-    "icon_box_f84bPD"
+    "icon_box_f84bPD",
+    "image_with_tabs_content_mzLW4b"
   ]
 }
