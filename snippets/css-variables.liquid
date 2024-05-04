@@ -230,6 +230,7 @@
 {{ css_variables  | strip_newlines | remove: '  ' | remove: '  ' }}
 
 {{ 'base.css' | asset_url | stylesheet_tag: preload: true }}
+{{ 'custom-fonts.css' | asset_url | stylesheet_tag: preload: true }}
 
 {%- # theme-check-disable AssetPreload -%}
 {%- if settings.library_font == "shopify" -%}
