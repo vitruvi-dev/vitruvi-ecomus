@@ -301,12 +301,13 @@
           "settings": {
             "icon_svg": "various_sizes",
             "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Oil_Drop_-_Circle.svg",
             "icon_width": 40,
             "icon_width_mb": 40,
-            "link": "",
+            "link": "shopify:\/\/collections\/scents",
             "open_link": false,
-            "title": "Various Sizes",
-            "content": "<p>Designed for every body and anyone, our activewear embraces diversity with a wide range of sizes and shapes, celebrating the beauty of individuality.<\/p>",
+            "title": "Immersive",
+            "content": "<p>All of our natural scents were sourced and blended to transform your home through a unique sensory experience. Whether you want to create a sense of energy, calm, or something in between, our diffuser scents and air sprays meet you where you are and take you where you want to go.<\/p>",
             "adding_border": false
           }
         }
