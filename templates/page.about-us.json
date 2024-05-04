@@ -168,15 +168,15 @@
         "d69de1c9-70c4-4b36-9fed-b87ceeb77765": {
           "type": "heading",
           "settings": {
-            "heading": "Established - 1995",
+            "heading": "Design-Forward",
             "heading_fs": "h4"
           }
         },
         "9ed111d8-5544-4fc9-b489-7f8a2f646045": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Ecomus was founded in 1995 by Jane Smith, a fashion lover with a<br class=\"hdt-hidden lg:hdt-block\"> passion for timeless style. Jane had always been drawn to classic<br class=\"hdt-hidden lg:hdt-block\"> pieces that could be worn season after season, and she believed that<br class=\"hdt-hidden lg:hdt-block\"> there was a gap in the market for a store that focused solely on classic<br class=\"hdt-hidden lg:hdt-block\"> women's clothing. She opened the first store in a small town in New<br class=\"hdt-hidden lg:hdt-block\"> England, where it quickly became a local favorite.",
-            "sub_fs": "base"
+            "sub_heading": "We never sacrifice form to achieve function, and believe that good design can’t just be seen—it can be felt. So we obsess over the details, rigorously researching, testing, and tweaking every product until we believe that it’s worthy of a place in your home.",
+            "sub_fs": "lg"
           }
         }
       },
@@ -188,6 +188,7 @@
         "@media (min-width: 1150px) {.hdt-image-with_text * + .hdt-subheading {margin-top: var(--spacing-1-8); } .hdt-image-with_text .hdt-content_wrap {padding-top: 150px; } .hdt-heading.hdt-h4 {font-size: var(--text-10xl); }}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/page_about-us_our-difference_1_image.jpg",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "scheme-2",
