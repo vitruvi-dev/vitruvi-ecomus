@@ -390,6 +390,7 @@
         "5110f6ce-bdad-4fec-a30b-1dfb01d31439",
         "35ea4b25-648d-4d18-9075-936a9214f091"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 1150px) {.hdt-testimonial-w-image .hdt-poropost-image {margin-bottom: var(--spacing-4); }}"
       ],
@@ -509,6 +510,7 @@
         "78cac12a-1667-4805-ad54-9cceefa3fa85",
         "gallery_item_zMDQWN"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-container {--rounded: 1rem;}"
       ],
