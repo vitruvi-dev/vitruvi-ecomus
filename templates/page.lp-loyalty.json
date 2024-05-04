@@ -55,7 +55,7 @@
         "button_WfcHyh": {
           "type": "button",
           "settings": {
-            "btn_label": "Shop now",
+            "btn_label": "Join the club",
             "btn_link": "#smile-home",
             "target": false,
             "btn_size": "base",
