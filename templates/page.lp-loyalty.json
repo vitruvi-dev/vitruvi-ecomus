@@ -45,13 +45,6 @@
             "heading_fw": "normal"
           }
         },
-        "text_gJ8xRq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>You’re invited to join our exclusive rewards program.<\/p>",
-            "adding_border": false
-          }
-        },
         "button_WfcHyh": {
           "type": "button",
           "settings": {
@@ -63,19 +56,26 @@
             "btn_fw": "normal",
             "btn_icon": "1"
           }
+        },
+        "text_gJ8xRq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You’re invited to join our exclusive rewards program.<\/p>",
+            "adding_border": false
+          }
         }
       },
       "block_order": [
         "heading_bVGfVY",
-        "text_gJ8xRq",
-        "button_WfcHyh"
+        "button_WfcHyh",
+        "text_gJ8xRq"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\"; font-style: normal;}"
       ],
       "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
+        "image_height": "fixed",
+        "fixed_height": 400,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
         "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop.png",
