@@ -235,7 +235,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/page_about-us_our-values_image.jpg",
         "first_image": "shopify:\/\/shop_images\/page_about-us_our-difference_1_image.jpg",
-        "style_image": "2",
+        "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "scheme-2",
         "image_last": true,
