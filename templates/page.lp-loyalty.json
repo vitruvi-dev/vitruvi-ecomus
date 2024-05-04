@@ -198,9 +198,9 @@
         "tab_item_6ERbFj": {
           "type": "tab_item",
           "settings": {
-            "title": "Tab title",
-            "heading": "Feel your best",
-            "content_text": "Enjoy early access to sitewide sales, product drops, and merch. It’s like priority boarding on an airplane.",
+            "title": "Early Access",
+            "heading": "",
+            "content_text": "<b>Early Access<\/b>\n<br><br>\nEnjoy early access to sitewide sales, product drops, and merch. It’s like priority boarding on an airplane.",
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
@@ -233,7 +233,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "",
+        "sec_heading": "Club Perks",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
@@ -241,6 +241,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
+        "main_img": "shopify:\/\/shop_images\/page_loyalty_club-perks_birthday-gift_image_desktop.png",
         "image_pos": "left",
         "image_ratio": "adapt_image",
         "custom_height": 860,
