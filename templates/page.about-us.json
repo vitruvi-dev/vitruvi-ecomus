@@ -351,65 +351,6 @@
         "padding_rate": 30
       }
     },
-    "055f73bd-4c9f-42b1-99be-8a45b6082359": {
-      "type": "testinonial-with-image",
-      "blocks": {
-        "template--21410527805744__055f73bd-4c9f-42b1-99be-8a45b6082359-quote-1": {
-          "type": "quote",
-          "settings": {
-            "heading": "Our customer’s reviews",
-            "content": "<p>Love love love! This product is so easy to use! I absolutely love the Alpha Arbutin product. It has made such a difference with my hyperpigmentation spots! I feel so much more confident without makeup on where as before I would never leave the house<\/p>",
-            "author": "Robert smith",
-            "product": "91-short-sleeve-shirt",
-            "rating": 5
-          }
-        },
-        "5110f6ce-bdad-4fec-a30b-1dfb01d31439": {
-          "type": "quote",
-          "settings": {
-            "heading": "Our customer’s reviews",
-            "content": "<p>I've ordered from a lot of places, a lot! and I must say that this place here has the best shipping experience ever. Thank you guys so much for this<\/p>",
-            "author": "Sandra",
-            "product": "91-short-sleeve-shirt",
-            "rating": 5
-          }
-        },
-        "35ea4b25-648d-4d18-9075-936a9214f091": {
-          "type": "quote",
-          "settings": {
-            "heading": "Our customer’s reviews",
-            "content": "<p>I love the incredibly diverse range of meals that Soulara offers! You can filter the list of meals by ingredients (e.g. no chilli or no nuts) and there's still heaps of options. I have been using Soulara throughout the past few years whenever life gets too busy to cook, and never get bored of the options!<\/p>",
-            "author": "Loretta",
-            "product": "91-short-sleeve-shirt",
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "template--21410527805744__055f73bd-4c9f-42b1-99be-8a45b6082359-quote-1",
-        "5110f6ce-bdad-4fec-a30b-1dfb01d31439",
-        "35ea4b25-648d-4d18-9075-936a9214f091"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "@media (min-width: 1150px) {.hdt-testimonial-w-image .hdt-poropost-image {margin-bottom: var(--spacing-4); }}"
-      ],
-      "settings": {
-        "dri_img_first": false,
-        "image_width": "one_img_style2",
-        "font_size_content": "hdt-text-2xl",
-        "navUI": true,
-        "nav_pos": "middle_in",
-        "nav_des": "outline",
-        "dotUI": false,
-        "color_scheme": "scheme-2",
-        "pr_rating": "#ff7b54",
-        "section_fullwidth": false,
-        "padding_top": 110,
-        "padding_bottom": 124,
-        "padding_rate": 25
-      }
-    },
     "6da3b683-3a88-416e-8665-c6985933cfaf": {
       "type": "custom-line",
       "settings": {
@@ -424,262 +365,15 @@
         "padding_rate": 75
       }
     },
-    "008db59f-61d9-4717-ba18-6a7bb9c03927": {
-      "type": "image-gallery",
-      "blocks": {
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-1": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-2": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-3": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-4": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-5": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "98713060-8687-4a69-8bf4-8fc9a179680a": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "f73f1a25-549c-46ff-83f2-edf1232f42de": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "0857e927-a067-4776-a483-57a7fb56f46a": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "78cac12a-1667-4805-ad54-9cceefa3fa85": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_zMDQWN": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-1",
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-2",
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-3",
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-4",
-        "template--21410527805744__008db59f-61d9-4717-ba18-6a7bb9c03927-gallery_item-5",
-        "98713060-8687-4a69-8bf4-8fc9a179680a",
-        "f73f1a25-549c-46ff-83f2-edf1232f42de",
-        "0857e927-a067-4776-a483-57a7fb56f46a",
-        "78cac12a-1667-4805-ad54-9cceefa3fa85",
-        "gallery_item_zMDQWN"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".hdt-container {--rounded: 1rem;}"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Shop Gram",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Inspire and let yourself be inspired, from one unique fashion to another.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 61,
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "5",
-        "col_tb": "2",
-        "col_mb": "1",
-        "spacing_items": 7,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": false,
-        "dots_pos": "default",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-2",
-        "padding_top": 62,
-        "padding_bottom": 77,
-        "padding_rate": 35
-      }
-    },
-    "image_with_text_Yc3Lwi": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_WJNFax": {
-          "type": "heading",
-          "settings": {
-            "heading": "60% Discount",
-            "heading_fs": "h3"
-          }
-        },
-        "button_8n9giw": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_WJNFax",
-        "button_8n9giw"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/page_about-us_our-story_image_desktop.jpg",
-        "style_image": "1",
-        "image_effect": "lunc",
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "image_gallery_manual_88kqjK": {
-      "type": "image-gallery-manual",
-      "blocks": {
-        "gallery_item_bJXege": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_EdHr74": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_XrW6EJ": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_PGxdcN": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_A4H7Kb": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_WDkV4V": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_Jfaaaa": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        }
-      },
-      "block_order": [
-        "gallery_item_bJXege",
-        "gallery_item_EdHr74",
-        "gallery_item_XrW6EJ",
-        "gallery_item_PGxdcN",
-        "gallery_item_A4H7Kb",
-        "gallery_item_WDkV4V",
-        "gallery_item_Jfaaaa"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "123123",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>123123<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "image_ratio": "square",
-        "image_size": true,
-        "row_height": 280,
-        "row_height_tb": 230,
-        "row_height_mb": 180,
-        "spacing_items": 10,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
     "image_with_tabs_content_YHArkT": {
       "type": "image-with-tabs-content",
       "blocks": {
         "tab_item_L3nULN": {
           "type": "tab_item",
           "settings": {
-            "title": "Tab title",
-            "heading": "Feel your best",
-            "content_text": "Add 3-8 drops of water and mix until tablet is fully dissolved.",
+            "title": "",
+            "heading": "",
+            "content_text": "When siblings Sara Panton and Sean Panton learned about the toxic ingredients found in traditional air care and home scenting products, they set out to create a better alternative for people and for the planet.\n<br><br>\nSara and Sean grew up in a small oceanside community on Vancouver Island, where they learned about natural ingredients and sustainable products at a young age. Inspired by those values, today they lead a passionate team with the goal of inspiring people to think differently about the air in their homes. After all, it should feel light, beautiful, and full of possibility.",
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
@@ -695,7 +389,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "",
+        "sec_heading": "Our Story",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
@@ -711,7 +405,7 @@
         "custom_height_mb": 300,
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 60,
         "padding_bottom": 52,
         "padding_rate": 75
       }
@@ -727,11 +421,7 @@
     "92907300-e2dd-450f-91df-8a2a70e85078",
     "4048e7b3-eff4-45f1-a0d3-bb9c3a956612",
     "f7f3ac60-3246-4e11-b8db-6976b318321d",
-    "055f73bd-4c9f-42b1-99be-8a45b6082359",
     "6da3b683-3a88-416e-8665-c6985933cfaf",
-    "008db59f-61d9-4717-ba18-6a7bb9c03927",
-    "image_with_text_Yc3Lwi",
-    "image_gallery_manual_88kqjK",
     "image_with_tabs_content_YHArkT"
   ]
 }
