@@ -212,15 +212,15 @@
         "2d310faa-f060-4155-ae9d-c99e333829ca": {
           "type": "heading",
           "settings": {
-            "heading": "Our mission",
+            "heading": "All-Natural",
             "heading_fs": "h4"
           }
         },
         "4b21378d-56e3-4143-9758-1f20b5455cc9": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Our mission is to empower people through sustainable fashion.<br class=\"hdt-hidden lg:hdt-block\">\nWe want everyone to look and feel good, while also doing our part to<br class=\"hdt-hidden lg:hdt-block\"> help the environment.We believe that fashion should be stylish,<br class=\"hdt-hidden lg:hdt-block\"> affordable and accessible to everyone. Body positivity and inclusivity<br class=\"hdt-hidden lg:hdt-block\"> are values that are at the heart of our brand.",
-            "sub_fs": "base"
+            "sub_heading": "Traditional air care products are made with toxic ingredients and cheap materials. We think it’s time for change, which is why all of our scents are natural, vegan, pure, and cruelty-free. They come in UV-protected bottles to preserve their quality, and are free from synthetic fragrances, formaldehyde, mineral oil, phthalates, parabens, and sulfates. These are pleasures you never have to feel guilty about.",
+            "sub_fs": "lg"
           }
         }
       },
@@ -234,7 +234,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/page_about-us_our-values_image.jpg",
-        "first_image": "shopify:\/\/shop_images\/page_about-us_our-difference_1_image.jpg",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "scheme-2",
