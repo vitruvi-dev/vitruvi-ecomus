@@ -541,6 +541,180 @@
         "padding_bottom": 77,
         "padding_rate": 35
       }
+    },
+    "image_with_text_Yc3Lwi": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WJNFax": {
+          "type": "heading",
+          "settings": {
+            "heading": "60% Discount",
+            "heading_fs": "h3"
+          }
+        },
+        "button_8n9giw": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WJNFax",
+        "button_8n9giw"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/page_about-us_our-story_image_desktop.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_gallery_manual_88kqjK": {
+      "type": "image-gallery-manual",
+      "blocks": {
+        "gallery_item_bJXege": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_EdHr74": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_XrW6EJ": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_PGxdcN": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_A4H7Kb": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_WDkV4V": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_Jfaaaa": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_bJXege",
+        "gallery_item_EdHr74",
+        "gallery_item_XrW6EJ",
+        "gallery_item_PGxdcN",
+        "gallery_item_A4H7Kb",
+        "gallery_item_WDkV4V",
+        "gallery_item_Jfaaaa"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "123123",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>123123<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "image_ratio": "square",
+        "image_size": true,
+        "row_height": 280,
+        "row_height_tb": 230,
+        "row_height_mb": 180,
+        "spacing_items": 10,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "image_with_tabs_content_YHArkT": {
+      "type": "image-with-tabs-content",
+      "blocks": {
+        "tab_item_L3nULN": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tab title",
+            "heading": "Feel your best",
+            "content_text": "Add 3-8 drops of water and mix until tablet is fully dissolved.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_L3nULN"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "main_img": "shopify:\/\/shop_images\/page_about-us_our-story_image_desktop.jpg",
+        "image_pos": "left",
+        "image_ratio": "adapt_image",
+        "custom_height": 860,
+        "custom_height_tb": 300,
+        "custom_height_mb": 300,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -555,6 +729,9 @@
     "f7f3ac60-3246-4e11-b8db-6976b318321d",
     "055f73bd-4c9f-42b1-99be-8a45b6082359",
     "6da3b683-3a88-416e-8665-c6985933cfaf",
-    "008db59f-61d9-4717-ba18-6a7bb9c03927"
+    "008db59f-61d9-4717-ba18-6a7bb9c03927",
+    "image_with_text_Yc3Lwi",
+    "image_gallery_manual_88kqjK",
+    "image_with_tabs_content_YHArkT"
   ]
 }
