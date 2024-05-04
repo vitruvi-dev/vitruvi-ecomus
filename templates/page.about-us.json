@@ -269,13 +269,14 @@
         "template--21410527805744__f7f3ac60-3246-4e11-b8db-6976b318321d-item-1": {
           "type": "item",
           "settings": {
-            "icon_svg": "leaf2",
+            "icon_svg": "smile",
             "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/pdp_replacement-part_stone-diffuser-cover_white_gallery_1_image_fe895ce1-b4bf-4153-9ff3-73cd9d836464.png",
             "icon_width": 40,
             "icon_width_mb": 40,
             "link": "",
             "open_link": false,
-            "title": "High-Quality Materials",
+            "title": "Iconic",
             "content": "<p>Crafted with precision and excellence, our activewear is meticulously engineered using premium materials to ensure unmatched comfort and durability.<\/p>",
             "adding_border": false
           }
@@ -289,7 +290,7 @@
             "icon_width_mb": 40,
             "link": "",
             "open_link": false,
-            "title": "Laconic Design",
+            "title": "Innovative",
             "content": "<p>Simplicity refined. Our activewear embodies the essence of minimalistic design, delivering effortless style that speaks volumes.<\/p>",
             "adding_border": false
           }
@@ -320,7 +321,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Quality is our priority",
+        "sec_heading": "Our products",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "<p>Our talented stylists have put together outfits that are perfect for the season. <\/p><p>They've variety of ways to inspire your next fashion-forward look.<\/p>",
