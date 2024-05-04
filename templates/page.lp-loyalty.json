@@ -70,6 +70,9 @@
         "text_QnGVTK",
         "button_WfcHyh"
       ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\"; font-style: normal;}"
+      ],
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 860,
