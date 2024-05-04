@@ -95,11 +95,93 @@
         "padding_bottom": 36,
         "padding_rate": 75
       }
+    },
+    "icon_box_f84bPD": {
+      "type": "icon-box",
+      "blocks": {
+        "item_btftL7": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "none",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Sign Up",
+            "content": "<p>Create an account online—it’s fast and completely free.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_G4knGW": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "none",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Earn Points",
+            "content": "<p>Start earning points with purchases, reviews, and more.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_Na3Rj9": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "none",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Unlock Benefits",
+            "content": "<p>Redeem your points to unlock incredible Club perks.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_btftL7",
+        "item_G4knGW",
+        "item_Na3Rj9"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Club Rules",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "hero_image_eattDT"
+    "hero_image_eattDT",
+    "icon_box_f84bPD"
   ]
 }
