@@ -213,9 +213,9 @@
         "tab_item_yWdAzt": {
           "type": "tab_item",
           "settings": {
-            "title": "Tab title",
-            "heading": "Feel your best",
-            "content_text": "During your birthday month, we’ll give you 7,000 points (that’s $10) to spend. Because we’re glad you were born.",
+            "title": "Birthday Gift",
+            "heading": "",
+            "content_text": "<b>Birthday Gift<\/b>\n<br><br>\nDuring your birthday month, we’ll give you 7,000 points (that’s $10) to spend. Because we’re glad you were born.",
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
