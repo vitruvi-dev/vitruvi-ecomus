@@ -185,7 +185,7 @@
           "settings": {
             "title": "Pay With Points",
             "heading": "",
-            "content_text": "Use your points to save on your orders: 700 points = $1 off. It’s like regular online shopping, but more fun.",
+            "content_text": "<b>Pay With Points<\/b>\n<br><br>\nUse your points to save on your orders: 700 points = $1 off. It’s like regular online shopping, but more fun.",
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
