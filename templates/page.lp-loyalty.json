@@ -269,6 +269,95 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "tabs_image_with_text_PwMN7A": {
+      "type": "tabs-image-with-text",
+      "blocks": {
+        "tab_item_79Fqq6": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Pay With Points",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "Pay With Points",
+            "content": "Use your points to save on your orders: 700 points = $1 off. It’s like regular online shopping, but more fun.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_Ptt7rE": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Early Access",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_Qgwn3W": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Birthday Gift",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_PVjNbN": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Special Sale",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_79Fqq6",
+        "tab_item_Ptt7rE",
+        "tab_item_Qgwn3W",
+        "tab_item_PVjNbN"
+      ],
+      "settings": {
+        "sec_heading": "Club Perks",
+        "heading_tag": "h4",
+        "sec_heading_spacing": 30,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -276,6 +365,7 @@
     "main",
     "hero_image_eattDT",
     "icon_box_f84bPD",
-    "image_with_tabs_content_mzLW4b"
+    "image_with_tabs_content_mzLW4b",
+    "tabs_image_with_text_PwMN7A"
   ]
 }
