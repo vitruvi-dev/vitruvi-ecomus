@@ -456,14 +456,14 @@
         "item_NyTghB": {
           "type": "item",
           "settings": {
-            "icon_svg": "leaf",
+            "icon_svg": "box2",
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
-            "title": "Sign up",
-            "content": "<p>7,000 points<\/p>",
+            "title": "Stock Up",
+            "content": "<p>Use your points towards future orders: 3,500 points gets you $5 off.<\/p>",
             "adding_border": false
           }
         },
@@ -518,7 +518,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Ways to Earn Points",
+        "sec_heading": "Ways to Redeem Points",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
