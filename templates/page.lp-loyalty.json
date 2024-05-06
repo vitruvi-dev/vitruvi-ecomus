@@ -562,7 +562,8 @@
         "banner_1_CkUQqA": {
           "type": "banner_1",
           "settings": {
-            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop_89b66dcd-cce7-49aa-aff6-283fdfb39f25.png",
+            "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
             "banner_url": "#smile-home",
             "banner_target": false,
             "sub_heading": "Want in? We thought you might.",
