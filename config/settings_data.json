@@ -499,7 +499,7 @@
           "text2": "#545454",
           "background": "#ffffff",
           "background_gradient": "",
-          "background2": "#f2f2f2",
+          "background2": "{{ shop.brand.colors.secondary[0].background }}",
           "button": "{{ shop.brand.colors.secondary[0].background }}",
           "button_label": "#ffffff",
           "button_border": "#000000",
