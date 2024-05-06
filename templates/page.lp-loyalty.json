@@ -563,7 +563,7 @@
           "type": "banner_1",
           "settings": {
             "color_scheme": "",
-            "banner_url": "#smile-home",
+            "banner_url": "\/pages\/take-care-club#smile-home",
             "banner_target": false,
             "sub_heading": "Want in? We thought you might.",
             "sub_heading_fs": "h6",
