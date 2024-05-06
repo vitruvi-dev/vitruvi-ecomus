@@ -96,6 +96,40 @@
         "padding_rate": 75
       }
     },
+    "top_heading_kprGGE": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_YGYAAm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Club Rules",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_zRAmmK": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YGYAAm",
+        "sub_heading_zRAmmK"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "icon_box_f84bPD": {
       "type": "icon-box",
       "blocks": {
@@ -147,6 +181,7 @@
         "item_G4knGW",
         "item_Na3Rj9"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Club Rules",
@@ -367,8 +402,8 @@
         "banner_3_D4nzG7": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop_89b66dcd-cce7-49aa-aff6-283fdfb39f25.png",
-            "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image.png",
+            "color_scheme": "scheme-1",
             "banner_url": "",
             "banner_target": false,
             "sub_heading": "Step 1",
@@ -393,94 +428,10 @@
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
-        },
-        "banner_3_HNUjYd": {
-          "type": "banner_3",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_1_z97dnV": {
-          "type": "banner_1",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "Every piece is made to last beyond the season",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "sub_heading_space": 15,
-            "heading_first": false,
-            "heading": "UV charger",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_2_7UajMB": {
-          "type": "banner_2",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "UV charger",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "Every piece is made to last beyond the season",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
         }
       },
       "block_order": [
-        "banner_3_D4nzG7",
-        "banner_3_HNUjYd",
-        "banner_1_z97dnV",
-        "banner_2_7UajMB"
+        "banner_3_D4nzG7"
       ],
       "settings": {
         "full_width": false,
@@ -562,6 +513,7 @@
     "heading",
     "main",
     "hero_image_eattDT",
+    "top_heading_kprGGE",
     "icon_box_f84bPD",
     "image_with_tabs_content_mzLW4b",
     "tabs_image_with_text_PwMN7A",
