@@ -428,10 +428,72 @@
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
+        },
+        "banner_3_bkNNgC": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image.png",
+            "color_scheme": "scheme-1",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 1",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Sign Up",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "Create an account online—it’s fast and completely free.",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_FKiCWg": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image.png",
+            "color_scheme": "scheme-1",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 1",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Sign Up",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "Create an account online—it’s fast and completely free.",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
-        "banner_3_D4nzG7"
+        "banner_3_D4nzG7",
+        "banner_3_bkNNgC",
+        "banner_3_FKiCWg"
       ],
       "settings": {
         "full_width": false,
