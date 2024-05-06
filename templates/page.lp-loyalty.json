@@ -669,6 +669,27 @@
             "title": "When are birthday points awarded?",
             "content": "The points will be rewarded on your birthday!"
           }
+        },
+        "accordion_item_d7jPTL": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How does friend referral work?",
+            "content": "Make sure you’re signed in to your Take Care Club account. To grab your referral link, click the Rewards icon in the bottom left corner. Share your referral link with your friend; once they click into your referral link and enter their email address, they will receive a $10 off discount code. Then, once your friend places their first order, you will receive a $10 off discount code. Please note that friend referrals are only available for customers who have never made a purchase with us or shared their email with us before."
+          }
+        },
+        "accordion_item_AKnQdE": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What happens to my earned points if I return my order?",
+            "content": "If you return an order, the points earned on that purchase will automatically be removed from your balance."
+          }
+        },
+        "accordion_item_HhxnKY": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What happens to my redeemed points if I return my order?",
+            "content": "Any points that you redeemed on an order you now wish to return will not be automatically added back to your account. That said, we’d be happy to help you out with this; please reach out to us at hello@vitruvi.com for support."
+          }
         }
       },
       "block_order": [
@@ -680,7 +701,10 @@
         "accordion_item_zeaWgJ",
         "accordion_item_kiXFNF",
         "accordion_item_AY6bdX",
-        "accordion_item_NrEfYm"
+        "accordion_item_NrEfYm",
+        "accordion_item_d7jPTL",
+        "accordion_item_AKnQdE",
+        "accordion_item_HhxnKY"
       ],
       "settings": {
         "accordion_position": "start",
