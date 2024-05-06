@@ -41,6 +41,8 @@
     "show_quick_view": false,
     "show_ultra_btn": false,
     "show_quick_add": false,
+    "pr_card_alignment": "left",
+    "show_rating": true,
     "uppercase_title": false,
     "image_source": "variant_img",
     "color_event": "hover",
