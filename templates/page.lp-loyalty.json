@@ -483,7 +483,7 @@
             "heading": "Unlock Benefits",
             "heading_fs": "h5",
             "heading_fw": "semibold",
-            "heading_space": 18,
+            "heading_space": 30,
             "desc": "Redeem your points to unlock incredible Club perks.",
             "des_space": 40,
             "btn_label": "",
@@ -563,6 +563,7 @@
         "accordion_item_CaPynx",
         "accordion_item_FtKg4W"
       ],
+      "disabled": true,
       "settings": {
         "accordion_position": "start",
         "accordion_icon": "1",
@@ -572,6 +573,77 @@
         "color_scheme": "",
         "padding_top": 85,
         "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "tabs_image_with_text_RaR4bp": {
+      "type": "tabs-image-with-text",
+      "blocks": {
+        "tab_item_jpCpDm": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Member",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "Welcome gift",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_QhmF98": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tabs name",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_6naL9J": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Tabs name",
+            "image_pos": "left",
+            "alignment": "center",
+            "heading": "",
+            "content": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_jpCpDm",
+        "tab_item_QhmF98",
+        "tab_item_6naL9J"
+      ],
+      "settings": {
+        "sec_heading": "Club Tiers",
+        "heading_tag": "h4",
+        "sec_heading_spacing": 30,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
         "padding_rate": 75
       }
     }
@@ -585,6 +657,7 @@
     "image_with_tabs_content_mzLW4b",
     "tabs_image_with_text_PwMN7A",
     "banner_masonry_AUJMT4",
-    "accordion_VzjTMH"
+    "accordion_VzjTMH",
+    "tabs_image_with_text_RaR4bp"
   ]
 }
