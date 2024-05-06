@@ -584,10 +584,10 @@
           "settings": {
             "title": "Member",
             "image_pos": "left",
-            "alignment": "center",
+            "alignment": "left",
             "image": "shopify:\/\/shop_images\/page_loyalty_take-care_ways-to-redeem_image_desktop.png",
             "heading": "Member",
-            "content": "0 TO 29,999 POINTS\n\nWelcome gift",
+            "content": "0 to 29,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>",
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
@@ -597,31 +597,15 @@
             "btn_icon": "1"
           }
         },
-        "tab_item_QhmF98": {
+        "tab_item_EAFcze": {
           "type": "tab_item",
           "settings": {
-            "title": "Tabs name",
+            "title": "Member",
             "image_pos": "left",
-            "alignment": "center",
-            "heading": "",
-            "content": "",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "tab_item_6naL9J": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Tabs name",
-            "image_pos": "left",
-            "alignment": "center",
-            "heading": "",
-            "content": "",
+            "alignment": "left",
+            "image": "shopify:\/\/shop_images\/page_loyalty_take-care_ways-to-redeem_image_desktop.png",
+            "heading": "Member",
+            "content": "0 to 29,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>",
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
@@ -634,11 +618,10 @@
       },
       "block_order": [
         "tab_item_jpCpDm",
-        "tab_item_QhmF98",
-        "tab_item_6naL9J"
+        "tab_item_EAFcze"
       ],
       "custom_css": [
-        ".hdt-col-info {text-align: center;}"
+
       ],
       "settings": {
         "sec_heading": "Club Tiers",
