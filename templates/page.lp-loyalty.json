@@ -585,7 +585,7 @@
             "title": "Member",
             "image_pos": "left",
             "alignment": "left",
-            "image": "shopify:\/\/shop_images\/page_loyalty_take-care_ways-to-redeem_image_desktop.png",
+            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_early-access_image_desktop_9d3a8d2f-6756-4519-88e7-f831d1ed785f.png",
             "heading": "Member",
             "content": "0 to 29,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>",
             "btn_label": "Shop now",
@@ -600,12 +600,30 @@
         "tab_item_EAFcze": {
           "type": "tab_item",
           "settings": {
-            "title": "Member",
+            "title": "Insider",
             "image_pos": "left",
             "alignment": "left",
-            "image": "shopify:\/\/shop_images\/page_loyalty_take-care_ways-to-redeem_image_desktop.png",
-            "heading": "Member",
-            "content": "0 to 29,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>",
+            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_special-sale_image_desktop_5951cab6-001d-46f6-8b39-f3b4b829bd69.png",
+            "heading": "Insider",
+            "content": "30,000 to 59,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>\n<br>\n➕ Early access to product drops and merch",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_eyC3Ut": {
+          "type": "tab_item",
+          "settings": {
+            "title": "VIP",
+            "image_pos": "left",
+            "alignment": "left",
+            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_birthday-gift_image_desktop.png",
+            "heading": "VIP",
+            "content": "30,000 to 59,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>\n<br>\n➕ Early access to product drops and merch<br>\n➕ Personal shopping",
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
@@ -618,7 +636,8 @@
       },
       "block_order": [
         "tab_item_jpCpDm",
-        "tab_item_EAFcze"
+        "tab_item_EAFcze",
+        "tab_item_eyC3Ut"
       ],
       "custom_css": [
 
