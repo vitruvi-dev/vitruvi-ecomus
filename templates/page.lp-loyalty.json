@@ -247,6 +247,7 @@
         "tab_item_yWdAzt",
         "tab_item_idhib4"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Club Perks",
@@ -348,6 +349,7 @@
         "tab_item_Qgwn3W",
         "tab_item_PVjNbN"
       ],
+      "disabled": true,
       "settings": {
         "sec_heading": "Club Perks",
         "heading_tag": "h4",
@@ -358,6 +360,63 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "accordion_VzjTMH": {
+      "type": "accordion",
+      "blocks": {
+        "title_83xf8j": {
+          "type": "title",
+          "settings": {
+            "title": "Club Perks"
+          }
+        },
+        "accordion_item_wQpBwV": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_cYHJMf": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_CaPynx": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_FtKg4W": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        }
+      },
+      "block_order": [
+        "title_83xf8j",
+        "accordion_item_wQpBwV",
+        "accordion_item_cYHJMf",
+        "accordion_item_CaPynx",
+        "accordion_item_FtKg4W"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -366,6 +425,7 @@
     "hero_image_eattDT",
     "icon_box_f84bPD",
     "image_with_tabs_content_mzLW4b",
-    "tabs_image_with_text_PwMN7A"
+    "tabs_image_with_text_PwMN7A",
+    "accordion_VzjTMH"
   ]
 }
