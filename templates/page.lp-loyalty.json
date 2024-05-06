@@ -518,123 +518,6 @@
         "padding_rate": 75
       }
     },
-    "banner_QkdTXi": {
-      "type": "banner",
-      "blocks": {
-        "banner_3_D4nzG7": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
-            "color_scheme": "scheme-1",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "Step 1",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Sign Up",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Create an account online—it’s fast and completely free.",
-            "des_space": 28,
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_bkNNgC": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
-            "color_scheme": "scheme-1",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "Step 2",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Earn Points",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Create an account online—it’s fast and completely free.",
-            "des_space": 28,
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_FKiCWg": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
-            "color_scheme": "scheme-1",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "Step 3",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Unlock Benefits",
-            "heading_fs": "h5",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Redeem your points to unlock incredible Club perks.",
-            "des_space": 28,
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "banner_3_D4nzG7",
-        "banner_3_bkNNgC",
-        "banner_3_FKiCWg"
-      ],
-      "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "col_dk": "3",
-        "row_height": 300,
-        "content_pd_y": 15,
-        "content_pd_x": 15,
-        "space_item": 30,
-        "col_tb": "3",
-        "row_height_tb": 500,
-        "space_item_tb": 15,
-        "row_height_mb": 250,
-        "space_item_mb": 15,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "accordion_VzjTMH": {
       "type": "accordion",
       "blocks": {
@@ -702,7 +585,6 @@
     "image_with_tabs_content_mzLW4b",
     "tabs_image_with_text_PwMN7A",
     "banner_masonry_AUJMT4",
-    "banner_QkdTXi",
     "accordion_VzjTMH"
   ]
 }
