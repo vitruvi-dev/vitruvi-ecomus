@@ -499,7 +499,7 @@
         "full_width": false,
         "boxed_fullwidth": false,
         "col_dk": "3",
-        "row_height": 1000,
+        "row_height": 300,
         "content_pd_y": 15,
         "content_pd_x": 15,
         "space_item": 30,
