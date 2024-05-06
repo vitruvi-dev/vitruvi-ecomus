@@ -470,14 +470,14 @@
         "item_kn4BTd": {
           "type": "item",
           "settings": {
-            "icon_svg": "payment2",
+            "icon_svg": "payment",
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
-            "title": "Shop",
-            "content": "<p>100 points for every $1 spent<\/p>",
+            "title": "Gift Card",
+            "content": "<p>Treat someone you love. Get a $25 gift card when you redeem 17,500 points.<\/p>",
             "adding_border": false
           }
         },
