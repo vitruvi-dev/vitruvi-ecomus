@@ -662,6 +662,13 @@
             "title": "How do I input my birthday?",
             "content": "To add your birthday, log into your Take Care Club account and head to the Ways to Earn Section. You can then select Edit Date next to Celebrate a Birthday. If your birthday is within the next 30 days, please reach out to us at hello@vitruvi.com to be manually awarded."
           }
+        },
+        "accordion_item_NrEfYm": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "When are birthday points awarded?",
+            "content": "The points will be rewarded on your birthday!"
+          }
         }
       },
       "block_order": [
@@ -672,7 +679,8 @@
         "accordion_item_6WKEch",
         "accordion_item_zeaWgJ",
         "accordion_item_kiXFNF",
-        "accordion_item_AY6bdX"
+        "accordion_item_AY6bdX",
+        "accordion_item_NrEfYm"
       ],
       "settings": {
         "accordion_position": "start",
