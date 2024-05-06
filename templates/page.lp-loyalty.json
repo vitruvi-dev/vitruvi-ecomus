@@ -353,6 +353,102 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "icon_box_wAxxXq": {
+      "type": "icon-box",
+      "blocks": {
+        "item_F9A89M": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "diamond",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Sign up",
+            "content": "<p>7,000 points<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_C9MimC": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "diamond",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Shop",
+            "content": "<p>100 points for every $1 spent<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_37mtin": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "diamond",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Instagram Follow",
+            "content": "<p>3,000 points<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_xBRb9M": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "diamond",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Leave A Review",
+            "content": "<p>4,000 points<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_F9A89M",
+        "item_C9MimC",
+        "item_37mtin",
+        "item_xBRb9M"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Ways to Earn Points",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": false,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "carousel_mobile": false,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -362,6 +458,7 @@
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
     "top_heading_hzmrET",
-    "tabs_image_with_text_RaR4bp"
+    "tabs_image_with_text_RaR4bp",
+    "icon_box_wAxxXq"
   ]
 }
