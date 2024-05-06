@@ -360,7 +360,7 @@
         "item_F9A89M": {
           "type": "item",
           "settings": {
-            "icon_svg": "diamond",
+            "icon_svg": "none",
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
