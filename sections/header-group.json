@@ -96,6 +96,9 @@
         "a503e0d7-367d-45ea-9298-fe6e14683f79",
         "46a3191f-a3ab-4661-a59b-167e0743a9e5"
       ],
+      "custom_css": [
+        ".hdt-mb-language_currencies {display: none;}"
+      ],
       "settings": {
         "header_layout": "logo_left",
         "header_fullwidth": true,
