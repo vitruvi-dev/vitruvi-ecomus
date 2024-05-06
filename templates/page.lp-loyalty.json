@@ -637,6 +637,9 @@
         "tab_item_QhmF98",
         "tab_item_6naL9J"
       ],
+      "custom_css": [
+        ".hdt-col-info {text-align: center;}"
+      ],
       "settings": {
         "sec_heading": "Club Tiers",
         "heading_tag": "h4",
