@@ -485,7 +485,7 @@
             "heading_fw": "semibold",
             "heading_space": 30,
             "desc": "Redeem your points to unlock incredible Club perks.",
-            "des_space": 12,
+            "des_space": 40,
             "btn_label": "",
             "btn_link": "",
             "target": false,
