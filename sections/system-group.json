@@ -137,9 +137,8 @@
     },
     "ae721dda-d94a-4267-887e-55888f578a11": {
       "type": "cookies",
-      "disabled": true,
       "settings": {
-        "show": "1",
+        "show": "2",
         "hor-ver-layout": "hor",
         "text": "This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.",
         "accept": "Accept Cookies",
