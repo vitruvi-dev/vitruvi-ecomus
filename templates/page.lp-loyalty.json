@@ -576,6 +576,31 @@
         "padding_rate": 75
       }
     },
+    "top_heading_hzmrET": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_RHrRXn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Turn your home into a Clubhouse.",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RHrRXn"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "tabs_image_with_text_RaR4bp": {
       "type": "tabs-image-with-text",
       "blocks": {
@@ -664,6 +689,7 @@
     "tabs_image_with_text_PwMN7A",
     "banner_masonry_AUJMT4",
     "accordion_VzjTMH",
+    "top_heading_hzmrET",
     "tabs_image_with_text_RaR4bp"
   ]
 }
