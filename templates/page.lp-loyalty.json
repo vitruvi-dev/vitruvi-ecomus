@@ -481,20 +481,6 @@
             "adding_border": false
           }
         },
-        "item_AYbYzh": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "health",
-            "custom_svg": "",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "",
-            "open_link": false,
-            "title": "Instagram Follow",
-            "content": "<p>3,000 points<\/p>",
-            "adding_border": false
-          }
-        },
         "item_yT3iqe": {
           "type": "item",
           "settings": {
@@ -504,8 +490,8 @@
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
-            "title": "Leave A Review",
-            "content": "<p>4,000 points<\/p>",
+            "title": "Exclusive Products",
+            "content": "<p>During select times throughout the year, redeem your points for special items.<\/p>",
             "adding_border": false
           }
         }
@@ -513,7 +499,6 @@
       "block_order": [
         "item_NyTghB",
         "item_kn4BTd",
-        "item_AYbYzh",
         "item_yT3iqe"
       ],
       "settings": {
