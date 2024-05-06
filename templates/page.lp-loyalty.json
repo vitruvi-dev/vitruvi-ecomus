@@ -360,7 +360,7 @@
         "item_F9A89M": {
           "type": "item",
           "settings": {
-            "icon_svg": "none",
+            "icon_svg": "leaf",
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
@@ -374,7 +374,7 @@
         "item_C9MimC": {
           "type": "item",
           "settings": {
-            "icon_svg": "none",
+            "icon_svg": "payment2",
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
@@ -388,7 +388,7 @@
         "item_37mtin": {
           "type": "item",
           "settings": {
-            "icon_svg": "none",
+            "icon_svg": "health",
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
@@ -402,7 +402,7 @@
         "item_xBRb9M": {
           "type": "item",
           "settings": {
-            "icon_svg": "none",
+            "icon_svg": "smile",
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
@@ -432,7 +432,7 @@
         "sec_heading_spacing": 30,
         "icon_pos_center": true,
         "icon_pos_center_mb": true,
-        "icon_circle": false,
+        "icon_circle": true,
         "space_icon_heading": "medium",
         "size_heading": "medium",
         "heading_uppercase": false,
