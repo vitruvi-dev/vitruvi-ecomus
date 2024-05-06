@@ -60,7 +60,7 @@
             "pick_mode": "first_available",
             "enable_historystate": true,
             "hide_sold_out": false,
-            "color_picker_type": "image",
+            "color_picker_type": "color",
             "color_size": "small",
             "picker_type": "block",
             "size_chart_source": "page",
