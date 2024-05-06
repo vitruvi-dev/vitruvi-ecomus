@@ -51,7 +51,7 @@
     "image_source": "custom_img",
     "color_style": "style-1",
     "color_event": "hover",
-    "color_maximum": 0,
+    "color_maximum": 5,
     "remove_collection_url": true,
     "empty_cart_link": "shopify:\/\/collections\/shop-all",
     "free_ship_pr": "free-shipping",
