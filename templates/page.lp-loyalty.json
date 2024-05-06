@@ -433,10 +433,82 @@
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
+        },
+        "banner_3_PTTmH7": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 2",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Earn Points",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 18,
+            "desc": "Start earning points with purchases, reviews, and more.",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_AYfUnB": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 1",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Unlock Benefits",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 18,
+            "desc": "Redeem your points to unlock incredible Club perks.",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
-        "banner_3_eNiYiw"
+        "banner_3_eNiYiw",
+        "banner_3_PTTmH7",
+        "banner_3_AYfUnB"
       ],
       "settings": {
         "row_height": 200,
