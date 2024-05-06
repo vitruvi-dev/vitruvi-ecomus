@@ -604,6 +604,63 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
+    },
+    "accordion_neAdmh": {
+      "type": "accordion",
+      "blocks": {
+        "title_NUc3H7": {
+          "type": "title",
+          "settings": {
+            "title": "Frequently asked questions"
+          }
+        },
+        "accordion_item_Rqg93b": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I join the Take Care Club?",
+            "content": "To create a free Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, select “Join Now” to become a member.\n\nNote: if you have an existing Vitruvi account, you don’t need to create a separate Take Care Club account; simply sign in with your Vitruvi login information through the Take Care Club panel."
+          }
+        },
+        "accordion_item_JFE7iV": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_6VkiNg": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_6WKEch": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        }
+      },
+      "block_order": [
+        "title_NUc3H7",
+        "accordion_item_Rqg93b",
+        "accordion_item_JFE7iV",
+        "accordion_item_6VkiNg",
+        "accordion_item_6WKEch"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -617,6 +674,7 @@
     "top_heading_jEprkm",
     "icon_box_wAxxXq",
     "icon_box_rGQcEN",
-    "banner_masonry_yQFmjm"
+    "banner_masonry_yQFmjm",
+    "accordion_neAdmh"
   ]
 }
