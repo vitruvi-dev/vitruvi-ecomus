@@ -624,22 +624,43 @@
         "accordion_item_JFE7iV": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How do I access my points and perks?",
+            "content": "To sign into your Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, click “Sign In” to access your membership information."
           }
         },
         "accordion_item_6VkiNg": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How do I redeem my points?",
+            "content": "Sign into your Take Care Club account through the rewards panel on the bottom left corner. Select “Ways To Redeem” to view all of your available rewards. To use your points, click “Redeem.”"
           }
         },
         "accordion_item_6WKEch": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Can I redeem my points towards subscription orders?",
+            "content": "No, points cannot be redeemed towards subscription orders."
+          }
+        },
+        "accordion_item_zeaWgJ": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Will my points expire?",
+            "content": "Yes—points expire two years after the date they were earned. We will send you a reminder 30 days before your points expire."
+          }
+        },
+        "accordion_item_kiXFNF": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Will my tier expire?",
+            "content": "No—you can move up in tiers, but not down. Once you’ve reached a higher tier, you will keep that status."
+          }
+        },
+        "accordion_item_AY6bdX": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I input my birthday?",
+            "content": "To add your birthday, log into your Take Care Club account and head to the Ways to Earn Section. You can then select Edit Date next to Celebrate a Birthday. If your birthday is within the next 30 days, please reach out to us at hello@vitruvi.com to be manually awarded."
           }
         }
       },
@@ -648,7 +669,10 @@
         "accordion_item_Rqg93b",
         "accordion_item_JFE7iV",
         "accordion_item_6VkiNg",
-        "accordion_item_6WKEch"
+        "accordion_item_6WKEch",
+        "accordion_item_zeaWgJ",
+        "accordion_item_kiXFNF",
+        "accordion_item_AY6bdX"
       ],
       "settings": {
         "accordion_position": "start",
