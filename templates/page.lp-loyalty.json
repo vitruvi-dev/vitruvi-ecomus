@@ -354,6 +354,31 @@
         "padding_rate": 75
       }
     },
+    "top_heading_jEprkm": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_HnF9L4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Club Tiers",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HnF9L4"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "icon_box_wAxxXq": {
       "type": "icon-box",
       "blocks": {
@@ -540,6 +565,7 @@
     "banner_masonry_AUJMT4",
     "top_heading_hzmrET",
     "tabs_image_with_text_RaR4bp",
+    "top_heading_jEprkm",
     "icon_box_wAxxXq",
     "icon_box_rGQcEN"
   ]
