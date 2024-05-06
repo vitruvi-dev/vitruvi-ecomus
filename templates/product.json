@@ -61,7 +61,7 @@
             "enable_historystate": true,
             "hide_sold_out": false,
             "color_picker_type": "color_rounded",
-            "color_size": "small",
+            "color_size": "medium",
             "picker_type": "block",
             "size_chart_source": "page",
             "size_chart_page": "size-chart"
