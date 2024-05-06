@@ -224,12 +224,28 @@
             "btn_fw": "normal",
             "btn_icon": "1"
           }
+        },
+        "tab_item_idhib4": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Special Sale",
+            "heading": "",
+            "content_text": "<b>Special Sale<\/b>\n<br><br>\nShop an exclusive sale. Shhh! It’s for your eyes only.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
         }
       },
       "block_order": [
         "tab_item_QQUprC",
         "tab_item_6ERbFj",
-        "tab_item_yWdAzt"
+        "tab_item_yWdAzt",
+        "tab_item_idhib4"
       ],
       "settings": {
         "heading_align": "center",
