@@ -367,8 +367,8 @@
         "banner_3_D4nzG7": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_early-access_image_desktop.png",
-            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop_89b66dcd-cce7-49aa-aff6-283fdfb39f25.png",
+            "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
             "banner_url": "",
             "banner_target": false,
             "sub_heading": "Step 1",
@@ -379,7 +379,7 @@
             "heading_fs": "h4",
             "heading_fw": "normal",
             "heading_space": 18,
-            "desc": "123123",
+            "desc": "Create an account online—it’s fast and completely free.",
             "des_space": 28,
             "btn_label": "",
             "btn_link": "",
