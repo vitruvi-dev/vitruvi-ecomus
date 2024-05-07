@@ -406,7 +406,7 @@
         "video_position": "left",
         "video_autoplay": true,
         "section_fullwidth": true,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-1",
         "image_last": false,
         "content_position": "center",
         "alignment": "left",
@@ -415,7 +415,7 @@
         "content_position_mb": "center",
         "alignment_mb": "center",
         "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
