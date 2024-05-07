@@ -90,7 +90,7 @@
         "content_align_mb": "center",
         "full_width": true,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+        "color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36,
         "padding_rate": 75
@@ -348,7 +348,7 @@
         "heading_tag": "h4",
         "sec_heading_spacing": 30,
         "section_fullwidth": false,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+        "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 52,
         "padding_rate": 75
@@ -563,7 +563,7 @@
           "type": "banner_1",
           "settings": {
             "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop_89b66dcd-cce7-49aa-aff6-283fdfb39f25.png",
-            "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+            "color_scheme": "scheme-1",
             "banner_url": "#smile-home",
             "banner_target": false,
             "sub_heading": "Want in? We thought you might.",
