@@ -366,6 +366,7 @@
         },
         "tab_html_r8KYLQ": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Ingredients",
             "content": "<p>{{ product.metafields.custom_fields.product_detail_1_copy | metafield_tag }}<\/p>",
@@ -374,6 +375,7 @@
         },
         "tab_html_WB9zxa": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Quality",
             "content": "<p>{{ product.metafields.custom_fields.product_detail_2_copy | metafield_tag }}<\/p>",
@@ -382,6 +384,7 @@
         },
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1": {
           "type": "tab_add",
+          "disabled": true,
           "settings": {
             "title": "Additional Information"
           }
