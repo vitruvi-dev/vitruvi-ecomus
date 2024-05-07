@@ -393,10 +393,10 @@
       "scheme-5": {
         "settings": {
           "text": "#000000",
-          "text2": "#45535e",
-          "background": "#fbf7f0",
+          "text2": "#474946",
+          "background": "#e2eef6",
           "background_gradient": "",
-          "background2": "#fbf7f0",
+          "background2": "#e2eef6",
           "button": "#000000",
           "button_label": "#ffffff",
           "button_border": "#000000",
