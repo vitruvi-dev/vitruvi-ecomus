@@ -236,7 +236,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/page_about-us_our-values_image.jpg",
         "style_image": "1",
-        "image_effect": "lunc",
+        "image_effect": "zoom-in",
         "color_scheme": "scheme-2",
         "image_last": true,
         "content_position": "start-center",
