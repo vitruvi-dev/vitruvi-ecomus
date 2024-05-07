@@ -19,9 +19,9 @@
             "special": "",
             "min": 10,
             "max": 64,
-            "content": "Selling fast! [count] people have  this in their carts.",
-            "icon_svg": "flash",
-            "ani": "hdt-ani-flash"
+            "content": "",
+            "icon_svg": "none",
+            "ani": "none"
           }
         },
         "3a222052-35a9-4684-a336-6a32a56eb638": {
