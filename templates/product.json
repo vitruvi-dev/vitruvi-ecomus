@@ -334,13 +334,22 @@
             "item_link": "",
             "product_item": ""
           }
+        },
+        "gallery_item_U3JRDx": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "item_link": "",
+            "product_item": ""
+          }
         }
       },
       "block_order": [
         "gallery_item_PQUc3y",
         "gallery_item_6yMpK6",
         "gallery_item_z6fGp9",
-        "gallery_item_iQPWbb"
+        "gallery_item_iQPWbb",
+        "gallery_item_U3JRDx"
       ],
       "settings": {
         "heading_align": "center",
