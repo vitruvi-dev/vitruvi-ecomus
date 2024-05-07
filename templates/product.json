@@ -210,9 +210,91 @@
         "item_GGB3di",
         "item_jG39Wq"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 30,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": true,
+        "space_icon_heading": "small",
+        "size_heading": "small",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "icon_box_C6TXn9": {
+      "type": "icon-box",
+      "blocks": {
+        "item_LxpgtV": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "leaf",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "shopify:\/\/pages\/frequently-asked-questions",
+            "open_link": false,
+            "title": "Only 100% pure essential oils",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_4BAcqB": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "skin",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Free from Synthetic fragrance",
+            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_dGEfXk": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "health",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "shopify:\/\/pages\/returns-and-exchanges",
+            "open_link": false,
+            "title": "No-Hassle Returns",
+            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_LxpgtV",
+        "item_4BAcqB",
+        "item_dGEfXk"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Our Quality Promise",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
@@ -601,6 +683,7 @@
     "breacrumb",
     "main",
     "icon_box_xRGYey",
+    "icon_box_C6TXn9",
     "tabs",
     "image_gallery_q4m8dn",
     "video_width_text2_anqqEU",
