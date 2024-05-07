@@ -110,6 +110,51 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_carousel_PhDWiU": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Best Sellers",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>98897987<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "essential-oil-diffusers",
+        "product_list": [
+
+        ],
+        "product_des": "3",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "in_image",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": true,
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -145,6 +190,7 @@
   "order": [
     "heading",
     "collections_list_q3JicK",
+    "featured_collection_carousel_PhDWiU",
     "main"
   ]
 }
