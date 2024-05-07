@@ -448,6 +448,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+        "first_image": "shopify:\/\/shop_images\/ugc_2_emilytartaglia_diffuser-stone_terracotta.jpg",
+        "second_image": "shopify:\/\/shop_images\/ugc_3_silchuknest_diffuser-stone_white.jpg",
         "style_image": "3",
         "image_effect": "zoom-in",
         "color_scheme": "",
