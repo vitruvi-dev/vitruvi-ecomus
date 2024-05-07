@@ -162,21 +162,21 @@
             "link": "",
             "open_link": false,
             "title": "Free Shipping",
-            "content": "<p>You will love at great low prices<\/p>",
+            "content": "<p>and Returns<\/p>",
             "adding_border": false
           }
         },
         "item_GGB3di": {
           "type": "item",
           "settings": {
-            "icon_svg": "return",
+            "icon_svg": "leaf2",
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
-            "title": "14 Day Returns",
-            "content": "<p>Within 30 days for an exchange<\/p>",
+            "title": "Lifetime warranty",
+            "content": "<p>on all Diffusers and Humidifiers<\/p>",
             "adding_border": false
           }
         },
