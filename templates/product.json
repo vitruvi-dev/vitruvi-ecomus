@@ -575,10 +575,24 @@
             "alignment": "center",
             "alignment_mb": "center"
           }
+        },
+        "banner_4_JnNhfK": {
+          "type": "banner_4",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "",
+            "sub_heading": "@sahndra",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
-        "banner_4_PNVhAq"
+        "banner_4_PNVhAq",
+        "banner_4_JnNhfK"
       ],
       "settings": {
         "full_width": true,
