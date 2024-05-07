@@ -566,7 +566,7 @@
         "banner_4_PNVhAq": {
           "type": "banner_4",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
             "color_scheme": "scheme-2",
             "banner_url": "",
             "banner_target": false,
@@ -605,7 +605,7 @@
         "col_tb": "3",
         "row_height_tb": 500,
         "space_item_tb": 15,
-        "row_height_mb": 250,
+        "row_height_mb": 300,
         "space_item_mb": 15,
         "padding_top": 40,
         "padding_bottom": 40,
