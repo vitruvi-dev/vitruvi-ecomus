@@ -292,9 +292,9 @@
       "type": "related-products",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "People Also Bought",
+        "sec_heading": "Pairs Well With",
         "heading_tag": "h3",
-        "heading_size": "h4",
+        "heading_size": "h5",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
