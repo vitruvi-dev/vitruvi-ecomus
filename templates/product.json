@@ -89,7 +89,7 @@
             "show_ask": false,
             "show_phone": false,
             "show_delivery": true,
-            "page_delivery": "",
+            "page_delivery":"shipping-delivery",
             "show_share_btn": false
           }
         },
