@@ -129,6 +129,9 @@
         "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b",
         "description_Fh49zX"
       ],
+      "custom_css": [
+        ".hdt-sticky-atc__qty-selector {display: none;}"
+      ],
       "settings": {
         "space_content_media": true,
         "media_width": 50,
