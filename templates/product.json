@@ -251,7 +251,7 @@
             "custom_svg": "",
             "icon_width": 30,
             "icon_width_mb": 30,
-            "link": "shopify:\/\/pages\/frequently-asked-questions",
+            "link": "",
             "open_link": false,
             "title": "Only 100% pure essential oils",
             "content": "",
@@ -268,7 +268,7 @@
             "link": "",
             "open_link": false,
             "title": "Free from Synthetic fragrance",
-            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "content": "",
             "adding_border": false
           }
         },
@@ -282,7 +282,7 @@
             "link": "shopify:\/\/pages\/returns-and-exchanges",
             "open_link": false,
             "title": "No-Hassle Returns",
-            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
+            "content": "",
             "adding_border": false
           }
         }
@@ -294,7 +294,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Our Quality Promise",
+        "sec_heading": "",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
