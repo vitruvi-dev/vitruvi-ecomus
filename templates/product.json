@@ -177,16 +177,24 @@
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
           "type": "tab_html",
           "settings": {
-            "title": "Product Features",
-            "content": "<p><strong>Natural air care<\/strong><br\/>Stone uses all-natural oils to safely scent your space. That means no harsh chemicals or other toxic ingredients.<\/p><p><strong>Functional art<\/strong><br\/>Stone’s high-quality matte ceramic cover looks like a piece of pottery in your home.<\/p><p><strong>Flexible timing<\/strong><br\/>Stone has two time settings (4-hour continuous and 8-hour intermittent) to scent your space on your schedule.<\/p><p><strong>Safety feature<\/strong><br\/>Stone automatically shuts off when either the time setting is done or the water runs out.<\/p><p><strong>Ambient light<\/strong><br\/>Stone has an optional LED light that gives off a soft glow.<\/p><p><strong>Diffusing capacity<\/strong><br\/>Stone scents rooms of up to 500 square-feet, making it perfect for bedrooms and living rooms.<\/p>",
+            "title": "Features",
+            "content": "<ul><li>Crafted with high-quality, matte ceramic, sourced responsibly.<\/li><li>Utilizes all-natural oils for safe, chemical-free scent diffusion.<\/li><li>Features dual time settings: 4-hour continuous and 8-hour intermittent, for adaptable fragrance delivery.<\/li><li>Equipped with an automatic shut-off mechanism for enhanced safety—activates when the timer stops or water depletes.<\/li><li>Includes an optional LED light, emitting a gentle, soothing glow.<\/li><li>Efficiently scents spaces up to 500 square-feet, ideal for both bedrooms and living areas.<\/li><\/ul>",
             "page": ""
           }
         },
         "tab_html_FAnLrE": {
           "type": "tab_html",
           "settings": {
-            "title": "Product Details",
+            "title": "Specs",
             "content": "<p><strong>Warranty<br\/><\/strong>Lifetime.<\/p><p><strong>Materials<br\/><\/strong>Matte ceramic, BPA-free plastic.<\/p><p><strong>Technology<br\/><\/strong>Ultrasonic: 2.5 vibrations\/second.<br\/>4-hour and 8-hour settings.<\/p><p><strong>Specs<br\/><\/strong>Width: 8.7 cm.<br\/>Height: 18 cm.<br\/>Weight: 1.1 lbs.<\/p><p><strong>Misting output<br\/><\/strong>Consistent: 1 fl. oz.\/hour.<br\/>Intermittent: 0.40 fl. oz.\/hour.<\/p><p><strong>Diffusing capacity<br\/><\/strong>500 sq.-ft.<\/p><p><strong>Safety<br\/><\/strong>Automatically turns off when time is up or when water runs out.<\/p><p><strong>Power cord<br\/><\/strong>Compatible with North American outlets.<\/p><p><strong>Water capacity<\/strong><br\/>70 ml.<\/p>",
+            "page": ""
+          }
+        },
+        "tab_html_eeFthN": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Warranty & Returns",
+            "content": "<p><strong>Natural air care<\/strong><br\/>Stone uses all-natural oils to safely scent your space. That means no harsh chemicals or other toxic ingredients.<\/p><p><strong>Functional art<\/strong><br\/>Stone’s high-quality matte ceramic cover looks like a piece of pottery in your home.<\/p><p><strong>Flexible timing<\/strong><br\/>Stone has two time settings (4-hour continuous and 8-hour intermittent) to scent your space on your schedule.<\/p><p><strong>Safety feature<\/strong><br\/>Stone automatically shuts off when either the time setting is done or the water runs out.<\/p><p><strong>Ambient light<\/strong><br\/>Stone has an optional LED light that gives off a soft glow.<\/p><p><strong>Diffusing capacity<\/strong><br\/>Stone scents rooms of up to 500 square-feet, making it perfect for bedrooms and living rooms.<\/p>",
             "page": ""
           }
         }
@@ -196,7 +204,8 @@
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1",
         "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
-        "tab_html_FAnLrE"
+        "tab_html_FAnLrE",
+        "tab_html_eeFthN"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
