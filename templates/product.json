@@ -567,7 +567,7 @@
           "type": "banner_4",
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
             "heading": "",
@@ -580,7 +580,7 @@
           "type": "banner_4",
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
             "heading": "",
