@@ -167,6 +167,21 @@
             "adding_border": false
           }
         },
+        "item_GGB3di": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "leaf2",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Lifetime Device Warranty",
+            "content": "",
+            "adding_border": false
+          }
+        },
         "item_jG39Wq": {
           "type": "item",
           "settings": {
@@ -181,27 +196,12 @@
             "content": "",
             "adding_border": false
           }
-        },
-        "item_GGB3di": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "leaf2",
-            "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "",
-            "open_link": false,
-            "title": "Lifetime Device Warranty",
-            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
-            "adding_border": false
-          }
         }
       },
       "block_order": [
         "item_pF3rwG",
-        "item_jG39Wq",
-        "item_GGB3di"
+        "item_GGB3di",
+        "item_jG39Wq"
       ],
       "settings": {
         "heading_align": "center",
@@ -215,15 +215,15 @@
         "sec_heading_spacing": 30,
         "icon_pos_center": true,
         "icon_pos_center_mb": true,
-        "icon_circle": false,
-        "space_icon_heading": "medium",
-        "size_heading": "medium",
+        "icon_circle": true,
+        "space_icon_heading": "small",
+        "size_heading": "small",
         "heading_uppercase": false,
         "space_heading_content": "small",
         "col_dk": "4",
         "col_tb": "3",
         "col_mb": "1",
-        "carousel_mobile": true,
+        "carousel_mobile": false,
         "border_style": "none",
         "fullwidth": true,
         "boxed_fullwidth": false,
