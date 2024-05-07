@@ -300,6 +300,76 @@
         "padding_rate": 50
       }
     },
+    "image_gallery_q4m8dn": {
+      "type": "image-gallery",
+      "blocks": {
+        "gallery_item_PQUc3y": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_6yMpK6": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD13_V1_Stone-White-Bathroom_2024_Q1_Evergreen_Image_Square.png",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_z6fGp9": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_iQPWbb": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD3_V1_White-Sleep-Book_2024_Q1_Evergreen_Image_Square.png",
+            "item_link": "",
+            "product_item": ""
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_PQUc3y",
+        "gallery_item_6yMpK6",
+        "gallery_item_z6fGp9",
+        "gallery_item_iQPWbb"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Transform Any Room",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Able to scent 500 sq.-ft., it's great for bedrooms, living rooms, and home offices.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "spacing_items": 10,
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": true,
+        "dots_pos": "outline",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "sidebar": {
       "type": "sidebar-product",
       "blocks": {
@@ -419,76 +489,6 @@
         "padding_rate": 75
       }
     },
-    "image_gallery_q4m8dn": {
-      "type": "image-gallery",
-      "blocks": {
-        "gallery_item_PQUc3y": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_6yMpK6": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD13_V1_Stone-White-Bathroom_2024_Q1_Evergreen_Image_Square.png",
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_z6fGp9": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_iQPWbb": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD3_V1_White-Sleep-Book_2024_Q1_Evergreen_Image_Square.png",
-            "item_link": "",
-            "product_item": ""
-          }
-        }
-      },
-      "block_order": [
-        "gallery_item_PQUc3y",
-        "gallery_item_6yMpK6",
-        "gallery_item_z6fGp9",
-        "gallery_item_iQPWbb"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Transform Any Room",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Able to scent 500 sq.-ft., it's great for bedrooms, living rooms, and home offices.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "1",
-        "spacing_items": 10,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": true,
-        "dots_pos": "outline",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
     "related": {
       "type": "related-products",
       "settings": {
@@ -575,9 +575,9 @@
     "main",
     "icon_box_xRGYey",
     "tabs",
+    "image_gallery_q4m8dn",
     "sidebar",
     "video_width_text2_anqqEU",
-    "image_gallery_q4m8dn",
     "related",
     "recently",
     "171512128966062076"
