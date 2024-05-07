@@ -373,10 +373,10 @@
       "scheme-4": {
         "settings": {
           "text": "#000000",
-          "text2": "#545454",
-          "background": "#f5f5f5",
+          "text2": "#474946",
+          "background": "#f7f8f6",
           "background_gradient": "",
-          "background2": "#ffffff",
+          "background2": "#e2eef6",
           "button": "#000000",
           "button_label": "#ffffff",
           "button_border": "#000000",
