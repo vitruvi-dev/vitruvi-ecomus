@@ -407,6 +407,148 @@
         "padding_rate": 50
       }
     },
+    "slideshow_split_6CwieR": {
+      "type": "slideshow-split",
+      "blocks": {
+        "slide_item_nYYwpW": {
+          "type": "slide_item",
+          "settings": {
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "scheme-1",
+            "heading": "Multi-faceted Beauty",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "sub_heading": "From casual to formal, we've got you covered",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "slide_item_DTrVFT": {
+          "type": "slide_item",
+          "settings": {
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "",
+            "heading": "Multi-faceted Beauty",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "sub_heading": "From casual to formal, we've got you covered",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "slide_item_FGaf3d": {
+          "type": "slide_item",
+          "settings": {
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "",
+            "heading": "Multi-faceted Beauty",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "sub_heading": "From casual to formal, we've got you covered",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_item_nYYwpW",
+        "slide_item_DTrVFT",
+        "slide_item_FGaf3d"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "color_scheme": "",
+        "loop": false,
+        "navUI": false,
+        "dotUI": false,
+        "dot_style": "default",
+        "dots_space": "small",
+        "auto_play": 0,
+        "pause_hover": false,
+        "image_position": false,
+        "image_position_mb": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_PHEd7b": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VqnzVG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Smells Like",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_Lh4PK8": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Shop our luxury silk button-up blouses made with ultra-soft, washable silk.",
+            "sub_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VqnzVG",
+        "sub_heading_Lh4PK8"
+      ],
+      "settings": {
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "image_gallery_q4m8dn": {
       "type": "image-gallery",
       "blocks": {
@@ -685,6 +827,8 @@
     "icon_box_xRGYey",
     "icon_box_C6TXn9",
     "tabs",
+    "slideshow_split_6CwieR",
+    "image_with_text_PHEd7b",
     "image_gallery_q4m8dn",
     "video_width_text2_anqqEU",
     "related",
