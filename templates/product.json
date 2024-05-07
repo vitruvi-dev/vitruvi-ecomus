@@ -157,6 +157,7 @@
           "settings": {
             "icon_svg": "box2",
             "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Truck.svg",
             "icon_width": 30,
             "icon_width_mb": 30,
             "link": "",
@@ -171,6 +172,7 @@
           "settings": {
             "icon_svg": "leaf2",
             "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
             "icon_width": 30,
             "icon_width_mb": 30,
             "link": "",
