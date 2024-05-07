@@ -67,6 +67,23 @@
             "progress_bar_max": 50
           }
         },
+        "order_jbW4Fg": {
+          "type": "order",
+          "disabled": true,
+          "settings": {
+            "hide_pre": true,
+            "icon_svg": "delivery",
+            "ani": "none",
+            "txt": "Order in the next [hour] to get it between [date_start] and [date_end]",
+            "ds": 10,
+            "de": 15,
+            "mode": "1",
+            "cut_day": "SAT,SUN",
+            "off_days": "23\/12\/****\n24\/12\/****\n01\/01\/****",
+            "frm_day": "t44, t45 t46",
+            "time": "16:00:00"
+          }
+        },
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
           "disabled": true,
@@ -80,39 +97,6 @@
           "type": "back_instock",
           "settings": {
             "only_show_soldout": true
-          }
-        },
-        "113b254d-cc79-43fc-9ed9-4670522082c9": {
-          "type": "extra_link",
-          "settings": {
-            "show_cp_cl": false,
-            "show_ask": false,
-            "show_phone": false,
-            "show_delivery": true,
-            "page_delivery":"shipping-delivery",
-            "show_share_btn": false
-          }
-        },
-        "9586d18a-306e-45c8-813c-3c4b0cc99315": {
-          "type": "delivery_return",
-          "disabled": true,
-          "settings": {
-            "icon_delivery": "ship",
-            "content_devivery": "<p>Estimate delivery times:<strong> 12-26 days<\/strong> (International),<strong> 3-6 days<\/strong> (United States).<\/p>",
-            "icon_return": "return_order",
-            "content_return": "<p>Return within <strong>30 days<\/strong> of purchase. Duties & taxes are non-refundable.<\/p>"
-          }
-        },
-        "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b": {
-          "type": "img_trust",
-          "disabled": true,
-          "settings": {
-            "show_icon": true,
-            "mess": "Guarantee Safe Checkout",
-            "source": "2",
-            "wimg": 350,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
-            "height": 30
           }
         },
         "description_Fh49zX": {
@@ -131,11 +115,9 @@
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
+        "order_jbW4Fg",
         "countdown_timer_pLgxfe",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "113b254d-cc79-43fc-9ed9-4670522082c9",
-        "9586d18a-306e-45c8-813c-3c4b0cc99315",
-        "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b",
         "description_Fh49zX"
       ],
       "custom_css": [
