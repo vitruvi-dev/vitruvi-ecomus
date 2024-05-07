@@ -244,21 +244,12 @@
             "title": "Collection name",
             "collection_link": ""
           }
-        },
-        "collection_item_LgpRdi": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": ""
-          }
         }
       },
       "block_order": [
         "collection_item_LFpQHF",
         "collection_item_ccpDXa",
-        "collection_item_9ypPpE",
-        "collection_item_LgpRdi"
+        "collection_item_9ypPpE"
       ],
       "settings": {
         "heading_align": "center",
@@ -274,22 +265,21 @@
         "collection_list": [
           "humidifiers",
           "essential-oil-diffusers",
-          "scents",
-          "bundle-and-save"
+          "scents"
         ],
         "collection_des": "1",
         "content_size": "xl",
         "content_weight": "medium",
         "text_transform": false,
-        "content_position": "center",
+        "content_position": "end-center",
         "content_padding": 30,
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "col_dk": "4",
-        "col_tb": "2",
-        "col_mb": "1",
+        "col_tb": "4",
+        "col_mb": "2",
         "space_items": "x",
-        "half_item": false,
+        "half_item": true,
         "navUI": false,
         "nav_des": "default",
         "nav_pos": "middle_in",
