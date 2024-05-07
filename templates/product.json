@@ -310,13 +310,6 @@
     "image_gallery_q4m8dn": {
       "type": "image-gallery",
       "blocks": {
-        "gallery_item_6yMpK6": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
-        },
         "gallery_item_z6fGp9": {
           "type": "gallery_item",
           "settings": {
@@ -351,7 +344,6 @@
         }
       },
       "block_order": [
-        "gallery_item_6yMpK6",
         "gallery_item_z6fGp9",
         "gallery_item_iQPWbb",
         "gallery_item_U3JRDx",
