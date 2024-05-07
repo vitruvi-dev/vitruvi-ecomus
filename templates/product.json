@@ -163,7 +163,22 @@
             "link": "",
             "open_link": false,
             "title": "Free Shipping",
-            "content": "<p>and Returns<\/p>",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_jG39Wq": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Returns.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "No-Hassle Returns",
+            "content": "",
             "adding_border": false
           }
         },
@@ -181,26 +196,12 @@
             "content": "<p>on all Diffusers and Humidifiers<\/p>",
             "adding_border": false
           }
-        },
-        "item_jG39Wq": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "support",
-            "custom_svg": "",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "",
-            "open_link": false,
-            "title": "Premium Suport",
-            "content": "<p>Outstanding premium support<\/p>",
-            "adding_border": false
-          }
         }
       },
       "block_order": [
         "item_pF3rwG",
-        "item_GGB3di",
-        "item_jG39Wq"
+        "item_jG39Wq",
+        "item_GGB3di"
       ],
       "settings": {
         "heading_align": "center",
