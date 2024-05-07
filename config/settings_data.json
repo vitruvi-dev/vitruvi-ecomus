@@ -10,6 +10,7 @@
     "badge_soldout": "#f2f2f2",
     "badge_preorder": "#55a653",
     "badge_custom": "#83b735",
+    "color_success": "#b2c2a9",
     "tooltip_bg": "#232323",
     "tooltip_text": "#ffffff",
     "library_font": "google",
