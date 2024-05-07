@@ -428,10 +428,18 @@
             "heading": "Transform Any Room",
             "heading_fs": "h4"
           }
+        },
+        "sub_heading_RwwzU3": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Able to scent 500 sq.-ft., it's great for bedrooms, living rooms, and home offices.",
+            "sub_heading_fs": "base"
+          }
         }
       },
       "block_order": [
-        "heading_qrKGAi"
+        "heading_qrKGAi",
+        "sub_heading_RwwzU3"
       ],
       "settings": {
         "spacing_item": 30,
