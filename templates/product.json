@@ -178,8 +178,8 @@
           "type": "tab_html",
           "settings": {
             "title": "Features",
-            "content": "<ul><li><strong>Natural air care<\/strong><br\/>Stone uses all-natural oils to safely scent your space. That means no harsh chemicals or other toxic ingredients.<\/li><li><strong>Functional art<\/strong><br\/>Stone’s high-quality matte ceramic cover looks like a piece of pottery in your home.<\/li><li><strong>Flexible timing<\/strong><br\/>Stone has two time settings (4-hour continuous and 8-hour intermittent) to scent your space on your schedule.<\/li><li><strong>Safety feature<\/strong><br\/>Stone automatically shuts off when either the time setting is done or the water runs out.<\/li><li><strong>Ambient light<\/strong><br\/>Stone has an optional LED light that gives off a soft glow.<\/li><li><strong>Diffusing capacity<\/strong><br\/>Stone scents rooms of up to 500 square-feet, making it perfect for bedrooms and living rooms.<\/li><\/ul>",
-            "page": ""
+            "content": "",
+            "page": "{{ product.metafields.ecomus[\"linked-page_product-features\"].value }}"
           }
         },
         "tab_html_FAnLrE": {
