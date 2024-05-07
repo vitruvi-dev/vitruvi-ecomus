@@ -54,8 +54,8 @@
         "button_w8fA9w"
       ],
       "settings": {
-        "image_height": "adapt_image_first",
-        "fixed_height": 860,
+        "image_height": "fixed",
+        "fixed_height": 600,
         "image_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
         "video": "shopify:\/\/files\/videos\/page_home_hero-v1_video_desktop.mp4",
@@ -410,23 +410,6 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
-    },
-    "icon_with_text_nnUUQU": {
-      "type": "icon_with_text",
-      "settings": {
-        "color_scheme": "",
-        "text": "",
-        "btn_label": "Back to shop",
-        "btn_link": "shopify:\/\/collections\/shop-all",
-        "target": false,
-        "btn_size": "base",
-        "btn_style": "outline",
-        "btn_fw": "normal",
-        "btn_icon": "1",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -440,7 +423,6 @@
     "4048e7b3-eff4-45f1-a0d3-bb9c3a956612",
     "f7f3ac60-3246-4e11-b8db-6976b318321d",
     "6da3b683-3a88-416e-8665-c6985933cfaf",
-    "image_with_tabs_content_YHArkT",
-    "icon_with_text_nnUUQU"
+    "image_with_tabs_content_YHArkT"
   ]
 }
