@@ -109,7 +109,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Best-Selling Diffusers",
+        "sec_heading": "Diffuser Bundles",
         "heading_tag": "h3",
         "heading_size": "h5",
         "sec_subheading": "",
@@ -117,7 +117,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "essential-oil-diffusers",
+        "collection": "diffuser-bundles",
         "product_list": [
 
         ],
