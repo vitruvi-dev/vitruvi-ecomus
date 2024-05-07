@@ -561,21 +561,13 @@
             "item_link": "",
             "product_item": ""
           }
-        },
-        "gallery_item_xA63gX": {
-          "type": "gallery_item",
-          "settings": {
-            "item_link": "",
-            "product_item": ""
-          }
         }
       },
       "block_order": [
         "gallery_item_PQUc3y",
         "gallery_item_6yMpK6",
         "gallery_item_z6fGp9",
-        "gallery_item_iQPWbb",
-        "gallery_item_xA63gX"
+        "gallery_item_iQPWbb"
       ],
       "settings": {
         "heading_align": "center",
@@ -589,8 +581,8 @@
         "sec_heading_spacing": 30,
         "image_ratio": "square",
         "image_size": true,
-        "col_dk": "5",
-        "col_tb": "2",
+        "col_dk": "4",
+        "col_tb": "4",
         "col_mb": "1",
         "spacing_items": 10,
         "navUI": false,
