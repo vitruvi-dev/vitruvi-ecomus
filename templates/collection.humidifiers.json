@@ -34,6 +34,75 @@
         "padding_rate": 75
       }
     },
+    "featured_product_8j78j6": {
+      "type": "featured-product",
+      "blocks": {
+        "title_3E8txT": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_YeVyBK": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_yBQ38x": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_wPzgQA": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_QTwa64": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_3E8txT",
+        "price_YeVyBK",
+        "description_yBQ38x",
+        "buy_buttons_wPzgQA",
+        "view_products_details_QTwa64"
+      ],
+      "settings": {
+        "product": "cloud-humidifier",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -68,6 +137,7 @@
   },
   "order": [
     "heading",
+    "featured_product_8j78j6",
     "main"
   ]
 }
