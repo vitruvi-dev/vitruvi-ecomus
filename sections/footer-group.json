@@ -2,6 +2,23 @@
   "type": "footer",
   "name": "Footer Group",
   "sections": {
+    "icon_with_text_TnVPT3": {
+      "type": "icon_with_text",
+      "settings": {
+        "color_scheme": "",
+        "text": "",
+        "btn_label": "Back to shop",
+        "btn_link": "shopify:\/\/collections\/shop-all",
+        "target": false,
+        "btn_size": "base",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "btn_icon": "none",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43": {
       "type": "footer",
       "blocks": {
@@ -107,6 +124,7 @@
     }
   },
   "order": [
+    "icon_with_text_TnVPT3",
     "8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43"
   ]
 }
