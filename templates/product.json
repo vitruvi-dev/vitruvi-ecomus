@@ -489,36 +489,6 @@
         "padding_rate": 75
       }
     },
-    "image_with_text_MmVp9n": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_YegxXf": {
-          "type": "heading",
-          "settings": {
-            "heading": "60% Discount",
-            "heading_fs": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "heading_YegxXf"
-      ],
-      "settings": {
-        "style_image": "1",
-        "image_effect": "lunc",
-        "color_scheme": "scheme-4",
-        "image_last": true,
-        "content_position": "center",
-        "alignment": "left",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "related": {
       "type": "related-products",
       "settings": {
@@ -608,7 +578,6 @@
     "sidebar",
     "video_width_text2_anqqEU",
     "image_gallery_q4m8dn",
-    "image_with_text_MmVp9n",
     "related",
     "recently",
     "171512128966062076"
