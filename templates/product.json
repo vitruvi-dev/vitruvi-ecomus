@@ -177,7 +177,7 @@
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
           "type": "tab_html",
           "settings": {
-            "title": "Diffuser Features",
+            "title": "Features",
             "content": "",
             "page": "{{ product.metafields.ecomus[\"linked-page_product-features\"].value }}"
           }
@@ -186,8 +186,8 @@
           "type": "tab_html",
           "settings": {
             "title": "Specs",
-            "content": "<ul><li><strong>Materials:<\/strong><br\/>Constructed from matte ceramic and BPA-free plastic.<\/li><li><strong>Ultrasonic technology:<\/strong><br\/>2.5 vibrations per second.<\/li><li><strong>Time-settings:<\/strong><br\/>4-hour continuous<br\/>8-hour intermittent<\/li><li><strong>Exterior dimensions:<\/strong><br\/>Width 8.7 cm<br\/>Height 18 cm<\/li><li><strong>Weight:<\/strong><br\/>1.1 lbs<\/li><li><strong>Misting output:<\/strong><br\/>Consistent at 1 fl. oz.\/hour,<br\/>Intermittent at 0.40 fl. oz.\/hour.<\/li><li><strong>Diffusing capacity:<\/strong><br\/>500 sq.-ft.<\/li><li><strong>Water reservoir capacity:<\/strong><br\/>70 ml.<\/li><\/ul><p><em>Includes a power cord compatible with North American outlets.<\/em><\/p>",
-            "page": ""
+            "content": "",
+            "page": "{{ product.metafields.ecomus[\"linked-page_product-specs\"].value }}"
           }
         },
         "tab_html_eeFthN": {
