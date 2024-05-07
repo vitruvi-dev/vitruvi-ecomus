@@ -360,14 +360,14 @@
           "button": "#474946",
           "button_label": "#ffffff",
           "button_border": "#474946",
-          "secondary_button_label": "#474946",
+          "secondary_button_label": "#ffffff",
           "line_border": "#474946",
           "overlay": "#474946",
           "pr_text": "#ffffff",
-          "price": "#474946",
-          "sale_price": "#474946",
+          "price": "#ffffff",
+          "sale_price": "#ffffff",
           "input_primary": "#ffffff",
-          "input_secondary": "#474946"
+          "input_secondary": "#000000"
         }
       },
       "scheme-4": {
