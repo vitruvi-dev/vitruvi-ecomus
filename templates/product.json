@@ -310,18 +310,9 @@
     "image_gallery_q4m8dn": {
       "type": "image-gallery",
       "blocks": {
-        "gallery_item_PQUc3y": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
-            "item_link": "",
-            "product_item": ""
-          }
-        },
         "gallery_item_6yMpK6": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD13_V1_Stone-White-Bathroom_2024_Q1_Evergreen_Image_Square.png",
             "item_link": "",
             "product_item": ""
           }
@@ -360,7 +351,6 @@
         }
       },
       "block_order": [
-        "gallery_item_PQUc3y",
         "gallery_item_6yMpK6",
         "gallery_item_z6fGp9",
         "gallery_item_iQPWbb",
