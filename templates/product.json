@@ -194,8 +194,8 @@
           "type": "tab_html",
           "settings": {
             "title": "Warranty & Returns",
-            "content": "<p>We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help. Diffusers can be <a href=\"\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"Returns and Exchanges\">exchanged or returned within 30 days of purchase<\/a>.<\/p><p>Our diffusers and humidifiers are made to last and backed by a <a href=\"\/pages\/warranty\" target=\"_blank\" title=\"Warranty\">lifetime warranty<\/a>.<\/p><p>For shipping info, see our <a href=\"\/pages\/frequently-asked-questions\" target=\"_blank\" title=\"Frequently Asked Questions\">FAQ<\/a>.<\/p>",
-            "page": ""
+            "content": "",
+            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
           }
         }
       },
