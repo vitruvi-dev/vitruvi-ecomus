@@ -28,10 +28,10 @@
       ],
       "settings": {
         "spacing_hd": 5,
-        "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD3_V1_White-Sleep-Book_2024_Q1_Evergreen_Image_Square.png",
+        "image": "shopify:\/\/shop_images\/page_home_shop-diffusers-background_2__v2_desktop_image.png",
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 15,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
