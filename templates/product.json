@@ -385,7 +385,7 @@
         "sub_heading_jeJGRx": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "With a matte ceramic finish, it doubles as a piece of art in your home.",
+            "sub_heading": "With a matte ceramic finish, the Stone Diffuser doubles as a piece of art in your home.",
             "sub_fs": "lg"
           }
         }
@@ -397,7 +397,7 @@
       "settings": {
         "video_option": "1",
         "video_height": "adapt_image_first",
-        "fixed_height": 860,
+        "fixed_height": 500,
         "video_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
         "video": "shopify:\/\/files\/videos\/pdp_stone-diffuser_feature_1_video_mobile.mp4",
