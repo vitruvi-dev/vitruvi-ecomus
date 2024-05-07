@@ -378,14 +378,14 @@
           "background_gradient": "",
           "background2": "#dedfdd",
           "button": "#000000",
-          "button_label": "#ffffff",
+          "button_label": "#f7f8f6",
           "button_border": "#000000",
           "secondary_button_label": "#000000",
-          "line_border": "#ebebeb",
+          "line_border": "#474946",
           "overlay": "#000000",
           "pr_text": "#000000",
           "price": "#000000",
-          "sale_price": "#db1215",
+          "sale_price": "#000000",
           "input_primary": "#ffffff",
           "input_secondary": "#909090"
         }
