@@ -543,20 +543,48 @@
             "alignment": "center",
             "alignment_mb": "center"
           }
+        },
+        "banner_4_QwRTFg": {
+          "type": "banner_4",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "",
+            "sub_heading": "Stone Diffuser in White\n<br>\n@sahndra",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_4_hcA888": {
+          "type": "banner_4",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "",
+            "sub_heading": "Stone Diffuser in White\n<br>\n@sahndra",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
-        "banner_4_tKBrTK"
+        "banner_4_tKBrTK",
+        "banner_4_QwRTFg",
+        "banner_4_hcA888"
       ],
       "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
+        "full_width": true,
+        "boxed_fullwidth": true,
         "col_dk": "3",
         "row_height": 500,
         "content_pd_y": 15,
         "content_pd_x": 15,
         "space_item": 30,
-        "col_tb": "2",
+        "col_tb": "3",
         "row_height_tb": 500,
         "space_item_tb": 15,
         "row_height_mb": 250,
