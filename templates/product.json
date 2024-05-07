@@ -349,6 +349,7 @@
         "gallery_item_U3JRDx",
         "gallery_item_UA8Bpm"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Transform Any Room",
@@ -377,78 +378,6 @@
         "padding_rate": 75
       }
     },
-    "sidebar": {
-      "type": "sidebar-product",
-      "blocks": {
-        "93375155-f1f0-4598-8fc0-9adcbad23dff": {
-          "type": "iconbox",
-          "settings": {
-            "widget_heading": "Shipping & Delivery",
-            "icon_svg1": "box",
-            "custom_svg1": "",
-            "iconbox_content1": "Free shipping_Free shipping for all US orders",
-            "link_item1": "",
-            "icon_svg2": "support",
-            "custom_svg2": "",
-            "iconbox_content2": "Premium Support_Support 24 hours a day",
-            "link_item2": "",
-            "icon_svg3": "return",
-            "custom_svg3": "",
-            "iconbox_content3": "30 Days Return_ You have 30 days to return",
-            "link_item3": "",
-            "icon_svg4": "payment",
-            "custom_svg4": "",
-            "iconbox_content4": "",
-            "link_item4": ""
-          }
-        },
-        "4bbef404-afc5-4e3e-90cf-4f07d8a58f71": {
-          "type": "featured_products",
-          "settings": {
-            "widget_heading": "Sale products",
-            "collection": "womens-fashion",
-            "product_list": [
-
-            ],
-            "products_count": 3,
-            "image_ratio": "adapt_image",
-            "image_size": true
-          }
-        },
-        "76c4580d-5d01-4485-b53a-98caea9f4605": {
-          "type": "gallery",
-          "settings": {
-            "widget_heading": "Gallery",
-            "link1": "",
-            "link2": "",
-            "link3": "",
-            "link4": "",
-            "link5": "",
-            "link6": "",
-            "open_link": "_blank"
-          }
-        },
-        "5d4020bf-1c84-4908-9a3d-f9d20d6b2025": {
-          "type": "social",
-          "settings": {
-            "widget_heading": "Follow us",
-            "socials_style": "outline",
-            "socials_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "93375155-f1f0-4598-8fc0-9adcbad23dff",
-        "4bbef404-afc5-4e3e-90cf-4f07d8a58f71",
-        "76c4580d-5d01-4485-b53a-98caea9f4605",
-        "5d4020bf-1c84-4908-9a3d-f9d20d6b2025"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "scheme-1",
-        "space": 60
-      }
-    },
     "video_width_text2_anqqEU": {
       "type": "video-width-text2",
       "blocks": {
@@ -471,6 +400,7 @@
         "heading_Wzbctd",
         "sub_heading_jeJGRx"
       ],
+      "disabled": true,
       "settings": {
         "video_option": "1",
         "video_height": "adapt_image_first",
@@ -575,6 +505,78 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "sidebar": {
+      "type": "sidebar-product",
+      "blocks": {
+        "93375155-f1f0-4598-8fc0-9adcbad23dff": {
+          "type": "iconbox",
+          "settings": {
+            "widget_heading": "Shipping & Delivery",
+            "icon_svg1": "box",
+            "custom_svg1": "",
+            "iconbox_content1": "Free shipping_Free shipping for all US orders",
+            "link_item1": "",
+            "icon_svg2": "support",
+            "custom_svg2": "",
+            "iconbox_content2": "Premium Support_Support 24 hours a day",
+            "link_item2": "",
+            "icon_svg3": "return",
+            "custom_svg3": "",
+            "iconbox_content3": "30 Days Return_ You have 30 days to return",
+            "link_item3": "",
+            "icon_svg4": "payment",
+            "custom_svg4": "",
+            "iconbox_content4": "",
+            "link_item4": ""
+          }
+        },
+        "4bbef404-afc5-4e3e-90cf-4f07d8a58f71": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Sale products",
+            "collection": "womens-fashion",
+            "product_list": [
+
+            ],
+            "products_count": 3,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        },
+        "76c4580d-5d01-4485-b53a-98caea9f4605": {
+          "type": "gallery",
+          "settings": {
+            "widget_heading": "Gallery",
+            "link1": "",
+            "link2": "",
+            "link3": "",
+            "link4": "",
+            "link5": "",
+            "link6": "",
+            "open_link": "_blank"
+          }
+        },
+        "5d4020bf-1c84-4908-9a3d-f9d20d6b2025": {
+          "type": "social",
+          "settings": {
+            "widget_heading": "Follow us",
+            "socials_style": "outline",
+            "socials_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "93375155-f1f0-4598-8fc0-9adcbad23dff",
+        "4bbef404-afc5-4e3e-90cf-4f07d8a58f71",
+        "76c4580d-5d01-4485-b53a-98caea9f4605",
+        "5d4020bf-1c84-4908-9a3d-f9d20d6b2025"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-1",
+        "space": 60
+      }
     }
   },
   "order": [
@@ -583,10 +585,10 @@
     "icon_box_xRGYey",
     "tabs",
     "image_gallery_q4m8dn",
-    "sidebar",
     "video_width_text2_anqqEU",
     "related",
     "recently",
-    "171512128966062076"
+    "171512128966062076",
+    "sidebar"
   ]
 }
