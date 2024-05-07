@@ -179,7 +179,7 @@
           "settings": {
             "title": "Features",
             "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-features\"].value }}"
+            "page": "stone-diffuser-features"
           }
         },
         "tab_html_FAnLrE": {
