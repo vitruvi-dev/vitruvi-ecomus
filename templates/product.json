@@ -242,7 +242,7 @@
             "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
             "icon_width": 30,
             "icon_width_mb": 30,
-            "link": "",
+            "link": "shopify:\/\/pages\/warranty",
             "open_link": false,
             "title": "Lifetime Device Warranty",
             "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
@@ -257,10 +257,10 @@
             "image": "shopify:\/\/shop_images\/IconsBlack-Returns.svg",
             "icon_width": 30,
             "icon_width_mb": 30,
-            "link": "",
+            "link": "shopify:\/\/pages\/returns-and-exchanges",
             "open_link": false,
             "title": "No-Hassle Returns",
-            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days. <a href=\"\/pages\/returns-and-exchanges\" title=\"Returns and Exchanges\">Learn more<\/a>.<\/p>",
+            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
             "adding_border": false
           }
         }
