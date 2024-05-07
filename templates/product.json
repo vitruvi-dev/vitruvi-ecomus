@@ -149,6 +149,87 @@
         "padding_rate": 50
       }
     },
+    "icon_box_xRGYey": {
+      "type": "icon-box",
+      "blocks": {
+        "item_pF3rwG": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Free Shipping",
+            "content": "<p>You will love at great low prices<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_GGB3di": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "return",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "14 Day Returns",
+            "content": "<p>Within 30 days for an exchange<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_jG39Wq": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Premium Suport",
+            "content": "<p>Outstanding premium support<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_pF3rwG",
+        "item_GGB3di",
+        "item_jG39Wq"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "tabs": {
       "type": "main-product-tabs",
       "blocks": {
@@ -355,6 +436,7 @@
   "order": [
     "breacrumb",
     "main",
+    "icon_box_xRGYey",
     "tabs",
     "sidebar",
     "related",
