@@ -61,7 +61,7 @@
         "inventory_ftnW9y": {
           "type": "inventory",
           "settings": {
-            "inventory_threshold": 0,
+            "inventory_threshold": 20,
             "show_inventory_quantity": true,
             "show_progress_bar": false,
             "progress_bar_max": 50
@@ -84,13 +84,12 @@
         },
         "113b254d-cc79-43fc-9ed9-4670522082c9": {
           "type": "extra_link",
-          "disabled": true,
           "settings": {
             "show_cp_cl": false,
             "show_ask": false,
             "show_phone": false,
             "show_delivery": true,
-            "page_delivery": "frequently-asked-questions",
+            "page_delivery": "",
             "show_share_btn": false
           }
         },
