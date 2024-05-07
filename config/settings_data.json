@@ -12,6 +12,7 @@
     "badge_custom": "#83b735",
     "color_success": "#b2c2a9",
     "color_warning": "#f7e8a4",
+    "color_error": "#ab4e52",
     "tooltip_bg": "#232323",
     "tooltip_text": "#ffffff",
     "library_font": "google",
