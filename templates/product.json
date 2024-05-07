@@ -245,7 +245,7 @@
             "link": "",
             "open_link": false,
             "title": "Lifetime Device Warranty",
-            "content": "",
+            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
             "adding_border": false
           }
         },
@@ -260,7 +260,7 @@
             "link": "",
             "open_link": false,
             "title": "No-Hassle Returns",
-            "content": "",
+            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days. <a href=\"\/pages\/returns-and-exchanges\" title=\"Returns and Exchanges\">Learn more<\/a>.<\/p>",
             "adding_border": false
           }
         }
@@ -269,6 +269,90 @@
         "item_pF3rwG",
         "item_GGB3di",
         "item_jG39Wq"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": true,
+        "space_icon_heading": "small",
+        "size_heading": "small",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "1",
+        "carousel_mobile": false,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "icon_box_pPnzPQ": {
+      "type": "icon-box",
+      "blocks": {
+        "item_J96Eik": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box2",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Truck.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Fast, Free Shipping",
+            "content": "<p>Delivered nationwide in 3-8 business days.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_JKmbHk": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "leaf2",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Lifetime Device Warranty",
+            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_c34hCT": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Returns.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "No-Hassle Returns",
+            "content": "<p>Not delighted? We'll make it right.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_J96Eik",
+        "item_JKmbHk",
+        "item_c34hCT"
       ],
       "settings": {
         "heading_align": "center",
@@ -441,6 +525,7 @@
     "main",
     "tabs",
     "icon_box_xRGYey",
+    "icon_box_pPnzPQ",
     "sidebar",
     "related",
     "recently"
