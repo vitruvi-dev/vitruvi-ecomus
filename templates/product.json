@@ -35,18 +35,6 @@
           "settings": {
           }
         },
-        "8032c01b-f33a-4bef-a8ea-680044ceaaac": {
-          "type": "linked_products",
-          "settings": {
-            "option_name": "Choose",
-            "option_values": "",
-            "product_list": [
-
-            ],
-            "linked_type": "image_with_title",
-            "linked_size": "large"
-          }
-        },
         "1248e930-5734-45b4-a1d6-a814910fdb63": {
           "type": "variant_picker",
           "settings": {
@@ -87,6 +75,7 @@
         },
         "113b254d-cc79-43fc-9ed9-4670522082c9": {
           "type": "extra_link",
+          "disabled": true,
           "settings": {
             "show_cp_cl": false,
             "show_ask": false,
@@ -125,29 +114,12 @@
             "short_des": "",
             "length": 31
           }
-        },
-        "bundle_product_jhH3V3": {
-          "type": "bundle_product",
-          "disabled": true,
-          "settings": {
-            "bundle_prs_inner": true,
-            "product_list": [
-              "best-sleep-diffuser-humidifier-bundle"
-            ]
-          }
-        },
-        "custom_liquid_KRPgfT": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
-          }
         }
       },
       "block_order": [
         "83296f29-170d-4d7b-9291-c9b59bb98b32",
         "3a222052-35a9-4684-a336-6a32a56eb638",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
-        "8032c01b-f33a-4bef-a8ea-680044ceaaac",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "countdown_timer_pLgxfe",
@@ -155,14 +127,12 @@
         "113b254d-cc79-43fc-9ed9-4670522082c9",
         "9586d18a-306e-45c8-813c-3c4b0cc99315",
         "e2b976ce-0ce6-460a-bc64-cea3ec87cb4b",
-        "description_Fh49zX",
-        "bundle_product_jhH3V3",
-        "custom_liquid_KRPgfT"
+        "description_Fh49zX"
       ],
       "settings": {
         "space_content_media": true,
         "media_width": 50,
-        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
