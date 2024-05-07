@@ -313,21 +313,21 @@
       "scheme-1": {
         "settings": {
           "text": "#000000",
-          "text2": "#545454",
+          "text2": "#474946",
           "background": "#ffffff",
           "background_gradient": "",
-          "background2": "#f2f2f2",
-          "button": "#000000",
+          "background2": "#f7f8f6",
+          "button": "#474946",
           "button_label": "#ffffff",
-          "button_border": "#000000",
-          "secondary_button_label": "#000000",
-          "line_border": "#ebebeb",
-          "overlay": "#000000",
+          "button_border": "#474946",
+          "secondary_button_label": "#474946",
+          "line_border": "#474946",
+          "overlay": "#474946",
           "pr_text": "#000000",
           "price": "#000000",
-          "sale_price": "#db1215",
+          "sale_price": "#ab4e52",
           "input_primary": "#ffffff",
-          "input_secondary": "#909090"
+          "input_secondary": "#474946"
         }
       },
       "scheme-2": {
