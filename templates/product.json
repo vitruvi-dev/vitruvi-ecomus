@@ -374,6 +374,26 @@
     },
     "video_width_text2_anqqEU": {
       "type": "video-width-text2",
+      "blocks": {
+        "heading_Wzbctd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Natural Beauty",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_jeJGRx": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "With a matte ceramic finish, it doubles as a piece of art in your home.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wzbctd",
+        "sub_heading_jeJGRx"
+      ],
       "settings": {
         "video_option": "1",
         "video_height": "adapt_image_first",
@@ -391,7 +411,7 @@
         "content_position": "center",
         "alignment": "center",
         "content_pl": 0,
-        "image_last_mb": false,
+        "image_last_mb": true,
         "content_position_mb": "center",
         "alignment_mb": "center",
         "padding_top": 40,
