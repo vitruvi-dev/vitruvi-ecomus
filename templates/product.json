@@ -531,75 +531,13 @@
         "padding_rate": 75
       }
     },
-    "related": {
-      "type": "related-products",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Pairs Well With",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 50,
-        "limit": 10,
-        "product_des": "4",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "col_dk": "6",
-        "col_tb": "4",
-        "col_mb": "2",
-        "navUI": true,
-        "nav_des": "default",
-        "nav_pos": "middle_in",
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-2",
-        "padding_top": 0,
-        "padding_bottom": 72,
-        "padding_rate": 75
-      }
-    },
-    "recently": {
-      "type": "recently-products",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Recently Viewed",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 50,
-        "limit": 10,
-        "product_des": "1",
-        "image_ratio": "custom-pr",
-        "image_size": true,
-        "show_vendor": false,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "navUI": true,
-        "nav_des": "default",
-        "nav_pos": "middle_in",
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-2",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 75
-      }
-    },
     "slideshow_with_banner_UVgpTy": {
       "type": "slideshow-with-banner",
       "blocks": {
         "slide_label_R9kTq7": {
           "type": "slide_label",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2_emilytartaglia_diffuser-stone_terracotta.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "",
@@ -610,7 +548,7 @@
             "heading": "Multi-faceted Beauty",
             "heading_fs": "base",
             "heading_fw": "normal",
-            "btn_label": "Shop now",
+            "btn_label": "",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
@@ -625,7 +563,7 @@
             "btn2_fw": "normal",
             "btn2_icon": "1",
             "content_bg": false,
-            "content_position": "center",
+            "content_position": "start-center",
             "alignment": "center",
             "hide_subtext_mb": false,
             "content_position_mb": "center",
@@ -691,8 +629,8 @@
       ],
       "settings": {
         "item_round": "rounded",
-        "image_height": "adapt_image",
-        "fixed_height": 860,
+        "image_height": "fixed",
+        "fixed_height": 400,
         "image_height_tb": "adapt_image",
         "fixed_height_tb": 500,
         "image_height_mb": "adapt_image",
@@ -712,6 +650,69 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "related": {
+      "type": "related-products",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Pairs Well With",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 50,
+        "limit": 10,
+        "product_des": "4",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "col_dk": "6",
+        "col_tb": "4",
+        "col_mb": "2",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 72,
+        "padding_rate": 75
+      }
+    },
+    "recently": {
+      "type": "recently-products",
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Recently Viewed",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 50,
+        "limit": 10,
+        "product_des": "1",
+        "image_ratio": "custom-pr",
+        "image_size": true,
+        "show_vendor": false,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -723,8 +724,8 @@
     "video_width_text2_anqqEU",
     "banner_Jpi7KJ",
     "image_with_text_xBWfnR",
+    "slideshow_with_banner_UVgpTy",
     "related",
-    "recently",
-    "slideshow_with_banner_UVgpTy"
+    "recently"
   ]
 }
