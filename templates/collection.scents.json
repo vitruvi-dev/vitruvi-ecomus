@@ -34,49 +34,6 @@
         "padding_rate": 75
       }
     },
-    "banner_product_grid_PEmGn4": {
-      "type": "banner-product-grid",
-      "blocks": {
-        "heading_fCBXPD": {
-          "type": "heading",
-          "settings": {
-            "heading": "Spring Scents"
-          }
-        },
-        "text_RXAjhq": {
-          "type": "text",
-          "settings": {
-            "text": "UP TO 30% OFF"
-          }
-        }
-      },
-      "block_order": [
-        "heading_fCBXPD",
-        "text_RXAjhq"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pdp_spring-scents-bundle_stone_gallery_2_image_d0f10697-179a-4e80-a2b4-6fec9c8492a2.jpg",
-        "color_scheme": "scheme-1",
-        "product_color_scheme": "scheme-1",
-        "banner_url": "",
-        "banner_target": false,
-        "product_list": [
-          "ceremony-essential-oil-blend",
-          "sweetwater-essential-oil-blend",
-          "boost-essential-oil-blend",
-          "retreat-essential-oil-blend"
-        ],
-        "product_des": "1",
-        "image_ratio": "landscape",
-        "content_position": "center",
-        "alignment": "center",
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -111,7 +68,6 @@
   },
   "order": [
     "heading",
-    "banner_product_grid_PEmGn4",
     "main"
   ]
 }
