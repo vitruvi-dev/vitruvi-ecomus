@@ -210,7 +210,6 @@
         "item_GGB3di",
         "item_jG39Wq"
       ],
-      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
@@ -292,6 +291,7 @@
         "item_4BAcqB",
         "item_dGEfXk"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
