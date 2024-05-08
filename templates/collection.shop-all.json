@@ -83,14 +83,14 @@
     "main": {
       "type": "main-collection",
       "settings": {
-        "product_des": "3",
+        "product_des": "4",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 12,
         "col_dk": "4",
-        "col_tb": "3",
+        "col_tb": "4",
         "col_mb": "2",
         "pagination_type": "infinite",
         "paginate_pos": "center",
