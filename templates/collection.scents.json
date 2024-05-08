@@ -34,6 +34,62 @@
         "padding_rate": 75
       }
     },
+    "banner_product_grid_PEmGn4": {
+      "type": "banner-product-grid",
+      "blocks": {
+        "heading_fCBXPD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Summer Style Guide"
+          }
+        },
+        "text_RXAjhq": {
+          "type": "text",
+          "settings": {
+            "text": "UP TO 30% OFF"
+          }
+        },
+        "button_gwRdeE": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fCBXPD",
+        "text_RXAjhq",
+        "button_gwRdeE"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD13_V1_Stone-White-Bathroom_2024_Q1_Evergreen_Image_Square.png",
+        "color_scheme": "scheme-4",
+        "product_color_scheme": "scheme-1",
+        "banner_url": "",
+        "banner_target": false,
+        "product_list": [
+          "ceremony-essential-oil-blend",
+          "sweetwater-essential-oil-blend",
+          "boost-essential-oil-blend",
+          "retreat-essential-oil-blend"
+        ],
+        "product_des": "1",
+        "image_ratio": "landscape",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -68,6 +124,7 @@
   },
   "order": [
     "heading",
+    "banner_product_grid_PEmGn4",
     "main"
   ]
 }
