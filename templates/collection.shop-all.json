@@ -56,7 +56,7 @@
         "collection_item_9ypPpE": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
+            "collection": "essential-oil-blends",
             "title": "Collection name",
             "collection_link": ""
           }
@@ -112,6 +112,7 @@
     },
     "featured_collection_carousel_PhDWiU": {
       "type": "featured-collection-carousel",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Best Sellers",
