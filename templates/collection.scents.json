@@ -40,7 +40,7 @@
         "heading_fCBXPD": {
           "type": "heading",
           "settings": {
-            "heading": "Summer Style Guide"
+            "heading": "Spring Scents"
           }
         },
         "text_RXAjhq": {
@@ -48,28 +48,15 @@
           "settings": {
             "text": "UP TO 30% OFF"
           }
-        },
-        "button_gwRdeE": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
         }
       },
       "block_order": [
         "heading_fCBXPD",
-        "text_RXAjhq",
-        "button_gwRdeE"
+        "text_RXAjhq"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pdp_spring-scents-bundle_stone_gallery_2_image_d0f10697-179a-4e80-a2b4-6fec9c8492a2.jpg",
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-1",
         "product_color_scheme": "scheme-1",
         "banner_url": "",
         "banner_target": false,
