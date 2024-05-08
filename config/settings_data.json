@@ -6,7 +6,7 @@
     "color_text": "#474946",
     "color_accent": "#474946",
     "color_focus": "#e2eef6",
-    "badge_sale": "#e2eef6",
+    "badge_sale": "#474946",
     "badge_new": "#e2eef6",
     "badge_soldout": "#e2eef6",
     "badge_preorder": "#e2eef6",
@@ -313,7 +313,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "text": "#8e2121",
+          "text": "#000000",
           "text2": "#474946",
           "background": "#f7f8f6",
           "background_gradient": "",
@@ -324,7 +324,7 @@
           "secondary_button_label": "#474946",
           "line_border": "#474946",
           "overlay": "#474946",
-          "pr_text": "#1773b0",
+          "pr_text": "#000000",
           "price": "#474946",
           "sale_price": "#ab4e52",
           "input_primary": "#ffffff",
