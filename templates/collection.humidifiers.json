@@ -216,58 +216,6 @@
         "padding_bottom": 50,
         "padding_rate": 75
       }
-    },
-    "banner_product_grid_FCHnti": {
-      "type": "banner-product-grid",
-      "blocks": {
-        "heading_QJcR3t": {
-          "type": "heading",
-          "settings": {
-            "heading": "Summer Style Guide"
-          }
-        },
-        "text_KGhEVx": {
-          "type": "text",
-          "settings": {
-            "text": "UP TO 30% OFF"
-          }
-        },
-        "button_CPrraD": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_QJcR3t",
-        "text_KGhEVx",
-        "button_CPrraD"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "product_color_scheme": "",
-        "banner_url": "",
-        "banner_target": false,
-        "product_list": [
-          "cloud-humidifier"
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "content_position": "center",
-        "alignment": "center",
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -275,7 +223,6 @@
     "main",
     "featured_product_8j78j6",
     "featured_collection_grid_W878yM",
-    "featured_collection_grid_meiUj8",
-    "banner_product_grid_FCHnti"
+    "featured_collection_grid_meiUj8"
   ]
 }
