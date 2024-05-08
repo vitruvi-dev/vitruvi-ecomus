@@ -112,6 +112,7 @@
       ],
       "settings": {
         "product": "cloud-humidifier",
+        "image": "shopify:\/\/shop_images\/pdp_cloud-humidifier_white-gallery_5_v2_overlay_image_1fccbc4e-7c7e-4ad9-b9ce-427edd4dcad0.png",
         "media_width": 50,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
