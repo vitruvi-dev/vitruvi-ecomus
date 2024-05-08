@@ -136,6 +136,46 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_grid_W878yM": {
+      "type": "featured-collection-grid",
+      "disabled": true,
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Humidifier Bundles",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "humidifier-bundles",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_meiUj8": {
       "type": "featured-collection-grid",
       "settings": {
@@ -181,6 +221,7 @@
     "heading",
     "main",
     "featured_product_8j78j6",
+    "featured_collection_grid_W878yM",
     "featured_collection_grid_meiUj8"
   ]
 }
