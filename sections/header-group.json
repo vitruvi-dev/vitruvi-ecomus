@@ -16,7 +16,7 @@
         "announcement_RzCepp"
       ],
       "settings": {
-        "design": "marquee",
+        "design": "slider",
         "color_scheme": "scheme-3",
         "show_close_btn": true,
         "show_line_separator": false,
