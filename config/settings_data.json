@@ -373,9 +373,9 @@
       },
       "scheme-4": {
         "settings": {
-          "text": "#000000",
+          "text": "#f7f8f6",
           "text2": "#474946",
-          "background": "#f7f8f6",
+          "background": "#474946",
           "background_gradient": "",
           "background2": "#dedfdd",
           "button": "#000000",
