@@ -44,7 +44,7 @@
     "compare_mode": "0",
     "enable_compare_popup": true,
     "use_url_collection_vendor": false,
-    "show_secondary_image": true,
+    "show_secondary_image": false,
     "effect_secondary_image": "none",
     "show_quick_view": false,
     "show_ultra_btn": false,
