@@ -41,7 +41,7 @@
       "settings": {
         "full_width": true,
         "item_round": "rounded-lg",
-        "image_height": "fixed",
+        "image_height": "full",
         "fixed_height": 700,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
