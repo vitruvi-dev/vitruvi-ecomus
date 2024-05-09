@@ -91,11 +91,69 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "accordion_3g99rm": {
+      "type": "accordion",
+      "blocks": {
+        "title_mJyEFM": {
+          "type": "title",
+          "settings": {
+            "title": "Discovery all new items"
+          }
+        },
+        "accordion_item_3nQz4H": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_gqEC3D": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_XTRVaA": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_EUicMV": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        }
+      },
+      "block_order": [
+        "title_mJyEFM",
+        "accordion_item_3nQz4H",
+        "accordion_item_gqEC3D",
+        "accordion_item_XTRVaA",
+        "accordion_item_EUicMV"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": true,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "video_with_text_y7KVVH"
+    "video_with_text_y7KVVH",
+    "accordion_3g99rm"
   ]
 }
