@@ -408,13 +408,6 @@
             "heading_fs": "h4"
           }
         },
-        "label_7cDK73": {
-          "type": "label",
-          "settings": {
-            "label": "123",
-            "label_fs": "base"
-          }
-        },
         "sub_heading_jeJGRx": {
           "type": "sub_heading",
           "settings": {
@@ -425,7 +418,6 @@
       },
       "block_order": [
         "heading_Wzbctd",
-        "label_7cDK73",
         "sub_heading_jeJGRx"
       ],
       "custom_css": [
