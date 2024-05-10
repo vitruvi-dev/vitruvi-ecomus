@@ -638,7 +638,7 @@
         "button_9XTxxa"
       ],
       "custom_css": [
-        ".hdt-media-overlap-content {max-width: 80%}"
+        ".hdt-media-overlap-content {max-width: 80%; align-items: center;}"
       ],
       "settings": {
         "image_height": "fixed",
