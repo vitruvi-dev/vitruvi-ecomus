@@ -541,44 +541,40 @@
             "alignment_mb": "left"
           }
         },
-        "banner_3_AyzTcc": {
-          "type": "banner_3",
+        "banner_2_4cMyEc": {
+          "type": "banner_2",
           "settings": {
-            "color_scheme": "",
+            "image": "{{ product.metafields.custom.component_ugc_item_2_image.value }}",
+            "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
+            "heading": "{{ product.metafields.custom.component_ugc_item_1_handle.value }}",
+            "heading_fs": "base",
             "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
             "btn_link": "",
             "target": false,
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "none",
+            "btn_icon": "1",
             "col_w": "6",
-            "row_count": 2,
-            "content_position": "center",
-            "alignment": "center",
+            "row_count": 3,
+            "alignment": "left",
             "content_pd_y": 15,
             "content_pd_x": 15,
             "col_w_mb": "2",
-            "row_count_mb": 1,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "row_count_mb": 2,
+            "alignment_mb": "left"
           }
         }
       },
       "block_order": [
         "banner_2_ggPHba",
-        "banner_3_AyzTcc"
+        "banner_2_4cMyEc"
       ],
       "settings": {
         "row_height": 200,
