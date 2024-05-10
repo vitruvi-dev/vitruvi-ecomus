@@ -404,14 +404,14 @@
         "heading_Wzbctd": {
           "type": "heading",
           "settings": {
-            "heading": "Natural Beauty",
+            "heading": "{{ product.metafields.ecomus.feature_media_heading.value }}",
             "heading_fs": "h4"
           }
         },
         "sub_heading_jeJGRx": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "With a matte ceramic finish, the Stone Diffuser doubles as a piece of art in your home.",
+            "sub_heading": "{{ product.metafields.ecomus.feature_media_subheading.value }}",
             "sub_fs": "lg"
           }
         }
