@@ -658,6 +658,86 @@
         "color_scheme": "scheme-1",
         "space": 60
       }
+    },
+    "banner_masonry_xGGgQ6": {
+      "type": "banner-masonry",
+      "blocks": {
+        "banner_2_ggPHba": {
+          "type": "banner_2",
+          "settings": {
+            "image": "{{ product.metafields.custom.component_ugc_item_1_image.value }}",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "UV charger",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "Every piece is made to last beyond the season",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "col_w": "6",
+            "row_count": 1,
+            "alignment": "left",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "alignment_mb": "left"
+          }
+        },
+        "banner_3_AyzTcc": {
+          "type": "banner_3",
+          "settings": {
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "UP TO 30% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Summer Style Guide",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "Discover the season's hottest trends and elevate",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "6",
+            "row_count": 2,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_ggPHba",
+        "banner_3_AyzTcc"
+      ],
+      "settings": {
+        "row_height": 200,
+        "row_height_mb": 150,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -672,6 +752,7 @@
     "related",
     "171512128966062076",
     "recently",
-    "sidebar"
+    "sidebar",
+    "banner_masonry_xGGgQ6"
   ]
 }
