@@ -401,6 +401,39 @@
         "padding_rate": 75
       }
     },
+    "top_heading_GTjYAL": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_Yk8Ark": {
+          "type": "heading",
+          "settings": {
+            "heading": "Transform Any Room",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_dXe8rc": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Able to scent 500 sq.-ft., the Stone Diffuser is great for bedrooms, living rooms, and home offices.",
+            "sub_heading_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Yk8Ark",
+        "sub_heading_dXe8rc"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "banner_gdzX4R": {
       "type": "banner",
       "blocks": {
@@ -408,11 +441,11 @@
           "type": "banner_4",
           "settings": {
             "image": "{{ product.metafields.ecomus.image_gallery_1_media.value }}",
-            "color_scheme": "",
+            "color_scheme": "scheme-1",
             "banner_url": "",
             "banner_target": false,
-            "heading": "Summer Style Guide",
-            "sub_heading": "UP TO 30% OFF",
+            "heading": "",
+            "sub_heading": "@sahnndra",
             "alignment": "center",
             "alignment_mb": "center"
           }
@@ -448,8 +481,8 @@
         "banner_4_nEi9ab"
       ],
       "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
+        "full_width": true,
+        "boxed_fullwidth": true,
         "col_dk": "3",
         "row_height": 500,
         "content_pd_y": 15,
@@ -625,6 +658,7 @@
     "tabs",
     "video_width_text2_anqqEU",
     "image_gallery_q4m8dn",
+    "top_heading_GTjYAL",
     "banner_gdzX4R",
     "related",
     "171512128966062076",
