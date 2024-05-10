@@ -288,14 +288,14 @@
         "heading_Wzbctd": {
           "type": "heading",
           "settings": {
-            "heading": "{{ product.metafields.ecomus.feature_media_heading.value }}",
+            "heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
             "heading_fs": "h4"
           }
         },
         "sub_heading_jeJGRx": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "{{ product.metafields.ecomus.feature_media_subheading.value }}",
+            "sub_heading": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
             "sub_fs": "lg"
           }
         }
@@ -313,7 +313,7 @@
         "fixed_height": 500,
         "video_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
-        "video": "{{ product.metafields.ecomus[\"feature-video\"].value }}",
+        "video": "{{ product.metafields.ecomus.feature_1_media.value }}",
         "external_video_url": "",
         "external_video_frame": "",
         "video_position": "left",
@@ -338,7 +338,6 @@
         "gallery_item_z6fGp9": {
           "type": "gallery_item",
           "settings": {
-            "image": "{{ block.settings.product_item.metafields.custom.ugc_1.value.file.value }}",
             "item_link": "",
             "product_item": ""
           }
