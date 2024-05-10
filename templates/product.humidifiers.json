@@ -648,7 +648,7 @@
         "content_align": "start",
         "navUI": false,
         "nav_des": "default",
-        "dotUI": false,
+        "dotUI": true,
         "color_scheme": "scheme-4",
         "pr_rating": "#474946",
         "padding_top": 30,
