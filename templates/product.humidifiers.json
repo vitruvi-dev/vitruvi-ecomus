@@ -378,6 +378,7 @@
         "heading_Yk8Ark",
         "sub_heading_dXe8rc"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -473,6 +474,7 @@
         "banner_2_Gd9rXf",
         "banner_2_gYifcd"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
       ],
