@@ -638,8 +638,8 @@
         "button_9XTxxa"
       ],
       "settings": {
-        "image_height": "adapt_image_first",
-        "fixed_height": 860,
+        "image_height": "fixed",
+        "fixed_height": 650,
         "image_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
         "video": "{{ product.metafields.ecomus[\"feature-video\"].value }}",
