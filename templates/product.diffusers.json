@@ -337,6 +337,7 @@
       "blocks": {
         "gallery_item_z6fGp9": {
           "type": "gallery_item",
+          "disabled": true,
           "settings": {
             "item_link": "",
             "product_item": ""
@@ -344,6 +345,7 @@
         },
         "gallery_item_iQPWbb": {
           "type": "gallery_item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD3_V1_White-Sleep-Book_2024_Q1_Evergreen_Image_Square.png",
             "item_link": "",
@@ -352,6 +354,7 @@
         },
         "gallery_item_U3JRDx": {
           "type": "gallery_item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
             "item_link": "",
@@ -360,6 +363,7 @@
         },
         "gallery_item_UA8Bpm": {
           "type": "gallery_item",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_6__carissavianca_diffuser-stone_suede.jpg",
             "item_link": "",
@@ -373,6 +377,7 @@
         "gallery_item_U3JRDx",
         "gallery_item_UA8Bpm"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Transform Any Room",
@@ -444,8 +449,8 @@
             "color_scheme": "scheme-1",
             "banner_url": "",
             "banner_target": false,
-            "heading": "",
-            "sub_heading": "@sahnndra",
+            "heading": "{{ product.metafields.custom.component_ugc_item_1_handle.value }}",
+            "sub_heading": "",
             "alignment": "center",
             "alignment_mb": "center"
           }
@@ -456,8 +461,8 @@
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
-            "heading": "Summer Style Guide",
-            "sub_heading": "UP TO 30% OFF",
+            "heading": "",
+            "sub_heading": "",
             "alignment": "center",
             "alignment_mb": "center"
           }
