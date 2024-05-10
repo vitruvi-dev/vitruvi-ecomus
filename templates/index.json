@@ -3,22 +3,16 @@
     "video_GKb7jj": {
       "type": "video",
       "blocks": {
-        "label_Eb9Vei": {
-          "type": "label",
-          "settings": {
-            "label": "SPRING COLLECTION"
-          }
-        },
         "heading_FQ3wCc": {
           "type": "heading",
           "settings": {
-            "heading": "End of<br> Season Sale"
+            "heading": "MAKE THE AIR YOURS"
           }
         },
         "sub_heading_cjY6qn": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "To deliver peak potency, minus the waste"
+            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents."
           }
         },
         "button_widJMP": {
@@ -35,7 +29,6 @@
         }
       },
       "block_order": [
-        "label_Eb9Vei",
         "heading_FQ3wCc",
         "sub_heading_cjY6qn",
         "button_widJMP"
@@ -77,7 +70,7 @@
             "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
-            "btn_label": "SHOP NOW",
+            "btn_label": "Shop now",
             "btn_link": "shopify:\/\/collections\/shop-all",
             "target": false,
             "btn_size": "xl",
