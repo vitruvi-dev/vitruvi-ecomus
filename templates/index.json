@@ -54,57 +54,6 @@
         "padding_rate": 75
       }
     },
-    "video_tnnbkC": {
-      "type": "video",
-      "blocks": {
-        "heading_dp4NnH": {
-          "type": "heading",
-          "settings": {
-            "heading": "MAKE THE AIR YOURS"
-          }
-        },
-        "sub_heading_6XXw8X": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents."
-          }
-        },
-        "button_96FVQj": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_dp4NnH",
-        "sub_heading_6XXw8X",
-        "button_96FVQj"
-      ],
-      "settings": {
-        "image_height": "full",
-        "fixed_height": 860,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 450,
-        "video": "shopify:\/\/files\/videos\/page_home_hero_newyear_video_desktop_21896a9c-1401-4ae6-9008-61a4d3579d96.mp4",
-        "external_video_url": "",
-        "content_bg": false,
-        "color_scheme": "scheme-3",
-        "content_position": "center",
-        "alignment": "center",
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
       "type": "slideshow",
       "blocks": {
@@ -698,7 +647,6 @@
   },
   "order": [
     "video_GKb7jj",
-    "video_tnnbkC",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "d81e394c-3467-4709-a303-1d274f42da41",
