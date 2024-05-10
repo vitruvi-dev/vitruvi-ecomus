@@ -243,22 +243,6 @@
     "tabs": {
       "type": "main-product-tabs",
       "blocks": {
-        "76effdab-2914-4a34-a303-417cde99ff0a": {
-          "type": "tab_des",
-          "disabled": true,
-          "settings": {
-            "title": "Description"
-          }
-        },
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
-          "type": "tab_html",
-          "disabled": true,
-          "settings": {
-            "title": "Return Policies",
-            "content": "",
-            "page": "privacy-policy"
-          }
-        },
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
           "type": "tab_html",
           "settings": {
@@ -282,42 +266,12 @@
             "content": "",
             "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
           }
-        },
-        "tab_html_r8KYLQ": {
-          "type": "tab_html",
-          "disabled": true,
-          "settings": {
-            "title": "Ingredients",
-            "content": "<p>{{ product.metafields.custom_fields.product_detail_1_copy | metafield_tag }}<\/p>",
-            "page": ""
-          }
-        },
-        "tab_html_WB9zxa": {
-          "type": "tab_html",
-          "disabled": true,
-          "settings": {
-            "title": "Quality",
-            "content": "<p>{{ product.metafields.custom_fields.product_detail_2_copy | metafield_tag }}<\/p>",
-            "page": ""
-          }
-        },
-        "9866bb5f-03b7-4dc7-9387-4be849a0cbf1": {
-          "type": "tab_add",
-          "disabled": true,
-          "settings": {
-            "title": "Additional Information"
-          }
         }
       },
       "block_order": [
-        "76effdab-2914-4a34-a303-417cde99ff0a",
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
         "tab_html_FAnLrE",
-        "tab_html_eeFthN",
-        "tab_html_r8KYLQ",
-        "tab_html_WB9zxa",
-        "9866bb5f-03b7-4dc7-9387-4be849a0cbf1"
+        "tab_html_eeFthN"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
