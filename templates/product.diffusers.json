@@ -572,7 +572,7 @@
         "fixed_height": 500,
         "video_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
-        "video": "{{ product.metafields.ecomus.feature_1_media.value }}",
+        "video": "{{ product.metafields.ecomus.feature_2_media.value }}",
         "external_video_url": "",
         "external_video_frame": "",
         "video_position": "right",
