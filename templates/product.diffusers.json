@@ -183,7 +183,7 @@
             "icon_width": 30,
             "icon_width_mb": 30,
             "link": "shopify:\/\/pages\/warranty",
-            "open_link": false,
+            "open_link": true,
             "title": "Lifetime Device Warranty",
             "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
             "adding_border": false
@@ -198,7 +198,7 @@
             "icon_width": 30,
             "icon_width_mb": 30,
             "link": "shopify:\/\/pages\/returns-and-exchanges",
-            "open_link": false,
+            "open_link": true,
             "title": "No-Hassle Returns",
             "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
             "adding_border": false
