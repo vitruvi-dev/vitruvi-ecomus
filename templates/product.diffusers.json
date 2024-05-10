@@ -562,7 +562,37 @@
             "btn_fw": "normal",
             "btn_icon": "1",
             "col_w": "6",
-            "row_count": 3,
+            "row_count": 2,
+            "alignment": "left",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 2,
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_hXTq9A": {
+          "type": "banner_2",
+          "settings": {
+            "image": "{{ product.metafields.custom.component_ugc_item_3_image.value }}",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "{{ product.metafields.custom.component_ugc_item_3_handle.value }}",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "col_w": "6",
+            "row_count": 1,
             "alignment": "left",
             "content_pd_y": 15,
             "content_pd_x": 15,
@@ -574,7 +604,8 @@
       },
       "block_order": [
         "banner_2_ggPHba",
-        "banner_2_4cMyEc"
+        "banner_2_4cMyEc",
+        "banner_2_hXTq9A"
       ],
       "settings": {
         "row_height": 200,
