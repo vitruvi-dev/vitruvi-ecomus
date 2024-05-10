@@ -550,14 +550,14 @@
         "heading_37fFat": {
           "type": "heading",
           "settings": {
-            "heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
+            "heading": "{{ product.metafields.ecomus.feature_2_heading.value }}",
             "heading_fs": "h4"
           }
         },
         "sub_heading_iKywFD": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
+            "sub_heading": "{{ product.metafields.custom.feature_2_subheading.value }}",
             "sub_fs": "lg"
           }
         }
