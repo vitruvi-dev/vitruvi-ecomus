@@ -546,6 +546,65 @@
         "padding_rate": 75
       }
     },
+    "testimonials_2_R9NQQF": {
+      "type": "testimonials-2",
+      "blocks": {
+        "quote_egAgHx": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        },
+        "quote_Mp3EXe": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        },
+        "quote_J9NRqM": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_egAgHx",
+        "quote_Mp3EXe",
+        "quote_J9NRqM"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "top_heading": "Season Collection",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "top_description": "<p>Be the first to know when we launch.<\/p>",
+        "subheading_size": "hdt-text-base",
+        "show_rating": false,
+        "rating": 5,
+        "content_align": "start",
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "color_scheme": "",
+        "pr_rating": "#FF7B54",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
     "video_width_text2_gAFGz7": {
       "type": "video-width-text2",
       "blocks": {
@@ -755,6 +814,7 @@
     "top_heading_GTjYAL",
     "banner_gdzX4R",
     "video_width_text2_anqqEU",
+    "testimonials_2_R9NQQF",
     "video_width_text2_gAFGz7",
     "related",
     "171512128966062076",
