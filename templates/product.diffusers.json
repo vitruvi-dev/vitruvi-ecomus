@@ -338,7 +338,7 @@
         "gallery_item_z6fGp9": {
           "type": "gallery_item",
           "settings": {
-            "image": "{{ product.metafields.ecomus[\"feature-video\"].value }}",
+            "image": "{{ block.settings.product_item.metafields.custom.ugc_1.value.file.value }}",
             "item_link": "",
             "product_item": ""
           }
