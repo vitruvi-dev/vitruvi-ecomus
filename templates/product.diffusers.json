@@ -332,6 +332,133 @@
         "padding_rate": 75
       }
     },
+    "banner_gdzX4R": {
+      "type": "banner",
+      "blocks": {
+        "banner_3_tyfTNG": {
+          "type": "banner_3",
+          "settings": {
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "UP TO 30% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Summer Style Guide",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "Discover the season's hottest trends and elevate",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_DpdFra": {
+          "type": "banner_3",
+          "settings": {
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "UP TO 30% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Summer Style Guide",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "Discover the season's hottest trends and elevate",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_GzWbCA": {
+          "type": "banner_3",
+          "settings": {
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "UP TO 30% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Summer Style Guide",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "Discover the season's hottest trends and elevate",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_4_Qjg7Nk": {
+          "type": "banner_4",
+          "settings": {
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "Summer Style Guide",
+            "sub_heading": "UP TO 30% OFF",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_tyfTNG",
+        "banner_3_DpdFra",
+        "banner_3_GzWbCA",
+        "banner_4_Qjg7Nk"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 500,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "image_gallery_q4m8dn": {
       "type": "image-gallery",
       "blocks": {
@@ -560,6 +687,7 @@
     "icon_box_xRGYey",
     "tabs",
     "video_width_text2_anqqEU",
+    "banner_gdzX4R",
     "image_gallery_q4m8dn",
     "related",
     "171512128966062076",
