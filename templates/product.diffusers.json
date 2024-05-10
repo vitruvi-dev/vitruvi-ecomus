@@ -440,7 +440,7 @@
         "banner_4_tA9Tri": {
           "type": "banner_4",
           "settings": {
-            "image": "{{ product.metafields.ecomus.image_gallery_1_media.value }}",
+            "image": "{{ product.metafields.custom.component_ugc_item_1_image.value }}",
             "color_scheme": "scheme-1",
             "banner_url": "",
             "banner_target": false,
