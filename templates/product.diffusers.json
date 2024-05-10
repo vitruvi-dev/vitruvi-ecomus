@@ -338,7 +338,7 @@
         "gallery_item_z6fGp9": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
+            "image": "{{ product.metafields.ecomus[\"feature-video\"].value }}",
             "item_link": "",
             "product_item": ""
           }
