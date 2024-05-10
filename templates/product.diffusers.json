@@ -458,10 +458,11 @@
         "banner_4_UXYRBK": {
           "type": "banner_4",
           "settings": {
+            "image": "{{ product.metafields.custom.component_ugc_item_2_image.value }}",
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
-            "heading": "",
+            "heading": "{{ product.metafields.custom.component_ugc_item_2_handle.value }}",
             "sub_heading": "",
             "alignment": "center",
             "alignment_mb": "center"
