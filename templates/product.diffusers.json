@@ -486,6 +486,9 @@
         "banner_4_UXYRBK",
         "banner_4_nEi9ab"
       ],
+      "custom_css": [
+        ".hdt-heading {font-size: 12px;}"
+      ],
       "settings": {
         "full_width": true,
         "boxed_fullwidth": true,
