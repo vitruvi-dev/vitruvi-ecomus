@@ -532,7 +532,7 @@
         "video_autoplay": true,
         "section_fullwidth": true,
         "color_scheme": "scheme-1",
-        "image_last": false,
+        "image_last": true,
         "content_position": "center",
         "alignment": "left",
         "content_pl": 0,
@@ -742,6 +742,67 @@
         "color_scheme": "scheme-1",
         "space": 60
       }
+    },
+    "image_with_text_fkz4iG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kTaEX3": {
+          "type": "heading",
+          "settings": {
+            "heading": "60% Discount",
+            "heading_fs": "h3"
+          }
+        },
+        "count_down_ipJhhF": {
+          "type": "count_down",
+          "settings": {
+            "color_scheme": "",
+            "title": "Hungry up ! Deals end in :",
+            "year": 2030,
+            "month": 4,
+            "day": 19,
+            "hour": 12,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": ""
+          }
+        },
+        "button_YnxT47": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kTaEX3",
+        "count_down_ipJhhF",
+        "button_YnxT47"
+      ],
+      "settings": {
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -757,6 +818,7 @@
     "related",
     "171512128966062076",
     "recently",
-    "sidebar"
+    "sidebar",
+    "image_with_text_fkz4iG"
   ]
 }
