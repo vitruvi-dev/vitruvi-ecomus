@@ -479,14 +479,39 @@
             "alignment": "center",
             "alignment_mb": "center"
           }
+        },
+        "banner_2_wGNqDt": {
+          "type": "banner_2",
+          "settings": {
+            "image": "{{ product.metafields.custom.component_ugc_item_1_image.value }}",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "{{ product.metafields.custom.component_ugc_item_1_handle.value }}",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
         }
       },
       "block_order": [
         "banner_4_tA9Tri",
         "banner_4_UXYRBK",
-        "banner_4_nEi9ab"
+        "banner_4_nEi9ab",
+        "banner_2_wGNqDt"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
       ],
