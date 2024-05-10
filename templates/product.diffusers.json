@@ -495,11 +495,11 @@
         "banner_2_gYifcd": {
           "type": "banner_2",
           "settings": {
-            "image": "{{ product.metafields.custom.component_ugc_item_1_image.value }}",
+            "image": "{{ product.metafields.custom.component_ugc_item_3_image.value }}",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "{{ product.metafields.custom.component_ugc_item_1_handle.value }}",
+            "heading": "{{ product.metafields.custom.component_ugc_item_3_handle.value }}",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
