@@ -637,6 +637,9 @@
         "sub_heading_jmpUhD",
         "button_9XTxxa"
       ],
+      "custom_css": [
+        ".hdt-media-overlap-content {max-width: 80%}"
+      ],
       "settings": {
         "image_height": "fixed",
         "fixed_height": 650,
