@@ -466,10 +466,62 @@
             "alignment": "left",
             "alignment_mb": "left"
           }
+        },
+        "banner_2_Gd9rXf": {
+          "type": "banner_2",
+          "settings": {
+            "image": "{{ product.metafields.custom.component_ugc_item_2_image.value }}",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "{{ product.metafields.custom.component_ugc_item_2_handle.value }}",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_gYifcd": {
+          "type": "banner_2",
+          "settings": {
+            "image": "{{ product.metafields.custom.component_ugc_item_1_image.value }}",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "{{ product.metafields.custom.component_ugc_item_1_handle.value }}",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
         }
       },
       "block_order": [
-        "banner_2_wGNqDt"
+        "banner_2_wGNqDt",
+        "banner_2_Gd9rXf",
+        "banner_2_gYifcd"
       ],
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
