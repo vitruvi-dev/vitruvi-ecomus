@@ -632,6 +632,10 @@
         "quote_Mp3EXe",
         "quote_J9NRqM"
       ],
+      "custom_css": [
+        "@media only screen and (min-width: 1200px) {.hdt-top-heading {max-width: 30%; }}",
+        "@media only screen and (min-width: 1200px) {.hdt-main-testimonial {max-width: 65%; }}"
+      ],
       "settings": {
         "heading_align": "center",
         "top_heading": "Sweet Dreams, Thanks to Cloud",
