@@ -666,7 +666,7 @@
           "type": "banner_2",
           "settings": {
             "image": "{{ product.metafields.custom.component_ugc_item_1_image.value }}",
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
             "heading": "UV charger",
@@ -688,7 +688,7 @@
             "content_pd_y": 15,
             "content_pd_x": 15,
             "col_w_mb": "2",
-            "row_count_mb": 1,
+            "row_count_mb": 2,
             "alignment_mb": "left"
           }
         },
