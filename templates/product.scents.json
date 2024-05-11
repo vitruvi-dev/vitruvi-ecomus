@@ -252,7 +252,7 @@
           "type": "tab_html",
           "settings": {
             "title": "Quality",
-            "content": "<p>100% pure, vegan, and cruelty-free. Free from synthetic fragrance, sulfates, parabens, formaldehydes, phthalates, and mineral oil.<\/p><p>{{ product.metafields.ecomus.feature_1_heading.value }}<\/p>",
+            "content": "{{ product.metafields.ecomus.quality_certificate_of_analysis | metafield_tag }}",
             "page": ""
           }
         },
