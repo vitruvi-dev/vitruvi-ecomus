@@ -285,51 +285,27 @@
         "heading_CEA63d": {
           "type": "heading",
           "settings": {
-            "heading": "60% Discount",
+            "heading": "60% Discount{{ product.metafields.ecomus.feature_1_heading.value }}",
             "heading_fs": "h3"
           }
         },
-        "count_down_dLpPat": {
-          "type": "count_down",
+        "text_TYX3h7": {
+          "type": "text",
           "settings": {
-            "color_scheme": "",
-            "title": "Hungry up ! Deals end in :",
-            "year": 2030,
-            "month": 4,
-            "day": 19,
-            "hour": 12,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": ""
-          }
-        },
-        "button_cEmAyC": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
+            "text": "<p>{{ product.metafields.ecomus.feature_1_subheading.value }}<\/p>"
           }
         }
       },
       "block_order": [
         "heading_CEA63d",
-        "count_down_dLpPat",
-        "button_cEmAyC"
+        "text_TYX3h7"
       ],
       "settings": {
         "image": "{{ product.metafields.ecomus.feature_1_media.value }}",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "",
-        "image_last": false,
+        "image_last": true,
         "content_position": "center",
         "alignment": "center",
         "content_pl": 0,
