@@ -248,14 +248,6 @@
             "page": ""
           }
         },
-        "tab_html_WB9zxa": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Quality",
-            "content": "{{ product.metafields.ecomus.quality_certificate_of_analysis | metafield_tag }}",
-            "page": ""
-          }
-        },
         "tab_html_NGKtrx": {
           "type": "tab_html",
           "settings": {
@@ -263,12 +255,20 @@
             "content": "{{ product.metafields.ecomus.kit_components_list | metafield_tag }}",
             "page": ""
           }
+        },
+        "tab_html_WB9zxa": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Quality",
+            "content": "{{ product.metafields.ecomus.quality_certificate_of_analysis | metafield_tag }}",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_html_r8KYLQ",
-        "tab_html_WB9zxa",
-        "tab_html_NGKtrx"
+        "tab_html_NGKtrx",
+        "tab_html_WB9zxa"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
