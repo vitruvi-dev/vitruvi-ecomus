@@ -285,14 +285,14 @@
         "heading_CEA63d": {
           "type": "heading",
           "settings": {
-            "heading": "60% Discount{{ product.metafields.ecomus.feature_1_heading.value }}",
+            "heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
             "heading_fs": "h3"
           }
         },
         "text_TYX3h7": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ product.metafields.ecomus.feature_1_subheading.value }}<\/p>"
+            "text": "{{ product.metafields.ecomus.feature_1_text | metafield_tag }}"
           }
         }
       },
