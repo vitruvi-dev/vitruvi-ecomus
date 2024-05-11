@@ -286,7 +286,7 @@
           "type": "heading",
           "settings": {
             "heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
-            "heading_fs": "h3"
+            "heading_fs": "h4"
           }
         },
         "text_TYX3h7": {
