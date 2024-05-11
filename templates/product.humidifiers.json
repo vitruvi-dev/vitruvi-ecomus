@@ -635,13 +635,24 @@
             "enable_verify": false,
             "rating": 5
           }
+        },
+        "quote_bB4LdW": {
+          "type": "quote",
+          "settings": {
+            "heading": "Life before Cloud? Don't remember it.",
+            "content": "<p>I never thought I could love a humidifier, but here I am — IN LOVE. We have our Cloud going at all times since we got it. It's beautiful and works so well. It's helped clear sniffles in our home during the cold November weather... I want one for every room.<\/p>",
+            "author": "Alex D.",
+            "enable_verify": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "quote_J9NRqM",
         "quote_pGk7TC",
         "quote_PFq7cB",
-        "quote_Mp3EXe"
+        "quote_Mp3EXe",
+        "quote_bB4LdW"
       ],
       "custom_css": [
 
