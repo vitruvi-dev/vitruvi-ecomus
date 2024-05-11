@@ -1138,7 +1138,7 @@
 
 @media (min-width: 1700px) {
   .hdt-section-testimonials-2 .hdt-slider {
-    --slide-size: 36.2%;
+    --slide-size: 45%;
     --slide-spacing: var(--spacing-3);
   }
 
