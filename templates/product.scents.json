@@ -285,7 +285,7 @@
         "slide_label_A93gJr": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/snowflakes-fall-on-fir-trees-in-the-woods.jpg",
+            "image": "shopify:\/\/shop_images\/sunlight-peaks-over-leaves.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -293,43 +293,7 @@
             "sub_heading_fs": "h5",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Wooded tranquility.",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "1",
-            "content_bg": false,
-            "content_position": "center-start",
-            "alignment": "left",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "slide_label_t9iEa8": {
-          "type": "slide_label",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/rain-drops-on-metal.jpg",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-3",
-            "sub_heading": "Smells like",
-            "sub_heading_fs": "h5",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "An outdoor shower.",
+            "heading": "The sun grazing your skin.",
             "heading_fs": "h4",
             "heading_fw": "normal",
             "btn_label": "",
@@ -356,8 +320,7 @@
         }
       },
       "block_order": [
-        "slide_label_A93gJr",
-        "slide_label_t9iEa8"
+        "slide_label_A93gJr"
       ],
       "settings": {
         "full_width": false,
@@ -367,8 +330,8 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 300,
         "color_scheme": "scheme-3",
-        "loop": true,
-        "auto_play": 6,
+        "loop": false,
+        "auto_play": 0,
         "pause_hover": true,
         "navUI": false,
         "dotUI": false,
