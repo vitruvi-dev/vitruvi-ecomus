@@ -279,119 +279,63 @@
         "padding_rate": 50
       }
     },
-    "slideshow_GtBY89": {
-      "type": "slideshow",
+    "image_with_text_YCBV3a": {
+      "type": "image-with-text",
       "blocks": {
-        "slide_label_KKbXqg": {
-          "type": "slide_label",
+        "heading_CEA63d": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/white-pillows-and-sheets-on-an-unmade-bed.jpg",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-3",
-            "sub_heading": "Smells Like",
-            "sub_heading_fs": "h1",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "Fresh Linen Sheets",
-            "heading_fs": "h5",
-            "heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "1",
-            "content_bg": false,
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "heading": "60% Discount",
+            "heading_fs": "h3"
           }
         },
-        "slide_base_RBhYqM": {
-          "type": "slide_base",
+        "count_down_dLpPat": {
+          "type": "count_down",
           "settings": {
-            "url": "",
-            "banner_target": false,
             "color_scheme": "",
-            "heading": "Multi-faceted Beauty",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
+            "title": "Hungry up ! Deals end in :",
+            "year": 2030,
+            "month": 4,
+            "day": 19,
+            "hour": 12,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": ""
+          }
+        },
+        "button_cEmAyC": {
+          "type": "button",
+          "settings": {
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "slide_icon_b9pNdw": {
-          "type": "slide_icon",
-          "settings": {
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "custom_svg": "",
-            "heading": "Plant life made easy",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "icon_size": 40,
-            "content_position": "center",
-            "alignment": "center",
-            "icon_size_mb": 40,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "btn_icon": "1"
           }
         }
       },
       "block_order": [
-        "slide_label_KKbXqg",
-        "slide_base_RBhYqM",
-        "slide_icon_b9pNdw"
+        "heading_CEA63d",
+        "count_down_dLpPat",
+        "button_cEmAyC"
       ],
       "settings": {
-        "full_width": false,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 500,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "color_scheme": "scheme-1",
-        "loop": false,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
+        "image": "{{ product.metafields.ecomus.feature_1_media.value }}",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
@@ -674,7 +618,7 @@
     "main",
     "icon_box_C6TXn9",
     "tabs",
-    "slideshow_GtBY89",
+    "image_with_text_YCBV3a",
     "image_gallery_q4m8dn",
     "video_width_text2_anqqEU",
     "related",
