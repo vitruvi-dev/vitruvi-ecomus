@@ -596,6 +596,16 @@
     "testimonials_2_R9NQQF": {
       "type": "testimonials-2",
       "blocks": {
+        "quote_J9NRqM": {
+          "type": "quote",
+          "settings": {
+            "heading": "After using it for a week, my life was changed.",
+            "content": "<p>This humidifier is not only BEAUTIFUL, but it also serves a purpose that I think everyone will benefit from. I've noticed my hair becoming more hydrated, and I live in an extremely dry place! I'm still blown away that this humidifier has changed the game for me. I would highly recommend it if you want your life changed!<\/p>",
+            "author": "Annika P.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
         "quote_egAgHx": {
           "type": "quote",
           "settings": {
@@ -609,20 +619,10 @@
         "quote_Mp3EXe": {
           "type": "quote",
           "settings": {
-            "heading": "“Complete purchase now”",
-            "content": "<p>Do not hesitate purchasing this unit! My skin, hair and sleep quality has noticeably improved and am absolutely obsessed of staying consistent. It’s sleek, cute and visually appealing! How do you not purchase!?<\/p>",
-            "author": "Author's name",
+            "heading": "Do not hesitate purchasing this unit!",
+            "content": "<p>My skin, hair and sleep quality has noticeably improved and am absolutely obsessed of staying consistent. It’s sleek, cute and visually appealing! How do you not purchase!?<\/p>",
+            "author": "Kaytee W.",
             "enable_verify": false,
-            "rating": 5
-          }
-        },
-        "quote_J9NRqM": {
-          "type": "quote",
-          "settings": {
-            "heading": "After using it for a week, my life was changed.",
-            "content": "<p>This humidifier is not only BEAUTIFUL, but it also serves a purpose that I think everyone will benefit from. I've noticed my hair becoming more hydrated, and I live in an extremely dry place! I'm still blown away that this humidifier has changed the game for me. I would highly recommend it if you want your life changed!<\/p>",
-            "author": "Annika P.",
-            "enable_verify": true,
             "rating": 5
           }
         },
@@ -638,9 +638,9 @@
         }
       },
       "block_order": [
+        "quote_J9NRqM",
         "quote_egAgHx",
         "quote_Mp3EXe",
-        "quote_J9NRqM",
         "quote_PFq7cB"
       ],
       "custom_css": [
