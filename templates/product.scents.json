@@ -321,6 +321,7 @@
         "gallery_item_U3JRDx",
         "gallery_item_UA8Bpm"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Transform Any Room",
@@ -371,6 +372,7 @@
         "heading_Wzbctd",
         "sub_heading_jeJGRx"
       ],
+      "disabled": true,
       "settings": {
         "video_option": "1",
         "video_height": "adapt_image_first",
