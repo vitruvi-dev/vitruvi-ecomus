@@ -263,12 +263,30 @@
             "content": "{{ product.metafields.ecomus.quality_certificate_of_analysis | metafield_tag }}",
             "page": ""
           }
+        },
+        "tab_html_bdaEfj": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Scent Notes",
+            "content": "",
+            "page": ""
+          }
+        },
+        "tab_html_7q3JL3": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Properties",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_html_r8KYLQ",
         "tab_html_NGKtrx",
-        "tab_html_WB9zxa"
+        "tab_html_WB9zxa",
+        "tab_html_bdaEfj",
+        "tab_html_7q3JL3"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
