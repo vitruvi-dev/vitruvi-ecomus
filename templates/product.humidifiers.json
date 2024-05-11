@@ -606,16 +606,6 @@
             "rating": 5
           }
         },
-        "quote_PFq7cB": {
-          "type": "quote",
-          "settings": {
-            "heading": "I absolutely love this!",
-            "content": "<p>Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed. Mine was a gift, and I would gift this to anyone who is hard to buy for.<\/p>",
-            "author": "Teresa F.",
-            "enable_verify": true,
-            "rating": 5
-          }
-        },
         "quote_pGk7TC": {
           "type": "quote",
           "settings": {
@@ -626,12 +616,12 @@
             "rating": 5
           }
         },
-        "quote_egAgHx": {
+        "quote_PFq7cB": {
           "type": "quote",
           "settings": {
-            "heading": "Improves Sleep",
-            "content": "<p>Happy with my purchase; with improved air quality comes better sleep. You just need to remember to turn it on each night! Most stylish humidifier out there.<\/p>",
-            "author": "Cheri B.",
+            "heading": "I absolutely love this!",
+            "content": "<p>Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed. Mine was a gift, and I would gift this to anyone who is hard to buy for.<\/p>",
+            "author": "Teresa F.",
             "enable_verify": true,
             "rating": 5
           }
@@ -649,9 +639,8 @@
       },
       "block_order": [
         "quote_J9NRqM",
-        "quote_PFq7cB",
         "quote_pGk7TC",
-        "quote_egAgHx",
+        "quote_PFq7cB",
         "quote_Mp3EXe"
       ],
       "custom_css": [
