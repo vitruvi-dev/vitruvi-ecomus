@@ -655,7 +655,7 @@
         "quote_Mp3EXe"
       ],
       "custom_css": [
-
+        ".hdt-tetimonials-item {max-width: 60%;}"
       ],
       "settings": {
         "heading_align": "center",
