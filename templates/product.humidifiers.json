@@ -606,6 +606,26 @@
             "rating": 5
           }
         },
+        "quote_PFq7cB": {
+          "type": "quote",
+          "settings": {
+            "heading": "I absolutely love this!",
+            "content": "<p>Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed. Mine was a gift, and I would gift this to anyone who is hard to buy for.<\/p>",
+            "author": "Teresa F.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_pGk7TC": {
+          "type": "quote",
+          "settings": {
+            "heading": "Elevating Home Comfort and Aesthetics",
+            "content": "<p>The Vitruvi Humidifier has completely transformed my living space and elevated my overall well-being. It releases a fine mist that instantly refreshes the air, providing a more comfortable and soothing environment. What's truly impressive is its whisper-quiet operation, ensuring that it doesn't disrupt my daily activities or sleep.<\/p>",
+            "author": "Teresa F.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
         "quote_egAgHx": {
           "type": "quote",
           "settings": {
@@ -625,23 +645,14 @@
             "enable_verify": false,
             "rating": 5
           }
-        },
-        "quote_PFq7cB": {
-          "type": "quote",
-          "settings": {
-            "heading": "I absolutely love this!",
-            "content": "<p>Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed. Mine was a gift, and I would gift this to anyone who is hard to buy for.<\/p>",
-            "author": "Teresa F.",
-            "enable_verify": true,
-            "rating": 5
-          }
         }
       },
       "block_order": [
         "quote_J9NRqM",
+        "quote_PFq7cB",
+        "quote_pGk7TC",
         "quote_egAgHx",
-        "quote_Mp3EXe",
-        "quote_PFq7cB"
+        "quote_Mp3EXe"
       ],
       "custom_css": [
 
