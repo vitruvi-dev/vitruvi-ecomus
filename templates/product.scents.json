@@ -260,7 +260,7 @@
           "type": "tab_html",
           "settings": {
             "title": "What's Inside",
-            "content": "",
+            "content": "{{ product.metafields.ecomus.kit_components_list | metafield_tag }}",
             "page": ""
           }
         }
