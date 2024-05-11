@@ -244,7 +244,7 @@
           "type": "tab_html",
           "settings": {
             "title": "Ingredients",
-            "content": "<p>{{ product.metafields.custom_fields.product_detail_1_copy | metafield_tag }}<\/p>",
+            "content": "{{ product.metafields.ecomus.ingredients_list | metafield_tag }}",
             "page": ""
           }
         },
