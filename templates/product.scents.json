@@ -285,7 +285,7 @@
         "slide_label_KKbXqg": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_dusk_hover-state_image.png",
+            "image": "shopify:\/\/shop_images\/white-pillows-and-sheets-on-an-unmade-bed.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -378,11 +378,11 @@
       "settings": {
         "full_width": false,
         "item_round": "rounded",
-        "image_height": "adapt_image",
-        "fixed_height": 860,
+        "image_height": "fixed",
+        "fixed_height": 500,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "loop": false,
         "auto_play": 0,
         "pause_hover": false,
