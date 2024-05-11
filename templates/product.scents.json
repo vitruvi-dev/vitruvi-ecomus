@@ -252,7 +252,7 @@
           "type": "tab_html",
           "settings": {
             "title": "Quality",
-            "content": "<p>{{ product.metafields.custom_fields.product_detail_2_copy | metafield_tag }}<\/p>",
+            "content": "<p>{{ product.metafields.custom_fields.product_detail_2_copy | metafield_tag }}<\/p><p><\/p>",
             "page": ""
           }
         },
