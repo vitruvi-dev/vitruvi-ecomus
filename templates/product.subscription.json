@@ -156,91 +156,6 @@
         "padding_rate": 50
       }
     },
-    "icon_box_xRGYey": {
-      "type": "icon-box",
-      "blocks": {
-        "item_pF3rwG": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "box2",
-            "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/IconsBlack-Truck.svg",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "shopify:\/\/pages\/frequently-asked-questions",
-            "open_link": false,
-            "title": "Fast, Free Shipping",
-            "content": "<p>Delivered nationwide in 3-8 business days.<\/p>",
-            "adding_border": false
-          }
-        },
-        "item_GGB3di": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "leaf2",
-            "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "shopify:\/\/pages\/warranty",
-            "open_link": false,
-            "title": "Lifetime Device Warranty",
-            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
-            "adding_border": false
-          }
-        },
-        "item_jG39Wq": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "support",
-            "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/IconsBlack-Returns.svg",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "shopify:\/\/pages\/returns-and-exchanges",
-            "open_link": false,
-            "title": "No-Hassle Returns",
-            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "item_pF3rwG",
-        "item_GGB3di",
-        "item_jG39Wq"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 30,
-        "sec_heading_spacing": 30,
-        "icon_pos_center": true,
-        "icon_pos_center_mb": true,
-        "icon_circle": true,
-        "space_icon_heading": "small",
-        "size_heading": "small",
-        "heading_uppercase": false,
-        "space_heading_content": "small",
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "1",
-        "carousel_mobile": true,
-        "border_style": "none",
-        "fullwidth": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "icon_box_C6TXn9": {
       "type": "icon-box",
       "blocks": {
@@ -325,48 +240,8 @@
     "tabs": {
       "type": "main-product-tabs",
       "blocks": {
-        "76effdab-2914-4a34-a303-417cde99ff0a": {
-          "type": "tab_des",
-          "disabled": true,
-          "settings": {
-            "title": "Description"
-          }
-        },
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Return Policies",
-            "content": "",
-            "page": "privacy-policy"
-          }
-        },
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Features",
-            "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-features\"].value }}"
-          }
-        },
-        "tab_html_FAnLrE": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Specs",
-            "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-specs\"].value }}"
-          }
-        },
-        "tab_html_eeFthN": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Warranty & Returns",
-            "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
-          }
-        },
         "tab_html_r8KYLQ": {
           "type": "tab_html",
-          "disabled": true,
           "settings": {
             "title": "Ingredients",
             "content": "<p>{{ product.metafields.custom_fields.product_detail_1_copy | metafield_tag }}<\/p>",
@@ -375,7 +250,6 @@
         },
         "tab_html_WB9zxa": {
           "type": "tab_html",
-          "disabled": true,
           "settings": {
             "title": "Quality",
             "content": "<p>{{ product.metafields.custom_fields.product_detail_2_copy | metafield_tag }}<\/p>",
@@ -384,18 +258,12 @@
         },
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1": {
           "type": "tab_add",
-          "disabled": true,
           "settings": {
             "title": "Additional Information"
           }
         }
       },
       "block_order": [
-        "76effdab-2914-4a34-a303-417cde99ff0a",
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
-        "tab_html_FAnLrE",
-        "tab_html_eeFthN",
         "tab_html_r8KYLQ",
         "tab_html_WB9zxa",
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1"
@@ -682,7 +550,6 @@
   "order": [
     "breacrumb",
     "main",
-    "icon_box_xRGYey",
     "icon_box_C6TXn9",
     "tabs",
     "image_gallery_q4m8dn",
