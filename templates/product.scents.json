@@ -587,6 +587,51 @@
         "color_scheme": "scheme-1",
         "space": 60
       }
+    },
+    "video_4hTnyA": {
+      "type": "video",
+      "blocks": {
+        "label_tTaD63": {
+          "type": "label",
+          "settings": {
+            "label": "SMELLS LIKE"
+          }
+        },
+        "heading_M9Ntwq": {
+          "type": "heading",
+          "settings": {
+            "heading": "End of<br> Season Sale"
+          }
+        },
+        "sub_heading_KLtkeX": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "To deliver peak potency, minus the waste"
+          }
+        }
+      },
+      "block_order": [
+        "label_tTaD63",
+        "heading_M9Ntwq",
+        "sub_heading_KLtkeX"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 450,
+        "image_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "shopify:\/\/files\/videos\/pdp_essential-oil-blend_boost_color-field_video_mobile_843b0378-d735-4d43-b70c-60810739fa80.mp4",
+        "external_video_url": "",
+        "content_bg": false,
+        "color_scheme": "scheme-1",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -600,6 +645,7 @@
     "related",
     "171512128966062076",
     "recently",
-    "sidebar"
+    "sidebar",
+    "video_4hTnyA"
   ]
 }
