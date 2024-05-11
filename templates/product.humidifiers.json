@@ -625,12 +625,23 @@
             "enable_verify": true,
             "rating": 5
           }
+        },
+        "quote_PFq7cB": {
+          "type": "quote",
+          "settings": {
+            "heading": "I absolutely love this!",
+            "content": "<p>Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed. Mine was a gift, and I would gift this to anyone who is hard to buy for.<\/p>",
+            "author": "Teresa F.",
+            "enable_verify": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "quote_egAgHx",
         "quote_Mp3EXe",
-        "quote_J9NRqM"
+        "quote_J9NRqM",
+        "quote_PFq7cB"
       ],
       "custom_css": [
 
