@@ -34,16 +34,19 @@
         },
         "b9824216-ff11-4175-bb6a-9d57e87082f5": {
           "type": "estimate",
+          "disabled": true,
           "settings": {
           }
         },
         "4bf08da5-a0fc-448d-8fd6-95b5975b90a4": {
           "type": "line",
+          "disabled": true,
           "settings": {
           }
         },
         "ba258f62-4437-4335-b200-fe979323b6f8": {
           "type": "gift",
+          "disabled": true,
           "settings": {
           }
         },
@@ -59,6 +62,7 @@
         },
         "8f1a43a3-1ae9-45e4-a70c-80d295166a78": {
           "type": "agree",
+          "disabled": true,
           "settings": {
             "content": "I agree with the <a href=\"\/pages\/terms-conditions\" title=\"Terms & Conditions\"><strong>terms and conditions<\/strong><\/a>"
           }
@@ -68,11 +72,12 @@
           "settings": {
             "btn_style_checkout": "solid",
             "btn_fw_checkout": "normal",
-            "btn_icon_checkout": "none"
+            "btn_icon_checkout": "1"
           }
         },
         "a64b78c2-f247-45ae-8c41-a282ec84c580": {
           "type": "img_trust",
+          "disabled": true,
           "settings": {
             "mess": "Guarantee Safe Checkout",
             "source": "1",
@@ -95,7 +100,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "show_cart_note": true,
+        "show_cart_note": false,
         "show_free_shipping_bar": true,
         "padding_top": 92,
         "padding_bottom": 75,
