@@ -135,7 +135,7 @@
           "settings": {
             "title": "Recent Post",
             "color_scheme": "scheme-1",
-            "blog": "blog-default",
+            "blog": "spaces",
             "show_blog_title": "blog_tags",
             "limit_post": 3,
             "image_ratio": "-square",
