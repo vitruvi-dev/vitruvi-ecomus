@@ -295,7 +295,7 @@
         "sub_heading_dXe8rc": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Able to scent 500 sq.-ft., the Stone Diffuser is great for bedrooms, living rooms, and home offices.",
+            "sub_heading": "{{ product.metafields.ecomus.feature_2_subheading.value }}",
             "sub_heading_fs": "lg"
           }
         }
