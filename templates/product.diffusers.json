@@ -524,38 +524,27 @@
         "quote_Cq796q": {
           "type": "quote",
           "settings": {
-            "heading": "",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
+            "heading": "The BEST diffuser I've ever owned!",
+            "content": "<p>I'm head over heels in love with Vitruvi diffusers. The colors are true to the image, they carry my scent blends far and wide, and they are so incredibly quiet. Vitruvi stands tall, head and shoulders above the rest. Highly recommend!<\/p>",
+            "author": "Kristin P.",
+            "enable_verify": true,
             "rating": 5
           }
         },
-        "quote_NKBLWJ": {
+        "quote_wMdYkH": {
           "type": "quote",
           "settings": {
-            "heading": "",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
-            "rating": 5
-          }
-        },
-        "quote_zb4Rew": {
-          "type": "quote",
-          "settings": {
-            "heading": "",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name",
-            "enable_verify": false,
+            "heading": "The BEST diffuser I've ever owned!",
+            "content": "<p>I'm head over heels in love with Vitruvi diffusers. The colors are true to the image, they carry my scent blends far and wide, and they are so incredibly quiet. Vitruvi stands tall, head and shoulders above the rest. Highly recommend!<\/p>",
+            "author": "Kristin P.",
+            "enable_verify": true,
             "rating": 5
           }
         }
       },
       "block_order": [
         "quote_Cq796q",
-        "quote_NKBLWJ",
-        "quote_zb4Rew"
+        "quote_wMdYkH"
       ],
       "settings": {
         "heading_align": "center",
