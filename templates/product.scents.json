@@ -268,7 +268,7 @@
           "type": "tab_html",
           "settings": {
             "title": "Scent Notes",
-            "content": "",
+            "content": "{{ product.metafields.ecomus.tabs_scent_notes | metafield_tag }}",
             "page": ""
           }
         },
