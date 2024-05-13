@@ -518,6 +518,65 @@
         "padding_rate": 75
       }
     },
+    "testimonials_2_NVU3JF": {
+      "type": "testimonials-2",
+      "blocks": {
+        "quote_Cq796q": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        },
+        "quote_NKBLWJ": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        },
+        "quote_zb4Rew": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name",
+            "enable_verify": false,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_Cq796q",
+        "quote_NKBLWJ",
+        "quote_zb4Rew"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "top_heading": "Season Collection",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "top_description": "<p>Be the first to know when we launch.<\/p>",
+        "subheading_size": "hdt-text-base",
+        "show_rating": false,
+        "rating": 5,
+        "content_align": "start",
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "color_scheme": "",
+        "pr_rating": "#FF7B54",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
     "related": {
       "type": "related-products",
       "settings": {
@@ -680,6 +739,7 @@
     "banner_gdzX4R",
     "video_width_text2_anqqEU",
     "video_width_text2_gAFGz7",
+    "testimonials_2_NVU3JF",
     "related",
     "171512128966062076",
     "recently",
