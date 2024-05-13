@@ -566,6 +566,7 @@
         "heading_37fFat",
         "sub_heading_iKywFD"
       ],
+      "disabled": true,
       "settings": {
         "video_option": "1",
         "video_height": "adapt_image_first",
