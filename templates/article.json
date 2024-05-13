@@ -134,7 +134,7 @@
           "type": "post",
           "settings": {
             "title": "Recent Post",
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-1",
             "blog": "blog-default",
             "show_blog_title": "blog_tags",
             "limit_post": 3,
@@ -144,12 +144,14 @@
         },
         "template--20958100783408__9c40764c-5483-4d0e-a687-93d6770b4cff-tags-1": {
           "type": "tags",
+          "disabled": true,
           "settings": {
             "title": "Blog tags"
           }
         },
         "template--20958100783408__9c40764c-5483-4d0e-a687-93d6770b4cff-gallery-1": {
           "type": "gallery",
+          "disabled": true,
           "settings": {
             "title": "Instagram",
             "link1": "",
