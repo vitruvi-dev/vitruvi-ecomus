@@ -557,7 +557,7 @@
         "sub_heading_iKywFD": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "{{ product.metafields.custom.feature_2_subheading.value }}",
+            "sub_heading": "",
             "sub_fs": "lg"
           }
         }
