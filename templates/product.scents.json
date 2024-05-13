@@ -312,7 +312,7 @@
         "slide_label_A93gJr": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sunlight-peaks-over-leaves.jpg",
+            "image": "{{ product.metafields.ecomus.feature_1_media.value }}",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
