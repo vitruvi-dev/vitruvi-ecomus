@@ -292,6 +292,7 @@
         "item_4BAcqB",
         "item_dGEfXk"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
@@ -400,6 +401,7 @@
         "tab_html_WB9zxa",
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1"
       ],
+      "disabled": true,
       "settings": {
         "tabs_design": "tab_vertical",
         "enable_first_tab": true,
@@ -451,6 +453,7 @@
         "gallery_item_U3JRDx",
         "gallery_item_UA8Bpm"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Transform Any Room",
@@ -501,6 +504,7 @@
         "heading_Wzbctd",
         "sub_heading_jeJGRx"
       ],
+      "disabled": true,
       "settings": {
         "video_option": "1",
         "video_height": "adapt_image_first",
@@ -528,6 +532,7 @@
     },
     "related": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Pairs Well With",
