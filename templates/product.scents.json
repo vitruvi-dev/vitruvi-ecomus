@@ -279,6 +279,14 @@
             "content": "",
             "page": ""
           }
+        },
+        "tab_html_KQpeCL": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Returns",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -286,7 +294,8 @@
         "tab_html_NGKtrx",
         "tab_html_WB9zxa",
         "tab_html_bdaEfj",
-        "tab_html_7q3JL3"
+        "tab_html_7q3JL3",
+        "tab_html_KQpeCL"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
