@@ -93,7 +93,7 @@
     "favicon": "shopify:\/\/shop_images\/Favicon.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/vitruvi-wordmark-black-small_79244e67-4eeb-44fa-a3fd-40e82a1a31a6.png",
     "checkout_body_background_color": "#f7f8f6",
-    "checkout_accent_color": "#e2eef6",
+    "checkout_accent_color": "#000000",
     "checkout_button_color": "#474946",
     "checkout_error_color": "#ab4e52",
     "enable_compare": true,
