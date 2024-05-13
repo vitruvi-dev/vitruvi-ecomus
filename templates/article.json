@@ -126,7 +126,7 @@
           "type": "blog_cate",
           "settings": {
             "title": "Blog categories",
-            "cat_link_list": "",
+            "cat_link_list": "natural-habitat-blogs",
             "count": true
           }
         },
