@@ -321,11 +321,11 @@
         "banner_2_wGNqDt": {
           "type": "banner_2",
           "settings": {
-            "image": "{{ product.metafields.custom.component_ugc_item_1_image.value }}",
+            "image": "{{ product.metafields.ecomus.banner_1_media.value }}",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "{{ product.metafields.custom.component_ugc_item_1_handle.value }}",
+            "heading": "{{ product.metafields.ecomus.banner_1_heading.value }}",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -346,11 +346,11 @@
         "banner_2_Gd9rXf": {
           "type": "banner_2",
           "settings": {
-            "image": "{{ product.metafields.custom.component_ugc_item_2_image.value }}",
+            "image": "{{ product.metafields.ecomus.banner_2_media.value }}",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "{{ product.metafields.custom.component_ugc_item_2_handle.value }}",
+            "heading": "{{ product.metafields.ecomus.banner_2_heading.value }}",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -371,11 +371,11 @@
         "banner_2_gYifcd": {
           "type": "banner_2",
           "settings": {
-            "image": "{{ product.metafields.custom.component_ugc_item_3_image.value }}",
+            "image": "{{ product.metafields.ecomus.banner_3_media.value }}",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "{{ product.metafields.custom.component_ugc_item_3_handle.value }}",
+            "heading": "{{ product.metafields.ecomus.banner_3_heading.value }}",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
