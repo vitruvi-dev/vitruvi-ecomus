@@ -526,7 +526,7 @@
           "settings": {
             "heading": "The BEST diffuser I've ever owned!",
             "content": "<p>I'm head over heels in love with Vitruvi diffusers. The colors are true to the image, they carry my scent blends far and wide, and they are so incredibly quiet. Vitruvi stands tall, head and shoulders above the rest. Highly recommend!<\/p>",
-            "author": "Kristin P.",
+            "author": "Kristin P. | Stone Diffuser",
             "enable_verify": true,
             "rating": 5
           }
@@ -590,6 +590,16 @@
             "enable_verify": true,
             "rating": 5
           }
+        },
+        "quote_pgJKD6": {
+          "type": "quote",
+          "settings": {
+            "heading": "In Love with my First Purchase from Vitruvi",
+            "content": "<p>It’s beautiful! I received it yesterday. Setting it up was a breeze. It filled my whole living room, dining area, and kitchen with scent. Wow, I can even smell it in the hallway. I’m so happy with my new diffuser. It’s a treat-yourself gift. Highly recommend getting one.<\/p>",
+            "author": "Monica V. | Stay Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
@@ -599,7 +609,8 @@
         "quote_XiBULh",
         "quote_ieGhmJ",
         "quote_87jeBH",
-        "quote_3B8pEi"
+        "quote_3B8pEi",
+        "quote_pgJKD6"
       ],
       "settings": {
         "heading_align": "center",
