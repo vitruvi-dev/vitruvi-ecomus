@@ -560,13 +560,24 @@
             "enable_verify": true,
             "rating": 5
           }
+        },
+        "quote_ieGhmJ": {
+          "type": "quote",
+          "settings": {
+            "heading": "Amazing Diffuser!",
+            "content": "<p>This diffuser is worth the investment! It is so calming in our bathroom where it feels like a more luxurious spa space in guest bathroom. We can smell the diffuser throughout 3 rooms tbroughout the house when we have it on. I will be purchasing another one for our bedroom. I love this product!<\/p>",
+            "author": "Desiree W.",
+            "enable_verify": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "quote_Cq796q",
         "quote_wMdYkH",
         "quote_X3WApe",
-        "quote_XiBULh"
+        "quote_XiBULh",
+        "quote_ieGhmJ"
       ],
       "settings": {
         "heading_align": "center",
