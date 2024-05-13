@@ -264,7 +264,7 @@
           "settings": {
             "title": "Warranty & Returns",
             "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
+            "page": "{{ product.metafields.ecomus.tabs_returns.value }}"
           }
         }
       },
