@@ -570,6 +570,26 @@
             "enable_verify": true,
             "rating": 5
           }
+        },
+        "quote_87jeBH": {
+          "type": "quote",
+          "settings": {
+            "heading": "Quiet and powerful",
+            "content": "<p>Very attractive, minimal design. Runs quietly and works consistently to diffuse essential oils. We have a small apartment (~650 sq ft) and it easily fills the whole space! I like the matte texture of the cover, and the color is fun but neutral enough to go anywhere. &lt;3<\/p>",
+            "author": "Savannah A.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_3B8pEi": {
+          "type": "quote",
+          "settings": {
+            "heading": "It's Everything You'd Want in a Diffuser",
+            "content": "<p>I’ve only had the Move diffuser for a few weeks and I am in love (and so is my husband!). We really love the flexibility of the cordless diffuser. I have it in my home office in the morning, he takes it into his office in the afternoon, and then into our bedroom in the evening—it's truly all we need in one!<\/p>",
+            "author": "Angel W.",
+            "enable_verify": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
@@ -577,7 +597,9 @@
         "quote_wMdYkH",
         "quote_X3WApe",
         "quote_XiBULh",
-        "quote_ieGhmJ"
+        "quote_ieGhmJ",
+        "quote_87jeBH",
+        "quote_3B8pEi"
       ],
       "settings": {
         "heading_align": "center",
