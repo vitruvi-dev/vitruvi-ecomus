@@ -320,7 +320,7 @@
             "sub_heading_fs": "h5",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "The sun grazing your skin.",
+            "heading": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
             "heading_fs": "h4",
             "heading_fw": "normal",
             "btn_label": "",
