@@ -258,6 +258,7 @@
         },
         "tab_html_bdaEfj": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Scent Notes",
             "content": "{{ product.metafields.ecomus.tabs_scent_notes | metafield_tag }}",
