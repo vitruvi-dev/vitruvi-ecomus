@@ -264,7 +264,7 @@
           "settings": {
             "title": "Warranty & Returns",
             "content": "",
-            "page": "{{ product.metafields.ecomus.tabs_returns.value }}"
+            "page": "product-returns-humidifiers-diffusers"
           }
         }
       },
