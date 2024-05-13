@@ -91,7 +91,7 @@
     "round_currency": false,
     "auto_currency": false,
     "favicon": "shopify:\/\/shop_images\/Favicon.png",
-    "checkout_body_background_color": "#e2eef6",
+    "checkout_body_background_color": "#f7f8f6",
     "enable_compare": true,
     "only_search_prs": false,
     "body_scale": 100,
