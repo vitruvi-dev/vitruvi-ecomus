@@ -256,14 +256,6 @@
             "page": ""
           }
         },
-        "tab_html_WB9zxa": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Quality",
-            "content": "{{ product.metafields.ecomus.tabs_scent_quality | metafield_tag }}",
-            "page": ""
-          }
-        },
         "tab_html_bdaEfj": {
           "type": "tab_html",
           "settings": {
@@ -276,7 +268,15 @@
           "type": "tab_html",
           "settings": {
             "title": "Properties",
-            "content": "",
+            "content": "{{ product.metafields.ecomus.tabs_scent_properties | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_WB9zxa": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Quality",
+            "content": "{{ product.metafields.ecomus.tabs_scent_quality | metafield_tag }}",
             "page": ""
           }
         },
@@ -292,9 +292,9 @@
       "block_order": [
         "tab_html_r8KYLQ",
         "tab_html_NGKtrx",
-        "tab_html_WB9zxa",
         "tab_html_bdaEfj",
         "tab_html_7q3JL3",
+        "tab_html_WB9zxa",
         "tab_html_KQpeCL"
       ],
       "settings": {
