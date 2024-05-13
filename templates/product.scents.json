@@ -350,7 +350,7 @@
         "color_scheme": "scheme-3",
         "loop": false,
         "auto_play": 0,
-        "pause_hover": true,
+        "pause_hover": false,
         "navUI": false,
         "dotUI": false,
         "dot_style": "default",
