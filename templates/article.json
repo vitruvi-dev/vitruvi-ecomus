@@ -49,8 +49,8 @@
             "enable_social_telegram": false,
             "enable_social_whatsapp": true,
             "enable_social_email": true,
-            "socials_style": "simple",
-            "socials_size": "medium",
+            "socials_style": "default",
+            "socials_size": "small",
             "margin_bottom": 30
           }
         },
