@@ -15,7 +15,6 @@
         "f5e0a175-c884-4746-b826-b312e2b772cb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/z4683181570507_46fb10fa21da971ae2af71e75431028c.png",
         "color_scheme": "",
         "spacing_hd": 5,
         "padding_top": 88,
@@ -30,7 +29,7 @@
           "type": "countdown-cart",
           "settings": {
             "countdown_cart_minutes": 10,
-            "countdown_cart_text": "[icon] These products are limited, checkout within [time]"
+            "countdown_cart_text": "Don't miss out! These products are limited. Your items are reserved for the next [time]."
           }
         },
         "b9824216-ff11-4175-bb6a-9d57e87082f5": {
@@ -163,9 +162,14 @@
       ],
       "settings": {
         "heading_align": "center",
+        "sec_heading": "",
         "heading_tag": "h4",
         "heading_size": "h4",
+        "sec_subheading": "",
         "subheading_size": "hdt-text-lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
         "content_align": "start",
         "testimonial_des": "1",
         "col_dk": "3",
@@ -192,6 +196,9 @@
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 10,
         "product_des": "1",
@@ -206,7 +213,7 @@
         "nav_pos": "middle_in",
         "dotUI": false,
         "section_fullwidth": false,
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
@@ -221,6 +228,9 @@
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
         "sec_heading_spacing": 45,
         "limit": 10,
         "product_des": "1",
