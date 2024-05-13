@@ -256,15 +256,6 @@
             "page": ""
           }
         },
-        "tab_html_bdaEfj": {
-          "type": "tab_html",
-          "disabled": true,
-          "settings": {
-            "title": "Scent Notes",
-            "content": "{{ product.metafields.ecomus.tabs_scent_notes | metafield_tag }}",
-            "page": ""
-          }
-        },
         "tab_html_7q3JL3": {
           "type": "tab_html",
           "settings": {
@@ -281,6 +272,15 @@
             "page": ""
           }
         },
+        "tab_html_bdaEfj": {
+          "type": "tab_html",
+          "disabled": true,
+          "settings": {
+            "title": "Scent Notes",
+            "content": "{{ product.metafields.ecomus.tabs_scent_notes | metafield_tag }}",
+            "page": ""
+          }
+        },
         "tab_html_KQpeCL": {
           "type": "tab_html",
           "settings": {
@@ -293,9 +293,9 @@
       "block_order": [
         "tab_html_r8KYLQ",
         "tab_html_NGKtrx",
-        "tab_html_bdaEfj",
         "tab_html_7q3JL3",
         "tab_html_WB9zxa",
+        "tab_html_bdaEfj",
         "tab_html_KQpeCL"
       ],
       "settings": {
