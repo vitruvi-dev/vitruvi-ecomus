@@ -244,7 +244,7 @@
           "type": "tab_html",
           "settings": {
             "title": "Ingredients",
-            "content": "{{ product.metafields.ecomus.ingredients_list | metafield_tag }}",
+            "content": "{{ product.metafields.ecomus.tabs_scent_ingredients | metafield_tag }}",
             "page": ""
           }
         },
@@ -252,7 +252,7 @@
           "type": "tab_html",
           "settings": {
             "title": "What's Inside",
-            "content": "{{ product.metafields.ecomus.kit_components_list | metafield_tag }}",
+            "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
             "page": ""
           }
         },
@@ -260,7 +260,7 @@
           "type": "tab_html",
           "settings": {
             "title": "Quality",
-            "content": "{{ product.metafields.ecomus.quality_certificate_of_analysis | metafield_tag }}",
+            "content": "{{ product.metafields.ecomus.tabs_scent_quality | metafield_tag }}",
             "page": ""
           }
         },
