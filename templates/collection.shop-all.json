@@ -99,7 +99,7 @@
         "enable_filtering": true,
         "enable_num_cols_selector": false,
         "widget_heading": "Product categories",
-        "cat_source": "1",
+        "cat_source": "2",
         "cat_link_list": "collection-product-categories",
         "count": true,
         "section_fullwidth": false,
