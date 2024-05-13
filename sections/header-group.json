@@ -59,7 +59,7 @@
         "main_menu_mobile": "header_mobile_vitruvi",
         "lazy_mn_mb": true,
         "only_click_icon": false,
-        "header_mobile_colors": "scheme-2",
+        "header_mobile_colors": "scheme-1",
         "note_mobile": "",
         "header_transparent": false,
         "header_transparent_colors": "scheme-1",

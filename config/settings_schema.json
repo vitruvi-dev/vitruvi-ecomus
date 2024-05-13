@@ -1464,7 +1464,7 @@
         "type": "color_scheme",
         "id": "color_scheme_search",
         "label": "t:sections.all.colors.label",
-        "default": "scheme-2"
+        "default": "scheme-1"
       }
     ]
   },
