@@ -108,11 +108,11 @@
         "template--20958100226352__622f5d6a-09b6-4b2d-ad46-6ded3943164b-quote-1": {
           "type": "quote",
           "settings": {
-            "heading": "Best Online Fashion Site",
+            "heading": "Very Happy Customer!",
             "content": "<p>“ I always find something stylish and affordable on this web fashion site ”<\/p>",
             "author": "Robert smith",
             "pos": "Customer from USA",
-            "enable_verify": false,
+            "enable_verify": true,
             "product": "jersey-thong-body",
             "rating": 5
           }
@@ -171,7 +171,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "content_align": "start",
-        "testimonial_des": "1",
+        "testimonial_des": "2",
         "col_dk": "3",
         "col_tb": "2",
         "col_mb": "1",
