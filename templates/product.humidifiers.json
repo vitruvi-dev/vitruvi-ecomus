@@ -255,8 +255,8 @@
           "type": "tab_html",
           "settings": {
             "title": "Specs",
-            "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-specs\"].value }}"
+            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "page": ""
           }
         },
         "tab_html_eeFthN": {
