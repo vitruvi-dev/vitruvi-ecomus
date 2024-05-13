@@ -550,12 +550,23 @@
             "enable_verify": true,
             "rating": 5
           }
+        },
+        "quote_XiBULh": {
+          "type": "quote",
+          "settings": {
+            "heading": "A Healthier Work at Home Space",
+            "content": "<p>Love my new Stone Vitruvi diffuser. It’s a sleek design, and the neutral colors blend seamlessly into my decor. The diffused oil has been a welcoming addition to the air in my workspace.<\/p>",
+            "author": "Joan F.",
+            "enable_verify": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "quote_Cq796q",
         "quote_wMdYkH",
-        "quote_X3WApe"
+        "quote_X3WApe",
+        "quote_XiBULh"
       ],
       "settings": {
         "heading_align": "center",
