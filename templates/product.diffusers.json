@@ -288,7 +288,7 @@
         "heading_Yk8Ark": {
           "type": "heading",
           "settings": {
-            "heading": "Transform Any Room",
+            "heading": "{{ product.metafields.ecomus.feature_2_heading.value }}",
             "heading_fs": "h4"
           }
         },
