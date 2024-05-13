@@ -540,11 +540,22 @@
             "enable_verify": true,
             "rating": 5
           }
+        },
+        "quote_X3WApe": {
+          "type": "quote",
+          "settings": {
+            "heading": "Easy to use, easy to display",
+            "content": "<p>This checked all the boxes! You can turn off the night light, and people keep complimenting how nice my home smells and how cute my 'sculpture' is. The color is beautiful and subtle—definitely getting some for gifts.<\/p>",
+            "author": "Danielle R.",
+            "enable_verify": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "quote_Cq796q",
-        "quote_wMdYkH"
+        "quote_wMdYkH",
+        "quote_X3WApe"
       ],
       "settings": {
         "heading_align": "center",
