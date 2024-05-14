@@ -102,7 +102,7 @@
         "menu_size": "lg",
         "menu_weight": "medium",
         "text_transform": false,
-        "dropdown_arrow": true,
+        "dropdown_arrow": false,
         "active_link": true,
         "spacing_nav": 32,
         "open_event": "hover",
