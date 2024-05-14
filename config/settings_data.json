@@ -443,7 +443,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".yotpo-label {display: none;}"
+      ".yotpo-reviews-wrapper {display: none;}"
     ]
   }
 }
