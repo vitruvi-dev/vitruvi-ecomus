@@ -50,6 +50,7 @@
         },
         "mega_shop_7yUh8W": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "collection_list": [
@@ -64,11 +65,11 @@
             "mega_custom_width": 1200
           }
         },
-        "html_b3yqV9": {
+        "html_VkzbtC": {
           "type": "html",
           "settings": {
-            "title": "Title",
-            "html": "",
+            "title": "Diffusers",
+            "html": "lorem ipsum dolar",
             "page": "",
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -80,7 +81,7 @@
       "block_order": [
         "mega_product_Jabr9E",
         "mega_shop_7yUh8W",
-        "html_b3yqV9"
+        "html_VkzbtC"
       ],
       "custom_css": [
 
