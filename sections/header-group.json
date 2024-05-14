@@ -53,7 +53,8 @@
           "settings": {
             "title": "Diffusers",
             "collection_list": [
-              "essential-oil-diffusers"
+              "essential-oil-diffusers",
+              "best-sellers"
             ],
             "image_ratio": "square",
             "image_size": false,
