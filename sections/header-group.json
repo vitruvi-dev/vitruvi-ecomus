@@ -59,7 +59,7 @@
             "image_size": false,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "custom",
+            "mega_width": "full",
             "mega_custom_width": 1200
           }
         },
