@@ -56,7 +56,7 @@
               "essential-oil-diffusers"
             ],
             "image_ratio": "square",
-            "image_size": true,
+            "image_size": false,
             "mega_menu_colors": "",
             "mega_position": "bottom",
             "mega_width": "custom",
