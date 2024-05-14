@@ -440,5 +440,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".yotpo-label {display: none;}"
+    ]
   }
 }
