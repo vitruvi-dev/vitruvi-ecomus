@@ -118,6 +118,17 @@
           "settings": {
             "text": "Pairs well with"
           }
+        },
+        "bundle_product_NRaNMn": {
+          "type": "bundle_product",
+          "settings": {
+            "bundle_prs_inner": true,
+            "product_list": [
+              "bergamot-essential-oil",
+              "boost-essential-oil-blend",
+              "boost-essential-oil-blend-5"
+            ]
+          }
         }
       },
       "block_order": [
@@ -132,7 +143,8 @@
         "order_jbW4Fg",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "description_Fh49zX",
-        "complimentary_products_n6BDx7"
+        "complimentary_products_n6BDx7",
+        "bundle_product_NRaNMn"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
