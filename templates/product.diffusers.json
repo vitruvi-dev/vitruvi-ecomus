@@ -115,12 +115,14 @@
         },
         "complimentary_products_n6BDx7": {
           "type": "complimentary_products",
+          "disabled": true,
           "settings": {
             "text": "Pairs well with"
           }
         },
         "bundle_product_NRaNMn": {
           "type": "bundle_product",
+          "disabled": true,
           "settings": {
             "bundle_prs_inner": true,
             "product_list": [
