@@ -112,6 +112,12 @@
             "short_des": "",
             "length": 31
           }
+        },
+        "complimentary_products_n6BDx7": {
+          "type": "complimentary_products",
+          "settings": {
+            "text": "Pairs well with"
+          }
         }
       },
       "block_order": [
@@ -125,7 +131,8 @@
         "countdown_timer_pLgxfe",
         "order_jbW4Fg",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "description_Fh49zX"
+        "description_Fh49zX",
+        "complimentary_products_n6BDx7"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
