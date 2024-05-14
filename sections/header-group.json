@@ -33,7 +33,6 @@
       "blocks": {
         "mega_product_Jabr9E": {
           "type": "mega_product",
-          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "product_list_title": "BEST SELLER",
@@ -50,6 +49,7 @@
         },
         "mega_shop_7yUh8W": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "collection_list": [
