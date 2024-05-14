@@ -50,6 +50,7 @@
         },
         "mega_shop_7yUh8W": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "collection_list": [
@@ -66,6 +67,7 @@
         },
         "mega_shop_mg3bKH": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Scents",
             "collection_list": [
