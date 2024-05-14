@@ -33,6 +33,7 @@
       "blocks": {
         "mega_product_Jabr9E": {
           "type": "mega_product",
+          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "product_list_title": "BEST SELLER",
@@ -49,7 +50,6 @@
         },
         "mega_shop_7yUh8W": {
           "type": "mega_shop",
-          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "collection_list": [
@@ -62,11 +62,24 @@
             "mega_width": "custom",
             "mega_custom_width": 1200
           }
+        },
+        "html_b3yqV9": {
+          "type": "html",
+          "settings": {
+            "title": "Title",
+            "html": "",
+            "page": "",
+            "mega_menu_colors": "",
+            "mega_position": "bottom",
+            "mega_width": "full",
+            "mega_custom_width": 1200
+          }
         }
       },
       "block_order": [
         "mega_product_Jabr9E",
-        "mega_shop_7yUh8W"
+        "mega_shop_7yUh8W",
+        "html_b3yqV9"
       ],
       "custom_css": [
 
