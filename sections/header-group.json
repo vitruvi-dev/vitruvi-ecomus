@@ -50,7 +50,6 @@
         },
         "mega_shop_7yUh8W": {
           "type": "mega_shop",
-          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "collection_list": [
@@ -64,24 +63,11 @@
             "mega_width": "full",
             "mega_custom_width": 1200
           }
-        },
-        "html_VkzbtC": {
-          "type": "html",
-          "settings": {
-            "title": "Diffusers",
-            "html": "lorem ipsum dolar",
-            "page": "get-to-know-the-stay-diffuser",
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "full",
-            "mega_custom_width": 1200
-          }
         }
       },
       "block_order": [
         "mega_product_Jabr9E",
-        "mega_shop_7yUh8W",
-        "html_VkzbtC"
+        "mega_shop_7yUh8W"
       ],
       "custom_css": [
 
