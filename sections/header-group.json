@@ -98,7 +98,7 @@
         "header_colors": "scheme-1",
         "main_menu": "header_desktop_ecomus",
         "lazy_mn": true,
-        "menu_position": "end",
+        "menu_position": "center",
         "menu_size": "lg",
         "menu_weight": "medium",
         "text_transform": false,
