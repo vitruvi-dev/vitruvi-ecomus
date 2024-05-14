@@ -69,8 +69,10 @@
           "settings": {
             "title": "Scents",
             "collection_list": [
-              "essential-oil-diffusers",
-              "diffuser-bundles"
+              "scent-kits",
+              "essential-oils",
+              "essential-oil-blends",
+              "natural-air-freshener-sprays"
             ],
             "image_ratio": "square",
             "image_size": false,
