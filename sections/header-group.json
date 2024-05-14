@@ -60,12 +60,11 @@
             "mega_menu_colors": "",
             "mega_position": "bottom",
             "mega_width": "custom",
-            "mega_custom_width": 1200
+            "mega_custom_width": 800
           }
         },
         "mega_shop_mg3bKH": {
           "type": "mega_shop",
-          "disabled": true,
           "settings": {
             "title": "Scents",
             "collection_list": [
