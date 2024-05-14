@@ -31,21 +31,19 @@
     "header": {
       "type": "header-inline",
       "blocks": {
-        "mega_product_Jabr9E": {
-          "type": "mega_product",
-          "disabled": true,
+        "mega_shop_xTkPbf": {
+          "type": "mega_shop",
           "settings": {
-            "title": "Diffusers",
-            "product_list_title": "BEST SELLER",
-            "product_list": [
-              "stone-essential-oil-diffuser"
+            "title": "Shop All",
+            "collection_list": [
+
             ],
-            "image_ratio": "adapt_image",
-            "image_size": true,
+            "image_ratio": "square",
+            "image_size": false,
             "mega_menu_colors": "",
             "mega_position": "bottom",
             "mega_width": "custom",
-            "mega_custom_width": 1200
+            "mega_custom_width": 600
           }
         },
         "mega_shop_7yUh8W": {
@@ -80,7 +78,7 @@
         }
       },
       "block_order": [
-        "mega_product_Jabr9E",
+        "mega_shop_xTkPbf",
         "mega_shop_7yUh8W",
         "mega_shop_mg3bKH"
       ],
