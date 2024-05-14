@@ -33,6 +33,7 @@
       "blocks": {
         "mega_shop_xTkPbf": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Shop All",
             "collection_list": [
