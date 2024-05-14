@@ -33,7 +33,6 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\"; font-style: normal;}"
       ],
@@ -90,6 +89,7 @@
       "block_order": [
         "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}",
         "h2 {font-family: \"Kaftan\"; font-style: normal;}"
