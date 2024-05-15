@@ -609,7 +609,7 @@
         "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4"
       ],
       "custom_css": [
-        ".hdt-icon-box__title {font-weight: 500;}"
+
       ],
       "settings": {
         "heading_align": "center",
@@ -629,7 +629,7 @@
         "heading_uppercase": false,
         "space_heading_content": "small",
         "col_dk": "4",
-        "col_tb": "2",
+        "col_tb": "4",
         "col_mb": "1",
         "carousel_mobile": true,
         "border_style": "none",
