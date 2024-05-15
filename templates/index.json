@@ -406,6 +406,7 @@
         },
         "quote_e9fWFr": {
           "type": "quote",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/removal.ai__e52b6177-79d6-4cc0-a43d-33ee7e67bb90-media-oct20192-1.png",
             "heading": "",
@@ -424,6 +425,7 @@
         },
         "quote_g3TVgk": {
           "type": "quote",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/BHG-logo-brandprimary-dark_1_1_1.png",
             "heading": "",
