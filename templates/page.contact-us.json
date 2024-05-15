@@ -32,62 +32,135 @@
         "padding_rate": 75
       }
     },
-    "video_with_text_qf7w84": {
-      "type": "video-with-text",
+    "icon_box_7E4c9c": {
+      "type": "icon-box",
       "blocks": {
-        "item_content_fqWipD": {
-          "type": "item_content",
+        "item_iQJFEj": {
+          "type": "item",
           "settings": {
-            "content_text": "Unscrew cap of 4EVERBTL™ and fill with water. Screw cap back on."
+            "icon_svg": "support",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/phone.png",
+            "icon_width": 60,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "General Inquiries",
+            "content": "<p>If you have any questions about an order or product, email us here<\/p><p><\/p><p><a href=\"mailto:HELLO@VITRUVI.COM\" target=\"_blank\" title=\"mailto:HELLO@VITRUVI.COM\">HELLO@VITRUVI.COM<\/a><\/p>",
+            "adding_border": true
           }
         },
-        "item_content_MRyzac": {
-          "type": "item_content",
+        "item_yYXtwU": {
+          "type": "item",
           "settings": {
-            "content_text": "Peel-off one blister individual seal and place tablet in the palm of your hand."
+            "icon_svg": "payment",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/hands_dea33a55-65e2-4c7e-9728-7ede266e30bc.png",
+            "icon_width": 60,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Wholesale",
+            "content": "<p>If you're interested in carrying our products in your store, email us here:<\/p><p><a href=\"mailto:WHOLESALE@VITRUVI.COM\" target=\"_blank\" title=\"mailto:WHOLESALE@VITRUVI.COM\">WHOLESALE@VITRUVI.COM<\/a><\/p>",
+            "adding_border": true
           }
         },
-        "item_content_YMCDTM": {
-          "type": "item_content",
+        "item_bmahyt": {
+          "type": "item",
           "settings": {
-            "content_text": "Add 3-8 drops of water and mix until tablet is fully dissolved."
+            "icon_svg": "return",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/sparkle-150.png",
+            "icon_width": 60,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Home Team",
+            "content": "<p>If you're a content creator, apply to join our affiliate program here:<\/p><p><\/p><p><a href=\"\/pages\/home-team\" title=\"Home Team\">APPLY NOW<\/a><\/p>",
+            "adding_border": true
           }
         },
-        "item_content_pYD6r6": {
-          "type": "item_content",
+        "item_x4aRJh": {
+          "type": "item",
           "settings": {
-            "content_text": "Apply on clean skin like any liquid serum!"
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/sprouting-150.png",
+            "icon_width": 60,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Partnerships",
+            "content": "<p>If you'd like to inquire about a brand partnership, email us here:<\/p><p><\/p><p><a href=\"mailto:PARTNERSHIPS@VITRUVI.COM\" target=\"_blank\" title=\"mailto:PARTNERSHIPS@VITRUVI.COM\">PARTNERSHIPS@VITRUVI.COM<\/a><\/p><p><\/p>",
+            "adding_border": true
+          }
+        },
+        "item_anD8nM": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/lightbulb-150.png",
+            "icon_width": 60,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Press",
+            "content": "<p>If you're looking to write a story on us, email us here:<\/p><p><\/p><p><a href=\"mailto:PRESS@VITRUVI.COM\" title=\"mailto:PRESS@VITRUVI.COM\">PRESS@VITRUVI.COM<\/a><\/p>",
+            "adding_border": true
+          }
+        },
+        "item_VAn6EV": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/gift-128.png",
+            "icon_width": 60,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Corporate Gifting",
+            "content": "<p>If you've got a corporate activation that you need gifts for, we'd be happy to help<\/p><p><a href=\"mailto:CORPORATEGIFTING@VITRUVI.COM\" target=\"_blank\" title=\"mailto:CORPORATEGIFTING@VITRUVI.COM\">CORPORATEGIFTING@VITRUVI.COM<\/a><\/p>",
+            "adding_border": true
           }
         }
       },
       "block_order": [
-        "item_content_fqWipD",
-        "item_content_MRyzac",
-        "item_content_YMCDTM",
-        "item_content_pYD6r6"
+        "item_iQJFEj",
+        "item_yYXtwU",
+        "item_bmahyt",
+        "item_x4aRJh",
+        "item_anD8nM",
+        "item_VAn6EV"
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "",
+        "sec_heading": "Shop Gram",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "right",
-        "video_autoplay": false,
-        "section_fullwidth": false,
+        "heading_gap": 27,
+        "sec_heading_spacing": 49,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "small",
+        "size_heading": "large",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "2",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
+        "padding_top": 36,
+        "padding_bottom": 44,
         "padding_rate": 75
       }
     }
@@ -95,6 +168,6 @@
   "order": [
     "heading",
     "main",
-    "video_with_text_qf7w84"
+    "icon_box_7E4c9c"
   ]
 }
