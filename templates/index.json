@@ -374,7 +374,7 @@
         "nav_pos": "middle_in",
         "dotUI": false,
         "dots_pos": "ontop",
-        "section_fullwidth": true,
+        "section_fullwidth": false,
         "boxed_fullwidth": true,
         "boxed_content": false,
         "color_scheme": "scheme-1",
