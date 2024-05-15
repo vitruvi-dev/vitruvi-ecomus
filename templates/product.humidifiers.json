@@ -112,6 +112,16 @@
             "short_des": "",
             "length": 31
           }
+        },
+        "bundle_product_F3hwaK": {
+          "type": "bundle_product",
+          "settings": {
+            "bundle_prs_inner": true,
+            "product_list": [
+              "humidifier-filters",
+              "humidifier-sensor-hygrometer"
+            ]
+          }
         }
       },
       "block_order": [
@@ -125,7 +135,8 @@
         "countdown_timer_pLgxfe",
         "order_jbW4Fg",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "description_Fh49zX"
+        "description_Fh49zX",
+        "bundle_product_F3hwaK"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
