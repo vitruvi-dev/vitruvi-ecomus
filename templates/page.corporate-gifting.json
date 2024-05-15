@@ -46,7 +46,7 @@
         "sub_heading_y7F6Bm": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Whether you’re gifting your clients for the holidays or are celebrating your employees, our dedicated team is here to make gifting seamless, personal, and fast email us using the below address.",
+            "sub_heading": "Whether you’re gifting your clients for the holidays or are celebrating your employees, our dedicated team is here to make gifting seamless, personal, and fast, email us using the below address.",
             "sub_fs": "base"
           }
         },
@@ -183,6 +183,55 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "image_with_text_7FFPCr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ERdN6G": {
+          "type": "heading",
+          "settings": {
+            "heading": "Perfect For Every Occasion",
+            "heading_fs": "h4"
+          }
+        },
+        "text_NxK4qp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Holidays<\/p><p>Employee recognition<\/p><p>Conferences<\/p><p>Company retreats<\/p><p>Recruitment and onboarding<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ERdN6G",
+        "text_NxK4qp"
+      ],
+      "settings": {
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "form_contact_with_text_H8eG3F": {
+      "type": "form_contact-with-text",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Get In touch",
+        "sub_heading": "Our team will respond in 24 hours to assit with your new project",
+        "btn_full": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -190,6 +239,8 @@
     "main",
     "image_with_text_TzjEXV",
     "main_heading_XDjKbF",
-    "image_with_tabs_content_ymiEjt"
+    "image_with_tabs_content_ymiEjt",
+    "image_with_text_7FFPCr",
+    "form_contact_with_text_H8eG3F"
   ]
 }
