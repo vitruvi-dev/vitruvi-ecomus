@@ -23,6 +23,7 @@
     "font_custom_heading": "'Founders Grotesk', sans-serif",
     "font_custom_body": "'Founders Grotesk', sans-serif",
     "heading_scale": 100,
+    "body_size": 18,
     "page_width": 1440,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 30,
