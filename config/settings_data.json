@@ -445,7 +445,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".yotpo-reviews-wrapper {display: none;}"
+      ".yotpo-reviews-wrapper {display: none;}",
+      ".hdt-product_title {font-family: 'Heldane';}"
     ]
   }
 }
