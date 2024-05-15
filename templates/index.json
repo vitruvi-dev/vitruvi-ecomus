@@ -471,6 +471,71 @@
         "padding_rate": 75
       }
     },
+    "slideshow_zT9KVC": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_label_tVa86N": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_home_category-hero_august-evergreen_desktop_image.png",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "",
+            "sub_heading": "From casual to formal, we've got you covered",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Multi-faceted Beauty",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "btn2_label": "Shop now",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "normal",
+            "btn2_icon": "1",
+            "content_bg": false,
+            "content_position": "center",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_label_tVa86N"
+      ],
+      "settings": {
+        "full_width": false,
+        "item_round": "rounded",
+        "image_height": "fixed",
+        "fixed_height": 600,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "color_scheme": "",
+        "loop": false,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": false,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 40,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "cef9818d-d174-4a85-935f-31cd9035f495": {
       "type": "icon-box",
       "blocks": {
@@ -574,142 +639,6 @@
         "padding_rate": 75
       }
     },
-    "2114b9b3-c579-4b90-90d4-7c53d71f6449": {
-      "type": "image-gallery",
-      "blocks": {
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_2_emilytartaglia_diffuser-stone_terracotta.jpg",
-            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
-            "product_item": ""
-          }
-        },
-        "gallery_item_tYmTPp": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_4_sahnndra_cloud-humidifier_oat_v2.jpg",
-            "item_link": "shopify:\/\/products\/cloud-humidifier",
-            "product_item": ""
-          }
-        },
-        "gallery_item_HjHmnE": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_6_carissavianca_diffuser-stone_suede.jpg",
-            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
-            "product_item": ""
-          }
-        },
-        "gallery_item_VCqMjr": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_3_silchuknest_diffuser-stone_white.jpg",
-            "item_link": "shopify:\/\/products\/stone-essential-oil-diffuser",
-            "product_item": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-1",
-        "gallery_item_tYmTPp",
-        "gallery_item_HjHmnE",
-        "gallery_item_VCqMjr"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "#MAKETHEAIRYOURS",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Shop Our Socials<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "heading_gap": 18,
-        "sec_heading_spacing": 60,
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "spacing_items": 7,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": true,
-        "dots_pos": "outline",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "slideshow_zT9KVC": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_label_tVa86N": {
-          "type": "slide_label",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_category-hero_august-evergreen_desktop_image.png",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "Multi-faceted Beauty",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "btn2_label": "Shop now",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "1",
-            "content_bg": false,
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_label_tVa86N"
-      ],
-      "settings": {
-        "full_width": false,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 600,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
-        "color_scheme": "",
-        "loop": false,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_grid_hUARCz": {
       "type": "featured-collection-grid",
       "settings": {
@@ -758,9 +687,8 @@
     "testimonials_2_DtFpRW",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
-    "cef9818d-d174-4a85-935f-31cd9035f495",
-    "2114b9b3-c579-4b90-90d4-7c53d71f6449",
     "slideshow_zT9KVC",
+    "cef9818d-d174-4a85-935f-31cd9035f495",
     "featured_collection_grid_hUARCz"
   ]
 }
