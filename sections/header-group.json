@@ -113,7 +113,7 @@
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
-        "menu_weight": "medium",
+        "menu_weight": "normal",
         "text_transform": false,
         "dropdown_arrow": false,
         "active_link": true,
