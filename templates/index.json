@@ -651,6 +651,7 @@
         "slide_label_tVa86N": {
           "type": "slide_label",
           "settings": {
+            "image": "shopify:\/\/shop_images\/page_home_category-hero_august-evergreen_desktop_image.png",
             "url": "",
             "banner_target": false,
             "color_scheme": "",
@@ -682,70 +683,17 @@
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
-        },
-        "slide_base_3y3W9T": {
-          "type": "slide_base",
-          "settings": {
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "heading": "Multi-faceted Beauty",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "slide_icon_kTWBnX": {
-          "type": "slide_icon",
-          "settings": {
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "custom_svg": "",
-            "heading": "Plant life made easy",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "icon_size": 40,
-            "content_position": "center",
-            "alignment": "center",
-            "icon_size_mb": 40,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
         }
       },
       "block_order": [
-        "slide_label_tVa86N",
-        "slide_base_3y3W9T",
-        "slide_icon_kTWBnX"
+        "slide_label_tVa86N"
       ],
       "settings": {
         "full_width": false,
         "item_round": "rounded",
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
+        "image_height": "fixed",
+        "fixed_height": 600,
+        "image_height_mb": "fixed",
         "fixed_height_mb": 300,
         "color_scheme": "",
         "loop": false,
