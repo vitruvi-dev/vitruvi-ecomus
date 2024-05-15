@@ -6,7 +6,7 @@
         "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
           "type": "1",
           "settings": {
-            "heading": "",
+            "heading": "CONTACT US",
             "heading_size": "h3"
           }
         }
@@ -15,20 +15,11 @@
         "5ecb9555-19e4-433b-8817-1ccaa3a41384"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/page_loyalty_take-care_header_image_desktop_eed4e8a5-6ae4-4b9a-bf42-1298bc6ebc82.png",
         "color_scheme": "",
-        "spacing_hd": 0,
+        "spacing_hd": 40,
         "padding_top": 80,
         "padding_bottom": 86,
-        "padding_rate": 75
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
@@ -136,17 +127,17 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Shop Gram",
+        "sec_heading": "",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
-        "heading_gap": 27,
+        "heading_gap": 60,
         "sec_heading_spacing": 49,
         "icon_pos_center": true,
         "icon_pos_center_mb": true,
-        "icon_circle": false,
+        "icon_circle": true,
         "space_icon_heading": "small",
         "size_heading": "large",
         "heading_uppercase": false,
@@ -167,7 +158,6 @@
   },
   "order": [
     "heading",
-    "main",
     "icon_box_7E4c9c"
   ]
 }
