@@ -131,7 +131,8 @@
         "header_mobile_colors": "scheme-1",
         "note_mobile": "",
         "header_transparent": true,
-        "header_transparent_colors": "scheme-1",
+        "logo_transparent": "shopify:\/\/shop_images\/vitruvi-wordmark-white-small.png",
+        "header_transparent_colors": "scheme-3",
         "sticky_type": "always",
         "sticky_glass": false
       }
