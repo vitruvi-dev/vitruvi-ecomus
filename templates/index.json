@@ -161,7 +161,7 @@
       "settings": {
         "heading_align": "center",
         "sec_heading": "Our Best-Sellers",
-        "heading_tag": "h3",
+        "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>Premium, natural air care products that elevate your home.<\/p>",
         "subheading_size": "lg",
@@ -345,7 +345,7 @@
       "settings": {
         "heading_align": "center",
         "sec_heading": "All-natural scents and aromas that transport you",
-        "heading_tag": "h4",
+        "heading_tag": "h3",
         "heading_size": "h5",
         "sec_subheading": "<p>Explore<\/p>",
         "subheading_size": "hdt-text-base",
