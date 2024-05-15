@@ -46,7 +46,7 @@
         "sub_heading_y7F6Bm": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Whether you’re gifting your clients for the holidays or are celebrating your employees, our dedicated team is here to make gifting seamless, personal, and fast email us at the below",
+            "sub_heading": "Whether you’re gifting your clients for the holidays or are celebrating your employees, our dedicated team is here to make gifting seamless, personal, and fast email us using the below address.",
             "sub_fs": "base"
           }
         },
@@ -84,11 +84,89 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
+    },
+    "image_with_tabs_content_ymiEjt": {
+      "type": "image-with-tabs-content",
+      "blocks": {
+        "tab_item_WhMKqU": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Custom Notes",
+            "heading": "Custom Notes",
+            "content_text": "We’ll print cards with your company name and include a personalized message of your choice.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_rzWAzt": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Keepsake Branding",
+            "heading": "Keepsake Branding",
+            "content_text": "We can add your company logo right onto any of our diffuser models and colors.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_FJ6kKL": {
+          "type": "tab_item",
+          "settings": {
+            "title": "1 on 1 Support",
+            "heading": "1 on 1 Support",
+            "content_text": "Work 1 on 1 with a Vitruvi Team member to choose the best products for your gifts.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_WhMKqU",
+        "tab_item_rzWAzt",
+        "tab_item_FJ6kKL"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "main_img": "shopify:\/\/shop_images\/page_corporate-gifting_Keepsake_Branding.jpg",
+        "image_pos": "left",
+        "image_ratio": "adapt_image",
+        "custom_height": 860,
+        "custom_height_tb": 300,
+        "custom_height_mb": 300,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "image_with_text_TzjEXV"
+    "image_with_text_TzjEXV",
+    "image_with_tabs_content_ymiEjt"
   ]
 }
