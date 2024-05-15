@@ -588,6 +588,7 @@
         },
         "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon_svg": "support",
             "custom_svg": "",
@@ -628,8 +629,8 @@
         "size_heading": "medium",
         "heading_uppercase": false,
         "space_heading_content": "small",
-        "col_dk": "4",
-        "col_tb": "2",
+        "col_dk": "3",
+        "col_tb": "3",
         "col_mb": "1",
         "carousel_mobile": true,
         "border_style": "none",
