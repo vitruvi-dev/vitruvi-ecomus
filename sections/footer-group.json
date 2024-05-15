@@ -80,7 +80,7 @@
         ".hdt-footer-payments {display: none;}"
       ],
       "settings": {
-        "collapse": false,
+        "collapse": true,
         "border-f": "top-bottom",
         "border-ps_main": "container",
         "heading_fs": "hdt-text-xl",
