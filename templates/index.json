@@ -456,7 +456,7 @@
         "sec_heading": "",
         "heading_tag": "h3",
         "heading_size": "h5",
-        "sec_subheading": "<p>★★★★★<br\/>14,000+  5 Star Reviews<\/p>",
+        "sec_subheading": "<p>★★★★★<\/p><p>14,000+  5 Star Reviews<\/p>",
         "subheading_size": "10xl",
         "heading_reverse": true,
         "heading_gap": 18,
