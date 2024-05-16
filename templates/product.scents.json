@@ -141,7 +141,7 @@
         "enable_media_autoplay": true,
         "enable_video_looping": true,
         "enable_thumb_efect": true,
-        "image_ratio": "square",
+        "image_ratio": "asos",
         "image_size": true,
         "image_zoom": "no",
         "image_zoom_type": "external",
