@@ -258,6 +258,7 @@
         },
         "tab_html_7q3JL3": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Oil Properties",
             "content": "{{ product.metafields.ecomus.tabs_scent_properties | metafield_tag }}",
