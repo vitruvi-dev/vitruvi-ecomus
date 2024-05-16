@@ -1,0 +1,661 @@
+{
+  "sections": {
+    "breacrumb": {
+      "type": "brc-nav-product",
+      "disabled": true,
+      "settings": {
+        "back_next_pr": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "83296f29-170d-4d7b-9291-c9b59bb98b32": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 64,
+            "content": "",
+            "icon_svg": "none",
+            "ani": "none"
+          }
+        },
+        "yotpo_product_reviews_ugc_star_rating_HQFQre": {
+          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "3a222052-35a9-4684-a336-6a32a56eb638": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "edac686e-a845-4ed7-9b50-51639a11cf56": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1248e930-5734-45b4-a1d6-a814910fdb63": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "enable_historystate": true,
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "medium",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": "size-chart"
+          }
+        },
+        "ad820e37-dee5-41f3-9692-bf46d9664103": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "inventory_ftnW9y": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
+        "order_jbW4Fg": {
+          "type": "order",
+          "disabled": true,
+          "settings": {
+            "hide_pre": true,
+            "icon_svg": "delivery",
+            "ani": "none",
+            "txt": "Order in the next [hour] to get it between [date_start] and [date_end]",
+            "ds": 10,
+            "de": 15,
+            "mode": "1",
+            "cut_day": "SAT,SUN",
+            "off_days": "23\/12\/****\n24\/12\/****\n01\/01\/****",
+            "frm_day": "t44, t45 t46",
+            "time": "16:00:00"
+          }
+        },
+        "countdown_timer_pLgxfe": {
+          "type": "countdown_timer",
+          "disabled": true,
+          "settings": {
+            "content": "HURRY UP! SALE ENDS IN:",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
+        "8253e974-5acb-4076-9230-03b0f804dcdf": {
+          "type": "back_instock",
+          "settings": {
+            "only_show_soldout": true
+          }
+        },
+        "description_Fh49zX": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        }
+      },
+      "block_order": [
+        "83296f29-170d-4d7b-9291-c9b59bb98b32",
+        "yotpo_product_reviews_ugc_star_rating_HQFQre",
+        "3a222052-35a9-4684-a336-6a32a56eb638",
+        "edac686e-a845-4ed7-9b50-51639a11cf56",
+        "1248e930-5734-45b4-a1d6-a814910fdb63",
+        "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "inventory_ftnW9y",
+        "order_jbW4Fg",
+        "countdown_timer_pLgxfe",
+        "8253e974-5acb-4076-9230-03b0f804dcdf",
+        "description_Fh49zX"
+      ],
+      "custom_css": [
+        ".hdt-sticky-atc__qty-selector {display: none;}"
+      ],
+      "settings": {
+        "space_content_media": true,
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": true,
+        "enable_video_looping": true,
+        "enable_thumb_efect": true,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "sticky_atc": true,
+        "navUI": true,
+        "nav_des": "default",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 50
+      }
+    },
+    "icon_box_C6TXn9": {
+      "type": "icon-box",
+      "blocks": {
+        "item_LxpgtV": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "leaf",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Only 100% pure essential oils",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_4BAcqB": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "skin",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Free from Synthetic fragrance",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_dGEfXk": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "health",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Vegan and cruelty-free",
+            "content": "",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_LxpgtV",
+        "item_4BAcqB",
+        "item_dGEfXk"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 30,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": true,
+        "space_icon_heading": "small",
+        "size_heading": "small",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "tabs": {
+      "type": "main-product-tabs",
+      "blocks": {
+        "tab_html_r8KYLQ": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Ingredients",
+            "content": "{{ product.metafields.ecomus.tabs_scent_ingredients | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_NGKtrx": {
+          "type": "tab_html",
+          "settings": {
+            "title": "What's Inside",
+            "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_7q3JL3": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Oil Properties",
+            "content": "{{ product.metafields.ecomus.tabs_scent_properties | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_WB9zxa": {
+          "type": "tab_html",
+          "disabled": true,
+          "settings": {
+            "title": "Quality",
+            "content": "{{ product.metafields.ecomus.tabs_scent_quality | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_bdaEfj": {
+          "type": "tab_html",
+          "disabled": true,
+          "settings": {
+            "title": "Scent Notes",
+            "content": "{{ product.metafields.ecomus.tabs_scent_notes | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_KQpeCL": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Shipping & Returns",
+            "content": "",
+            "page": "product-returns-scents"
+          }
+        }
+      },
+      "block_order": [
+        "tab_html_r8KYLQ",
+        "tab_html_NGKtrx",
+        "tab_html_7q3JL3",
+        "tab_html_WB9zxa",
+        "tab_html_bdaEfj",
+        "tab_html_KQpeCL"
+      ],
+      "settings": {
+        "tabs_design": "tab_vertical",
+        "enable_first_tab": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 50
+      }
+    },
+    "slideshow_Ak3WEL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_label_A93gJr": {
+          "type": "slide_label",
+          "settings": {
+            "image": "{{ product.metafields.ecomus.feature_1_media.value }}",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
+            "sub_heading_fs": "h5",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "normal",
+            "btn2_icon": "1",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "left",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_label_A93gJr"
+      ],
+      "settings": {
+        "full_width": false,
+        "item_round": "rounded",
+        "image_height": "fixed",
+        "fixed_height": 450,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "color_scheme": "scheme-3",
+        "loop": false,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": false,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 40,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_gallery_q4m8dn": {
+      "type": "image-gallery",
+      "blocks": {
+        "gallery_item_z6fGp9": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_iQPWbb": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD3_V1_White-Sleep-Book_2024_Q1_Evergreen_Image_Square.png",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_U3JRDx": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_UA8Bpm": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_6__carissavianca_diffuser-stone_suede.jpg",
+            "item_link": "",
+            "product_item": ""
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_z6fGp9",
+        "gallery_item_iQPWbb",
+        "gallery_item_U3JRDx",
+        "gallery_item_UA8Bpm"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Transform Any Room",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Able to scent 500 sq.-ft., the Stone Diffuser is great for bedrooms, living rooms, and home offices.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "spacing_items": 10,
+        "navUI": true,
+        "nav_des": "simple",
+        "dotUI": true,
+        "dots_pos": "outline",
+        "section_fullwidth": false,
+        "boxed_fullwidth": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "video_width_text2_anqqEU": {
+      "type": "video-width-text2",
+      "blocks": {
+        "heading_Wzbctd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Natural Beauty",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_jeJGRx": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "With a matte ceramic finish, the Stone Diffuser doubles as a piece of art in your home.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wzbctd",
+        "sub_heading_jeJGRx"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_option": "1",
+        "video_height": "adapt_image_first",
+        "fixed_height": 500,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "shopify:\/\/files\/videos\/pdp_stone-diffuser_feature_1_video_mobile.mp4",
+        "external_video_url": "",
+        "external_video_frame": "",
+        "video_position": "left",
+        "video_autoplay": true,
+        "section_fullwidth": true,
+        "color_scheme": "scheme-1",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Pairs Well With",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 50,
+        "limit": 4,
+        "product_des": "4",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 72,
+        "padding_rate": 75
+      }
+    },
+    "171512128966062076": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_ugc_reviews_dERaaf": {
+          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_ugc_reviews_dERaaf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "recently": {
+      "type": "recently-products",
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Recently Viewed",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 50,
+        "limit": 10,
+        "product_des": "1",
+        "image_ratio": "custom-pr",
+        "image_size": true,
+        "show_vendor": false,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "sidebar": {
+      "type": "sidebar-product",
+      "blocks": {
+        "93375155-f1f0-4598-8fc0-9adcbad23dff": {
+          "type": "iconbox",
+          "settings": {
+            "widget_heading": "Shipping & Delivery",
+            "icon_svg1": "box",
+            "custom_svg1": "",
+            "iconbox_content1": "Free shipping_Free shipping for all US orders",
+            "link_item1": "",
+            "icon_svg2": "support",
+            "custom_svg2": "",
+            "iconbox_content2": "Premium Support_Support 24 hours a day",
+            "link_item2": "",
+            "icon_svg3": "return",
+            "custom_svg3": "",
+            "iconbox_content3": "30 Days Return_ You have 30 days to return",
+            "link_item3": "",
+            "icon_svg4": "payment",
+            "custom_svg4": "",
+            "iconbox_content4": "",
+            "link_item4": ""
+          }
+        },
+        "4bbef404-afc5-4e3e-90cf-4f07d8a58f71": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Sale products",
+            "collection": "womens-fashion",
+            "product_list": [
+
+            ],
+            "products_count": 3,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        },
+        "76c4580d-5d01-4485-b53a-98caea9f4605": {
+          "type": "gallery",
+          "settings": {
+            "widget_heading": "Gallery",
+            "link1": "",
+            "link2": "",
+            "link3": "",
+            "link4": "",
+            "link5": "",
+            "link6": "",
+            "open_link": "_blank"
+          }
+        },
+        "5d4020bf-1c84-4908-9a3d-f9d20d6b2025": {
+          "type": "social",
+          "settings": {
+            "widget_heading": "Follow us",
+            "socials_style": "outline",
+            "socials_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "93375155-f1f0-4598-8fc0-9adcbad23dff",
+        "4bbef404-afc5-4e3e-90cf-4f07d8a58f71",
+        "76c4580d-5d01-4485-b53a-98caea9f4605",
+        "5d4020bf-1c84-4908-9a3d-f9d20d6b2025"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-1",
+        "space": 60
+      }
+    }
+  },
+  "order": [
+    "breacrumb",
+    "main",
+    "icon_box_C6TXn9",
+    "tabs",
+    "slideshow_Ak3WEL",
+    "image_gallery_q4m8dn",
+    "video_width_text2_anqqEU",
+    "related",
+    "171512128966062076",
+    "recently",
+    "sidebar"
+  ]
+}
