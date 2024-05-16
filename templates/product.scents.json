@@ -266,6 +266,7 @@
         },
         "tab_html_WB9zxa": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Quality",
             "content": "{{ product.metafields.ecomus.tabs_scent_quality | metafield_tag }}",
