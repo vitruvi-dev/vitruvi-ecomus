@@ -448,7 +448,7 @@
     "custom_css": [
       ".yotpo-reviews-wrapper {display: none;}",
       ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}",
-      "@media only screen and (max-width: 1000px) {hdt-money {display: none; }}"
+      "@media (max-width: 767px) {.hdt-money {display: none; }}"
     ]
   }
 }
