@@ -252,8 +252,8 @@
           "type": "tab_html",
           "settings": {
             "title": "How to Use",
-            "content": "{{ product.metafields.ecomus.tabs_how_to | metafield_tag }}",
-            "page": ""
+            "content": "",
+            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
           }
         },
         "tab_html_NGKtrx": {
