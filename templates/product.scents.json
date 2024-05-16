@@ -264,6 +264,14 @@
             "page": ""
           }
         },
+        "tab_html_8PLjap": {
+          "type": "tab_html",
+          "settings": {
+            "title": "How to Use",
+            "content": "",
+            "page": ""
+          }
+        },
         "tab_html_WB9zxa": {
           "type": "tab_html",
           "disabled": true,
@@ -295,6 +303,7 @@
         "tab_html_r8KYLQ",
         "tab_html_NGKtrx",
         "tab_html_7q3JL3",
+        "tab_html_8PLjap",
         "tab_html_WB9zxa",
         "tab_html_bdaEfj",
         "tab_html_KQpeCL"
