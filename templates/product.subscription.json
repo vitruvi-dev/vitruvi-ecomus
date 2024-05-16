@@ -248,20 +248,19 @@
             "page": ""
           }
         },
+        "tab_html_8PLjap": {
+          "type": "tab_html",
+          "settings": {
+            "title": "How to Use",
+            "content": "",
+            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
+          }
+        },
         "tab_html_NGKtrx": {
           "type": "tab_html",
           "settings": {
             "title": "What's Inside",
             "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_7q3JL3": {
-          "type": "tab_html",
-          "disabled": true,
-          "settings": {
-            "title": "Oil Properties",
-            "content": "{{ product.metafields.ecomus.tabs_scent_properties | metafield_tag }}",
             "page": ""
           }
         },
@@ -294,8 +293,8 @@
       },
       "block_order": [
         "tab_html_r8KYLQ",
+        "tab_html_8PLjap",
         "tab_html_NGKtrx",
-        "tab_html_7q3JL3",
         "tab_html_WB9zxa",
         "tab_html_bdaEfj",
         "tab_html_KQpeCL"
