@@ -222,18 +222,6 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
-    },
-    "form_contact_with_text_H8eG3F": {
-      "type": "form_contact-with-text",
-      "settings": {
-        "color_scheme": "",
-        "heading": "Get In touch",
-        "sub_heading": "Our team will respond in 24 hours to assit with your new project",
-        "btn_full": false,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -242,7 +230,6 @@
     "image_with_text_TzjEXV",
     "main_heading_XDjKbF",
     "image_with_tabs_content_ymiEjt",
-    "image_with_text_7FFPCr",
-    "form_contact_with_text_H8eG3F"
+    "image_with_text_7FFPCr"
   ]
 }
