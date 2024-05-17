@@ -248,10 +248,10 @@
       "settings": {
         "heading_align": "center",
         "sec_heading": "Explore",
-        "heading_tag": "h3",
+        "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>All-natural scents and aromas that transport you<\/p>",
-        "subheading_size": "hdt-text-base",
+        "sec_subheading": "<p>All-natural scents and aromas that transport you.<\/p>",
+        "subheading_size": "xl",
         "heading_reverse": false,
         "btn_heading_collection": false,
         "heading_gap": 18,
