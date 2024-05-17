@@ -106,7 +106,7 @@
           "type": "button",
           "settings": {
             "btn_label": "DISCOVER STONE",
-            "btn_link": "shopify:\/\/pages\/get-to-know-the-stone-diffuser",
+            "btn_link": "shopify:\/\/pages\/stone-diffuser-features",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
