@@ -289,6 +289,108 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
+    },
+    "image_with_text_PWchDa": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cYgnGz": {
+          "type": "heading",
+          "settings": {
+            "heading": "DIFFUSER SCENTS",
+            "heading_fs": "h3"
+          }
+        },
+        "text_BMKYwW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn more about our all-natural essential oils and blends.<\/p>"
+          }
+        },
+        "button_CwfpCH": {
+          "type": "button",
+          "settings": {
+            "btn_label": "DISCOVER DIFFUSER SCENTS",
+            "btn_link": "shopify:\/\/pages\/get-to-know-our-essential-oils",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cYgnGz",
+        "text_BMKYwW",
+        "button_CwfpCH"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/category_diffuser-scents_category-callout_3_image.png",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_bg3B7a": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_c7adtX": {
+          "type": "heading",
+          "settings": {
+            "heading": "AIR FRESHENER SPRAYS",
+            "heading_fs": "h3"
+          }
+        },
+        "text_BrMUjy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn more about our groundbreaking natural room sprays.<\/p>"
+          }
+        },
+        "button_97XDjz": {
+          "type": "button",
+          "settings": {
+            "btn_label": "DISCOVER AIR SPRAYS",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_c7adtX",
+        "text_BrMUjy",
+        "button_97XDjz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pages_manual-main_nafs_image.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -298,6 +400,8 @@
     "image_with_text_XGJmC4",
     "image_with_text_jghBGN",
     "image_with_text_rpmMYJ",
-    "image_with_text_q4PNbf"
+    "image_with_text_q4PNbf",
+    "image_with_text_PWchDa",
+    "image_with_text_bg3B7a"
   ]
 }
