@@ -107,7 +107,7 @@
         "video_autoplay": false,
         "section_fullwidth": false,
         "color_scheme": "",
-        "image_last": false,
+        "image_last": true,
         "content_position": "center",
         "alignment": "center",
         "content_pl": 0,
