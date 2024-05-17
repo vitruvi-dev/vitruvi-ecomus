@@ -34,7 +34,8 @@
         "button_widJMP"
       ],
       "custom_css": [
-        "h2 {font-family: \"Founders Grotesk\";}"
+        "h2 {font-family: \"Founders Grotesk\";}",
+        "span.kaftan {font-family: \"Kaftan\"}"
       ],
       "settings": {
         "image_height": "full",
