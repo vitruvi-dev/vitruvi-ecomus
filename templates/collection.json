@@ -36,6 +36,9 @@
     },
     "main": {
       "type": "main-collection",
+      "custom_css": [
+
+      ],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
