@@ -53,21 +53,29 @@
         },
         "button_jWwKeH": {
           "type": "button",
+          "disabled": true,
           "settings": {
-            "btn_label": "CORPORATEGIFTING@VITRUVI.COM",
+            "btn_label": "Email us at CORPORATEGIFTING@VITRUVI.COM",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
             "btn_icon": "none"
+          }
+        },
+        "text_njJqwg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Email us at:<br\/><strong>corporategifting@vitruvi.com<\/strong><\/p>"
           }
         }
       },
       "block_order": [
         "heading_Rmyb3b",
         "sub_heading_y7F6Bm",
-        "button_jWwKeH"
+        "button_jWwKeH",
+        "text_njJqwg"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pdp_best-sleep-bundle_CloudWhite-StoneWhite_gallery_3_image_61a5b924-ba4b-4c74-b927-58819ecfe0ca.jpg",
