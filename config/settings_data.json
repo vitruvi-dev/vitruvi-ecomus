@@ -59,6 +59,7 @@
     "pr_card_alignment": "left",
     "show_rating": true,
     "uppercase_title": false,
+    "pr_title_size": "base",
     "color_mode": "color",
     "color_type": "only",
     "color_shape": "cricle",
@@ -450,8 +451,7 @@
   "platform_customizations": {
     "custom_css": [
       ".yotpo-reviews-wrapper {display: none;}",
-      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}",
-      ".hdt-badge__wrapp {text-align: left}"
+      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}"
     ]
   }
 }
