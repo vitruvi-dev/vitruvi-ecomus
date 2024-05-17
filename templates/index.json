@@ -6,7 +6,7 @@
         "heading_FQ3wCc": {
           "type": "heading",
           "settings": {
-            "heading": "Make The Air Yours"
+            "heading": "Make The <span class=\"kaftan\">Air<\/span> Yours"
           }
         },
         "sub_heading_cjY6qn": {
@@ -34,7 +34,7 @@
         "button_widJMP"
       ],
       "custom_css": [
-        ".hdt-heading i, .hdt-heading em {font-family: 'Kaftan', sans-serif;}"
+        ".hdt-heading i,.hdt-heading em {font-family: \"Kaftan\", sans-serif;}"
       ],
       "settings": {
         "image_height": "full",
