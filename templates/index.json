@@ -1,455 +1,696 @@
 {
-  "current": {
-    "purchase_code": "d73daf1c-7794-4014-a4fc-1b4c8797200b",
-    "color_scheme_dialog": "scheme-1",
-    "color_background": "#f7f8f6",
-    "color_text": "#474946",
-    "color_accent": "#474946",
-    "color_focus": "#e2eef6",
-    "badge_sale": "#e2eef6",
-    "badge_new": "#474946",
-    "badge_soldout": "#e2eef6",
-    "badge_preorder": "#e2eef6",
-    "badge_custom": "#e2eef6",
-    "color_success": "#b2c2a9",
-    "color_warning": "#ded093",
-    "color_error": "#ab4e52",
-    "tooltip_bg": "#474946",
-    "tooltip_text": "#ffffff",
-    "library_font": "google",
-    "type_header_font": "assistant_n4",
-    "type_body_font": "assistant_n4",
-    "embed_custom_font": "<link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin>\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Albert+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap\" rel=\"stylesheet\">",
-    "font_custom_heading": "'Founders Grotesk', sans-serif",
-    "font_custom_body": "'Founders Grotesk', sans-serif",
-    "bd_fweight": 200,
-    "heading_scale": 100,
-    "heading_lh": 1,
-    "heading_spacing": 0,
-    "body_size": 18,
-    "body_size_md": 18,
-    "page_width": 1440,
-    "spacing_sections": 0,
-    "spacing_grid_horizontal": 30,
-    "spacing_grid_vertical": 30,
-    "button_radius": 0,
-    "input_radius": 0,
-    "block_radius": 0,
-    "pr_card_radius": 0,
-    "pr_media_radius": 0,
-    "collection_card_radius": 0,
-    "blog_card_radius": 0,
-    "badge_shape": "rectangle",
-    "use_onsale_badge": true,
-    "label_onsale_style": "percentage",
-    "use_new_badge": true,
-    "new_day_added": 30,
-    "wishlist_mode": "0",
-    "wis_atc_added": "2",
-    "compare_mode": "0",
-    "enable_compare_popup": true,
-    "placeholder_img": "shopify:\/\/shop_images\/vitruvi-v-black-medium_b652cbaf-0bc1-4eec-9a2d-6f9d4b9d83ad.png",
-    "use_url_collection_vendor": false,
-    "show_secondary_image": false,
-    "effect_secondary_image": "none",
-    "show_quick_view": false,
-    "show_ultra_btn": false,
-    "show_quick_add": false,
-    "show_qty": false,
-    "pr_card_alignment": "left",
-    "show_rating": true,
-    "uppercase_title": false,
-    "color_mode": "color",
-    "color_type": "only",
-    "color_shape": "cricle",
-    "image_source": "custom_img",
-    "color_style": "style-1",
-    "color_event": "hover",
-    "color_maximum": 5,
-    "remove_collection_url": true,
-    "hidden_badges": false,
-    "empty_cart_link": "shopify:\/\/collections\/shop-all",
-    "free_ship_pr": "free-shipping",
-    "gift_wrap_pr": "gift-wrap",
-    "animations_reveal_on_scroll": false,
-    "animations_hover_elements": "none",
-    "social_facebook_link": "",
-    "social_twitter_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/vitruvi\/",
-    "social_youtube_link": "",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@vitruvi",
-    "social_pinterest_link": "https:\/\/www.pinterest.com\/vitruvi\/",
-    "social_tumblr_link": "",
-    "social_vimeo_link": "",
-    "social_snapchat_link": "",
-    "predictive_search_enabled": true,
-    "predictive_search_show_vendor": false,
-    "predictive_search_show_price": true,
-    "search_fullwidth": false,
-    "search_quick_link": "footer-ecomus-help",
-    "products_suggest": [
-      "cloud-humidifier",
-      "stone-essential-oil-diffuser",
-      "signature-essential-oil-kit"
-    ],
-    "currency_code_enabled": false,
-    "round_currency": false,
-    "auto_currency": false,
-    "favicon": "shopify:\/\/shop_images\/Favicon.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/vitruvi-wordmark-black-small_79244e67-4eeb-44fa-a3fd-40e82a1a31a6.png",
-    "checkout_logo_position": "center",
-    "checkout_logo_size": "large",
-    "checkout_body_background_color": "#f7f8f6",
-    "checkout_accent_color": "#000000",
-    "checkout_button_color": "#474946",
-    "checkout_error_color": "#ab4e52",
-    "enable_compare": true,
-    "only_search_prs": false,
-    "body_scale": 100,
-    "logo_width": 90,
-    "buttons_border_thickness": 1,
-    "buttons_border_opacity": 100,
-    "buttons_radius": 0,
-    "buttons_shadow_opacity": 0,
-    "buttons_shadow_horizontal_offset": 0,
-    "buttons_shadow_vertical_offset": 4,
-    "buttons_shadow_blur": 5,
-    "variant_pills_border_thickness": 1,
-    "variant_pills_border_opacity": 55,
-    "variant_pills_radius": 40,
-    "variant_pills_shadow_opacity": 0,
-    "variant_pills_shadow_horizontal_offset": 0,
-    "variant_pills_shadow_vertical_offset": 4,
-    "variant_pills_shadow_blur": 5,
-    "inputs_border_thickness": 1,
-    "inputs_border_opacity": 55,
-    "inputs_radius": 0,
-    "inputs_shadow_opacity": 0,
-    "inputs_shadow_horizontal_offset": 0,
-    "inputs_shadow_vertical_offset": 4,
-    "inputs_shadow_blur": 5,
-    "card_style": "standard",
-    "card_image_padding": 0,
-    "card_text_alignment": "left",
-    "card_color_scheme": "background-2",
-    "card_border_thickness": 0,
-    "card_border_opacity": 10,
-    "card_corner_radius": 0,
-    "card_shadow_opacity": 0,
-    "card_shadow_horizontal_offset": 0,
-    "card_shadow_vertical_offset": 4,
-    "card_shadow_blur": 5,
-    "collection_card_style": "standard",
-    "collection_card_image_padding": 0,
-    "collection_card_text_alignment": "left",
-    "collection_card_color_scheme": "background-2",
-    "collection_card_border_thickness": 0,
-    "collection_card_border_opacity": 10,
-    "collection_card_corner_radius": 0,
-    "collection_card_shadow_opacity": 0,
-    "collection_card_shadow_horizontal_offset": 0,
-    "collection_card_shadow_vertical_offset": 4,
-    "collection_card_shadow_blur": 5,
-    "blog_card_style": "standard",
-    "blog_card_image_padding": 0,
-    "blog_card_text_alignment": "left",
-    "blog_card_color_scheme": "background-2",
-    "blog_card_border_thickness": 0,
-    "blog_card_border_opacity": 10,
-    "blog_card_corner_radius": 0,
-    "blog_card_shadow_opacity": 0,
-    "blog_card_shadow_horizontal_offset": 0,
-    "blog_card_shadow_vertical_offset": 4,
-    "blog_card_shadow_blur": 5,
-    "text_boxes_border_thickness": 0,
-    "text_boxes_border_opacity": 10,
-    "text_boxes_radius": 0,
-    "text_boxes_shadow_opacity": 0,
-    "text_boxes_shadow_horizontal_offset": 0,
-    "text_boxes_shadow_vertical_offset": 4,
-    "text_boxes_shadow_blur": 5,
-    "media_border_thickness": 1,
-    "media_border_opacity": 5,
-    "media_radius": 0,
-    "media_shadow_opacity": 0,
-    "media_shadow_horizontal_offset": 0,
-    "media_shadow_vertical_offset": 4,
-    "media_shadow_blur": 5,
-    "popup_border_thickness": 1,
-    "popup_border_opacity": 10,
-    "popup_corner_radius": 0,
-    "popup_shadow_opacity": 0,
-    "popup_shadow_horizontal_offset": 0,
-    "popup_shadow_vertical_offset": 4,
-    "popup_shadow_blur": 5,
-    "drawer_border_thickness": 1,
-    "drawer_border_opacity": 10,
-    "drawer_shadow_opacity": 0,
-    "drawer_shadow_horizontal_offset": 0,
-    "drawer_shadow_vertical_offset": 4,
-    "drawer_shadow_blur": 5,
-    "badge_position": "bottom left",
-    "badge_corner_radius": 40,
-    "sale_badge_color_scheme": "accent-2",
-    "sold_out_badge_color_scheme": "inverse",
-    "brand_headline": "",
-    "brand_description": "<p><\/p>",
-    "brand_image_width": 100,
-    "cart_type": "notification",
-    "show_vendor": false,
-    "show_cart_note": false,
-    "cart_drawer_collection": "",
-    "sections": {
-      "toolbar-mobile": {
-        "type": "toolbar-mobile",
-        "settings": {
-          "color_scheme": "",
-          "show_txt": true
-        }
-      },
-      "main-heading": {
-        "type": "main-heading",
-        "blocks": {
-          "a2b9d1bd-89e6-4e78-be44-a308d6472156": {
-            "type": "1",
-            "settings": {
-              "heading": "Mix and Match",
-              "heading_size": "h4"
-            }
-          },
-          "ae2f8f42-c195-4bd9-99c3-d52095ce0902": {
-            "type": "2",
-            "settings": {
-            }
+  "sections": {
+    "video_GKb7jj": {
+      "type": "video",
+      "blocks": {
+        "heading_FQ3wCc": {
+          "type": "heading",
+          "settings": {
+            "heading": "MAKE THE AIR YOURS"
           }
         },
-        "block_order": [
-          "a2b9d1bd-89e6-4e78-be44-a308d6472156",
-          "ae2f8f42-c195-4bd9-99c3-d52095ce0902"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Mask_group_5.png",
-          "color_scheme": "scheme-2",
-          "spacing_hd": 5,
-          "padding_top": 69,
-          "padding_bottom": 64
-        }
-      },
-      "main-password-header": {
-        "type": "main-password-header",
-        "settings": {
-          "logo": "shopify:\/\/shop_images\/logo-black.svg",
-          "logo_width": 100,
-          "color_scheme": ""
-        }
-      },
-      "main-compare": {
-        "type": "main-compare",
-        "blocks": {
-          "cb3a1a9a-4fd5-4372-aef2-be6126703c9c": {
-            "type": "basic",
-            "settings": {
-            }
-          },
-          "cc33d131-be49-46d9-bb5f-0b5fc20f5f1d": {
-            "type": "availability",
-            "settings": {
-              "title": "Availability"
-            }
-          },
-          "f20eb206-53d5-4ed0-aeb1-ef0c00d9b787": {
-            "type": "vendor",
-            "settings": {
-              "title": "Vendor"
-            }
-          },
-          "a39b6b64-3be8-4273-aae6-7dd91b82d89c": {
-            "type": "variants",
-            "settings": {
-              "title": "Color"
-            }
+        "sub_heading_cjY6qn": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents."
           }
         },
-        "block_order": [
-          "cb3a1a9a-4fd5-4372-aef2-be6126703c9c",
-          "cc33d131-be49-46d9-bb5f-0b5fc20f5f1d",
-          "f20eb206-53d5-4ed0-aeb1-ef0c00d9b787",
-          "a39b6b64-3be8-4273-aae6-7dd91b82d89c"
-        ],
-        "settings": {
-          "product_list": [
-            "2-hearts-interlock-pendant-necklace",
-            "2-hearts-interlock-pendant-necklace-1-option-soldout",
-            "316l-surgical-steel-high-polished-multi-use-horseshoe-with-ball-ends",
-            "art-of-flowers-custom-iphone-xs-max-bumper-case",
-            "copy-of-2-hearts-interlock-pendant-necklace"
-          ],
-          "image_ratio": "adapt_image",
-          "image_size": true,
-          "color_scheme": "",
-          "padding_top": 100,
-          "padding_bottom": 100,
-          "padding_rate": 75
+        "button_widJMP": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP NOW",
+            "btn_link": "shopify:\/\/collections\/shop-all",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
         }
+      },
+      "block_order": [
+        "heading_FQ3wCc",
+        "sub_heading_cjY6qn",
+        "button_widJMP"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-family: \"Kaftan\";}"
+      ],
+      "settings": {
+        "image_height": "full",
+        "fixed_height": 860,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "video": "shopify:\/\/files\/videos\/page_home_hero_newyear_video_desktop_21896a9c-1401-4ae6-9008-61a4d3579d96.mp4",
+        "external_video_url": "",
+        "content_bg": false,
+        "color_scheme": "scheme-3",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
       }
     },
-    "content_for_index": [
+    "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
+      "type": "slideshow",
+      "blocks": {
+        "742a3693-7d5d-4e92-914c-270e1d777d11": {
+          "type": "slide_base",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_home-hero_bfcm2023_option2-image_v3_desktop.jpg",
+            "image_mb": "shopify:\/\/shop_images\/page_home-hero_bfcm2023_option2-image_v2_mobile.jpg",
+            "url": "shopify:\/\/collections\/shop-all",
+            "banner_target": false,
+            "color_scheme": "scheme-1",
+            "heading": "MAKE THE AIR YOURS",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents.",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop now",
+            "btn_link": "shopify:\/\/collections\/shop-all",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "content_position": "center",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "742a3693-7d5d-4e92-914c-270e1d777d11"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".hdt-heading {font-family: \"Founders Grotesk\";}"
+      ],
+      "settings": {
+        "full_width": true,
+        "item_round": "rounded-lg",
+        "image_height": "full",
+        "fixed_height": 700,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "color_scheme": "",
+        "loop": true,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": true,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 57,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "25d95633-b21f-43fa-90ad-eef09163772b": {
+      "type": "marquee",
+      "blocks": {
+        "template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Spring Clearance Event: Save Up to 70%<\/p>",
+            "icon_svg": "delicious",
+            "custom_svg": "",
+            "icon_width": 18,
+            "icon_width_mb": 14
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "space_item": 48,
+        "speed": 0.1,
+        "direction": "rtl",
+        "marquee_pause_when_hover": true,
+        "text_fs": "h5",
+        "text_fw": "normal",
+        "text_uppercase": false,
+        "adding_border": true,
+        "icon_position_between": true,
+        "color_scheme": "scheme-5",
+        "padding_top": 31,
+        "padding_bottom": 31,
+        "padding_rate": 75
+      }
+    },
+    "d81e394c-3467-4709-a303-1d274f42da41": {
+      "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-collection-products {--spacing-y: 30px;}",
+        ".hdt-view-all-btn {letter-spacing: 0.1px;}",
+        "@media (min-width: 768px) {.hdt-collection-products {--spacing-y: 50px; }}",
+        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Our Best-Sellers",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Premium, natural air care products that elevate your home.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 63,
+        "collection": "",
+        "product_list": [
+          "cloud-humidifier",
+          "move-cordless-essential-oil-diffuser",
+          "stone-essential-oil-diffuser",
+          "glow-essential-oil-diffuser"
+        ],
+        "product_des": "3",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 80,
+        "btn_label": "Load more",
+        "btn_style": "outline",
+        "btn_fw": "semibold",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 50
+      }
+    },
+    "testimonials_2_DtFpRW": {
+      "type": "testimonials-2",
+      "blocks": {
+        "quote_iQBLCn": {
+          "type": "quote",
+          "settings": {
+            "heading": "Elegant, High Quality",
+            "content": "<p>I rarely write reviews, but I must share that this beautiful ceramic diffuser adds elegant and understated beauty to our home. I had to have one in each room. Clean aromas emanate throughout. Thank you, Vitruvi, for your wonderful products and excellent customer service.<\/p>",
+            "author": "Andree F.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_WTxbcc": {
+          "type": "quote",
+          "settings": {
+            "heading": "Elevating Home Comfort and Aesthetics",
+            "content": "<p>The Vitruvi Humidifier has completely transformed my living space and elevated my overall well-being.<\/p><p>Beyond its aesthetic appeal, the humidifier's performance is truly outstanding. It releases a fine mist that instantly refreshes the air, providing a more comfortable and soothing environment, especially during dry seasons.<\/p>",
+            "author": "Olivier M.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_retT3J": {
+          "type": "quote",
+          "settings": {
+            "heading": "Very Happy Customer!",
+            "content": "<p>My diffuser arrived today, and I am already impressed. It was delivered extremely quickly, and the packaging was done both efficiently and effectively. My diffuser is already up and running, it only took a few minutes.<\/p><p>I'm starting with eucalyptus and grapefruit, but I can't wait to order more oils. I know I will be a repeat customer.<\/p><p>The diffuser is gorgeous. I want one for every room (and work too)!<\/p>",
+            "author": "Christine N.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_LUD398": {
+          "type": "quote",
+          "settings": {
+            "heading": "Absolutely love them!!!",
+            "content": "<p>The quality of packaging and the bottles is so clean and pretty! The oils are completely different from store-bought oils and smell even better! Vitruvi’s customer service is on point.<\/p>",
+            "author": "Amy S.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_xdzEwr": {
+          "type": "quote",
+          "settings": {
+            "heading": "In Love with my First Purchase from Vitruvi",
+            "content": "<p>Setting up was a breeze. It filled my whole living room, dining area, and kitchen with its scent. Wow, I could even smell it in the hallway. And when I opened a few windows, the scent traveled throughout the entire house.<\/p><p>I’m so happy with my new diffuser. Highly recommend getting one.<\/p>",
+            "author": "Monica V.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_d3QewM": {
+          "type": "quote",
+          "settings": {
+            "heading": "Vitruvi is true to their word",
+            "content": "<p>I love this company. They stand behind their life long product. Sleep is my favorite scent but I love lavender and dusk. I have one diffuser in every room. Great company!!!<\/p>",
+            "author": "Donald F.",
+            "enable_verify": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_iQBLCn",
+        "quote_WTxbcc",
+        "quote_retT3J",
+        "quote_LUD398",
+        "quote_xdzEwr",
+        "quote_d3QewM"
+      ],
+      "disabled": true,
+      "custom_css": [
 
-    ],
-    "blocks": {
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "14339172867238703359": {
-        "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews_tab\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-        "disabled": false,
-        "settings": {
-          "product": ""
-        }
-      },
-      "7570552984445421165": {
-        "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/settings\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "6174324309569838175": {
-        "type": "shopify:\/\/apps\/smile-io\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
-        "disabled": false,
-        "settings": {
-        }
+      ],
+      "settings": {
+        "heading_align": "center",
+        "top_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "top_description": "<p>14,000+ 5 star reviews<\/p>",
+        "subheading_size": "hdt-text-12xl",
+        "show_rating": true,
+        "rating": 5,
+        "content_align": "start",
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": true,
+        "color_scheme": "scheme-4",
+        "pr_rating": "#474946",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
       }
     },
-    "color_schemes": {
-      "scheme-1": {
-        "settings": {
-          "text": "#000000",
-          "text2": "#474946",
-          "background": "#f7f8f6",
-          "background_gradient": "",
-          "background2": "#e2eef6",
-          "button": "#474946",
-          "button_label": "#ffffff",
-          "button_border": "#474946",
-          "secondary_button_label": "#474946",
-          "line_border": "#474946",
-          "overlay": "#474946",
-          "pr_text": "#000000",
-          "price": "#474946",
-          "sale_price": "#ab4e52",
-          "input_primary": "#ffffff",
-          "input_secondary": "#474946"
+    "282a0160-505d-43ff-b601-043a5a327bc2": {
+      "type": "collections-list",
+      "blocks": {
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oil-blends",
+            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_sejour_gallery_3_v2_image.jpg",
+            "title": "Diffuser Blends",
+            "collection_link": ""
+          }
+        },
+        "4fb04760-f15f-40fb-9566-65e01d74325b": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oils",
+            "image": "shopify:\/\/shop_images\/pdp_essential-oil_frankincense_gallery_2_image_43e99e15-d696-4780-910d-6bb56534f2e0.png",
+            "title": "Essential Oils",
+            "collection_link": ""
+          }
+        },
+        "72a99e49-16d6-4138-83a1-4f452229667b": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "natural-air-freshener-sprays",
+            "image": "shopify:\/\/shop_images\/pdp_natural-air-freshener-spray_warm-linen_gallery-single-cannister_3_image_e8bf97b8-1cc2-413e-9f1a-5352e1673757.jpg",
+            "title": "Air Freshener Sprays",
+            "collection_link": ""
+          }
+        },
+        "666bec38-cee5-4282-94d2-8eadd2c4dbd0": {
+          "type": "view_all",
+          "disabled": true,
+          "settings": {
+            "title": "Shop all scents",
+            "item_link": "shopify:\/\/collections\/scents"
+          }
         }
       },
-      "scheme-2": {
-        "settings": {
-          "text": "#000000",
-          "text2": "#545454",
-          "background": "#ffffff",
-          "background_gradient": "",
-          "background2": "#ffffff",
-          "button": "#ffffff",
-          "button_label": "#000000",
-          "button_border": "#ebebeb",
-          "secondary_button_label": "#000000",
-          "line_border": "#ececec",
-          "overlay": "#000000",
-          "pr_text": "#000000",
-          "price": "#000000",
-          "sale_price": "#db1215",
-          "input_primary": "#ffffff",
-          "input_secondary": "#000000"
+      "block_order": [
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1",
+        "4fb04760-f15f-40fb-9566-65e01d74325b",
+        "72a99e49-16d6-4138-83a1-4f452229667b",
+        "666bec38-cee5-4282-94d2-8eadd2c4dbd0"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Explore",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>All-natural scents and aromas that transport you<\/p>",
+        "subheading_size": "hdt-text-base",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 33,
+        "collection_list": [
+
+        ],
+        "collection_des": "8",
+        "content_size": "2xl",
+        "content_weight": "normal",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "image_ratio": "asos",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "2",
+        "space_items": "20",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "simple",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "dots_pos": "ontop",
+        "section_fullwidth": false,
+        "boxed_fullwidth": true,
+        "boxed_content": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 56,
+        "padding_bottom": 100,
+        "padding_rate": 60
+      }
+    },
+    "testimonials_3_Gf4Tfd": {
+      "type": "testimonials-3",
+      "blocks": {
+        "quote_EDf3LR": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arch-digest-logo-04_1.png",
+            "heading": "",
+            "content": "<p>“A perfect addition to your nightstand.”<\/p>",
+            "author": "Architectural Digest"
+          }
+        },
+        "quote_BCQy7e": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/removal.ai__839eb00c-a03e-4931-9930-f06e40fb7974-new-york-times-logopng-new-york-times-logo-png-1500_1500.png",
+            "heading": "",
+            "content": "<p>\"We recommend the Vitruvi Stone Diffuser...the best choice if you want to run it while you’re sleeping\"<\/p>",
+            "author": "The Wirecutter | New York Times"
+          }
+        },
+        "quote_e9fWFr": {
+          "type": "quote",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/removal.ai__e52b6177-79d6-4cc0-a43d-33ee7e67bb90-media-oct20192-1.png",
+            "heading": "",
+            "content": "<p>“The world’s chicest diffuser.”<\/p>",
+            "author": "Who What Wear"
+          }
+        },
+        "quote_WyLKV4": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
+            "heading": "",
+            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
+            "author": "Esquire"
+          }
+        },
+        "quote_g3TVgk": {
+          "type": "quote",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BHG-logo-brandprimary-dark_1_1_1.png",
+            "heading": "",
+            "content": "<p>“The best humidifier from a design standpoint.”<\/p>",
+            "author": "Better Homes & Gardens"
+          }
+        },
+        "quote_ThmjAB": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cnn_logo_PNG2_1.png",
+            "heading": "",
+            "content": "<p>“One of the most stylish humidifiers we’ve seen.”<\/p>",
+            "author": "CNN"
+          }
         }
       },
-      "scheme-3": {
-        "settings": {
-          "text": "#ffffff",
-          "text2": "#ffffff",
-          "background": "#474946",
-          "background_gradient": "",
-          "background2": "#474946",
-          "button": "#474946",
-          "button_label": "#ffffff",
-          "button_border": "#474946",
-          "secondary_button_label": "#ffffff",
-          "line_border": "#474946",
-          "overlay": "#474946",
-          "pr_text": "#ffffff",
-          "price": "#ffffff",
-          "sale_price": "#ffffff",
-          "input_primary": "#ffffff",
-          "input_secondary": "#000000"
+      "block_order": [
+        "quote_EDf3LR",
+        "quote_BCQy7e",
+        "quote_e9fWFr",
+        "quote_WyLKV4",
+        "quote_g3TVgk",
+        "quote_ThmjAB"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "★★★★★",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>14,000+ 5 Star Reviews<\/p>",
+        "subheading_size": "10xl",
+        "heading_reverse": false,
+        "heading_gap": 10,
+        "sec_heading_spacing": 30,
+        "content_align": "center",
+        "navUI": true,
+        "nav_des": "outline",
+        "dotUI": false,
+        "dis_dot": 30,
+        "color_scheme": "scheme-4",
+        "section_fullwidth": false,
+        "padding_top": 50,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "slideshow_zT9KVC": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_label_tVa86N": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_home_hero_bfcm2022_v2_image_desktop.jpg",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "The air is full of possibility. Go ahead and make it yours.",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Our Story",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "btn_label": "LEARN MORE",
+            "btn_link": "shopify:\/\/pages\/about-us",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "outline",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
         }
       },
-      "scheme-4": {
-        "settings": {
-          "text": "#000000",
-          "text2": "#000000",
-          "background": "#d7d3cc",
-          "background_gradient": "",
-          "background2": "#cec9bf",
-          "button": "#000000",
-          "button_label": "#f7f8f6",
-          "button_border": "#000000",
-          "secondary_button_label": "#000000",
-          "line_border": "#474946",
-          "overlay": "#000000",
-          "pr_text": "#000000",
-          "price": "#000000",
-          "sale_price": "#000000",
-          "input_primary": "#ffffff",
-          "input_secondary": "#909090"
+      "block_order": [
+        "slide_label_tVa86N"
+      ],
+      "settings": {
+        "full_width": false,
+        "item_round": "rounded",
+        "image_height": "fixed",
+        "fixed_height": 600,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "color_scheme": "scheme-1",
+        "loop": false,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": false,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 40,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "cef9818d-d174-4a85-935f-31cd9035f495": {
+      "type": "icon-box",
+      "blocks": {
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-1": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Truck.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Free Shipping Over $75",
+            "content": "<p>Delivered nationwide in 3-8 business days.<\/p>",
+            "adding_border": false
+          }
+        },
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-2": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "none",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Lifetime Device Warranty",
+            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "adding_border": false
+          }
+        },
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "return",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Returns.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "No-Hassle Returns",
+            "content": "<p>Not delighted? We'll make it right.<\/p>",
+            "adding_border": false
+          }
+        },
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/CX-logo.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Premium Support",
+            "content": "<p>Our world-class customer experience team awaits you.<\/p>",
+            "adding_border": false
+          }
         }
       },
-      "scheme-5": {
-        "settings": {
-          "text": "#000000",
-          "text2": "#474946",
-          "background": "#e2eef6",
-          "background_gradient": "",
-          "background2": "#f5f5f5",
-          "button": "#000000",
-          "button_label": "#ffffff",
-          "button_border": "#000000",
-          "secondary_button_label": "#000000",
-          "line_border": "#000000",
-          "overlay": "#000000",
-          "pr_text": "#000000",
-          "price": "#000000",
-          "sale_price": "#000000",
-          "input_primary": "#ffffff",
-          "input_secondary": "#474946"
-        }
-      },
-      "scheme-2ca39d95-034d-4985-8998-e1b90874a76c": {
-        "settings": {
-          "text": "#000000",
-          "text2": "#474946",
-          "background": "#f7f8f6",
-          "background_gradient": "",
-          "background2": "#e2eef6",
-          "button": "#474946",
-          "button_label": "#ffffff",
-          "button_border": "#474946",
-          "secondary_button_label": "#474946",
-          "line_border": "#474946",
-          "overlay": "#474946",
-          "pr_text": "#000000",
-          "price": "#474946",
-          "sale_price": "#ab4e52",
-          "input_primary": "#ffffff",
-          "input_secondary": "#474946"
-        }
+      "block_order": [
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-1",
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-2",
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3",
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "hdt-text-base",
+        "heading_reverse": false,
+        "heading_gap": 30,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_hUARCz": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Test Products",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "ecomus",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "6",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
       }
     }
   },
-  "platform_customizations": {
-    "custom_css": [
-      ".yotpo-reviews-wrapper {display: none;}",
-      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}"
-    ]
-  }
+  "order": [
+    "video_GKb7jj",
+    "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "25d95633-b21f-43fa-90ad-eef09163772b",
+    "d81e394c-3467-4709-a303-1d274f42da41",
+    "testimonials_2_DtFpRW",
+    "282a0160-505d-43ff-b601-043a5a327bc2",
+    "testimonials_3_Gf4Tfd",
+    "slideshow_zT9KVC",
+    "cef9818d-d174-4a85-935f-31cd9035f495",
+    "featured_collection_grid_hUARCz"
+  ]
 }
