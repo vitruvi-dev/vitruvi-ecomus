@@ -187,6 +187,108 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
+    },
+    "image_with_text_rpmMYJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_JKqwBK": {
+          "type": "heading",
+          "settings": {
+            "heading": "STAY DIFFUSER",
+            "heading_fs": "h3"
+          }
+        },
+        "text_JmPtDK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn more about our longest-lasting diffuser.<\/p>"
+          }
+        },
+        "button_Yhx33U": {
+          "type": "button",
+          "settings": {
+            "btn_label": "DISCOVE STAY",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JKqwBK",
+        "text_JmPtDK",
+        "button_Yhx33U"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pages_manual-main_stay_images.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_q4PNbf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UqFLCk": {
+          "type": "heading",
+          "settings": {
+            "heading": "GLOW DIFFUSER",
+            "heading_fs": "h3"
+          }
+        },
+        "text_NrEQUJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn more about our cutest and most durable diffuser.<\/p>"
+          }
+        },
+        "button_hfFBia": {
+          "type": "button",
+          "settings": {
+            "btn_label": "DISCOVER GLOW",
+            "btn_link": "shopify:\/\/pages\/get-to-know-the-glow-diffuser",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UqFLCk",
+        "text_NrEQUJ",
+        "button_hfFBia"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pages_manual-main_glow_image.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -194,6 +296,8 @@
     "top_heading_pBDP9x",
     "image_with_text_HQBWNp",
     "image_with_text_XGJmC4",
-    "image_with_text_jghBGN"
+    "image_with_text_jghBGN",
+    "image_with_text_rpmMYJ",
+    "image_with_text_q4PNbf"
   ]
 }
