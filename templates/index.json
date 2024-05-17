@@ -34,7 +34,7 @@
         "button_widJMP"
       ],
       "custom_css": [
-        "h2 {font-family: \"Founders Grotesk\";}"
+        ".hdt-heading {font-family: \"Founders Grotesk\";}"
       ],
       "settings": {
         "image_height": "full",
