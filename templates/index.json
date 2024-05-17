@@ -35,7 +35,7 @@
       ],
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
-        "span.kaftan {font-family: \"Kaftan\"}"
+        "span.kaftan {font-family: \"Kaftan\"; font-size: 90%;}"
       ],
       "settings": {
         "image_height": "full",
