@@ -1,0 +1,372 @@
+{
+  "sections": {
+    "top_heading_TkKzrj": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_bkRD7y": {
+          "type": "heading",
+          "settings": {
+            "heading": "GET TO KNOW THE  CLOUD HUMIDIFIER",
+            "heading_fs": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bkRD7y"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "video_width_text2_LDcnfz": {
+      "type": "video-width-text2",
+      "blocks": {
+        "sub_heading_gieaeF": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "FEATURES OF YOUR",
+            "sub_fs": "base"
+          }
+        },
+        "heading_hzy9jk": {
+          "type": "heading",
+          "settings": {
+            "heading": "CLOUD HUMIDIFIER",
+            "heading_fs": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_gieaeF",
+        "heading_hzy9jk"
+      ],
+      "settings": {
+        "video_option": "1",
+        "video_height": "adapt_image_first",
+        "fixed_height": 860,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_features_video.mp4",
+        "external_video_url": "",
+        "external_video_frame": "",
+        "video_position": "left",
+        "video_autoplay": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_width_text2_YKGQqD": {
+      "type": "video-width-text2",
+      "blocks": {
+        "sub_heading_EdTVLL": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO SET UP YOUR",
+            "sub_fs": "base"
+          }
+        },
+        "heading_LNx49V": {
+          "type": "heading",
+          "settings": {
+            "heading": "CLOUD HUMIDIFIER",
+            "heading_fs": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_EdTVLL",
+        "heading_LNx49V"
+      ],
+      "settings": {
+        "video_option": "1",
+        "video_height": "adapt_image_first",
+        "fixed_height": 860,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_set-up_video.mp4",
+        "external_video_url": "",
+        "external_video_frame": "",
+        "video_position": "right",
+        "video_autoplay": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_width_text2_GQEMFc": {
+      "type": "video-width-text2",
+      "blocks": {
+        "sub_heading_6gtDhV": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO CLEAN YOUR",
+            "sub_fs": "base"
+          }
+        },
+        "heading_B7m7Cg": {
+          "type": "heading",
+          "settings": {
+            "heading": "CLOUD HUMIDIFIER",
+            "heading_fs": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_6gtDhV",
+        "heading_B7m7Cg"
+      ],
+      "settings": {
+        "video_option": "1",
+        "video_height": "adapt_image_first",
+        "fixed_height": 860,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_cleaning_video.mp4",
+        "external_video_url": "",
+        "external_video_frame": "",
+        "video_position": "right",
+        "video_autoplay": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_width_text2_NzrnjT": {
+      "type": "video-width-text2",
+      "blocks": {
+        "sub_heading_QrxaDi": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO CHANGE YOUR",
+            "sub_fs": "base"
+          }
+        },
+        "heading_zw3mzJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "HUMIDIFIER FILTER",
+            "heading_fs": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_QrxaDi",
+        "heading_zw3mzJ"
+      ],
+      "settings": {
+        "video_option": "1",
+        "video_height": "adapt_image_first",
+        "fixed_height": 860,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_filter_v2_video.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "external_video_frame": "",
+        "video_position": "right",
+        "video_autoplay": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "accordion_jUzj9J": {
+      "type": "accordion",
+      "blocks": {
+        "title_XrDgbn": {
+          "type": "title",
+          "settings": {
+            "title": "FREQUENTLY ASKED QUESTIONS"
+          }
+        },
+        "accordion_item_9fAdcU": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How often should I clean my humidifier?",
+            "content": "We highly suggest cleaning your humidifier at least once a week. When it’s not in use, empty any remaining water and then dry the water bucket and base thoroughly with a towel.\n\nImproper and infrequent cleaning will lead to bacteria and mold buildup within your humidifier."
+          }
+        },
+        "accordion_item_j4Bm9T": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is it important to know my home air humidity level?",
+            "content": "It is important to check your home’s air humidity level prior to using a humidifier. We recommend using a humidity sensor to measure your relative humidity (RH); the optimal range for the average home is between 40% to 60%. If your home’s relative humidity is 60% or higher, we don’t recommend using a humidifier. Too much humidity can cause damage, such as mold growth, to your home."
+          }
+        },
+        "accordion_item_r9agBQ": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I add essential oils to the Cloud Humidifier?",
+            "content": "We do not recommend adding essential oils to your humidifier. If you’re looking to scent your home, we suggest taking a look at our essential oil diffusers here."
+          }
+        },
+        "accordion_item_hw6wtG": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How often should I replace my humidifier filter?",
+            "content": "We recommend replacing your filter every 3 months. You can purchase more filters here."
+          }
+        },
+        "accordion_item_66KyLm": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What type of water should I use in my humidifier?",
+            "content": "You can use tap, filtered or distilled water in your humidifier. That said, if you live in an area with hard water, we highly recommend using distilled water, which has all mineral contents removed. While filtered or tap water contains minerals that may affect the quality of the mist and result in faster mineral buildup."
+          }
+        },
+        "accordion_item_dnXKxw": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is there water in the base of my Cloud Humidifier?",
+            "content": "This is completely normal. In order for the humidifier to create mist, water has to flow into the base. Once the water bucket is inserted into the base, the water locks will release and the water will flow out. Please note that water must flow through the base from the bucket—do not pour water directly into the base or leakage will occur"
+          }
+        },
+        "accordion_item_dThqRA": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Is there a warranty on my Cloud Humidifier?",
+            "content": "Yes. All humidifiers come with a lifetime warranty. If you’re experiencing issues or have any further questions, reach out to us at hello@vitruvi.com."
+          }
+        }
+      },
+      "block_order": [
+        "title_XrDgbn",
+        "accordion_item_9fAdcU",
+        "accordion_item_j4Bm9T",
+        "accordion_item_r9agBQ",
+        "accordion_item_hw6wtG",
+        "accordion_item_66KyLm",
+        "accordion_item_dnXKxw",
+        "accordion_item_dThqRA"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "accordion_V3FMja": {
+      "type": "accordion",
+      "blocks": {
+        "title_EziF9c": {
+          "type": "title",
+          "settings": {
+            "title": "TROUBLESHOOTING"
+          }
+        },
+        "accordion_item_KFkmBh": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Cloud Humidifier leaking?",
+            "content": "The Cloud Humidifier will leak if it is tilted or slanted. We recommend placing your humidifier on a flat, level surface to prevent leakage.\n\nAnother reason the humidifier is leaking could be due to water being poured directly into the base. If water is poured into the base and flows through the internal air vent, the device will leak. Always make sure that water is filled from the bucket instead of the base to prevent leaks.\n\nLastly, leakage may occur if the inner spring in the water bucket is stuck. You can locate the inner spring on the bottom of the water bucket. If this happens, gently use your fingers to loosen and free the spring. If you have any questions about this, reach out to us at hello@vitruvi.com to chat further."
+          }
+        },
+        "accordion_item_ecAAMM": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why does my Cloud Humidifier take a few seconds to turn on?",
+            "content": "It is completely normal for the Cloud Humidifier to take a few seconds to turn on. Once the water bucket is filled and inserted into the base, it can take a few moments for the water in the bucket to flow into the base. Once the water is in the base, the humidifier will start to produce a cool mist."
+          }
+        },
+        "accordion_item_4tmXAX": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Cloud Humidifier not misting the full cycle?",
+            "content": "There could be a few reasons why this is happening. If you select a time setting, the humidifier will auto-populate a mist level. If you then change the mist level, the humidifier will adjust its run time to accommodate that.\n\nAnother reason why your humidifier is not running the full cycle could be because there is not enough water in the bucket. In order for a full time cycle to run, the bucket must be filled to the fill line."
+          }
+        },
+        "accordion_item_m7DphA": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Cloud Humidifier not misting?",
+            "content": "We suggest checking the amount of water in the water bucket. The Cloud Humidifier will not mist properly if it senses little to no water. Alternatively, if there is a small amount of water in the bucket, the humidifier may in fact be misting, but there just isn’t enough water to create a visual mist.\n\nIn addition, if you haven’t cleaned your humidifier recently, we recommend giving it a deep clean to remove mineral buildup that could be preventing mist from emitting. For instructions on how to clean your humidifier, watch our video above."
+          }
+        },
+        "accordion_item_eaU4ar": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Cloud Humidifier triggering “poor air quality” with my air quality monitor?",
+            "content": "This usually happens in areas with hard water. If you live in an area with hard water, we highly recommend using distilled water with your humidifier, as it has all mineral contents removed. This will ensure you have the cleanest mist."
+          }
+        }
+      },
+      "block_order": [
+        "title_EziF9c",
+        "accordion_item_KFkmBh",
+        "accordion_item_ecAAMM",
+        "accordion_item_4tmXAX",
+        "accordion_item_m7DphA",
+        "accordion_item_eaU4ar"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "top_heading_TkKzrj",
+    "video_width_text2_LDcnfz",
+    "video_width_text2_YKGQqD",
+    "video_width_text2_GQEMFc",
+    "video_width_text2_NzrnjT",
+    "accordion_jUzj9J",
+    "accordion_V3FMja"
+  ]
+}
