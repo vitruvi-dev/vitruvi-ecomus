@@ -85,11 +85,63 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
+    },
+    "image_with_text_XGJmC4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9fjrh3": {
+          "type": "heading",
+          "settings": {
+            "heading": "STONE DIFFUSER",
+            "heading_fs": "h3"
+          }
+        },
+        "text_XikXLH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn more about our best-selling designer diffuser.<\/p>"
+          }
+        },
+        "button_RpKHb4": {
+          "type": "button",
+          "settings": {
+            "btn_label": "DISCOVER STONE",
+            "btn_link": "shopify:\/\/pages\/get-to-know-the-stone-diffuser",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9fjrh3",
+        "text_XikXLH",
+        "button_RpKHb4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pdp_best-sleep-bundle_CloudWhite-StoneWhite_gallery_3_image_61a5b924-ba4b-4c74-b927-58819ecfe0ca.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "main",
     "top_heading_pBDP9x",
-    "image_with_text_HQBWNp"
+    "image_with_text_HQBWNp",
+    "image_with_text_XGJmC4"
   ]
 }
