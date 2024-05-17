@@ -65,6 +65,7 @@
     "image_source": "custom_img",
     "color_style": "style-1",
     "color_event": "hover",
+    "enable_color_limit": true,
     "color_maximum": 5,
     "remove_collection_url": true,
     "hidden_badges": false,
@@ -449,7 +450,8 @@
   "platform_customizations": {
     "custom_css": [
       ".yotpo-reviews-wrapper {display: none;}",
-      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}"
+      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}",
+      ".hdt-card-product__wrapper {background: #F2F4F1;}"
     ]
   }
 }
