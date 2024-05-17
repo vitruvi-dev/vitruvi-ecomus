@@ -386,9 +386,9 @@
         "settings": {
           "text": "#000000",
           "text2": "#474946",
-          "background": "#c6bba9",
+          "background": "#d7d3cc",
           "background_gradient": "",
-          "background2": "#c7c8c6",
+          "background2": "#cec9bf",
           "button": "#000000",
           "button_label": "#f7f8f6",
           "button_border": "#000000",
