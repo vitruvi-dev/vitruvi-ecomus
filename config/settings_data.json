@@ -387,7 +387,7 @@
       "scheme-4": {
         "settings": {
           "text": "#000000",
-          "text2": "#474946",
+          "text2": "#000000",
           "background": "#d7d3cc",
           "background_gradient": "",
           "background2": "#cec9bf",
@@ -449,7 +449,7 @@
   "platform_customizations": {
     "custom_css": [
       ".yotpo-reviews-wrapper {display: none;}",
-      ".hdt-product__title, .hdt-card-product__title, .hdt-collection-heading,h2 {font-family: \"Heldane\";}"
+      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}"
     ]
   }
 }
