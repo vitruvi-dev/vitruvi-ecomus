@@ -44,7 +44,7 @@
         "button_aVtqNk": {
           "type": "button",
           "settings": {
-            "btn_label": "Learn More",
+            "btn_label": "LEARN MORE",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
@@ -95,7 +95,7 @@
         "button_PY8Ayg": {
           "type": "button",
           "settings": {
-            "btn_label": "View Now",
+            "btn_label": "VIEW NOW",
             "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
             "target": false,
             "btn_size": "base",
