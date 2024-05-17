@@ -22,152 +22,112 @@
         "padding_rate": 75
       }
     },
-    "08421e50-b348-46a3-bbb7-5b26be196b6c": {
-      "type": "accordion",
+    "accordion_inline_TYMAQf": {
+      "type": "accordion_inline",
       "blocks": {
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-1": {
-          "type": "title",
-          "settings": {
-            "title": "Shopping Information"
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-1": {
+        "accordion_item_B8X6fi": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "What are your estimated shipping times?",
+            "content": "Standard shipping takes approximately 3-5 business days. Expedited shipping takes approximately 2-3 business days."
           }
         },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-2": {
+        "accordion_item_XPMc3R": {
           "type": "accordion_item",
           "settings": {
-            "title": "How much is shipping and how long will it take?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Do you offer expedited shipping?",
+            "content": "Yes! We do offer expedited shipping (2-3 business days) across the United States and Canada. Please note this is an additional charge, and will be charged at checkout."
           }
         },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-3": {
+        "accordion_item_hYVatx": {
           "type": "accordion_item",
           "settings": {
-            "title": "How long will it take to get my package?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How long are your processing times?",
+            "content": "We work as quickly as possible to get your package shipped out to you in a few days. However, during peak seasons, your order may take up to 4 business days to process."
           }
         },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-4": {
+        "accordion_item_rbC9e3": {
           "type": "accordion_item",
           "settings": {
-            "title": "Branding is simply a more efficient way to sell things?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-2": {
-          "type": "title",
-          "settings": {
-            "title": "Payment Information"
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-5": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-6": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How much is shipping and how long will it take?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-7": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How long will it take to get my package?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-8": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Branding is simply a more efficient way to sell things?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-3": {
-          "type": "title",
-          "settings": {
-            "title": "Order Returns"
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-9": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-a": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How much is shipping and how long will it take?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-b": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How long will it take to get my package?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-c": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Branding is simply a more efficient way to sell things?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "96d06894-2378-432e-9a7c-721d0af64eb5": {
-          "type": "other_link",
-          "settings": {
-            "title": "Contact us",
-            "link": "shopify:\/\/pages\/contact-1"
+            "title": "How much is shipping?",
+            "content": "Orders over $75 (before tax) ship free, with standard shipping, to Canada and the United States. Orders to Puerto Rico, Hawaii, and Alaska have a $30 shipping charge; this fee is waived on orders over $200."
           }
         }
       },
       "block_order": [
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-1",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-1",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-2",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-3",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-4",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-2",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-5",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-6",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-7",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-8",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-3",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-9",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-a",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-b",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-c",
-        "96d06894-2378-432e-9a7c-721d0af64eb5"
+        "accordion_item_B8X6fi",
+        "accordion_item_XPMc3R",
+        "accordion_item_hYVatx",
+        "accordion_item_rbC9e3"
       ],
       "settings": {
-        "accordion_position": "end",
-        "accordion_icon": "2",
-        "open_first": true,
-        "enable_link_list": true,
+        "top_heading": "SHIPPING",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "accordion_icon": "1",
+        "open_first": false,
         "section_fullwidth": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "padding_top": 85,
-        "padding_bottom": 65,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "accordion_inline_edHGqX": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_7gbLHF": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is your return policy?",
+            "content": "We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help.\n\nFull priced devices can be exchanged or returned within 30 days of purchase (devices include diffusers and humidifiers). Essential oils and natural air freshener sprays can be exchanged or returned within 15 days of purchase.\n\nDiscounted items are eligible for exchange or return for store credit within 15 days of purchase.\n\nItems purchased with a gift card are eligible for exchange or store credit. To return or exchange a natural air freshener spray or diffuser bundle, please reach out to our customer experience team at hello@vitruvi.com.\n\nIf you are located in the US, to start your return or exchange please visit our Returns Center here. https:\/\/vitruvi-us.loopreturns.com\/\nIf you are located in Canada, please email our team at hello@vitruvi.com to start your return or exchange."
+          }
+        },
+        "accordion_item_mjgdAi": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_NBpVa3": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_riBbaB": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_7gbLHF",
+        "accordion_item_mjgdAi",
+        "accordion_item_NBpVa3",
+        "accordion_item_riBbaB"
+      ],
+      "settings": {
+        "top_heading": "RETURNS",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "accordion_icon": "1",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
         "padding_rate": 75
       }
     }
   },
   "order": [
     "heading",
-    "08421e50-b348-46a3-bbb7-5b26be196b6c"
+    "accordion_inline_TYMAQf",
+    "accordion_inline_edHGqX"
   ]
 }
