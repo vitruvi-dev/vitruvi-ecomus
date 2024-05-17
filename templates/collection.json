@@ -37,7 +37,7 @@
     "main": {
       "type": "main-collection",
       "settings": {
-        "product_des": "3",
+        "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
@@ -57,7 +57,7 @@
         "cat_link_list": "collection-product-categories",
         "count": true,
         "section_fullwidth": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
         "padding_top": 30,
         "padding_bottom": 70,
         "padding_rate": 75,
