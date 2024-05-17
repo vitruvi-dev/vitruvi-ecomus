@@ -33,7 +33,6 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Founders Grotesk\";}"
       ],
@@ -90,8 +89,9 @@
       "block_order": [
         "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
+      "disabled": true,
       "custom_css": [
-        ".hdt-heading {font-family: \"Founders Grotesk\";}"
+        ".hdt-slide_heading {font-family: \"Founders Grotesk\";}"
       ],
       "settings": {
         "full_width": true,
