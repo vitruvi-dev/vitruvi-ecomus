@@ -109,7 +109,7 @@
             "btn_link": "shopify:\/\/pages\/get-to-know-the-stone-diffuser",
             "target": false,
             "btn_size": "base",
-            "btn_style": "link",
+            "btn_style": "solid",
             "btn_fw": "normal",
             "btn_icon": "none"
           }
@@ -136,12 +136,64 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
+    },
+    "image_with_text_jghBGN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iJpAYF": {
+          "type": "heading",
+          "settings": {
+            "heading": "MOVE DIFFUSER",
+            "heading_fs": "h3"
+          }
+        },
+        "text_3NBi7m": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn more about our innovative cordless diffuser.<\/p>"
+          }
+        },
+        "button_aUQMrc": {
+          "type": "button",
+          "settings": {
+            "btn_label": "DOVER MOVE",
+            "btn_link": "shopify:\/\/pages\/get-to-know-the-move-diffuser",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iJpAYF",
+        "text_3NBi7m",
+        "button_aUQMrc"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pdp_move-diffuser_white_gallery_2_image_651464c4-f020-4841-b6e9-e67fdab36fa3.png",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "main",
     "top_heading_pBDP9x",
     "image_with_text_HQBWNp",
-    "image_with_text_XGJmC4"
+    "image_with_text_XGJmC4",
+    "image_with_text_jghBGN"
   ]
 }
