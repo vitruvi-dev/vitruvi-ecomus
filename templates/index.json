@@ -394,6 +394,15 @@
             "author": "Architectural Digest"
           }
         },
+        "quote_KpANCD": {
+          "type": "quote",
+          "disabled": true,
+          "settings": {
+            "heading": "AS SEE IN",
+            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
+            "author": "Author's name"
+          }
+        },
         "quote_BCQy7e": {
           "type": "quote",
           "settings": {
@@ -444,6 +453,7 @@
       },
       "block_order": [
         "quote_EDf3LR",
+        "quote_KpANCD",
         "quote_BCQy7e",
         "quote_e9fWFr",
         "quote_WyLKV4",
@@ -456,7 +466,7 @@
         "heading_tag": "h3",
         "heading_size": "h5",
         "sec_subheading": "<p>14,000+ 5 Star Reviews<\/p>",
-        "subheading_size": "10xl",
+        "subheading_size": "2xl",
         "heading_reverse": false,
         "heading_gap": 10,
         "sec_heading_spacing": 30,
@@ -482,7 +492,7 @@
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "sub_heading": "The air is full of possibility. Go ahead and make it yours.",
+            "sub_heading": "Family Run , Female Founded",
             "sub_heading_fs": "base",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
@@ -546,7 +556,7 @@
             "icon_svg": "box",
             "custom_svg": "",
             "image": "shopify:\/\/shop_images\/IconsBlack-Truck.svg",
-            "icon_width": 30,
+            "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
@@ -561,7 +571,7 @@
             "icon_svg": "none",
             "custom_svg": "",
             "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
-            "icon_width": 30,
+            "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
@@ -576,7 +586,7 @@
             "icon_svg": "return",
             "custom_svg": "",
             "image": "shopify:\/\/shop_images\/IconsBlack-Returns.svg",
-            "icon_width": 30,
+            "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
