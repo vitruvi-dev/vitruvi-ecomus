@@ -636,6 +636,7 @@
     },
     "featured_collection_grid_hUARCz": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Test Products",
