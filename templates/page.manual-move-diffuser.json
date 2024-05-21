@@ -1,146 +1,381 @@
 {
   "sections": {
-    "heading": {
-      "type": "main-heading",
+    "top_heading_TkKzrj": {
+      "type": "top-heading",
       "blocks": {
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
-          "type": "1",
+        "heading_bkRD7y": {
+          "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h3"
+            "heading": "GET TO KNOW THE  CLOUD HUMIDIFIER",
+            "heading_fs": "h3"
           }
         }
       },
       "block_order": [
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
+        "heading_bkRD7y"
       ],
       "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
         "color_scheme": "",
-        "spacing_hd": 0,
-        "padding_top": 80,
-        "padding_bottom": 86,
+        "padding_top": 40,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
-    "video_with_text_y7KVVH": {
-      "type": "video-with-text",
+    "video_width_text2_LDcnfz": {
+      "type": "video-width-text2",
       "blocks": {
-        "item_content_cGFaiF": {
-          "type": "item_content",
+        "sub_heading_gieaeF": {
+          "type": "sub_heading",
           "settings": {
-            "content_text": "Unscrew cap of 4EVERBTL™ and fill with water. Screw cap back on."
+            "sub_heading": "FEATURES OF YOUR",
+            "sub_fs": "base"
           }
         },
-        "item_content_KjJRzg": {
-          "type": "item_content",
+        "heading_hzy9jk": {
+          "type": "heading",
           "settings": {
-            "content_text": "Peel-off one blister individual seal and place tablet in the palm of your hand."
-          }
-        },
-        "item_content_VEacct": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Add 3-8 drops of water and mix until tablet is fully dissolved."
-          }
-        },
-        "item_content_8hJyf4": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Apply on clean skin like any liquid serum!"
+            "heading": "MOVE DIFFUSER",
+            "heading_fs": "h3"
           }
         }
       },
       "block_order": [
-        "item_content_cGFaiF",
-        "item_content_KjJRzg",
-        "item_content_VEacct",
-        "item_content_8hJyf4"
+        "sub_heading_gieaeF",
+        "heading_hzy9jk"
       ],
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Clean Your Cloud Humidifier",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>How To<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
+        "video_option": "1",
         "video_height": "adapt_image_first",
         "fixed_height": 860,
         "video_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_cleaning_video.mp4",
+        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_features_video_desktop.mp4",
+        "external_video_url": "",
+        "external_video_frame": "",
+        "video_position": "left",
+        "video_autoplay": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_width_text2_YKGQqD": {
+      "type": "video-width-text2",
+      "blocks": {
+        "sub_heading_EdTVLL": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO SET UP YOUR",
+            "sub_fs": "base"
+          }
+        },
+        "heading_LNx49V": {
+          "type": "heading",
+          "settings": {
+            "heading": "MOVE DIFFUSER",
+            "heading_fs": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_EdTVLL",
+        "heading_LNx49V"
+      ],
+      "settings": {
+        "video_option": "1",
+        "video_height": "adapt_image_first",
+        "fixed_height": 860,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_set-up_video_desktop.mp4",
         "external_video_url": "",
         "external_video_frame": "",
         "video_position": "right",
         "video_autoplay": false,
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
-    "accordion_3g99rm": {
+    "accordion_jUzj9J": {
       "type": "accordion",
       "blocks": {
-        "title_mJyEFM": {
+        "title_XrDgbn": {
           "type": "title",
           "settings": {
-            "title": "Discovery all new items"
+            "title": "FREQUENTLY ASKED QUESTIONS"
           }
         },
-        "accordion_item_3nQz4H": {
+        "accordion_item_9fAdcU": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How often should I clean my humidifier?",
+            "content": "We highly suggest cleaning your humidifier at least once a week. When it’s not in use, empty any remaining water and then dry the water bucket and base thoroughly with a towel.\n\nImproper and infrequent cleaning will lead to bacteria and mold buildup within your humidifier."
           }
         },
-        "accordion_item_gqEC3D": {
+        "accordion_item_j4Bm9T": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Why is it important to know my home air humidity level?",
+            "content": "It is important to check your home’s air humidity level prior to using a humidifier. We recommend using a humidity sensor to measure your relative humidity (RH); the optimal range for the average home is between 40% to 60%. If your home’s relative humidity is 60% or higher, we don’t recommend using a humidifier. Too much humidity can cause damage, such as mold growth, to your home."
           }
         },
-        "accordion_item_XTRVaA": {
+        "accordion_item_r9agBQ": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Can I add essential oils to the Cloud Humidifier?",
+            "content": "We do not recommend adding essential oils to your humidifier. If you’re looking to scent your home, we suggest taking a look at our essential oil diffusers here."
           }
         },
-        "accordion_item_EUicMV": {
+        "accordion_item_hw6wtG": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How often should I replace my humidifier filter?",
+            "content": "We recommend replacing your filter every 3 months. You can purchase more filters here."
+          }
+        },
+        "accordion_item_66KyLm": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What type of water should I use in my humidifier?",
+            "content": "You can use tap, filtered or distilled water in your humidifier. That said, if you live in an area with hard water, we highly recommend using distilled water, which has all mineral contents removed. While filtered or tap water contains minerals that may affect the quality of the mist and result in faster mineral buildup."
+          }
+        },
+        "accordion_item_dnXKxw": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is there water in the base of my Cloud Humidifier?",
+            "content": "This is completely normal. In order for the humidifier to create mist, water has to flow into the base. Once the water bucket is inserted into the base, the water locks will release and the water will flow out. Please note that water must flow through the base from the bucket—do not pour water directly into the base or leakage will occur"
+          }
+        },
+        "accordion_item_dThqRA": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Is there a warranty on my Cloud Humidifier?",
+            "content": "Yes. All humidifiers come with a lifetime warranty. If you’re experiencing issues or have any further questions, reach out to us at hello@vitruvi.com."
           }
         }
       },
       "block_order": [
-        "title_mJyEFM",
-        "accordion_item_3nQz4H",
-        "accordion_item_gqEC3D",
-        "accordion_item_XTRVaA",
-        "accordion_item_EUicMV"
+        "title_XrDgbn",
+        "accordion_item_9fAdcU",
+        "accordion_item_j4Bm9T",
+        "accordion_item_r9agBQ",
+        "accordion_item_hw6wtG",
+        "accordion_item_66KyLm",
+        "accordion_item_dnXKxw",
+        "accordion_item_dThqRA"
       ],
       "settings": {
         "accordion_position": "start",
-        "accordion_icon": "2",
-        "open_first": true,
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_XfPHGe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_aAAgtb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Move Diffuser Interior",
+            "heading_fs": "h3"
+          }
+        },
+        "text_Rx8qYQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Step 1:<\/strong> Fill reservoir halfway with water; add 1 tablespoon white vinegar.<\/p><p><strong>Step 2: <\/strong>Let the solution sit for 30 minutes.<\/p><p><strong>Step 3: <\/strong>Rinse, then wipe away any remaining oil residue.<\/p><p><strong>Step 4: <\/strong>Repeat once a month.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAAgtb",
+        "text_Rx8qYQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pdp_move-diffuser_white_gallery_4_v2_image_52741eaf-f14f-46c9-be41-663f603bf378.png",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "accordion_V3FMja": {
+      "type": "accordion",
+      "blocks": {
+        "title_EziF9c": {
+          "type": "title",
+          "settings": {
+            "title": "FREQUENTLY ASKED QUESTIONS"
+          }
+        },
+        "accordion_item_KFkmBh": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I charge the Move Diffuser?",
+            "content": "On your first charge of your Move Diffuser, we recommend plugging the charging cord directly into the back of the diffuser. A full charge with your diffuser plugged directly into the wall will take about 1-2 hours (exact charging times may vary). You can also charge your Move Diffuser by plugging in the charging pad and placing the diffuser on top. This method is great for quick battery top-ups and continual use. Once your diffuser is fully charged, the four lights at the back will stop blinking."
+          }
+        },
+        "accordion_item_ecAAMM": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What are the run times of the Move Diffuser?",
+            "content": "The Move Diffuser has two run times: 4 hours and 8 hours. The 4-hour setting will run continuously. The 8-hour setting will run for 30 seconds and then turn off for 30 seconds, either until the water in the reservoir is low or the time period has ended. As part of an automatic safety feature, our diffusers turn off before the water reservoir is completely empty."
+          }
+        },
+        "accordion_item_4tmXAX": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can the Move Diffuser light be adjusted?",
+            "content": "Yes. The Move Diffuser has 4 light settings: on, dim, candlelight, and off. You can adjust the light settings by clicking the light button at the back of the diffuser. You can also press and hold the light button to turn off all the lights."
+          }
+        },
+        "accordion_item_m7DphA": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is the Move Diffuser made of?",
+            "content": "The outside of the diffuser is made of high-quality matte metal. The inside reservoir is made from BPA-free plastic. Because the diffuser is ultrasonic and runs on vibrations instead of heat, there is no interaction between the water, plastic, and essential oils."
+          }
+        },
+        "accordion_item_eaU4ar": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I clean the Move Diffuser?",
+            "content": "To clean the inside of your Move Diffuser, mix a tablespoon of white vinegar with water and let it sit in the reservoir for 30 minutes. Then rinse it out, and use a cotton swab to wipe the inside of the reservoir. This will clean out any residue left behind from the essential oils. We recommend giving your diffuser a deep clean every month.\n\nTo clean the outside of your Move Diffuser, simply use a damp cloth to wipe the metal."
+          }
+        },
+        "accordion_item_c3Gt4j": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Does the Move Diffuser come with a warranty?",
+            "content": "All Move Diffusers come with a lifetime warranty. If your product has any mechanical or manufacturing defects, we would be happy to assist you.\n\nPlease reach out to us at hello@vitruvi.com with your proof of purchase, information on the issue you’re experiencing, and the serial number (located on the bottom of your diffuser). We would be happy to support you and ensure you have a perfectly working product.\n\nPlease note that our lifetime device warranty does not cover personal damages."
+          }
+        },
+        "accordion_item_AyLWYw": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I diffuse essential oils around my pets?",
+            "content": "Our pets are as unique as us. The first thing we suggest doing is checking with your vet—your animal may be more sensitive than others, so your vet will know best.\n\nStronger scents such as Lemon, Grapefruit, Peppermint, and Boost, should be used sparingly. If you would still like to diffuse one of these scents, I would suggest limiting the number of drops to approximately 1-5 drops.\n\nFrankincense, Lavender, and Cedarwood are great options to diffuse around animals. We also suggest turning your diffuser off when your animals are home alone, just in case they do become agitated by the scent."
+          }
+        },
+        "accordion_item_aKJgcL": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Which oils are safe for pregnancy and babies?",
+            "content": "The best thing to do before using essential oils is to chat with your doctor.\n\nIn a diffuser, we recommend using small amounts of essential oils when pregnant (about 5 drops). When it comes to newborns, we recommend waiting 3 months before using essential oils. But your doctor will know best, as we all react differently. Always opt for essential oils that are 100% pure, vegan, cruelty-free, and free from synthetic fragrance.\n\nThese are the products we recommend starting with once you’ve spoken to your doctor: Lavender, Bergamot, Grapefruit, Lemon, Frankincense, Cedarwood, Boost, Sleep."
+          }
+        }
+      },
+      "block_order": [
+        "title_EziF9c",
+        "accordion_item_KFkmBh",
+        "accordion_item_ecAAMM",
+        "accordion_item_4tmXAX",
+        "accordion_item_m7DphA",
+        "accordion_item_eaU4ar",
+        "accordion_item_c3Gt4j",
+        "accordion_item_AyLWYw",
+        "accordion_item_aKJgcL"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "accordion_KWjBMV": {
+      "type": "accordion",
+      "blocks": {
+        "title_whtJPm": {
+          "type": "title",
+          "settings": {
+            "title": "TROUBLESHOOTING"
+          }
+        },
+        "accordion_item_bbtEx9": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Move Diffuser not misting?",
+            "content": "There may be a few reasons why your diffuser isn’t misting properly. Here are some ways to troubleshoot the issue.\n\nFirst, give your diffuser a deep clean. As a part of a built-in feature to protect our diffusers, the unit won’t run if the ultrasonic plates are clogged with essential oils. Watch our video above for instructions on how to clean your diffuser.\n\nNext, make sure the water is filled to just below the line inside the reservoir. If there is too little or too much water in the reservoir, the diffuser won’t turn on."
+          }
+        },
+        "accordion_item_F8NEiU": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Move Diffuser not misting for the full 4-hour or 8-hour time cycle?",
+            "content": "Ensure that the water is filled to just below the fill line to get a full time cycle. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run time by about 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com."
+          }
+        },
+        "accordion_item_xtjQza": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Move Diffuser not turning on?",
+            "content": "First, check if your Move Diffuser is charged. Once your diffuser is fully charged, the four lights at the back will stop blinking.\n\nNext, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Move Diffuser lid is sitting completely flush on the base."
+          }
+        },
+        "accordion_item_a6MAaP": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Move Diffuser not charging?",
+            "content": "Make sure you’re using the original power cord that came with your Move Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source."
+          }
+        }
+      },
+      "block_order": [
+        "title_whtJPm",
+        "accordion_item_bbtEx9",
+        "accordion_item_F8NEiU",
+        "accordion_item_xtjQza",
+        "accordion_item_a6MAaP"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
         "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "",
@@ -151,9 +386,12 @@
     }
   },
   "order": [
-    "heading",
-    "main",
-    "video_with_text_y7KVVH",
-    "accordion_3g99rm"
+    "top_heading_TkKzrj",
+    "video_width_text2_LDcnfz",
+    "video_width_text2_YKGQqD",
+    "accordion_jUzj9J",
+    "image_with_text_XfPHGe",
+    "accordion_V3FMja",
+    "accordion_KWjBMV"
   ]
 }

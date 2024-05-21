@@ -1,146 +1,95 @@
 {
   "sections": {
-    "heading": {
-      "type": "main-heading",
+    "top_heading_TkKzrj": {
+      "type": "top-heading",
       "blocks": {
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
-          "type": "1",
+        "heading_bkRD7y": {
+          "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h3"
+            "heading": "GET TO KNOW OUR DIFFUSER SCENTS",
+            "heading_fs": "h3"
           }
         }
       },
       "block_order": [
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
+        "heading_bkRD7y"
       ],
       "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
         "color_scheme": "",
-        "spacing_hd": 0,
-        "padding_top": 80,
-        "padding_bottom": 86,
+        "padding_top": 40,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
-    "video_with_text_y7KVVH": {
-      "type": "video-with-text",
-      "blocks": {
-        "item_content_cGFaiF": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Unscrew cap of 4EVERBTL™ and fill with water. Screw cap back on."
-          }
-        },
-        "item_content_KjJRzg": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Peel-off one blister individual seal and place tablet in the palm of your hand."
-          }
-        },
-        "item_content_VEacct": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Add 3-8 drops of water and mix until tablet is fully dissolved."
-          }
-        },
-        "item_content_8hJyf4": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Apply on clean skin like any liquid serum!"
-          }
-        }
-      },
-      "block_order": [
-        "item_content_cGFaiF",
-        "item_content_KjJRzg",
-        "item_content_VEacct",
-        "item_content_8hJyf4"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Clean Your Cloud Humidifier",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>How To<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_cleaning_video.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "right",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "accordion_3g99rm": {
+    "accordion_jUzj9J": {
       "type": "accordion",
       "blocks": {
-        "title_mJyEFM": {
+        "title_XrDgbn": {
           "type": "title",
           "settings": {
-            "title": "Discovery all new items"
+            "title": "FREQUENTLY ASKED QUESTIONS"
           }
         },
-        "accordion_item_3nQz4H": {
+        "accordion_item_66KyLm": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Are your essential oils 100% pure?",
+            "content": "Yes. Our oils are 100% pure with absolutely no fillers, diluting oils, synthetic fragrances, or unnatural components of any kind."
           }
         },
-        "accordion_item_gqEC3D": {
+        "accordion_item_dnXKxw": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Where are your oils sourced from?",
+            "content": "We source essential oils from countries around the world. We choose places that make the highest-quality products—so that we can bring the best essential oils from around the globe directly to you."
           }
         },
-        "accordion_item_XTRVaA": {
+        "accordion_item_dThqRA": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Can I diffuse essential oils around my pets?",
+            "content": "Our pets are as unique as us. The first thing we suggest doing is checking with your vet—your animal may be more sensitive than others, so your vet will know best.\n\nStronger scents such as Lemon, Grapefruit, Peppermint, and Boost, should be used sparingly. If you would still like to diffuse one of these scents, I would suggest limiting the number of drops to approximately 1-5 drops.\n\nFrankincense, Lavender, and Cedarwood are great options to diffuse around animals. We also suggest turning your diffuser off when your animals are home alone, just in case they do become agitated by the scent.\n\nFor more information, visit our page here."
           }
         },
-        "accordion_item_EUicMV": {
+        "accordion_item_M64rpw": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Which oils are safe for pregnancy and babies?",
+            "content": "The best thing to do before using essential oils is to chat with your doctor.\n\nIn a diffuser, we recommend using small amounts of essential oils when pregnant (about 5 drops). When it comes to newborns, we recommend waiting 3 months before using essential oils. But your doctor will know best, as we all react differently.\nAlways opt for essential oils that are 100% pure, vegan, cruelty-free, and free from synthetic fragrance.\n\n\nThese are the products we recommend starting with once you’ve spoken to your doctor: Lavender, Bergamot, Grapefruit, Lemon, Frankincense, Cedarwood, Boost, Sleep."
+          }
+        },
+        "accordion_item_qWrhB4": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Is your packaging and bottles recyclable?",
+            "content": "Yes. Our packaging is all 100% recyclable, reusable, or biodegradable, and our bottles are printed using plant-based ink."
+          }
+        },
+        "accordion_item_nahg8N": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Are your essential oils therapeutic grade?",
+            "content": "Therapeutic grade is not an industry standard—it’s a trademarked term used to describe certain companies’ products. We prefer to speak about the quality of our products without buzzwords or marketing slogans.\n\nOur oils are 100% pure, and are free from fillers, diluting oils, synthetic fragrances, and unnatural components of any kind."
           }
         }
       },
       "block_order": [
-        "title_mJyEFM",
-        "accordion_item_3nQz4H",
-        "accordion_item_gqEC3D",
-        "accordion_item_XTRVaA",
-        "accordion_item_EUicMV"
+        "title_XrDgbn",
+        "accordion_item_66KyLm",
+        "accordion_item_dnXKxw",
+        "accordion_item_dThqRA",
+        "accordion_item_M64rpw",
+        "accordion_item_qWrhB4",
+        "accordion_item_nahg8N"
       ],
       "settings": {
         "accordion_position": "start",
-        "accordion_icon": "2",
-        "open_first": true,
+        "accordion_icon": "1",
+        "open_first": false,
         "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "",
@@ -151,9 +100,7 @@
     }
   },
   "order": [
-    "heading",
-    "main",
-    "video_with_text_y7KVVH",
-    "accordion_3g99rm"
+    "top_heading_TkKzrj",
+    "accordion_jUzj9J"
   ]
 }
