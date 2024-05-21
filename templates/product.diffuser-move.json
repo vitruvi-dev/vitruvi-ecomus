@@ -635,11 +635,11 @@
       ],
       "settings": {
         "heading_align": "center",
-        "top_heading": "Join over 100k homes<br>happily scented by a Vitruvi diffuser",
+        "top_heading": "Join over 100k homes happily scented by a Vitruvi diffuser",
         "heading_tag": "h2",
         "heading_size": "h5",
         "top_description": "<p>Aromatherapy Elevated, Thanks to Vitruvi <\/p>",
-        "subheading_size": "hdt-text-lg",
+        "subheading_size": "hdt-text-base",
         "show_rating": false,
         "rating": 5,
         "content_align": "start",
