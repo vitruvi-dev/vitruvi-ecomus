@@ -1,25 +1,27 @@
 {
   "sections": {
-    "heading": {
-      "type": "main-heading",
+    "top_heading_XNxk7w": {
+      "type": "top-heading",
       "blocks": {
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
-          "type": "1",
+        "heading_qUxWfX": {
+          "type": "heading",
           "settings": {
             "heading": "CONTACT US",
-            "heading_size": "h3"
+            "heading_fs": "h4"
           }
         }
       },
       "block_order": [
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
+        "heading_qUxWfX"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/page_loyalty_take-care_header_image_desktop_eed4e8a5-6ae4-4b9a-bf42-1298bc6ebc82.png",
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
         "color_scheme": "",
-        "spacing_hd": 40,
-        "padding_top": 80,
-        "padding_bottom": 86,
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -157,7 +159,7 @@
     }
   },
   "order": [
-    "heading",
+    "top_heading_XNxk7w",
     "icon_box_7E4c9c"
   ]
 }
