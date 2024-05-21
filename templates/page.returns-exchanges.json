@@ -25,66 +25,26 @@
         "padding_rate": 75
       }
     },
-    "slideshow_Kqjifp": {
-      "type": "slideshow",
+    "top_heading_BDrBax": {
+      "type": "top-heading",
       "blocks": {
-        "slide_label_jkLtR6": {
-          "type": "slide_label",
+        "heading_hXjGaT": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_start-return_image_desktop.png",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "Multi-faceted Beauty",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "btn2_label": "Shop now",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "1",
-            "content_bg": false,
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "heading": "Making a Return",
+            "heading_fs": "h4"
           }
         }
       },
       "block_order": [
-        "slide_label_jkLtR6"
+        "heading_hXjGaT"
       ],
       "settings": {
-        "full_width": false,
-        "item_round": "rounded",
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
+        "spacing_item": 30,
+        "alignment": "left",
+        "alignment_mb": "center",
+        "fullwidth": false,
         "color_scheme": "",
-        "loop": false,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
@@ -110,7 +70,7 @@
           "type": "button",
           "settings": {
             "btn_label": "START YOUR RETURN",
-            "btn_link": "",
+            "btn_link": "\/returns",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -295,7 +255,7 @@
   },
   "order": [
     "top_heading_tKKKwG",
-    "slideshow_Kqjifp",
+    "top_heading_BDrBax",
     "image_with_text_YqjwK6",
     "top_heading_T7fTar",
     "top_heading_awb8K4",
