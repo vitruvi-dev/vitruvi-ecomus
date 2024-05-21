@@ -131,7 +131,7 @@
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "none"
           }
         },
         "tab_item_rzWAzt": {
@@ -146,7 +146,7 @@
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "none"
           }
         },
         "tab_item_FJ6kKL": {
@@ -161,7 +161,7 @@
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "none"
           }
         }
       },

@@ -54,7 +54,7 @@
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "none"
           }
         },
         "text_gJ8xRq": {
@@ -295,7 +295,7 @@
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "none"
           }
         },
         "tab_item_EAFcze": {
@@ -313,7 +313,7 @@
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "none"
           }
         },
         "tab_item_eyC3Ut": {
@@ -331,7 +331,7 @@
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "none"
           }
         }
       },
@@ -580,7 +580,7 @@
             "target": false,
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1",
+            "btn_icon": "none",
             "col_w": "12",
             "row_count": 1,
             "content_position": "center",
