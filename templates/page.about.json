@@ -163,6 +163,51 @@
         "padding_rate": 20
       }
     },
+    "image_with_tabs_content_YHArkT": {
+      "type": "image-with-tabs-content",
+      "blocks": {
+        "tab_item_L3nULN": {
+          "type": "tab_item",
+          "settings": {
+            "title": "",
+            "heading": "",
+            "content_text": "When siblings Sara Panton and Sean Panton learned about the toxic ingredients found in traditional air care and home scenting products, they set out to create a better alternative for people and for the planet.\n<br><br>\nSara and Sean grew up in a small oceanside community on Vancouver Island, where they learned about natural ingredients and sustainable products at a young age. Inspired by those values, today they lead a passionate team with the goal of inspiring people to think differently about the air in their homes. After all, it should feel light, beautiful, and full of possibility.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_L3nULN"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Our Story",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "main_img": "shopify:\/\/shop_images\/page_about-us_our-story_image_desktop.jpg",
+        "image_pos": "left",
+        "image_ratio": "adapt_image",
+        "custom_height": 860,
+        "custom_height_tb": 300,
+        "custom_height_mb": 300,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 60,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "bd32e121-64a7-4410-9db7-ba92286059ec": {
       "type": "image-with-text",
       "blocks": {
@@ -365,51 +410,6 @@
         "padding_bottom": 0,
         "padding_rate": 75
       }
-    },
-    "image_with_tabs_content_YHArkT": {
-      "type": "image-with-tabs-content",
-      "blocks": {
-        "tab_item_L3nULN": {
-          "type": "tab_item",
-          "settings": {
-            "title": "",
-            "heading": "",
-            "content_text": "When siblings Sara Panton and Sean Panton learned about the toxic ingredients found in traditional air care and home scenting products, they set out to create a better alternative for people and for the planet.\n<br><br>\nSara and Sean grew up in a small oceanside community on Vancouver Island, where they learned about natural ingredients and sustainable products at a young age. Inspired by those values, today they lead a passionate team with the goal of inspiring people to think differently about the air in their homes. After all, it should feel light, beautiful, and full of possibility.",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_L3nULN"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Our Story",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "main_img": "shopify:\/\/shop_images\/page_about-us_our-story_image_desktop.jpg",
-        "image_pos": "left",
-        "image_ratio": "adapt_image",
-        "custom_height": 860,
-        "custom_height_tb": 300,
-        "custom_height_mb": 300,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 60,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -418,11 +418,11 @@
     "322c5629-7f71-4b6e-bb7c-fd009621a40d",
     "d8fc1681-68ca-4252-93e0-ec64c9e6e014",
     "6e9ed9a2-d37f-427d-af6f-6d4d53f2947b",
+    "image_with_tabs_content_YHArkT",
     "bd32e121-64a7-4410-9db7-ba92286059ec",
     "92907300-e2dd-450f-91df-8a2a70e85078",
     "4048e7b3-eff4-45f1-a0d3-bb9c3a956612",
     "f7f3ac60-3246-4e11-b8db-6976b318321d",
-    "6da3b683-3a88-416e-8665-c6985933cfaf",
-    "image_with_tabs_content_YHArkT"
+    "6da3b683-3a88-416e-8665-c6985933cfaf"
   ]
 }
