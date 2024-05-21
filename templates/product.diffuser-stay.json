@@ -1,0 +1,824 @@
+{
+  "sections": {
+    "breacrumb": {
+      "type": "brc-nav-product",
+      "disabled": true,
+      "settings": {
+        "back_next_pr": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "83296f29-170d-4d7b-9291-c9b59bb98b32": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 64,
+            "content": "",
+            "icon_svg": "none",
+            "ani": "none"
+          }
+        },
+        "yotpo_product_reviews_ugc_star_rating_HQFQre": {
+          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "3a222052-35a9-4684-a336-6a32a56eb638": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "edac686e-a845-4ed7-9b50-51639a11cf56": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1248e930-5734-45b4-a1d6-a814910fdb63": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "enable_historystate": true,
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "medium",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": "size-chart"
+          }
+        },
+        "ad820e37-dee5-41f3-9692-bf46d9664103": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "inventory_ftnW9y": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
+        "countdown_timer_pLgxfe": {
+          "type": "countdown_timer",
+          "disabled": true,
+          "settings": {
+            "content": "HURRY UP! SALE ENDS IN:",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
+        "order_jbW4Fg": {
+          "type": "order",
+          "disabled": true,
+          "settings": {
+            "hide_pre": true,
+            "icon_svg": "delivery",
+            "ani": "none",
+            "txt": "Order in the next [hour] to get it between [date_start] and [date_end]",
+            "ds": 10,
+            "de": 15,
+            "mode": "1",
+            "cut_day": "SAT,SUN",
+            "off_days": "23\/12\/****\n24\/12\/****\n01\/01\/****",
+            "frm_day": "t44, t45 t46",
+            "time": "16:00:00"
+          }
+        },
+        "8253e974-5acb-4076-9230-03b0f804dcdf": {
+          "type": "back_instock",
+          "settings": {
+            "only_show_soldout": true
+          }
+        },
+        "description_Fh49zX": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "complimentary_products_n6BDx7": {
+          "type": "complimentary_products",
+          "disabled": true,
+          "settings": {
+            "text": "Pairs well with"
+          }
+        },
+        "bundle_product_NRaNMn": {
+          "type": "bundle_product",
+          "disabled": true,
+          "settings": {
+            "bundle_prs_inner": true,
+            "product_list": [
+              "bergamot-essential-oil",
+              "boost-essential-oil-blend",
+              "boost-essential-oil-blend-5"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "83296f29-170d-4d7b-9291-c9b59bb98b32",
+        "yotpo_product_reviews_ugc_star_rating_HQFQre",
+        "3a222052-35a9-4684-a336-6a32a56eb638",
+        "edac686e-a845-4ed7-9b50-51639a11cf56",
+        "1248e930-5734-45b4-a1d6-a814910fdb63",
+        "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "inventory_ftnW9y",
+        "countdown_timer_pLgxfe",
+        "order_jbW4Fg",
+        "8253e974-5acb-4076-9230-03b0f804dcdf",
+        "description_Fh49zX",
+        "complimentary_products_n6BDx7",
+        "bundle_product_NRaNMn"
+      ],
+      "custom_css": [
+        ".hdt-sticky-atc__qty-selector {display: none;}"
+      ],
+      "settings": {
+        "space_content_media": true,
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": true,
+        "enable_video_looping": true,
+        "enable_thumb_efect": true,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "sticky_atc": true,
+        "navUI": true,
+        "nav_des": "default",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 50
+      }
+    },
+    "icon_box_xRGYey": {
+      "type": "icon-box",
+      "blocks": {
+        "item_pF3rwG": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box2",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Truck.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "shopify:\/\/pages\/frequently-asked-questions",
+            "open_link": false,
+            "title": "Fast, Free Shipping",
+            "content": "<p>Delivered nationwide in 3-8 business days.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_GGB3di": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "leaf2",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "shopify:\/\/pages\/warranty",
+            "open_link": true,
+            "title": "Lifetime Device Warranty",
+            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_jG39Wq": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Returns.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "shopify:\/\/pages\/returns-and-exchanges",
+            "open_link": true,
+            "title": "No-Hassle Returns",
+            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_pF3rwG",
+        "item_GGB3di",
+        "item_jG39Wq"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 30,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": true,
+        "space_icon_heading": "small",
+        "size_heading": "small",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "tabs": {
+      "type": "main-product-tabs",
+      "blocks": {
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Features",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_FAnLrE": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Specs",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_eeFthN": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Warranty & Returns",
+            "content": "",
+            "page": "product-returns-humidifiers-diffusers"
+          }
+        }
+      },
+      "block_order": [
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
+        "tab_html_FAnLrE",
+        "tab_html_eeFthN"
+      ],
+      "settings": {
+        "tabs_design": "tab_vertical",
+        "enable_first_tab": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 50
+      }
+    },
+    "top_heading_GTjYAL": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_Yk8Ark": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ product.metafields.ecomus.feature_2_heading.value }}",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_dXe8rc": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "{{ product.metafields.ecomus.feature_2_subheading.value }}",
+            "sub_heading_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Yk8Ark",
+        "sub_heading_dXe8rc"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "banner_gdzX4R": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_wGNqDt": {
+          "type": "banner_2",
+          "settings": {
+            "image": "{{ product.metafields.ecomus.banner_1_media.value }}",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "{{ product.metafields.ecomus.banner_1_heading.value }}",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_Gd9rXf": {
+          "type": "banner_2",
+          "settings": {
+            "image": "{{ product.metafields.ecomus.banner_2_media.value }}",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "{{ product.metafields.ecomus.banner_2_heading.value }}",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_gYifcd": {
+          "type": "banner_2",
+          "settings": {
+            "image": "{{ product.metafields.ecomus.banner_3_media.value }}",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "{{ product.metafields.ecomus.banner_3_heading.value }}",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_wGNqDt",
+        "banner_2_Gd9rXf",
+        "banner_2_gYifcd"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-size: 12px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 500,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_width_text2_anqqEU": {
+      "type": "video-width-text2",
+      "blocks": {
+        "heading_Wzbctd": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_jeJGRx": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wzbctd",
+        "sub_heading_jeJGRx"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "video_option": "1",
+        "video_height": "adapt_image_first",
+        "fixed_height": 500,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "{{ product.metafields.ecomus.feature_1_media.value }}",
+        "external_video_url": "",
+        "external_video_frame": "",
+        "video_position": "left",
+        "video_autoplay": true,
+        "section_fullwidth": true,
+        "color_scheme": "scheme-1",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "video_width_text2_gAFGz7": {
+      "type": "video-width-text2",
+      "blocks": {
+        "heading_37fFat": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ product.metafields.ecomus.feature_2_heading.value }}",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_iKywFD": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_37fFat",
+        "sub_heading_iKywFD"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_option": "1",
+        "video_height": "adapt_image_first",
+        "fixed_height": 500,
+        "video_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "video": "{{ product.metafields.ecomus.feature_2_media.value }}",
+        "external_video_url": "",
+        "external_video_frame": "",
+        "video_position": "right",
+        "video_autoplay": true,
+        "section_fullwidth": true,
+        "color_scheme": "scheme-1",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "testimonials_2_NVU3JF": {
+      "type": "testimonials-2",
+      "blocks": {
+        "quote_Cq796q": {
+          "type": "quote",
+          "settings": {
+            "heading": "The BEST diffuser I've ever owned!",
+            "content": "<p>I'm head over heels in love with Vitruvi diffusers. The colors are true to the image, they carry my scent blends far and wide, and they are so incredibly quiet. Vitruvi stands tall, head and shoulders above the rest. Highly recommend!<\/p>",
+            "author": "Kristin P.<br>The Stone Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_3B8pEi": {
+          "type": "quote",
+          "settings": {
+            "heading": "It's Everything You'd Want in a Diffuser",
+            "content": "<p>I’ve only had the Move diffuser for a few weeks and I am in love (and so is my husband!). We really love the flexibility of the cordless diffuser. I have it in my home office in the morning, he takes it into his office in the afternoon, and then into our bedroom in the evening—it's truly all we need in one!<\/p>",
+            "author": "Angel W.<br>The Move Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_wMdYkH": {
+          "type": "quote",
+          "settings": {
+            "heading": "Spend the money, you will not be disappointed",
+            "content": "<p>This is seriously the best diffuser I have owned! The stream of diffused oils is just so much stronger. It really delivers a true essential oil experience versus a watered-down mist. It is also very sleek and elegant, making it perfect for any environment. It’s expensive, but totally worth the money.<\/p>",
+            "author": "Crystal N.The Stone Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_pgJKD6": {
+          "type": "quote",
+          "settings": {
+            "heading": "In Love with my First Purchase from Vitruvi",
+            "content": "<p>It’s beautiful! I received it yesterday. Setting it up was a breeze. It filled my whole living room, dining area, and kitchen with scent. Wow, I can even smell it in the hallway. I’m so happy with my new diffuser. It’s a treat-yourself gift. Highly recommend getting one.<\/p>",
+            "author": "Monica V.<br>The Stay Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_X3WApe": {
+          "type": "quote",
+          "settings": {
+            "heading": "Easy to use, easy to display",
+            "content": "<p>This checked all the boxes! You can turn off the night light, and people keep complimenting how nice my home smells and how cute my 'sculpture' is. The color is beautiful and subtle—definitely getting some for gifts.<\/p>",
+            "author": "Danielle R.The Stone Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_XiBULh": {
+          "type": "quote",
+          "settings": {
+            "heading": "A Healthier Work at Home Space",
+            "content": "<p>Love my new Stone Vitruvi diffuser. It’s a sleek design, and the neutral colors blend seamlessly into my decor. The diffused oil has been a welcoming addition to the air in my workspace.<\/p>",
+            "author": "Joan F.The Stone Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_ieGhmJ": {
+          "type": "quote",
+          "settings": {
+            "heading": "Amazing Diffuser!",
+            "content": "<p>This diffuser is worth the investment! It is so calming in our bathroom, making it feel like a more luxurious spa space. We can smell the diffuser throughout three rooms in the house. I will be purchasing another one for our bedroom. I love this product!<\/p>",
+            "author": "Desiree W.The Move Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
+        },
+        "quote_87jeBH": {
+          "type": "quote",
+          "settings": {
+            "heading": "Quiet and powerful",
+            "content": "<p>Very attractive, minimal design. Runs quietly and works consistently to diffuse essential oils. We have a small apartment (~650 sq ft) and it easily fills the whole space! I like the matte texture of the cover, and the color is fun but neutral enough to go anywhere. &lt;3<\/p>",
+            "author": "Savannah A.<br>The Stone Diffuser",
+            "enable_verify": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_Cq796q",
+        "quote_3B8pEi",
+        "quote_wMdYkH",
+        "quote_pgJKD6",
+        "quote_X3WApe",
+        "quote_XiBULh",
+        "quote_ieGhmJ",
+        "quote_87jeBH"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "top_heading": "Join over 100k homes<br>happily scented by a Vitruvi diffuser",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "top_description": "<p>Aromatherapy Elevated, Thanks to Vitruvi <\/p>",
+        "subheading_size": "hdt-text-lg",
+        "show_rating": false,
+        "rating": 5,
+        "content_align": "start",
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "color_scheme": "scheme-4",
+        "pr_rating": "#474946",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Pairs Well With",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 50,
+        "limit": 4,
+        "product_des": "4",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 60,
+        "padding_bottom": 72,
+        "padding_rate": 75
+      }
+    },
+    "171512128966062076": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_ugc_reviews_dERaaf": {
+          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_ugc_reviews_dERaaf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "recently": {
+      "type": "recently-products",
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Recently Viewed",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 50,
+        "limit": 10,
+        "product_des": "1",
+        "image_ratio": "custom-pr",
+        "image_size": true,
+        "show_vendor": false,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "sidebar": {
+      "type": "sidebar-product",
+      "blocks": {
+        "93375155-f1f0-4598-8fc0-9adcbad23dff": {
+          "type": "iconbox",
+          "settings": {
+            "widget_heading": "Shipping & Delivery",
+            "icon_svg1": "box",
+            "custom_svg1": "",
+            "iconbox_content1": "Free shipping_Free shipping for all US orders",
+            "link_item1": "",
+            "icon_svg2": "support",
+            "custom_svg2": "",
+            "iconbox_content2": "Premium Support_Support 24 hours a day",
+            "link_item2": "",
+            "icon_svg3": "return",
+            "custom_svg3": "",
+            "iconbox_content3": "30 Days Return_ You have 30 days to return",
+            "link_item3": "",
+            "icon_svg4": "payment",
+            "custom_svg4": "",
+            "iconbox_content4": "",
+            "link_item4": ""
+          }
+        },
+        "4bbef404-afc5-4e3e-90cf-4f07d8a58f71": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Sale products",
+            "collection": "womens-fashion",
+            "product_list": [
+
+            ],
+            "products_count": 3,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        },
+        "76c4580d-5d01-4485-b53a-98caea9f4605": {
+          "type": "gallery",
+          "settings": {
+            "widget_heading": "Gallery",
+            "link1": "",
+            "link2": "",
+            "link3": "",
+            "link4": "",
+            "link5": "",
+            "link6": "",
+            "open_link": "_blank"
+          }
+        },
+        "5d4020bf-1c84-4908-9a3d-f9d20d6b2025": {
+          "type": "social",
+          "settings": {
+            "widget_heading": "Follow us",
+            "socials_style": "outline",
+            "socials_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "93375155-f1f0-4598-8fc0-9adcbad23dff",
+        "4bbef404-afc5-4e3e-90cf-4f07d8a58f71",
+        "76c4580d-5d01-4485-b53a-98caea9f4605",
+        "5d4020bf-1c84-4908-9a3d-f9d20d6b2025"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-1",
+        "space": 60
+      }
+    }
+  },
+  "order": [
+    "breacrumb",
+    "main",
+    "icon_box_xRGYey",
+    "tabs",
+    "top_heading_GTjYAL",
+    "banner_gdzX4R",
+    "video_width_text2_anqqEU",
+    "video_width_text2_gAFGz7",
+    "testimonials_2_NVU3JF",
+    "related",
+    "171512128966062076",
+    "recently",
+    "sidebar"
+  ]
+}
