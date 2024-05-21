@@ -5,6 +5,7 @@
       "blocks": {
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
+          "disabled": true,
           "settings": {
           }
         },
