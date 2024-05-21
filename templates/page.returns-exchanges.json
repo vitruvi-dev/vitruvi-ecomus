@@ -83,7 +83,7 @@
           "type": "heading",
           "settings": {
             "heading": "Return Policy",
-            "heading_fs": "h4"
+            "heading_fs": "h5"
           }
         },
         "sub_heading_wVmCJH": {
@@ -116,7 +116,7 @@
           "type": "heading",
           "settings": {
             "heading": "Price Adjustments",
-            "heading_fs": "h4"
+            "heading_fs": "h5"
           }
         },
         "sub_heading_CFLx7y": {
@@ -149,7 +149,7 @@
           "type": "heading",
           "settings": {
             "heading": "Warranty",
-            "heading_fs": "h4"
+            "heading_fs": "h5"
           }
         },
         "sub_heading_4XM3dg": {
