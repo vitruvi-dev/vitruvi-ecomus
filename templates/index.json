@@ -594,29 +594,12 @@
             "content": "<p>Not delighted? We'll make it right.<\/p>",
             "adding_border": false
           }
-        },
-        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "icon_svg": "support",
-            "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/CX-logo.svg",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "",
-            "open_link": false,
-            "title": "Premium Support",
-            "content": "<p>Our world-class customer experience team awaits you.<\/p>",
-            "adding_border": false
-          }
         }
       },
       "block_order": [
         "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-1",
         "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-2",
-        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3",
-        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-4"
+        "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3"
       ],
       "custom_css": [
 
