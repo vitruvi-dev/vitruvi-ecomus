@@ -9,10 +9,18 @@
             "heading": "{{ page.title }}",
             "heading_fs": "h4"
           }
+        },
+        "sub_heading_TABMXG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "We'd love to hear from you.",
+            "sub_heading_fs": "base"
+          }
         }
       },
       "block_order": [
-        "heading_qUxWfX"
+        "heading_qUxWfX",
+        "sub_heading_TABMXG"
       ],
       "settings": {
         "spacing_item": 30,
