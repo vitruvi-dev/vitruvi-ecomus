@@ -6,7 +6,7 @@
         "heading_qUxWfX": {
           "type": "heading",
           "settings": {
-            "heading": "CONTACT US",
+            "heading": "{{ page.title }}",
             "heading_fs": "h4"
           }
         }
