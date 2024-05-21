@@ -50,6 +50,65 @@
         "padding_rate": 75
       }
     },
+    "hero_image_TtzCwX": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_VaxD9y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Making a Return",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_rDjGyq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To complete a return or exchange (for all products except Natural Air Freshener Sprays and Diffuser Bundles), please use our <a href=\"https:\/\/vitruviusa.myshopify.com\/returns\" title=\"\/returns\"><span style=\"text-decoration:underline\">self-serve returns page<\/span><\/a>. If you have any other questions, please reach out to our Customer Experience team at <a href=\"mailto:hello@vitruvi.com\" title=\"mailto:hello@vitruvi.com\">hello@vitruvi.com<\/a>.<\/p>",
+            "adding_border": false
+          }
+        },
+        "button_DfqQyy": {
+          "type": "button",
+          "settings": {
+            "btn_label": "START YOUR RETURN",
+            "btn_link": "\/returns",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VaxD9y",
+        "text_rDjGyq",
+        "button_DfqQyy"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_start-return_image_desktop.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": true,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_YqjwK6": {
       "type": "image-with-text",
       "blocks": {
@@ -84,6 +143,7 @@
         "text_n3krfR",
         "button_DzHyFt"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_start-return_image_desktop.png",
         "style_image": "1",
@@ -256,6 +316,7 @@
   "order": [
     "top_heading_tKKKwG",
     "top_heading_BDrBax",
+    "hero_image_TtzCwX",
     "image_with_text_YqjwK6",
     "top_heading_T7fTar",
     "top_heading_awb8K4",
