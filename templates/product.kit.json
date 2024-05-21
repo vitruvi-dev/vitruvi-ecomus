@@ -164,8 +164,8 @@
           "settings": {
             "icon_svg": "leaf",
             "custom_svg": "",
-            "icon_width": 30,
-            "icon_width_mb": 30,
+            "icon_width": 60,
+            "icon_width_mb": 60,
             "link": "",
             "open_link": false,
             "title": "Only 100% pure essential oils",
@@ -178,8 +178,8 @@
           "settings": {
             "icon_svg": "skin",
             "custom_svg": "",
-            "icon_width": 30,
-            "icon_width_mb": 30,
+            "icon_width": 60,
+            "icon_width_mb": 60,
             "link": "",
             "open_link": false,
             "title": "Free from Synthetic fragrance",
@@ -192,8 +192,8 @@
           "settings": {
             "icon_svg": "health",
             "custom_svg": "",
-            "icon_width": 30,
-            "icon_width_mb": 30,
+            "icon_width": 60,
+            "icon_width_mb": 60,
             "link": "",
             "open_link": false,
             "title": "Vegan and cruelty-free",
