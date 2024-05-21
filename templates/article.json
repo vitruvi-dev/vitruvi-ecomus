@@ -71,7 +71,7 @@
           "type": "article_related",
           "settings": {
             "top_heading": "Related Articles",
-            "heading_tag": "h2",
+            "heading_tag": "h5",
             "margin-heading_bottom": 50,
             "limit": 8,
             "col_dk": "4",
