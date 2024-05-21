@@ -6,7 +6,7 @@
         "heading_k4Ud7d": {
           "type": "heading",
           "settings": {
-            "heading": "RETURNS AND EXCHANGES",
+            "heading": "{{ page.title }}",
             "heading_fs": "h3"
           }
         }
