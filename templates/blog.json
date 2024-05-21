@@ -117,7 +117,7 @@
         "sidebar_drawer": true,
         "sidebar_position": "left",
         "sidebar_size": "medium",
-        "heading_tag": "h5",
+        "heading_tag": "h2",
         "space": 50,
         "padding_top": 36,
         "padding_bottom": 74,

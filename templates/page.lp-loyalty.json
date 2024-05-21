@@ -572,7 +572,7 @@
             "sub_heading_space": 15,
             "heading_first": true,
             "heading": "Club Status",
-            "heading_fs": "h4",
+            "heading_fs": "h2",
             "heading_fw": "normal",
             "heading_space": 15,
             "btn_label": "Join the club",
