@@ -219,7 +219,7 @@
         "sec_heading_spacing": 30,
         "icon_pos_center": true,
         "icon_pos_center_mb": true,
-        "icon_circle": true,
+        "icon_circle": false,
         "space_icon_heading": "small",
         "size_heading": "small",
         "heading_uppercase": false,
