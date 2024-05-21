@@ -1,24 +1,27 @@
 {
   "sections": {
-    "heading": {
-      "type": "main-heading",
+    "top_heading_V3Jczp": {
+      "type": "top-heading",
       "blocks": {
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
-          "type": "1",
+        "heading_R6Hxtb": {
+          "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h3"
+            "heading": "GET TO KNOW OUR NATURAL AIR FRESHENER SPRAYS",
+            "heading_fs": "h4"
           }
         }
       },
       "block_order": [
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
+        "heading_R6Hxtb"
       ],
       "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
         "color_scheme": "",
-        "spacing_hd": 0,
-        "padding_top": 80,
-        "padding_bottom": 86,
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -32,101 +35,55 @@
         "padding_rate": 75
       }
     },
-    "video_with_text_y7KVVH": {
-      "type": "video-with-text",
-      "blocks": {
-        "item_content_cGFaiF": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Unscrew cap of 4EVERBTL™ and fill with water. Screw cap back on."
-          }
-        },
-        "item_content_KjJRzg": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Peel-off one blister individual seal and place tablet in the palm of your hand."
-          }
-        },
-        "item_content_VEacct": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Add 3-8 drops of water and mix until tablet is fully dissolved."
-          }
-        },
-        "item_content_8hJyf4": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Apply on clean skin like any liquid serum!"
-          }
-        }
-      },
-      "block_order": [
-        "item_content_cGFaiF",
-        "item_content_KjJRzg",
-        "item_content_VEacct",
-        "item_content_8hJyf4"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Clean Your Cloud Humidifier",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>How To<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_cleaning_video.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "right",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
     "accordion_3g99rm": {
       "type": "accordion",
       "blocks": {
         "title_mJyEFM": {
           "type": "title",
           "settings": {
-            "title": "Discovery all new items"
+            "title": "FREQUENTLY ASKED QUESTIONS"
           }
         },
         "accordion_item_3nQz4H": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Where do your natural air freshener sprays ship?",
+            "content": "Our natural air freshener sprays can only be delivered via ground shipping, which means we’re only able to ship these orders within Canada and the United States (some exceptions do apply; see below). We do not offer expedited shipping for orders containing natural air freshener sprays.\n\nWe’re unable to ship natural air freshener sprays to Hawaii, Alaska, Puerto Rico, Nunavut, Northwest Territories, and air stage offices."
           }
         },
         "accordion_item_gqEC3D": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How are your natural air freshener sprays different from others?",
+            "content": "Made with 100% pure essential oils, these sprays are the first in their category to offer the ease of a fine-mist experience without the harmful ingredients found in traditional home scenting products. Ours are free from volatile organic compounds (VOCs), synthetic fragrances, sulfates, parabens, phthalates, formaldehydes, and harmful propellants."
           }
         },
         "accordion_item_XTRVaA": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Are natural air freshener sprays safe for pregnancy and children?",
+            "content": "Yes. That being said, we always recommend consulting your doctor before bringing any new scents around your little one."
           }
         },
         "accordion_item_EUicMV": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Are natural air freshener sprays safe for pets?",
+            "content": "Yes. That being said, we encourage you to consult with your veterinarian before introducing any new scents to your pet. We don’t recommend leaving your pet unsupervised within reach of any scents, including natural air freshener sprays."
+          }
+        },
+        "accordion_item_jWWDAC": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Are your natural air freshener sprays harmful to the environment?",
+            "content": "Our natural air freshener sprays do not have volatile organic compounds (VOCs), which are a major contributor to a negative environmental impact. Our canisters are also 100% recyclable; we encourage you to responsibly recycle them when they’re done using them."
+          }
+        },
+        "accordion_item_QVrxe9": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What are VOCs and why are they bad for the environment?",
+            "content": "Volatile organic compounds (VOCs) are gasses that are created from certain processes and products, and are emitted into the air both inside and outside our homes. In terms of household products, they are found in everything from paint and varnishes to aerosols and deodorants. Concentrations of VOCs are often higher indoors, which is why these are a common group of compounds to look out for in your products.\n\nWhen exposed to high levels of VOCs, some of the short-term health effects can include headaches, eye and throat irritation, nausea, and dizziness; long-term effects can include central nervous system damage and cancer."
           }
         }
       },
@@ -135,7 +92,9 @@
         "accordion_item_3nQz4H",
         "accordion_item_gqEC3D",
         "accordion_item_XTRVaA",
-        "accordion_item_EUicMV"
+        "accordion_item_EUicMV",
+        "accordion_item_jWWDAC",
+        "accordion_item_QVrxe9"
       ],
       "settings": {
         "accordion_position": "start",
@@ -151,9 +110,8 @@
     }
   },
   "order": [
-    "heading",
+    "top_heading_V3Jczp",
     "main",
-    "video_with_text_y7KVVH",
     "accordion_3g99rm"
   ]
 }
