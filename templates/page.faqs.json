@@ -111,7 +111,7 @@
         "auto_play": 4,
         "pause_hover": true,
         "image_position": false,
-        "image_position_mb": false,
+        "image_position_mb": true,
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
