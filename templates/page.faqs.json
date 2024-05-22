@@ -63,6 +63,32 @@
             "alignment_mb": "center"
           }
         },
+        "slide_item_PafBxd": {
+          "type": "slide_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_return-step_2_image.png",
+            "url": "shopify:\/\/pages\/returns-and-exchanges",
+            "banner_target": false,
+            "color_scheme": "scheme-5",
+            "heading": "Returns & Exchanges",
+            "heading_fs": "h5",
+            "heading_fw": "normal",
+            "sub_heading": "Have a question? Check out our FAQs below or send us an email.",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "VIEW NOW",
+            "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "content_position": "center",
+            "alignment": "center",
+            "content_position_mb": "start-center",
+            "alignment_mb": "center"
+          }
+        },
         "slide_item_dEiAg3": {
           "type": "slide_item",
           "settings": {
@@ -92,6 +118,7 @@
       },
       "block_order": [
         "slide_item_7e6EDD",
+        "slide_item_PafBxd",
         "slide_item_dEiAg3"
       ],
       "custom_css": [
