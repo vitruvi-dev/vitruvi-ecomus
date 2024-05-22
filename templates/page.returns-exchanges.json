@@ -57,7 +57,7 @@
           "type": "heading",
           "settings": {
             "heading": "Making a Return",
-            "heading_fs": "h3",
+            "heading_fs": "h5",
             "heading_fw": "normal"
           }
         },
