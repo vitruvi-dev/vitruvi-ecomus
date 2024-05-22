@@ -34,6 +34,116 @@
         "padding_rate": 75
       }
     },
+    "top_heading_nBGwNX": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_KgqG7L": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Get to Know Our Products",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_Tf6BbD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Product Quick Start Guides",
+            "heading_fs": "h5"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_KgqG7L",
+        "heading_Tf6BbD"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "categories_section_NRfp3T": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_B6TeVF": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/pdp_cloud-humidifier_oat-gallery_8_v2_image_54966693-f243-4762-bc6e-c77d003e9bbd.jpg",
+            "title": "Cloud Humidifier",
+            "collection_link": "shopify:\/\/pages\/get-to-know-the-cloud-humidifier"
+          }
+        },
+        "collection_item_8jBfNx": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": ""
+          }
+        },
+        "collection_item_MmqWxE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": ""
+          }
+        },
+        "collection_item_MeqH4q": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": ""
+          }
+        },
+        "collection_item_wBNHVA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": ""
+          }
+        },
+        "collection_item_WMDCXc": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": ""
+          }
+        },
+        "view_all_Vqf37p": {
+          "type": "view_all",
+          "settings": {
+            "title": "Discovery all new items",
+            "item_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_B6TeVF",
+        "collection_item_8jBfNx",
+        "collection_item_MmqWxE",
+        "collection_item_MeqH4q",
+        "collection_item_wBNHVA",
+        "collection_item_WMDCXc",
+        "view_all_Vqf37p"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "normal",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "slideshow_split_YHyNcx": {
       "type": "slideshow-split",
       "blocks": {
@@ -485,6 +595,8 @@
   },
   "order": [
     "top_heading_pRXtHe",
+    "top_heading_nBGwNX",
+    "categories_section_NRfp3T",
     "slideshow_split_YHyNcx",
     "image_with_text_pk7epc",
     "image_with_text_B8qTXX",
