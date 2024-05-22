@@ -3,6 +3,13 @@
     "top_heading_TkKzrj": {
       "type": "top-heading",
       "blocks": {
+        "sub_heading_XxdtMW": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "QUICK START GUIDE",
+            "sub_heading_fs": "base"
+          }
+        },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
@@ -12,10 +19,11 @@
         }
       },
       "block_order": [
+        "sub_heading_XxdtMW",
         "heading_bkRD7y"
       ],
       "settings": {
-        "spacing_item": 30,
+        "spacing_item": 15,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
