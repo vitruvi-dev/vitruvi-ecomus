@@ -59,7 +59,7 @@
             "btn_icon": "none",
             "content_position": "center",
             "alignment": "center",
-            "content_position_mb": "center",
+            "content_position_mb": "start-center",
             "alignment_mb": "center"
           }
         },
@@ -69,7 +69,7 @@
             "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
             "url": "",
             "banner_target": false,
-            "color_scheme": "scheme-4",
+            "color_scheme": "scheme-5",
             "heading": "Contact Us",
             "heading_fs": "h5",
             "heading_fw": "normal",
