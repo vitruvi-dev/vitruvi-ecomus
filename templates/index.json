@@ -50,7 +50,7 @@
         "content_position_mb": "center",
         "alignment_mb": "center",
         "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_bottom": 60,
         "padding_rate": 75
       }
     },
@@ -111,7 +111,7 @@
         "dot_align": "center",
         "dot_space": 57,
         "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_bottom": 60,
         "padding_rate": 75
       }
     },
@@ -179,9 +179,9 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 8,
+        "products_count": 4,
         "col_dk": "4",
-        "col_tb": "4",
+        "col_tb": "3",
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
@@ -192,9 +192,9 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-1",
-        "padding_top": 76,
+        "padding_top": 10,
         "padding_bottom": 76,
-        "padding_rate": 50
+        "padding_rate": 76
       }
     },
     "testimonials_2_DtFpRW": {
