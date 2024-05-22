@@ -126,10 +126,9 @@
         },
         "view_all_Vqf37p": {
           "type": "view_all",
-          "disabled": true,
           "settings": {
-            "title": "Discovery all new items",
-            "item_link": ""
+            "title": "Returns & Exchanges",
+            "item_link": "shopify:\/\/pages\/returns-and-exchanges"
           }
         }
       },
