@@ -125,9 +125,9 @@
         ".hdt-container-full {max-width: 70%;}"
       ],
       "settings": {
-        "image_height": "adapt_image",
+        "image_height": "adapt_image_first",
         "fixed_height": 400,
-        "image_height_mb": "fixed",
+        "image_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
         "color_scheme": "scheme-1",
         "loop": true,
