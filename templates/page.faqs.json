@@ -33,84 +33,116 @@
         "padding_rate": 75
       }
     },
-    "banner_KgcA6N": {
+    "top_heading_XrPFRm": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_cRwxGn": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Quick Links",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_cRwxGn"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "banner_wjBqdi": {
       "type": "banner",
       "blocks": {
-        "banner_2_Nd43RU": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
-            "color_scheme": "scheme-1",
-            "banner_url": "shopify:\/\/pages\/get-to-know-our-products",
-            "banner_target": false,
-            "heading": "Get to Know Our Products",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "Discover our premium product selection.",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "LEARN MORE",
-            "btn_link": "shopify:\/\/pages\/get-to-know-our-products",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_2_ERLadJ": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_return-step_2_image.png",
-            "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/pages\/returns-and-exchanges",
-            "banner_target": false,
-            "heading": "Returns & Exchanges",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "Every piece is made to last beyond the season",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "VIEW NOW",
-            "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_6nbWDc": {
+        "banner_3_C9fmWi": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
-            "color_scheme": "scheme-5",
+            "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
-            "sub_heading": "",
+            "sub_heading": "UP TO 30% OFF",
             "sub_heading_fs": "base",
             "sub_heading_fw": "bold",
             "sub_heading_space": 12,
-            "heading": "Contact Us",
+            "heading": "Summer Style Guide",
             "heading_fs": "h4",
             "heading_fw": "normal",
             "heading_space": 18,
-            "desc": "Have a question? Check out our FAQs below or send us an email",
+            "desc": "Discover the season's hottest trends and elevate",
             "des_space": 28,
-            "btn_label": "CONTACT US",
-            "btn_link": "shopify:\/\/pages\/contact-us",
+            "btn_label": "Shop now",
+            "btn_link": "",
             "target": false,
-            "btn_size": "sm",
-            "btn_style": "link",
+            "btn_size": "base",
+            "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "none",
-            "content_position": "end-center",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_M3Y4bn": {
+          "type": "banner_3",
+          "settings": {
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "UP TO 30% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Summer Style Guide",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "Discover the season's hottest trends and elevate",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_nh4i8t": {
+          "type": "banner_3",
+          "settings": {
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "UP TO 30% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Summer Style Guide",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "Discover the season's hottest trends and elevate",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
             "alignment": "center",
             "content_position_mb": "center",
             "alignment_mb": "center"
@@ -118,9 +150,47 @@
         }
       },
       "block_order": [
-        "banner_2_Nd43RU",
-        "banner_2_ERLadJ",
-        "banner_3_6nbWDc"
+        "banner_3_C9fmWi",
+        "banner_3_M3Y4bn",
+        "banner_3_nh4i8t"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 500,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "2",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "banner_KgcA6N": {
+      "type": "banner",
+      "blocks": {
+        "banner_4_R9634V": {
+          "type": "banner_4",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "Contact Us",
+            "sub_heading": "Have a question? Check out our FAQs below or send us an email",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_4_R9634V"
       ],
       "custom_css": [
         "img.hdt-object-pos-mb {opacity: 0.7;}"
@@ -131,11 +201,11 @@
         "col_dk": "3",
         "row_height": 500,
         "content_pd_y": 15,
-        "content_pd_x": 15,
+        "content_pd_x": 100,
         "space_item": 30,
         "col_tb": "3",
         "row_height_tb": 500,
-        "space_item_tb": 15,
+        "space_item_tb": 30,
         "row_height_mb": 250,
         "space_item_mb": 15,
         "padding_top": 40,
@@ -524,6 +594,8 @@
   },
   "order": [
     "top_heading_pRXtHe",
+    "top_heading_XrPFRm",
+    "banner_wjBqdi",
     "banner_KgcA6N",
     "image_with_text_pk7epc",
     "image_with_text_B8qTXX",
