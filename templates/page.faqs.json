@@ -124,7 +124,7 @@
       "custom_css": [
         ".hdt-container-full {max-width: 90%;}",
         "@media (min-width: 767px) {.hdt-container-full {max-width: 70%; }}",
-        ".hdt-slider-dots {align-items: center;}"
+        ".hdt-slider__dots {justify-content: center; padding-inline-start: 0px;}"
       ],
       "settings": {
         "image_height": "adapt_image_first",
