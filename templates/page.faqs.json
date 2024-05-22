@@ -122,8 +122,8 @@
         "slide_item_dEiAg3"
       ],
       "custom_css": [
-        "@media (min-width: 767px) {.hdt-container-full {max-width: 50%; }}",
-        ".hdt-container-full {max-width: 90%;}"
+        ".hdt-container-full {max-width: 90%;}",
+        "@media (min-width: 767px) {.hdt-container-full {max-width: 70%; }}"
       ],
       "settings": {
         "image_height": "adapt_image_first",
