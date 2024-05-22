@@ -144,6 +144,40 @@
         "padding_rate": 75
       }
     },
+    "top_heading_rVwG6A": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_7nMrY4": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_dqWtb9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_fs": "h5"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_7nMrY4",
+        "heading_dqWtb9"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "slideshow_split_YHyNcx": {
       "type": "slideshow-split",
       "blocks": {
@@ -231,6 +265,7 @@
         "slide_item_PafBxd",
         "slide_item_dEiAg3"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-container-full {max-width: 90%;}",
         "@media (min-width: 767px) {.hdt-container-full {max-width: 70%; }}",
@@ -597,6 +632,7 @@
     "top_heading_pRXtHe",
     "top_heading_nBGwNX",
     "categories_section_NRfp3T",
+    "top_heading_rVwG6A",
     "slideshow_split_YHyNcx",
     "image_with_text_pk7epc",
     "image_with_text_B8qTXX",
