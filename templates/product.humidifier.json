@@ -122,6 +122,12 @@
               "humidifier-sensor-hygrometer"
             ]
           }
+        },
+        "complimentary_products_gGypyc": {
+          "type": "complimentary_products",
+          "settings": {
+            "text": "Pairs well with"
+          }
         }
       },
       "block_order": [
@@ -136,7 +142,8 @@
         "order_jbW4Fg",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "description_Fh49zX",
-        "bundle_product_F3hwaK"
+        "bundle_product_F3hwaK",
+        "complimentary_products_gGypyc"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
