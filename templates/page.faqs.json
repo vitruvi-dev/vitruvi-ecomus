@@ -247,7 +247,7 @@
             "btn_label": "CONTACT US",
             "btn_link": "shopify:\/\/pages\/contact-us",
             "target": false,
-            "btn_size": "base",
+            "btn_size": "sm",
             "btn_style": "solid",
             "btn_fw": "normal",
             "btn_icon": "none",
