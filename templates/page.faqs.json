@@ -28,50 +28,60 @@
     "banner_KgcA6N": {
       "type": "banner",
       "blocks": {
-        "banner_4_LQV3fp": {
-          "type": "banner_4",
+        "banner_2_Nd43RU": {
+          "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_return-step_2_image.png",
+            "image": "shopify:\/\/shop_images\/page_faq_products.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "shopify:\/\/pages\/returns-and-exchanges",
             "banner_target": false,
-            "heading": "Returns & Exchanges",
-            "sub_heading": "Everything you need to know about our returns and exchanges policy.",
+            "heading": "Get to Know Our Products",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "Every piece is made to last beyond the season",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "VIEW NOW",
+            "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none",
             "alignment": "center",
             "alignment_mb": "center"
           }
         },
-        "banner_4_QrzAnF": {
-          "type": "banner_4",
+        "banner_2_ERLadJ": {
+          "type": "banner_2",
           "settings": {
             "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_return-step_2_image.png",
-            "color_scheme": "scheme-3",
+            "color_scheme": "",
             "banner_url": "shopify:\/\/pages\/returns-and-exchanges",
             "banner_target": false,
             "heading": "Returns & Exchanges",
-            "sub_heading": "Everything you need to know about our returns and exchanges policy.",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_4_xUtVQE": {
-          "type": "banner_4",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_return-step_2_image.png",
-            "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/pages\/returns-and-exchanges",
-            "banner_target": false,
-            "heading": "Returns & Exchanges",
-            "sub_heading": "Everything you need to know about our returns and exchanges policy.",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "Every piece is made to last beyond the season",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "VIEW NOW",
+            "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none",
             "alignment": "center",
             "alignment_mb": "center"
           }
         }
       },
       "block_order": [
-        "banner_4_LQV3fp",
-        "banner_4_QrzAnF",
-        "banner_4_xUtVQE"
+        "banner_2_Nd43RU",
+        "banner_2_ERLadJ"
       ],
       "settings": {
         "full_width": false,
