@@ -623,6 +623,56 @@
         "padding_bottom": 30,
         "padding_rate": 75
       }
+    },
+    "banner_masonry_ac3K8q": {
+      "type": "banner-masonry",
+      "blocks": {
+        "banner_3_dY6p3K": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Have a different question? Send us an email.",
+            "heading_fs": "h5",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "CONTACT US",
+            "btn_link": "shopify:\/\/pages\/contact-us",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "12",
+            "row_count": 2,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_dY6p3K"
+      ],
+      "settings": {
+        "row_height": 200,
+        "row_height_mb": 150,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -637,6 +687,7 @@
     "accordion_inline_TYMAQf",
     "accordion_inline_edHGqX",
     "accordion_inline_Jd9yFm",
-    "accordion_inline_QVAxmp"
+    "accordion_inline_QVAxmp",
+    "banner_masonry_ac3K8q"
   ]
 }
