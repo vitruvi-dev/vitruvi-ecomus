@@ -36,31 +36,6 @@
     "banner_KgcA6N": {
       "type": "banner",
       "blocks": {
-        "banner_2_gXCt8g": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/pages\/contact-us",
-            "banner_target": false,
-            "heading": "Contact Us",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "Have a question? Check out our FAQs below or send us an email",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "VIEW NOW",
-            "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
-        },
         "banner_2_Nd43RU": {
           "type": "banner_2",
           "settings": {
@@ -110,12 +85,37 @@
             "alignment": "center",
             "alignment_mb": "center"
           }
+        },
+        "banner_2_gXCt8g": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify:\/\/pages\/contact-us",
+            "banner_target": false,
+            "heading": "Contact Us",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "Have a question? Check out our FAQs below or send us an email",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "VIEW NOW",
+            "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
-        "banner_2_gXCt8g",
         "banner_2_Nd43RU",
-        "banner_2_ERLadJ"
+        "banner_2_ERLadJ",
+        "banner_2_gXCt8g"
       ],
       "settings": {
         "full_width": false,
