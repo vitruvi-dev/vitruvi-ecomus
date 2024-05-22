@@ -41,7 +41,7 @@
           "type": "slide_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
-            "url": "",
+            "url": "shopify:\/\/pages\/get-to-know-our-products",
             "banner_target": false,
             "color_scheme": "scheme-5",
             "heading": "Get to Know Our Products",
@@ -93,7 +93,7 @@
           "type": "slide_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
-            "url": "",
+            "url": "shopify:\/\/pages\/contact-us",
             "banner_target": false,
             "color_scheme": "scheme-5",
             "heading": "Contact Us",
@@ -124,8 +124,7 @@
       "custom_css": [
         ".hdt-container-full {max-width: 90%;}",
         "@media (min-width: 767px) {.hdt-container-full {max-width: 70%; }}",
-        ".hdt-slider__dots {justify-content: center; padding-inline-start: 0px;}",
-        ".hdt-slider__container {padding-bottom: 20px;}"
+        ".hdt-slider__dots {justify-content: center; padding-inline-start: 0px;}"
       ],
       "settings": {
         "image_height": "adapt_image_first",
@@ -136,7 +135,7 @@
         "loop": true,
         "navUI": false,
         "dotUI": true,
-        "dot_style": "default",
+        "dot_style": "dashed",
         "dots_space": "medium",
         "auto_play": 5,
         "pause_hover": true,
