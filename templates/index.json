@@ -344,14 +344,14 @@
       "settings": {
         "heading_align": "center",
         "sec_heading": "Explore",
-        "heading_tag": "h3",
-        "heading_size": "h5",
+        "heading_tag": "h2",
+        "heading_size": "h4",
         "sec_subheading": "<p>All-natural scents and aromas that transport you<\/p>",
         "subheading_size": "hdt-text-base",
         "heading_reverse": false,
         "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 33,
+        "heading_gap": 12,
+        "sec_heading_spacing": 50,
         "collection_list": [
 
         ],
@@ -377,8 +377,8 @@
         "boxed_fullwidth": true,
         "boxed_content": false,
         "color_scheme": "scheme-1",
-        "padding_top": 56,
-        "padding_bottom": 100,
+        "padding_top": 75,
+        "padding_bottom": 90,
         "padding_rate": 60
       }
     },
