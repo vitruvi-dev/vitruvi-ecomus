@@ -122,13 +122,13 @@
         "slide_item_dEiAg3"
       ],
       "custom_css": [
-        ".hdt-container-full {max-width: 90%;}"
+        ".hdt-container-full {max-width: 70%;}"
       ],
       "settings": {
-        "image_height": "fixed",
-        "fixed_height": 300,
+        "image_height": "adapt_image",
+        "fixed_height": 400,
         "image_height_mb": "fixed",
-        "fixed_height_mb": 200,
+        "fixed_height_mb": 300,
         "color_scheme": "scheme-1",
         "loop": true,
         "navUI": false,
