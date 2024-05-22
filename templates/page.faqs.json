@@ -3,15 +3,23 @@
     "top_heading_pRXtHe": {
       "type": "top-heading",
       "blocks": {
+        "sub_heading_W7FiLe": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Frequently Asked Questions",
+            "sub_heading_fs": "base"
+          }
+        },
         "heading_hnYmHE": {
           "type": "heading",
           "settings": {
-            "heading": "WE'RE HERE TO HELP",
+            "heading": "We're Here to Help",
             "heading_fs": "h3"
           }
         }
       },
       "block_order": [
+        "sub_heading_W7FiLe",
         "heading_hnYmHE"
       ],
       "settings": {
