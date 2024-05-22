@@ -3,24 +3,24 @@
     "top_heading_pRXtHe": {
       "type": "top-heading",
       "blocks": {
-        "sub_heading_W7FiLe": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Frequently Asked Questions",
-            "sub_heading_fs": "base"
-          }
-        },
         "heading_hnYmHE": {
           "type": "heading",
           "settings": {
-            "heading": "We're Here to Help",
+            "heading": "Frequently Asked Questions",
             "heading_fs": "h3"
+          }
+        },
+        "sub_heading_W7FiLe": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "We're Here to Help",
+            "sub_heading_fs": "lg"
           }
         }
       },
       "block_order": [
-        "sub_heading_W7FiLe",
-        "heading_hnYmHE"
+        "heading_hnYmHE",
+        "sub_heading_W7FiLe"
       ],
       "settings": {
         "spacing_item": 30,
