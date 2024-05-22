@@ -3,15 +3,23 @@
     "top_heading_TkKzrj": {
       "type": "top-heading",
       "blocks": {
+        "sub_heading_p9QqrG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "QUICK START GUIDE",
+            "sub_heading_fs": "lg"
+          }
+        },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
-            "heading": "GET TO KNOW THE  CLOUD HUMIDIFIER",
+            "heading": "Get to Know the Move Diffuser",
             "heading_fs": "h3"
           }
         }
       },
       "block_order": [
+        "sub_heading_p9QqrG",
         "heading_bkRD7y"
       ],
       "settings": {
@@ -38,8 +46,8 @@
         "heading_hzy9jk": {
           "type": "heading",
           "settings": {
-            "heading": "MOVE DIFFUSER",
-            "heading_fs": "h3"
+            "heading": "Move Diffuser",
+            "heading_fs": "h4"
           }
         }
       },
@@ -85,8 +93,8 @@
         "heading_LNx49V": {
           "type": "heading",
           "settings": {
-            "heading": "MOVE DIFFUSER",
-            "heading_fs": "h3"
+            "heading": "Move Diffuser",
+            "heading_fs": "h4"
           }
         }
       },
@@ -119,90 +127,16 @@
         "padding_rate": 75
       }
     },
-    "accordion_jUzj9J": {
-      "type": "accordion",
-      "blocks": {
-        "title_XrDgbn": {
-          "type": "title",
-          "settings": {
-            "title": "FREQUENTLY ASKED QUESTIONS"
-          }
-        },
-        "accordion_item_9fAdcU": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How often should I clean my humidifier?",
-            "content": "We highly suggest cleaning your humidifier at least once a week. When it’s not in use, empty any remaining water and then dry the water bucket and base thoroughly with a towel.\n\nImproper and infrequent cleaning will lead to bacteria and mold buildup within your humidifier."
-          }
-        },
-        "accordion_item_j4Bm9T": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is it important to know my home air humidity level?",
-            "content": "It is important to check your home’s air humidity level prior to using a humidifier. We recommend using a humidity sensor to measure your relative humidity (RH); the optimal range for the average home is between 40% to 60%. If your home’s relative humidity is 60% or higher, we don’t recommend using a humidifier. Too much humidity can cause damage, such as mold growth, to your home."
-          }
-        },
-        "accordion_item_r9agBQ": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Can I add essential oils to the Cloud Humidifier?",
-            "content": "We do not recommend adding essential oils to your humidifier. If you’re looking to scent your home, we suggest taking a look at our essential oil diffusers here."
-          }
-        },
-        "accordion_item_hw6wtG": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How often should I replace my humidifier filter?",
-            "content": "We recommend replacing your filter every 3 months. You can purchase more filters here."
-          }
-        },
-        "accordion_item_66KyLm": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "What type of water should I use in my humidifier?",
-            "content": "You can use tap, filtered or distilled water in your humidifier. That said, if you live in an area with hard water, we highly recommend using distilled water, which has all mineral contents removed. While filtered or tap water contains minerals that may affect the quality of the mist and result in faster mineral buildup."
-          }
-        },
-        "accordion_item_dnXKxw": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is there water in the base of my Cloud Humidifier?",
-            "content": "This is completely normal. In order for the humidifier to create mist, water has to flow into the base. Once the water bucket is inserted into the base, the water locks will release and the water will flow out. Please note that water must flow through the base from the bucket—do not pour water directly into the base or leakage will occur"
-          }
-        },
-        "accordion_item_dThqRA": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Is there a warranty on my Cloud Humidifier?",
-            "content": "Yes. All humidifiers come with a lifetime warranty. If you’re experiencing issues or have any further questions, reach out to us at hello@vitruvi.com."
-          }
-        }
-      },
-      "block_order": [
-        "title_XrDgbn",
-        "accordion_item_9fAdcU",
-        "accordion_item_j4Bm9T",
-        "accordion_item_r9agBQ",
-        "accordion_item_hw6wtG",
-        "accordion_item_66KyLm",
-        "accordion_item_dnXKxw",
-        "accordion_item_dThqRA"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
-        "enable_link_list": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
     "image_with_text_XfPHGe": {
       "type": "image-with-text",
       "blocks": {
+        "sub_heading_rXzn9y": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CLEANING YOUR",
+            "sub_fs": "lg"
+          }
+        },
         "heading_aAAgtb": {
           "type": "heading",
           "settings": {
@@ -218,6 +152,7 @@
         }
       },
       "block_order": [
+        "sub_heading_rXzn9y",
         "heading_aAAgtb",
         "text_Rx8qYQ"
       ],
@@ -389,7 +324,6 @@
     "top_heading_TkKzrj",
     "video_width_text2_LDcnfz",
     "video_width_text2_YKGQqD",
-    "accordion_jUzj9J",
     "image_with_text_XfPHGe",
     "accordion_V3FMja",
     "accordion_KWjBMV"
