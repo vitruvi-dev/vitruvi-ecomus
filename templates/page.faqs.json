@@ -83,9 +83,9 @@
             "btn_style": "link",
             "btn_fw": "normal",
             "btn_icon": "none",
-            "content_position": "center",
+            "content_position": "start-center",
             "alignment": "center",
-            "content_position_mb": "center",
+            "content_position_mb": "start-center",
             "alignment_mb": "center"
           }
         }
