@@ -227,47 +227,6 @@
         "padding_rate": 75
       }
     },
-    "banner_KgcA6N": {
-      "type": "banner",
-      "blocks": {
-        "banner_4_P7ma8N": {
-          "type": "banner_4",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
-            "color_scheme": "scheme-4",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "Contact Us",
-            "sub_heading": "Have a question? Check out our FAQs below or send us an email.",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "banner_4_P7ma8N"
-      ],
-      "custom_css": [
-        ".hdt-heading {padding-bottom: 15px;}"
-      ],
-      "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "col_dk": "3",
-        "row_height": 500,
-        "content_pd_y": 15,
-        "content_pd_x": 100,
-        "space_item": 30,
-        "col_tb": "3",
-        "row_height_tb": 500,
-        "space_item_tb": 30,
-        "row_height_mb": 250,
-        "space_item_mb": 15,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "image_with_text_pk7epc": {
       "type": "image-with-text",
       "blocks": {
@@ -651,7 +610,6 @@
     "top_heading_pRXtHe",
     "banner_wjBqdi",
     "store_tabs_aznLYc",
-    "banner_KgcA6N",
     "image_with_text_pk7epc",
     "image_with_text_B8qTXX",
     "image_with_text_erGWYw",
