@@ -230,11 +230,53 @@
     "banner_KgcA6N": {
       "type": "banner",
       "blocks": {
+        "banner_4_P7ma8N": {
+          "type": "banner_4",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "Summer Style Guide",
+            "sub_heading": "UP TO 30% OFF",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_1_GLUmL7": {
+          "type": "banner_1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Every piece is made to last beyond the season",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "sub_heading_space": 15,
+            "heading_first": false,
+            "heading": "UV charger",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
         "banner_2_gb9pzY": {
           "type": "banner_2",
           "settings": {
             "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-1",
             "banner_url": "shopify:\/\/pages\/contact-us",
             "banner_target": false,
             "heading": "Contact Us",
@@ -255,75 +297,32 @@
             "alignment_mb": "center"
           }
         },
-        "banner_1_Pwez3j": {
-          "type": "banner_1",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/pages\/contact-us",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "sub_heading_space": 15,
-            "heading_first": true,
-            "heading": "Have a question? Check out our FAQs below or send us an email.",
-            "heading_fs": "h5",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "btn_label": "CONTACT US",
-            "btn_link": "shopify:\/\/pages\/contact-us",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "content_position": "end-center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_4_4qdVRa": {
-          "type": "banner_4",
+        "banner_2_79mNzj": {
+          "type": "banner_2",
           "settings": {
             "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/pages\/get-to-know-our-products",
-            "banner_target": false,
-            "heading": "Get to Know Our Products",
-            "sub_heading": "<br>\n<u>LEARN MORE<\/u>",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_4_R9634V": {
-          "type": "banner_4",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "Have a question? Check out our FAQs below or send us an email.",
-            "sub_heading": "<br>\n<u>CONTACT US<\/u>",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_4_jfab9J": {
-          "type": "banner_4",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
+            "banner_url": "shopify:\/\/pages\/contact-us",
             "banner_target": false,
             "heading": "Contact Us",
-            "sub_heading": "Have a question? Check out our FAQs below or send us an email",
+            "heading_fs": "h3",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "Discover our premium product selection.",
+            "sub_heading_fs": "h5",
+            "sub_heading_fw": "normal",
+            "btn_label": "CONTACT US",
+            "btn_link": "shopify:\/\/pages\/contact-us",
+            "target": false,
+            "btn_size": "sm",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
             "alignment": "center",
             "alignment_mb": "center"
           }
         },
-        "banner_3_9hGRUK": {
+        "banner_3_RrzWjy": {
           "type": "banner_3",
           "settings": {
             "color_scheme": "",
@@ -354,15 +353,14 @@
         }
       },
       "block_order": [
+        "banner_4_P7ma8N",
+        "banner_1_GLUmL7",
         "banner_2_gb9pzY",
-        "banner_1_Pwez3j",
-        "banner_4_4qdVRa",
-        "banner_4_R9634V",
-        "banner_4_jfab9J",
-        "banner_3_9hGRUK"
+        "banner_2_79mNzj",
+        "banner_3_RrzWjy"
       ],
       "custom_css": [
-        "img {opacity: 0.85;}"
+
       ],
       "settings": {
         "full_width": false,
