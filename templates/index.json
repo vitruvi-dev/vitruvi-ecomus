@@ -466,10 +466,10 @@
         "heading_tag": "h3",
         "heading_size": "h5",
         "sec_subheading": "<p>14,000+ 5 Star Reviews<\/p>",
-        "subheading_size": "10xl",
+        "subheading_size": "2xl",
         "heading_reverse": false,
-        "heading_gap": 10,
-        "sec_heading_spacing": 30,
+        "heading_gap": 14,
+        "sec_heading_spacing": 70,
         "content_align": "center",
         "navUI": true,
         "nav_des": "outline",
@@ -477,7 +477,7 @@
         "dis_dot": 30,
         "color_scheme": "scheme-4",
         "section_fullwidth": false,
-        "padding_top": 50,
+        "padding_top": 60,
         "padding_bottom": 30,
         "padding_rate": 75
       }
