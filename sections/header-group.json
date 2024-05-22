@@ -15,6 +15,9 @@
       "block_order": [
         "announcement_RzCepp"
       ],
+      "custom_css": [
+        "p.hdt-announcement-bar__text {font-size: 85%;}"
+      ],
       "settings": {
         "design": "slider",
         "color_scheme": "scheme-3",
