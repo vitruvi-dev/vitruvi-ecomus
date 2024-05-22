@@ -115,6 +115,15 @@
             "collection_link": "shopify:\/\/pages\/get-to-know-our-essential-oils"
           }
         },
+        "collection_item_4WeQDG": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/pdp_natural-air-freshener-spray_warm-linen_gallery-single-cannister_3_image_e8bf97b8-1cc2-413e-9f1a-5352e1673757.jpg",
+            "title": "Air Freshener Sprays",
+            "collection_link": "shopify:\/\/pages\/get-to-know-our-air-freshener-sprays"
+          }
+        },
         "collection_item_WMDCXc": {
           "type": "collection_item",
           "settings": {
@@ -138,6 +147,7 @@
         "collection_item_MmqWxE",
         "collection_item_MeqH4q",
         "collection_item_wBNHVA",
+        "collection_item_4WeQDG",
         "collection_item_WMDCXc",
         "view_all_Vqf37p"
       ],
