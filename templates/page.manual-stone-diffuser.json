@@ -122,10 +122,17 @@
     "image_with_text_MreEGt": {
       "type": "image-with-text",
       "blocks": {
+        "sub_heading_na3Xay": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CLEANING YOUR",
+            "sub_fs": "lg"
+          }
+        },
         "heading_Khfajq": {
           "type": "heading",
           "settings": {
-            "heading": "Cleaning Your Stone Diffuser Interior",
+            "heading": "Stone Diffuser Interior",
             "heading_fs": "h4"
           }
         },
@@ -137,6 +144,7 @@
         }
       },
       "block_order": [
+        "sub_heading_na3Xay",
         "heading_Khfajq",
         "text_pkNiRG"
       ],
@@ -146,7 +154,7 @@
         "image_effect": "lunc",
         "color_scheme": "",
         "image_last": true,
-        "content_position": "center",
+        "content_position": "center-start",
         "alignment": "left",
         "content_pl": 0,
         "image_last_mb": true,
@@ -160,10 +168,17 @@
     "image_with_text_tbWHUW": {
       "type": "image-with-text",
       "blocks": {
+        "sub_heading_KPqA9T": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CLEANING YOUR",
+            "sub_fs": "lg"
+          }
+        },
         "heading_Cc8jU3": {
           "type": "heading",
           "settings": {
-            "heading": "Cleaning Your Stone Diffuser Cover",
+            "heading": "Stone Diffuser Cover",
             "heading_fs": "h4"
           }
         },
@@ -175,6 +190,7 @@
         }
       },
       "block_order": [
+        "sub_heading_KPqA9T",
         "heading_Cc8jU3",
         "text_AnHbHp"
       ],
@@ -184,7 +200,7 @@
         "image_effect": "lunc",
         "color_scheme": "",
         "image_last": true,
-        "content_position": "center",
+        "content_position": "center-start",
         "alignment": "left",
         "content_pl": 0,
         "image_last_mb": true,
