@@ -34,91 +34,56 @@
         "padding_rate": 75
       }
     },
-    "banner_wjBqdi": {
-      "type": "banner",
+    "slideshow_split_YHyNcx": {
+      "type": "slideshow-split",
       "blocks": {
-        "banner_3_C9fmWi": {
-          "type": "banner_3",
+        "slide_item_7e6EDD": {
+          "type": "slide_item",
           "settings": {
-            "color_scheme": "",
-            "banner_url": "",
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
+            "url": "",
             "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
+            "color_scheme": "scheme-1",
+            "heading": "Get to Know Our Products",
+            "heading_fs": "h5",
             "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
+            "sub_heading": "Discover our premium product selection.",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "LEARN MORE",
+            "btn_link": "shopify:\/\/pages\/get-to-know-our-products",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
+            "btn_icon": "none",
+            "content_position": "center",
             "alignment": "center",
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
         },
-        "banner_3_M3Y4bn": {
-          "type": "banner_3",
+        "slide_item_dEiAg3": {
+          "type": "slide_item",
           "settings": {
-            "color_scheme": "",
-            "banner_url": "",
+            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
+            "url": "",
             "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
+            "color_scheme": "scheme-1",
+            "heading": "Contact Us",
+            "heading_fs": "h5",
             "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
+            "sub_heading": "Have a question? Check out our FAQs below or send us an email.",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "CONTACT US",
+            "btn_link": "shopify:\/\/pages\/contact-us",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_nh4i8t": {
-          "type": "banner_3",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
+            "btn_icon": "none",
+            "content_position": "center",
             "alignment": "center",
             "content_position_mb": "center",
             "alignment_mb": "center"
@@ -126,24 +91,28 @@
         }
       },
       "block_order": [
-        "banner_3_C9fmWi",
-        "banner_3_M3Y4bn",
-        "banner_3_nh4i8t"
+        "slide_item_7e6EDD",
+        "slide_item_dEiAg3"
+      ],
+      "custom_css": [
+        ".hdt-container-full {max-width: 80%;}"
       ],
       "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "col_dk": "3",
-        "row_height": 500,
-        "content_pd_y": 15,
-        "content_pd_x": 15,
-        "space_item": 30,
-        "col_tb": "2",
-        "row_height_tb": 500,
-        "space_item_tb": 15,
-        "row_height_mb": 250,
-        "space_item_mb": 15,
-        "padding_top": 0,
+        "image_height": "fixed",
+        "fixed_height": 300,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "color_scheme": "",
+        "loop": false,
+        "navUI": false,
+        "dotUI": true,
+        "dot_style": "dashed",
+        "dots_space": "small",
+        "auto_play": 4,
+        "pause_hover": true,
+        "image_position": false,
+        "image_position_mb": false,
+        "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
       }
@@ -182,6 +151,7 @@
         "text_fLbycD",
         "button_aVtqNk"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
         "style_image": "1",
@@ -233,6 +203,7 @@
         "text_dkzYxW",
         "button_PY8Ayg"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_return-step_2_image.png",
         "style_image": "1",
@@ -284,6 +255,7 @@
         "text_7BMcMw",
         "button_J9GmGy"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
         "style_image": "1",
@@ -761,115 +733,11 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
-    },
-    "slideshow_split_YHyNcx": {
-      "type": "slideshow-split",
-      "blocks": {
-        "slide_item_7e6EDD": {
-          "type": "slide_item",
-          "settings": {
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-1",
-            "heading": "Multi-faceted Beauty",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "slide_item_KX6fqD": {
-          "type": "slide_item",
-          "settings": {
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "heading": "Multi-faceted Beauty",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "slide_item_7agg4r": {
-          "type": "slide_item",
-          "settings": {
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "heading": "Multi-faceted Beauty",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "sub_heading": "From casual to formal, we've got you covered",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_item_7e6EDD",
-        "slide_item_KX6fqD",
-        "slide_item_7agg4r"
-      ],
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "color_scheme": "",
-        "loop": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dots_space": "small",
-        "auto_play": 0,
-        "pause_hover": false,
-        "image_position": false,
-        "image_position_mb": false,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "top_heading_pRXtHe",
-    "banner_wjBqdi",
+    "slideshow_split_YHyNcx",
     "image_with_text_pk7epc",
     "image_with_text_B8qTXX",
     "image_with_text_erGWYw",
@@ -881,7 +749,6 @@
     "featured_collection_carousel_cepc3Y",
     "categories_section_3xDcXf",
     "collections_list_hNy4NC",
-    "collections_list_tabs_LYyCph",
-    "slideshow_split_YHyNcx"
+    "collections_list_tabs_LYyCph"
   ]
 }
