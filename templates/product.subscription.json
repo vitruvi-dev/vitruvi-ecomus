@@ -319,7 +319,7 @@
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
-            "sub_heading_fs": "h6",
+            "sub_heading_fs": "h5",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
             "heading": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
