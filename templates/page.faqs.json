@@ -101,8 +101,9 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "title": "Collection name",
-            "collection_link": ""
+            "image": "shopify:\/\/shop_images\/pdp_stay-diffuser_white_gallery_5_v3_image.jpg",
+            "title": "Stay Diffuser",
+            "collection_link": "shopify:\/\/pages\/get-to-know-the-stay-diffuser"
           }
         },
         "collection_item_wBNHVA": {
@@ -123,6 +124,7 @@
         },
         "view_all_Vqf37p": {
           "type": "view_all",
+          "disabled": true,
           "settings": {
             "title": "Discovery all new items",
             "item_link": ""
