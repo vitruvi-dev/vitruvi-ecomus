@@ -39,8 +39,8 @@
         "banner_2_Nd43RU": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_faq_products.jpg",
-            "color_scheme": "scheme-1",
+            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
+            "color_scheme": "scheme-3",
             "banner_url": "shopify:\/\/pages\/get-to-know-our-products",
             "banner_target": false,
             "heading": "Get to Know Our Products",
@@ -54,7 +54,7 @@
             "btn_link": "shopify:\/\/pages\/get-to-know-our-products",
             "target": false,
             "btn_size": "base",
-            "btn_style": "link",
+            "btn_style": "solid",
             "btn_fw": "normal",
             "btn_icon": "none",
             "alignment": "center",
@@ -65,7 +65,7 @@
           "type": "banner_2",
           "settings": {
             "image": "shopify:\/\/shop_images\/page_returns-and-exchanges_return-step_2_image.png",
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "banner_url": "shopify:\/\/pages\/returns-and-exchanges",
             "banner_target": false,
             "heading": "Returns & Exchanges",
@@ -79,7 +79,32 @@
             "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
             "target": false,
             "btn_size": "base",
-            "btn_style": "link",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_2_gXCt8g": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify:\/\/pages\/contact-us",
+            "banner_target": false,
+            "heading": "Contact Us",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "Have a question? Check out our FAQs below or send us an email",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "VIEW NOW",
+            "btn_link": "shopify:\/\/pages\/returns-and-exchanges",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
             "btn_fw": "normal",
             "btn_icon": "none",
             "alignment": "center",
@@ -89,7 +114,8 @@
       },
       "block_order": [
         "banner_2_Nd43RU",
-        "banner_2_ERLadJ"
+        "banner_2_ERLadJ",
+        "banner_2_gXCt8g"
       ],
       "settings": {
         "full_width": false,
@@ -143,7 +169,6 @@
         "text_fLbycD",
         "button_aVtqNk"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
         "style_image": "1",
@@ -247,7 +272,6 @@
         "text_7BMcMw",
         "button_J9GmGy"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/page_faq_contact_us.jpg",
         "style_image": "1",
