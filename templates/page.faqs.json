@@ -100,10 +100,10 @@
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
+        "image_height_mb": "full",
+        "fixed_height_mb": 160,
         "color_scheme": "",
-        "loop": false,
+        "loop": true,
         "navUI": false,
         "dotUI": true,
         "dot_style": "dashed",
