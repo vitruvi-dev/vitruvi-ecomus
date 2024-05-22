@@ -165,8 +165,8 @@
         "sec_subheading": "<p>Premium, natural air care products that elevate your home.<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 63,
+        "heading_gap": 12,
+        "sec_heading_spacing": 100,
         "collection": "",
         "product_list": [
           "cloud-humidifier",
