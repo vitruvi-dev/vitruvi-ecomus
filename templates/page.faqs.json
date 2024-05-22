@@ -603,21 +603,13 @@
             "title": "Can I redeem by Take Care Club points on discounted and sale items?",
             "content": "Yes! To redeem your points, sign into your Take Care Club account through the rewards panel on the bottom left corner of your screen. Select “Ways To Redeem” to view all of your available rewards. To use your points, click “Redeem”."
           }
-        },
-        "accordion_item_7DQRXn": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Promotions",
-            "content": ""
-          }
         }
       },
       "block_order": [
         "accordion_item_nzJ4yd",
         "accordion_item_atPg3C",
         "accordion_item_A7qqR3",
-        "accordion_item_BgkagJ",
-        "accordion_item_7DQRXn"
+        "accordion_item_BgkagJ"
       ],
       "settings": {
         "top_heading": "PROMOTIONS + SALES",
