@@ -83,16 +83,18 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "title": "Collection name",
-            "collection_link": ""
+            "image": "shopify:\/\/shop_images\/pdp_stone-diffuser_white_gallery_6_v3_image.jpg",
+            "title": "Stone Diffuser",
+            "collection_link": "shopify:\/\/pages\/get-to-know-the-stone-diffuser"
           }
         },
         "collection_item_MmqWxE": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "title": "Collection name",
-            "collection_link": ""
+            "image": "shopify:\/\/shop_images\/pdp_move-diffuser_white_gallery_5_v2_image_778d27e5-509b-4abb-bbd2-b49f7c25f85d.jpg",
+            "title": "Move Diffuser",
+            "collection_link": "shopify:\/\/pages\/get-to-know-the-move-diffuser"
           }
         },
         "collection_item_MeqH4q": {
