@@ -115,7 +115,6 @@
         },
         "bundle_product_F3hwaK": {
           "type": "bundle_product",
-          "disabled": true,
           "settings": {
             "bundle_prs_inner": true,
             "product_list": [
