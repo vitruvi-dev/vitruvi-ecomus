@@ -130,10 +130,17 @@
     "image_with_text_MreEGt": {
       "type": "image-with-text",
       "blocks": {
+        "sub_heading_GYhzjt": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CLEANING YOUR",
+            "sub_fs": "lg"
+          }
+        },
         "heading_Khfajq": {
           "type": "heading",
           "settings": {
-            "heading": "Cleaning Your Stone Diffuser Interior",
+            "heading": "Stay Diffuser Interior",
             "heading_fs": "h3"
           }
         },
@@ -145,21 +152,22 @@
         }
       },
       "block_order": [
+        "sub_heading_GYhzjt",
         "heading_Khfajq",
         "text_pkNiRG"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pdp_stay-diffuser_white_gallery_4_v3_image_47909335-f8ea-4764-9d67-22c172237f52.png",
         "style_image": "1",
-        "image_effect": "lunc",
+        "image_effect": "zoom-in",
         "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
+        "image_last": true,
+        "content_position": "center-start",
         "alignment": "left",
         "content_pl": 0,
-        "image_last_mb": false,
+        "image_last_mb": true,
         "content_position_mb": "center",
-        "alignment_mb": "center",
+        "alignment_mb": "left",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
@@ -168,10 +176,17 @@
     "image_with_text_tbWHUW": {
       "type": "image-with-text",
       "blocks": {
+        "sub_heading_8NpeXL": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CLEANING YOUR",
+            "sub_fs": "base"
+          }
+        },
         "heading_Cc8jU3": {
           "type": "heading",
           "settings": {
-            "heading": "Cleaning Your Stay Diffuser Cover",
+            "heading": "Stay Diffuser Cover",
             "heading_fs": "h3"
           }
         },
@@ -183,20 +198,21 @@
         }
       },
       "block_order": [
+        "sub_heading_8NpeXL",
         "heading_Cc8jU3",
         "text_AnHbHp"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pdp_stay-diffuser_white_gallery_1_v3_image_a34f0d52-5a07-4097-a918-559b18fb2e4b.png",
         "style_image": "1",
-        "image_effect": "lunc",
+        "image_effect": "zoom-in",
         "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
+        "image_last": true,
+        "content_position": "center-start",
         "alignment": "left",
         "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
+        "image_last_mb": true,
+        "content_position_mb": "center-start",
         "alignment_mb": "left",
         "padding_top": 40,
         "padding_bottom": 40,
