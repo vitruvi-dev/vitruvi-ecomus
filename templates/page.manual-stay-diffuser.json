@@ -3,19 +3,27 @@
     "top_heading_TkKzrj": {
       "type": "top-heading",
       "blocks": {
+        "sub_heading_3nQNg9": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "QUICK START GUIDE",
+            "sub_heading_fs": "base"
+          }
+        },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
-            "heading": "GET TO KNOW THE STAY DIFFUSER",
+            "heading": "Get to Know the Stay Diffuser",
             "heading_fs": "h3"
           }
         }
       },
       "block_order": [
+        "sub_heading_3nQNg9",
         "heading_bkRD7y"
       ],
       "settings": {
-        "spacing_item": 30,
+        "spacing_item": 15,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
