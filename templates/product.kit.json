@@ -164,6 +164,7 @@
           "settings": {
             "icon_svg": "leaf",
             "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Oil_Drop.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
@@ -178,6 +179,7 @@
           "settings": {
             "icon_svg": "skin",
             "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Vial.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
@@ -192,6 +194,7 @@
           "settings": {
             "icon_svg": "health",
             "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Heart.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
