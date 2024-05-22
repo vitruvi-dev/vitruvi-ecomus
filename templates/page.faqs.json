@@ -83,7 +83,7 @@
             "btn_style": "link",
             "btn_fw": "normal",
             "btn_icon": "none",
-            "content_position": "start-center",
+            "content_position": "center",
             "alignment": "center",
             "content_position_mb": "start-center",
             "alignment_mb": "center"
@@ -95,7 +95,7 @@
         "slide_item_dEiAg3"
       ],
       "custom_css": [
-        ".hdt-container-full {max-width: 80%;}"
+        ".hdt-container-full {max-width: 90%;}"
       ],
       "settings": {
         "image_height": "fixed",
