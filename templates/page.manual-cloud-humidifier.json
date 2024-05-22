@@ -3,6 +3,13 @@
     "top_heading_TkKzrj": {
       "type": "top-heading",
       "blocks": {
+        "sub_heading_Xqk6Fe": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "QUICK START GUIDE",
+            "sub_heading_fs": "base"
+          }
+        },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
@@ -12,6 +19,7 @@
         }
       },
       "block_order": [
+        "sub_heading_Xqk6Fe",
         "heading_bkRD7y"
       ],
       "settings": {
