@@ -248,7 +248,7 @@
         "banner_4_P7ma8N"
       ],
       "custom_css": [
-
+        ".hdt-heading {padding-bottom: 15px;}"
       ],
       "settings": {
         "full_width": false,
