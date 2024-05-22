@@ -134,7 +134,7 @@
         "loop": true,
         "navUI": false,
         "dotUI": true,
-        "dot_style": "dashed",
+        "dot_style": "default",
         "dots_space": "medium",
         "auto_play": 5,
         "pause_hover": true,
