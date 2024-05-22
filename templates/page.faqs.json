@@ -164,7 +164,7 @@
           "type": "heading",
           "settings": {
             "heading": "Frequently Asked Questions",
-            "heading_fs": "h5"
+            "heading_fs": "h4"
           }
         }
       },
