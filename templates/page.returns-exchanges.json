@@ -176,7 +176,7 @@
           "type": "heading",
           "settings": {
             "heading": "Price Adjustments",
-            "heading_fs": "h5"
+            "heading_fs": "base"
           }
         },
         "sub_heading_CFLx7y": {
@@ -209,7 +209,7 @@
           "type": "heading",
           "settings": {
             "heading": "Warranty",
-            "heading_fs": "h5"
+            "heading_fs": "base"
           }
         },
         "sub_heading_4XM3dg": {
