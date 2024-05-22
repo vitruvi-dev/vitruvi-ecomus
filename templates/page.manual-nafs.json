@@ -3,35 +3,33 @@
     "top_heading_V3Jczp": {
       "type": "top-heading",
       "blocks": {
+        "sub_heading_RRzFHN": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "QUICK START GUIDE",
+            "sub_heading_fs": "base"
+          }
+        },
         "heading_R6Hxtb": {
           "type": "heading",
           "settings": {
-            "heading": "GET TO KNOW OUR NATURAL AIR FRESHENER SPRAYS",
+            "heading": "Get to Know Our Natural Air Freshener Sprays",
             "heading_fs": "h3"
           }
         }
       },
       "block_order": [
+        "sub_heading_RRzFHN",
         "heading_R6Hxtb"
       ],
       "settings": {
-        "spacing_item": 30,
+        "spacing_item": 15,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
@@ -111,7 +109,6 @@
   },
   "order": [
     "top_heading_V3Jczp",
-    "main",
     "accordion_3g99rm"
   ]
 }
