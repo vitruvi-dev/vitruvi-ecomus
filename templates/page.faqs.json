@@ -100,8 +100,8 @@
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
-        "image_height_mb": "full",
-        "fixed_height_mb": 160,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 200,
         "color_scheme": "",
         "loop": true,
         "navUI": false,
