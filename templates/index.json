@@ -181,7 +181,7 @@
         "pr_border": "none",
         "products_count": 4,
         "col_dk": "4",
-        "col_tb": "3",
+        "col_tb": "4",
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
@@ -192,7 +192,7 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-1",
-        "padding_top": 10,
+        "padding_top": 76,
         "padding_bottom": 76,
         "padding_rate": 76
       }
