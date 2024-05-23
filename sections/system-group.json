@@ -56,11 +56,7 @@
         "show_shipping_estimator": false,
         "heading": "Customers also bought",
         "product_list": [
-          "dusk-essential-oil-blend",
-          "boost-essential-oil-blend",
-          "essential-oil-kit",
-          "humidifier-sensor-hygrometer",
-          "humidifier-filters"
+
         ],
         "replaces_products_selected": true
       }
@@ -260,6 +256,7 @@
       "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
+        "after": "scroll",
         "time_delay": 3,
         "scroll_delay": 600,
         "day_next": 7
