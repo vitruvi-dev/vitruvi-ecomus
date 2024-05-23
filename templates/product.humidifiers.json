@@ -56,6 +56,7 @@
         },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 20,
             "show_inventory_quantity": false,
