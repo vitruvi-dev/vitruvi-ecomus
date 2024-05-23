@@ -102,8 +102,8 @@
       "settings": {
         "top_heading": "FREQUENTLY ASKED QUESTIONS",
         "heading_tag": "h3",
-        "heading_size": "h4",
-        "accordion_icon": "1",
+        "heading_size": "h5",
+        "accordion_icon": "2",
         "open_first": false,
         "section_fullwidth": false,
         "color_scheme": "",
