@@ -54,15 +54,6 @@
             "size_chart_page": "size-chart"
           }
         },
-        "inventory_ftnW9y": {
-          "type": "inventory",
-          "settings": {
-            "inventory_threshold": 20,
-            "show_inventory_quantity": false,
-            "show_progress_bar": false,
-            "progress_bar_max": 50
-          }
-        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -71,6 +62,15 @@
             "show_price_variant": false,
             "show_wishlist": false,
             "show_compare": false
+          }
+        },
+        "inventory_ftnW9y": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_quantity": false,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
           }
         },
         "order_jbW4Fg": {
@@ -120,8 +120,8 @@
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
-        "inventory_ftnW9y",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "inventory_ftnW9y",
         "order_jbW4Fg",
         "countdown_timer_pLgxfe",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
