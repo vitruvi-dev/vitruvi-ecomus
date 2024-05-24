@@ -27,16 +27,64 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 15,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_pcbzgU": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_ahC43H": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sleep Essentials",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_4FCzXF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Set the stage for your best night's rest.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ahC43H",
+        "text_4FCzXF"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 300,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/pdp_stone-diffuser-sleep-bundle_feature_image-1.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -67,6 +115,45 @@
         "padding_rate": 75,
         "sidebar_position": "left",
         "sidebar_size": "medium"
+      }
+    },
+    "featured_collection_grid_j8DcaG": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Bundle & Save",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Sleep Essentials Bundled for Your Relaxation<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "sleep-bundles",
+        "product_list": [
+
+        ],
+        "product_des": "4",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
       }
     },
     "accordion_inline_tzAiHJ": {
@@ -185,7 +272,9 @@
   },
   "order": [
     "heading",
+    "hero_image_pcbzgU",
     "main",
+    "featured_collection_grid_j8DcaG",
     "accordion_inline_tzAiHJ",
     "collections_list_rcbPdc"
   ]
