@@ -50,7 +50,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "show_free_shipping_bar": true,
+        "show_free_shipping_bar": false,
         "show_cart_note": false,
         "show_gift_wrap": false,
         "show_shipping_estimator": false,
@@ -58,7 +58,7 @@
         "product_list": [
 
         ],
-        "replaces_products_selected": true
+        "replaces_products_selected": false
       }
     },
     "toolbar-mobile": {
