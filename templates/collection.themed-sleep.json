@@ -111,11 +111,82 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
+    },
+    "collections_list_rcbPdc": {
+      "type": "collections-list",
+      "blocks": {
+        "collection_item_K4HUcL": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/L1056712_1050x774_4b4e6a33-9cdd-4663-81c0-e9cfe6ca1e3b.webp",
+            "title": "The Best Essential Oils for Sleep",
+            "collection_link": "shopify:\/\/blogs\/health-and-wellness\/the-best-essential-oils-for-sleep"
+          }
+        },
+        "collection_item_dYzPHV": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Vitruvi_StudioSantiago.webp",
+            "title": "Transform Your Bedroom Into a Sleep Oasis",
+            "collection_link": "shopify:\/\/blogs\/spaces\/transform-your-bedroom-into-a-sleep-oasis"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_K4HUcL",
+        "collection_item_dYzPHV"
+      ],
+      "custom_css": [
+        ".hdt-collection-count {display: none;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Natural Habitat",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>RELATED STORIES FROM<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": [
+
+        ],
+        "collection_des": "4",
+        "content_size": "4xl",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "2",
+        "col_tb": "2",
+        "col_mb": "2",
+        "space_items": "x",
+        "half_item": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "dots_pos": "default",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "boxed_content": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "accordion_inline_tzAiHJ"
+    "accordion_inline_tzAiHJ",
+    "collections_list_rcbPdc"
   ]
 }
