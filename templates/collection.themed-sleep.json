@@ -43,7 +43,7 @@
           "type": "heading",
           "settings": {
             "heading": "Sleep Essentials",
-            "heading_fs": "h3",
+            "heading_fs": "h2",
             "heading_fw": "normal"
           }
         },
@@ -64,11 +64,11 @@
         "fixed_height": 300,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/pdp_stone-diffuser-sleep-bundle_feature_image-1.jpg",
+        "image": "shopify:\/\/shop_images\/pdp_humidifier-sleep-bundle_feature_image.jpg",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
-        "use_overlay": false,
+        "use_overlay": true,
         "use_bg_content": false,
         "content_position": "center",
         "content_align": "center",
