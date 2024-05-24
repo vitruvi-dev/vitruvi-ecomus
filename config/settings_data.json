@@ -70,7 +70,7 @@
     "color_maximum": 5,
     "remove_collection_url": true,
     "hidden_badges": false,
-    "action_after_atc": "no",
+    "action_after_atc": "open_cart_drawer",
     "empty_cart_link": "shopify:\/\/collections\/shop-all",
     "free_ship_pr": "free-shipping",
     "gift_wrap_pr": "gift-wrap",
