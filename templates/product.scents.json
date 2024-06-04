@@ -354,6 +354,9 @@
       "block_order": [
         "slide_label_A93gJr"
       ],
+      "custom_css": [
+        "img {display: none;}"
+      ],
       "settings": {
         "full_width": false,
         "item_round": "rounded",
