@@ -320,7 +320,7 @@
             "image": "{{ product.metafields.ecomus.feature_1_media.value }}",
             "url": "",
             "banner_target": false,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-4",
             "sub_heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
             "sub_heading_fs": "h5",
             "sub_heading_fw": "normal",
@@ -355,7 +355,7 @@
         "slide_label_A93gJr"
       ],
       "custom_css": [
-
+        "img {opacity: 80%;}"
       ],
       "settings": {
         "full_width": false,
