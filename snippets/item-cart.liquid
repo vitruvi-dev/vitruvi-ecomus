@@ -57,7 +57,7 @@
     {%- if item.selling_plan_allocation != null %}<p class="hdt-product-option">{{ item.selling_plan_allocation.selling_plan.name }}</p>{% endif -%}
     <div class="hdt-mini-cart__btns hdt-flex hdt-align-center hdt-justify-between">
       <div class="hdt-flex hdt-align-center">
-        <hdt-quantity-wrapp class="hdt-mini-cart__quantity hdt-inline-block" form="{{ form_id }}">
+        <hdt-quantity-wrapp class="hdt-mini-cart__quantity hdt-inline-block" form="id:{{ form_id }}">
           <div data-quantity-wrapper class="hdt-quantity-wrapper hdt-quantity-cart-item hdt-text-center hdt-relative">
             <button class="hdt-quantity__button no-js-hidden is--minus hdt-absolute hdt-p-0 hdt-top-0 hdt-left-0 hdt-text-start" name="minus" type="button">
               <span class="sr-only">{{- 'products.product.quantity.decrease' | t: product: item.product.title | escape -}}</span>
@@ -70,7 +70,7 @@
             </button>
           </div>
         </hdt-quantity-wrapp>
-        <a data-index="{{ item.index | plus: 1 }}" href="{{ routes.cart_change_url }}?line={{ item.index | plus: 1 }}&quantity=0" class="hdt-mini-cart__remove hdt-s-text2" is="remove-item-oncart"  form="{{ form_id }}">{{ 'sections.cart.remove' | t }}</a>
+        <a data-index="{{ item.index | plus: 1 }}" href="{{ routes.cart_change_url }}?line={{ item.index | plus: 1 }}&quantity=0" class="hdt-mini-cart__remove hdt-s-text2" is="remove-item-oncart" form="id:{{ form_id }}">{{ 'sections.cart.remove' | t }}</a>
       </div>
       {% comment %} <a data-index="{{ item.index | plus: 1 }}" href="#" class="hdt-mini-cart__edit" is="edit-item-oncart" form="{{ form_id }}">
         <svg viewBox="0 0 14 16" width="14" height="16"><use href="#icon-cart-edit"/></svg>
