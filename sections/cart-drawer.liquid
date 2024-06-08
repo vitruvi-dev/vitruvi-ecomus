@@ -112,8 +112,7 @@
                       </a>
                     {%- endif -%}
                     {%- if block.settings.enable_btn_checkout -%}
-                      {%- assign has_cart_form = true -%}
-                      <form will-change-cart action="{{ routes.cart_url }}" is="hdt-cart-form" id="{{ form_id }}" method="POST" {{ block.shopify_attributes }}>
+                      <form will-change-cart action="{{ routes.cart_url }}" is="hdt-cart-form" id="{{ form_id }}2" method="POST" {{ block.shopify_attributes }}>
                         <input type="hidden" name="attributes[products_items_per_row]" value="">  
                         <button type="submit" data-loading-bar  name="checkout" class="hdt-mini-cart__btn-checkout hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn hdt-oh hdt-btn-{{ block.settings.btn_style_checkout }} hdt-font-{{ block.settings.btn_fw_checkout }}"><span class="hdt-truncate">{{ 'sections.cart.checkout' | t }}</span>
                         {%- if block.settings.btn_icon_checkout == "1" -%}
@@ -224,7 +223,7 @@
         </hdt-cart-openable>
       {%- endif -%}
     {%- endif -%}
-    {%- unless has_cart_form %}<form will-change-cart action="{{ routes.cart_url }}" is="hdt-cart-form" id="{{ form_id }}" method="POST"><input type="hidden" name="attributes[products_items_per_row]" value=""></form>{% endunless -%}
+    <form will-change-cart action="{{ routes.cart_url }}" is="hdt-cart-form" id="{{ form_id }}" method="POST"><input type="hidden" name="attributes[products_items_per_row]" value=""></form>
   </div>
 </hdt-cart-drawer>
 <svg class="hdt-hidden">
