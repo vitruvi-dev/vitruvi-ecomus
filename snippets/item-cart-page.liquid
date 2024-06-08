@@ -55,7 +55,7 @@
         </ul>
       {%- endif -%}
       {%- if item.selling_plan_allocation != null %}<p class="hdt-product-option">{{ item.selling_plan_allocation.selling_plan.name }}</p>{% endif -%}
-      <a data-index="{{ item.index | plus: 1 }}" form="{{ form_id }}" href="{{ routes.cart_change_url }}?line={{ item.index | plus: 1 }}&quantity=0" is="remove-item-oncart" class="hdt-page-cart__remove hdt-inline-block hdt-s-text"><span aria-label="{{ 'sections.cart.remove_title' | t: title: item.title | escape }}">{{ 'sections.cart.remove' | t }}</span></a>
+      <a data-index="{{ item.index | plus: 1 }}" form="id:{{ form_id }}" href="{{ routes.cart_change_url }}?line={{ item.index | plus: 1 }}&quantity=0" is="remove-item-oncart" class="hdt-page-cart__remove hdt-inline-block hdt-s-text"><span aria-label="{{ 'sections.cart.remove_title' | t: title: item.title | escape }}">{{ 'sections.cart.remove' | t }}</span></a>
     </div>
   </div>
 </hdt-line-item>
