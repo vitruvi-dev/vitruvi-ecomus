@@ -466,7 +466,7 @@
       ".yotpo-reviews-wrapper {display: none;}",
       ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}",
       ".appstle-save-badge::before {display: none;}",
-      "span.appstle-save-badge {transform: rotate(0deg) translate(0, 0px); background-color: red;}"
+      "span.appstle-save-badge {transform: rotate(0deg) translate(0, 0px); background-color: #E2EEF6;}"
     ]
   }
 }
