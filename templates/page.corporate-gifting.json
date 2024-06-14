@@ -119,21 +119,6 @@
     "image_with_tabs_content_ymiEjt": {
       "type": "image-with-tabs-content",
       "blocks": {
-        "tab_item_WhMKqU": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Custom Notes",
-            "heading": "Custom Notes",
-            "content_text": "We’ll print cards with your company name and include a personalized message of your choice.",
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        },
         "tab_item_rzWAzt": {
           "type": "tab_item",
           "settings": {
@@ -163,12 +148,27 @@
             "btn_fw": "normal",
             "btn_icon": "none"
           }
+        },
+        "tab_item_WhMKqU": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Custom Notes",
+            "heading": "Custom Notes",
+            "content_text": "We’ll print cards with your company name and include a personalized message of your choice.",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
         }
       },
       "block_order": [
-        "tab_item_WhMKqU",
         "tab_item_rzWAzt",
-        "tab_item_FJ6kKL"
+        "tab_item_FJ6kKL",
+        "tab_item_WhMKqU"
       ],
       "settings": {
         "heading_align": "center",
@@ -206,13 +206,20 @@
         "text_NxK4qp": {
           "type": "text",
           "settings": {
-            "text": "<p>Holidays<\/p><p>Employee recognition<\/p><p>Conferences<\/p><p>Company retreats<\/p><p>Recruitment and onboarding<\/p>"
+            "text": "<ul><li>Holidays<\/li><li>Employee recognition<\/li><li>Conferences<\/li><li>Company retreats<\/li><li>Recruitment and onboarding<\/li><\/ul>"
+          }
+        },
+        "text_9etEtp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Email us at:<br\/><strong>corporategifting@vitruvi.com<\/strong><\/p>"
           }
         }
       },
       "block_order": [
         "heading_ERdN6G",
-        "text_NxK4qp"
+        "text_NxK4qp",
+        "text_9etEtp"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/page_corporate-gifting_Perfect_for_Every_Occassion.jpg",
