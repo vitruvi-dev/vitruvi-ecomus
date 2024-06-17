@@ -464,10 +464,7 @@
   "platform_customizations": {
     "custom_css": [
       ".yotpo-reviews-wrapper {display: none;}",
-      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}",
-      ".appstle_widget_title {display: none;}",
-      ".appstle-save-badge::before {display: none;}",
-      "span.appstle-save-badge {transform: rotate(0deg) translate(0, 0px); background-color: #e2eef6;}"
+      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}"
     ]
   }
 }
