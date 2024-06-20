@@ -301,47 +301,37 @@
         "quote_EDf3LR": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/arch-digest-logo-04_1.png",
+            "image": "shopify:\/\/shop_images\/press-logo_ad_2024-06.png",
             "heading": "",
             "content": "<p>“A perfect addition to your nightstand.”<\/p>",
             "author": "Architectural Digest"
           }
         },
-        "quote_KpANCD": {
-          "type": "quote",
-          "disabled": true,
-          "settings": {
-            "heading": "AS SEE IN",
-            "content": "<p>I am so happy to find a web fashion site that offers a great selection of stylish and affordable plus size clothing.<\/p>",
-            "author": "Author's name"
-          }
-        },
         "quote_BCQy7e": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/removal.ai__839eb00c-a03e-4931-9930-f06e40fb7974-new-york-times-logopng-new-york-times-logo-png-1500_1500.png",
+            "image": "shopify:\/\/shop_images\/press-logo_new-york-times_2024-06.png",
             "heading": "",
             "content": "<p>\"We recommend the Vitruvi Stone Diffuser...the best choice if you want to run it while you’re sleeping\"<\/p>",
             "author": "The Wirecutter | New York Times"
           }
         },
-        "quote_e9fWFr": {
-          "type": "quote",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/removal.ai__e52b6177-79d6-4cc0-a43d-33ee7e67bb90-media-oct20192-1.png",
-            "heading": "",
-            "content": "<p>“The world’s chicest diffuser.”<\/p>",
-            "author": "Who What Wear"
-          }
-        },
         "quote_WyLKV4": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_esquire_black_v5_image.png",
+            "image": "shopify:\/\/shop_images\/press-logo_esquire_2024-06.png",
             "heading": "",
             "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
             "author": "Esquire"
+          }
+        },
+        "quote_ThmjAB": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/press-logo_cnn_2024-06.png",
+            "heading": "",
+            "content": "<p>“One of the most stylish humidifiers we’ve seen.”<\/p>",
+            "author": "CNN"
           }
         },
         "quote_g3TVgk": {
@@ -354,24 +344,24 @@
             "author": "Better Homes & Gardens"
           }
         },
-        "quote_ThmjAB": {
+        "quote_e9fWFr": {
           "type": "quote",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cnn_logo_PNG2_1.png",
+            "image": "shopify:\/\/shop_images\/press-logo_who-what-wear_2024-06.png",
             "heading": "",
-            "content": "<p>“One of the most stylish humidifiers we’ve seen.”<\/p>",
-            "author": "CNN"
+            "content": "<p>“The world’s chicest diffuser.”<\/p>",
+            "author": "Who What Wear"
           }
         }
       },
       "block_order": [
         "quote_EDf3LR",
-        "quote_KpANCD",
         "quote_BCQy7e",
-        "quote_e9fWFr",
         "quote_WyLKV4",
+        "quote_ThmjAB",
         "quote_g3TVgk",
-        "quote_ThmjAB"
+        "quote_e9fWFr"
       ],
       "settings": {
         "heading_align": "center",
@@ -401,7 +391,7 @@
         "slide_label_tVa86N": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_hero_bfcm2022_v2_image_desktop.jpg",
+            "image": "shopify:\/\/shop_images\/home_our-story_2024-06.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
