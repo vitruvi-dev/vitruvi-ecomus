@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "video_GKb7jj": {
@@ -60,8 +69,8 @@
         "742a3693-7d5d-4e92-914c-270e1d777d11": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home-hero_bfcm2023_option2-image_v3_desktop.jpg",
-            "image_mb": "shopify:\/\/shop_images\/page_home-hero_bfcm2023_option2-image_v2_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/home_hero-image_2024-06_desktop.jpg",
+            "image_mb": "shopify:\/\/shop_images\/home_hero-image_2024-06_mobile.jpg",
             "url": "shopify:\/\/collections\/shop-all",
             "banner_target": false,
             "color_scheme": "scheme-1",
