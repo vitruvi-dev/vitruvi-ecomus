@@ -54,7 +54,7 @@
       "page": "Go to page {{ number }}",
       "next": "Next page",
       "previous": "Previous page",
-      "view_all": "View all",
+      "view_all": "VIEW ALL",
       "load_more": "Load more",
       "load_more_articles": "Load more articles",
       "load_more_products": "Load more"
