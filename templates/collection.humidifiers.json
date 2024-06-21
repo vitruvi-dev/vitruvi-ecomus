@@ -122,7 +122,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Diffuser Bundles",
+        "sec_heading": "Humidifier Bundles",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "",
@@ -130,7 +130,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "diffuser-bundles",
+        "collection": "humidifier-bundles",
         "product_list": [
 
         ],
