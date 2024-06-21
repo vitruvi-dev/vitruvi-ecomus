@@ -100,10 +100,10 @@
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "<p>Save on our Best-Selling Diffusers, Humidifiers, and Scents<\/p>",
-        "subheading_size": "lg",
+        "subheading_size": "base",
         "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 24,
+        "heading_gap": 12,
+        "sec_heading_spacing": 100,
         "collection": "best-sellers",
         "product_list": [
 
