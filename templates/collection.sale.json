@@ -45,7 +45,7 @@
         "link_img": "",
         "target": false,
         "image_behavior": "none",
-        "use_overlay": false,
+        "use_overlay": true,
         "use_bg_content": false,
         "content_position": "center",
         "content_align": "center",
