@@ -122,10 +122,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Humidifier Bundles",
+        "sec_heading": "Bundle & Save",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Everything you need to enhance your air.<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
