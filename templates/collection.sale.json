@@ -102,56 +102,22 @@
         "padding_rate": 75
       }
     },
-    "tabs_collections_grid_tRGcNG": {
-      "type": "tabs-collections-grid",
-      "blocks": {
-        "tab_item_jqhRPq": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Best-Sellers",
-            "collection": "best-sellers",
-            "product_list": [
-
-            ]
-          }
-        },
-        "tab_item_8WkDqC": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Tab title",
-            "collection": "",
-            "product_list": [
-
-            ]
-          }
-        },
-        "tab_item_XYkqMn": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Tab title",
-            "collection": "",
-            "product_list": [
-
-            ]
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_jqhRPq",
-        "tab_item_8WkDqC",
-        "tab_item_XYkqMn"
-      ],
+    "featured_collection_grid_HJgnxq": {
+      "type": "featured-collection-grid",
       "settings": {
-        "tabs_heading": "",
+        "heading_align": "center",
+        "sec_heading": "Best-Sellers",
+        "heading_tag": "h3",
         "heading_size": "h4",
-        "heading_inline": false,
-        "tabs_head_spacing": 30,
-        "tabs_des": "underline",
-        "tab_item_size": "lg",
-        "tab_item_weight": "medium",
-        "text_transform": false,
-        "border_width": 2,
-        "spacing_items": 30,
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "essential-oil-diffusers",
+        "product_list": [
+
+        ],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -159,7 +125,7 @@
         "pr_border": "none",
         "products_count": 8,
         "col_dk": "4",
-        "col_tb": "4",
+        "col_tb": "3",
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
@@ -168,9 +134,10 @@
         "btn_style": "solid",
         "btn_fw": "normal",
         "section_fullwidth": false,
+        "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 52,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -275,46 +242,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_HJgnxq": {
-      "type": "featured-collection-grid",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Summer Essentials",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "essential-oil-diffusers",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "main": {
       "type": "main-collection",
       "disabled": true,
@@ -354,10 +281,9 @@
   "order": [
     "heading",
     "categories_section_m638jN",
-    "tabs_collections_grid_tRGcNG",
+    "featured_collection_grid_HJgnxq",
     "hero_image_3w3ny6",
     "banner_product_grid_4tEyHH",
-    "featured_collection_grid_HJgnxq",
     "main"
   ]
 }
