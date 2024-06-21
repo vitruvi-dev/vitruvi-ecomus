@@ -260,8 +260,8 @@
         "tab_item_dMNMwh": {
           "type": "tab_item",
           "settings": {
-            "title": "Humidifiers",
-            "collection": "humidifiers",
+            "title": "Diffuser Blends",
+            "collection": "essential-oil-blends",
             "product_list": [
 
             ]
@@ -298,7 +298,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 8,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
