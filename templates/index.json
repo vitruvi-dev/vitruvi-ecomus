@@ -75,7 +75,7 @@
             "url": "shopify:\/\/collections\/summer-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "Up to 40% off sitewide",
+            "heading": "<p><strong>UP TO<\/strong><\/p><p>40% off<\/p><p>sitewide<\/p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Brighten your summer days ☀️. Shop our seasonal favorites with special discounts just for you.",
@@ -100,7 +100,8 @@
         "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
       "custom_css": [
-        "h2 {font-family: \"Kaftan\";}"
+        "h2 {font-family: \"Kaftan\";}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 50%; font-weight: 300;}"
       ],
       "settings": {
         "full_width": true,
