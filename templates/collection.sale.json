@@ -52,7 +52,7 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 100,
-        "padding_bottom": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -188,8 +188,8 @@
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
+        "padding_top": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -249,8 +249,8 @@
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
+        "padding_top": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
