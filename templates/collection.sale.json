@@ -94,12 +94,13 @@
     },
     "featured_collection_grid_HJgnxq": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Best-Sellers",
+        "heading_align": "start",
+        "sec_heading": "Best-Selling Diffusers",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Save on our Best-Selling Diffusers, Humidifiers, and Scents<\/p>",
+        "sec_subheading": "",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 12,
@@ -131,6 +132,67 @@
         "padding_rate": 75
       }
     },
+    "tabs_collections_grid_q79MGA": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_p7DMf4": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Diffusers",
+            "collection": "essential-oil-diffusers",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_chFyKc": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Diffuser Scents",
+            "collection": "essential-oils-for-diffusers",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_p7DMf4",
+        "tab_item_chFyKc"
+      ],
+      "settings": {
+        "tabs_heading": "Best-Selling Diffusers",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "categories_section_m638jN": {
       "type": "categories-section",
       "blocks": {
@@ -142,10 +204,18 @@
             "collection_link": ""
           }
         },
+        "collection_item_Mn6YDz": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "scent-kits",
+            "title": "Diffuser Scent Kits",
+            "collection_link": ""
+          }
+        },
         "collection_item_VmTbaF": {
           "type": "collection_item",
           "settings": {
-            "collection": "humidifiers",
+            "collection": "essential-oil-blends",
             "title": "",
             "collection_link": ""
           }
@@ -153,7 +223,7 @@
         "collection_item_4mmXaQ": {
           "type": "collection_item",
           "settings": {
-            "collection": "scents",
+            "collection": "essential-oils",
             "title": "",
             "collection_link": ""
           }
@@ -168,6 +238,7 @@
       },
       "block_order": [
         "collection_item_wadPFR",
+        "collection_item_Mn6YDz",
         "collection_item_VmTbaF",
         "collection_item_4mmXaQ",
         "view_all_hUn9QE"
@@ -266,6 +337,7 @@
     "hero_image_3w3ny6",
     "heading",
     "featured_collection_grid_HJgnxq",
+    "tabs_collections_grid_q79MGA",
     "categories_section_m638jN",
     "main",
     "featured_collection_carousel_fRBAkA"
