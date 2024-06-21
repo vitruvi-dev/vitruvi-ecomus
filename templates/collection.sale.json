@@ -567,6 +567,45 @@
         "sidebar_position": "left",
         "sidebar_size": "medium"
       }
+    },
+    "banner_product_grid_DtRQQp": {
+      "type": "banner-product-grid",
+      "blocks": {
+        "text_CWpgMk": {
+          "type": "text",
+          "settings": {
+            "text": "Clearance: 40% Off"
+          }
+        },
+        "heading_BMqtFm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Summer Reading & Accessories"
+          }
+        }
+      },
+      "block_order": [
+        "text_CWpgMk",
+        "heading_BMqtFm"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product_color_scheme": "",
+        "banner_url": "",
+        "banner_target": false,
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -578,6 +617,7 @@
     "tabs_collections_grid_iwng4g",
     "banner_kG9KgW",
     "tabs_collections_grid_UVDK3E",
-    "main"
+    "main",
+    "banner_product_grid_DtRQQp"
   ]
 }
