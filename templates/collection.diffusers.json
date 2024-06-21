@@ -79,105 +79,11 @@
         "sidebar_size": "medium"
       }
     },
-    "featured_product_TPeANi": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_aRiqgJ": {
-          "type": "badges",
-          "settings": {
-            "special": "Best-Seller",
-            "min": 10,
-            "max": 80,
-            "content": "",
-            "icon_svg": "none",
-            "ani": "none"
-          }
-        },
-        "title_QgVx9B": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "price_YEETgP": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_iLiPDY": {
-          "type": "description",
-          "settings": {
-            "des": "2",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "variant_picker_EwRDLX": {
-          "type": "variant_picker",
-          "settings": {
-            "pick_mode": "first_available",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "buy_buttons_jPWY4V": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": false,
-            "show_compare": false
-          }
-        },
-        "view_products_details_iJdKjP": {
-          "type": "view_products_details",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "badges_aRiqgJ",
-        "title_QgVx9B",
-        "price_YEETgP",
-        "description_iLiPDY",
-        "variant_picker_EwRDLX",
-        "buy_buttons_jPWY4V",
-        "view_products_details_iJdKjP"
-      ],
-      "settings": {
-        "product": "stone-essential-oil-diffuser",
-        "media_width": 50,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_grid_yaaUxb": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Best-Selling Diffusers",
+        "sec_heading": "Essential Oil Diffusers",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "",
@@ -216,7 +122,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Best-Selling Diffusers",
+        "sec_heading": "Bundle & Save",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "",
@@ -255,7 +161,6 @@
   "order": [
     "heading",
     "main",
-    "featured_product_TPeANi",
     "featured_collection_grid_yaaUxb",
     "featured_collection_grid_Qak8RN"
   ]
