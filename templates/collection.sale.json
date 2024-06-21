@@ -477,8 +477,18 @@
         "tab_item_VhL7Ut": {
           "type": "tab_item",
           "settings": {
-            "title": "Filters & Accessories",
-            "collection": "essential-oils-for-diffusers",
+            "title": "Essential Oils",
+            "collection": "essential-oils",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_m96mgW": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Air Fresheners",
+            "collection": "natural-air-freshener-sprays",
             "product_list": [
 
             ]
@@ -487,7 +497,8 @@
       },
       "block_order": [
         "tab_item_dMNMwh",
-        "tab_item_VhL7Ut"
+        "tab_item_VhL7Ut",
+        "tab_item_m96mgW"
       ],
       "settings": {
         "tabs_heading": "All-Natural Scents",
