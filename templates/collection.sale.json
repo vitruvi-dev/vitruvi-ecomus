@@ -51,20 +51,20 @@
           "type": "banner_3",
           "settings": {
             "image": "shopify:\/\/shop_images\/collection_summer-sale_header-desktop.png",
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
+            "sub_heading": "",
             "sub_heading_fs": "base",
             "sub_heading_fw": "bold",
             "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
+            "heading": "SUMMER SALE",
             "heading_fs": "h4",
             "heading_fw": "normal",
             "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
+            "desc": "Limited Time: Up to 40% Off Sitewide",
             "des_space": 28,
-            "btn_label": "Shop now",
+            "btn_label": "",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
@@ -80,6 +80,9 @@
       },
       "block_order": [
         "banner_3_a3mdnP"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-family: \"Kaftan\";}"
       ],
       "settings": {
         "full_width": false,
