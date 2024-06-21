@@ -36,6 +36,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -44,15 +45,61 @@
         "padding_rate": 75
       }
     },
+    "hero_image_3w3ny6": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_EWgKGd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Summer Sale",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_c9RHPY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Up to 40% off seasonal favorites ☀️<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_EWgKGd",
+        "text_c9RHPY"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 300,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_desktop.jpg",
+        "image_mb": "shopify:\/\/shop_images\/collection_summer-sale_header-mobile.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_HJgnxq": {
       "type": "featured-collection-grid",
-      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Best-Sellers",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
+        "heading_tag": "h2",
+        "heading_size": "text-lg",
+        "sec_subheading": "<p>Save on our Best-Selling Diffusers, Humidifiers, and Scents<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -123,6 +170,7 @@
         "tab_item_CCapNy",
         "tab_item_D8EL6A"
       ],
+      "disabled": true,
       "settings": {
         "tabs_heading": "",
         "heading_size": "h4",
@@ -214,54 +262,6 @@
         "padding_rate": 75
       }
     },
-    "hero_image_3w3ny6": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_EWgKGd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Summer Sale",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_c9RHPY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Up to 40% off seasonal favorites ☀️<\/p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_EWgKGd",
-        "text_c9RHPY"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 300,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_desktop.jpg",
-        "image_mb": "shopify:\/\/shop_images\/collection_summer-sale_header-mobile.png",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "main": {
       "type": "main-collection",
       "disabled": true,
@@ -300,10 +300,10 @@
   },
   "order": [
     "heading",
+    "hero_image_3w3ny6",
     "featured_collection_grid_HJgnxq",
     "tabs_collections_grid_XmHUAb",
     "categories_section_m638jN",
-    "hero_image_3w3ny6",
     "main"
   ]
 }
