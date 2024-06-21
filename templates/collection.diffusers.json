@@ -47,32 +47,14 @@
     "main": {
       "type": "main-collection",
       "blocks": {
-        "categories_tgicQA": {
-          "type": "categories",
+        "filter_wreQ8q": {
+          "type": "filter",
           "settings": {
-            "widget_heading": "Product categories",
-            "cat_source": "1",
-            "cat_link_list": "",
-            "count": false
-          }
-        },
-        "featured_products_MAxrRM": {
-          "type": "featured_products",
-          "settings": {
-            "widget_heading": "Sale products",
-            "collection": "",
-            "product_list": [
-
-            ],
-            "products_count": 3,
-            "image_ratio": "adapt_image",
-            "image_size": true
           }
         }
       },
       "block_order": [
-        "categories_tgicQA",
-        "featured_products_MAxrRM"
+        "filter_wreQ8q"
       ],
       "custom_css": [
 
