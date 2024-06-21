@@ -42,7 +42,6 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -51,7 +50,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "video": "shopify:\/\/files\/videos\/home_hero-video_2024-06.mp4",
+        "video": "shopify:\/\/files\/videos\/page_home_hero_summersale2024_video_v1_desktop.mp4",
         "external_video_url": "",
         "content_bg": false,
         "color_scheme": "scheme-3",
@@ -99,6 +98,7 @@
       "block_order": [
         "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
