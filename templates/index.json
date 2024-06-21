@@ -42,6 +42,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -73,11 +74,11 @@
             "image_mb": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_mobile.jpg",
             "url": "shopify:\/\/collections\/summer-sale",
             "banner_target": false,
-            "color_scheme": "scheme-1",
-            "heading": "MAKE THE AIR YOURS",
+            "color_scheme": "scheme-3",
+            "heading": "40% OFF SITEWIDE",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents.",
+            "sub_heading": "Brighten your summer days ☀️. Shop our seasonal favorites with special discounts just for you.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "Shop now",
