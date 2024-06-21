@@ -44,6 +44,65 @@
         "padding_rate": 75
       }
     },
+    "categories_section_m638jN": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_wadPFR": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oil-diffusers",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_VmTbaF": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "humidifiers",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_4mmXaQ": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "scents",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "collection_item_Vg9GkQ": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "accessories",
+            "title": "",
+            "collection_link": ""
+          }
+        },
+        "view_all_hUn9QE": {
+          "type": "view_all",
+          "disabled": true,
+          "settings": {
+            "title": "Discovery all new items",
+            "item_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_wadPFR",
+        "collection_item_VmTbaF",
+        "collection_item_4mmXaQ",
+        "collection_item_Vg9GkQ",
+        "view_all_hUn9QE"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "normal",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "tabs_collections_grid_tRGcNG": {
       "type": "tabs-collections-grid",
       "blocks": {
@@ -295,6 +354,7 @@
   },
   "order": [
     "heading",
+    "categories_section_m638jN",
     "tabs_collections_grid_tRGcNG",
     "hero_image_3w3ny6",
     "banner_product_grid_4tEyHH",
