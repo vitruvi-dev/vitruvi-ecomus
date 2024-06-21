@@ -55,10 +55,24 @@
             "cat_link_list": "",
             "count": false
           }
+        },
+        "featured_products_MAxrRM": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Sale products",
+            "collection": "",
+            "product_list": [
+
+            ],
+            "products_count": 3,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
         }
       },
       "block_order": [
-        "categories_tgicQA"
+        "categories_tgicQA",
+        "featured_products_MAxrRM"
       ],
       "custom_css": [
 
@@ -91,52 +105,10 @@
         "sidebar_position": "left",
         "sidebar_size": "medium"
       }
-    },
-    "collections_list_PVKRpk": {
-      "type": "collections-list",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Shop by categories",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": "{{ collection.metafields.ecomus.related_collections.value }}",
-        "collection_des": "4",
-        "content_size": "xl",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "center",
-        "content_padding": 30,
-        "image_ratio": "landscape",
-        "image_size": true,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "space_items": "x",
-        "half_item": false,
-        "navUI": false,
-        "nav_des": "outline",
-        "nav_pos": "ontop_right",
-        "dotUI": true,
-        "dots_pos": "default",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "boxed_content": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "heading",
-    "main",
-    "collections_list_PVKRpk"
+    "main"
   ]
 }
