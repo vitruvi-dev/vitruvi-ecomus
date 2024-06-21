@@ -199,11 +199,11 @@
         "banner_2_wGNqDt": {
           "type": "banner_2",
           "settings": {
-            "image": "{{ product.metafields.ecomus.banner_1_media.value }}",
+            "image": "",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "{{ product.metafields.ecomus.banner_1_heading.value }}",
+            "heading": "",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -224,11 +224,11 @@
         "banner_2_Gd9rXf": {
           "type": "banner_2",
           "settings": {
-            "image": "{{ product.metafields.ecomus.banner_2_media.value }}",
+            "image": "",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "{{ product.metafields.ecomus.banner_2_heading.value }}",
+            "heading": "",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -249,11 +249,11 @@
         "banner_2_gYifcd": {
           "type": "banner_2",
           "settings": {
-            "image": "{{ product.metafields.ecomus.banner_3_media.value }}",
+            "image": "",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "{{ product.metafields.ecomus.banner_3_heading.value }}",
+            "heading": "",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
