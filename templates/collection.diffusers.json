@@ -46,6 +46,7 @@
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -56,8 +57,8 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
+        "col_dk": "2",
+        "col_tb": "2",
         "col_mb": "2",
         "pagination_type": "infinite",
         "paginate_pos": "center",
@@ -80,6 +81,7 @@
     },
     "collections_list_PVKRpk": {
       "type": "collections-list",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Shop by categories",
@@ -100,11 +102,11 @@
         "content_padding": 30,
         "image_ratio": "landscape",
         "image_size": true,
-        "col_dk": "3",
-        "col_tb": "4",
+        "col_dk": "4",
+        "col_tb": "3",
         "col_mb": "2",
         "space_items": "x",
-        "half_item": true,
+        "half_item": false,
         "navUI": false,
         "nav_des": "outline",
         "nav_pos": "ontop_right",
@@ -118,11 +120,94 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "featured_product_zE6pr9": {
+      "type": "featured-product",
+      "blocks": {
+        "title_phcdnL": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_BpJzHF": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_6paRtN": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_p9PY67": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_D66hTN": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        },
+        "variant_picker_DqDdBk": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_phcdnL",
+        "price_BpJzHF",
+        "description_6paRtN",
+        "buy_buttons_p9PY67",
+        "view_products_details_D66hTN",
+        "variant_picker_DqDdBk"
+      ],
+      "settings": {
+        "product": "stone-essential-oil-diffuser",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "collections_list_PVKRpk"
+    "collections_list_PVKRpk",
+    "featured_product_zE6pr9"
   ]
 }
