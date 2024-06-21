@@ -32,6 +32,9 @@
         "heading_EWgKGd",
         "text_c9RHPY"
       ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\"}"
+      ],
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
@@ -570,6 +573,9 @@
     },
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
+      "custom_css": [
+        "h4,h3 {font-family: \"Heldane\";}"
+      ],
       "settings": {
         "heading": "Bundles for Sleep",
         "label": "Set the stage for your best night's rest.",
