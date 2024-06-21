@@ -567,53 +567,6 @@
         "sidebar_position": "left",
         "sidebar_size": "medium"
       }
-    },
-    "discount_collection_FLw4Aw": {
-      "type": "discount-collection",
-      "blocks": {
-        "countdown_QKrmhj": {
-          "type": "countdown",
-          "settings": {
-            "year": 2030,
-            "month": 5,
-            "day": 19,
-            "hour": 12,
-            "minute": 0
-          }
-        }
-      },
-      "block_order": [
-        "countdown_QKrmhj"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Deals Of The Day",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_heading_spacing": 60,
-        "collection": "",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "navUI": false,
-        "nav_des": "default",
-        "nav_pos": "middle_in",
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "box_layout": "1",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -625,7 +578,6 @@
     "tabs_collections_grid_iwng4g",
     "banner_kG9KgW",
     "tabs_collections_grid_UVDK3E",
-    "main",
-    "discount_collection_FLw4Aw"
+    "main"
   ]
 }
