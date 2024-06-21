@@ -77,10 +77,52 @@
         "sidebar_position": "left",
         "sidebar_size": "medium"
       }
+    },
+    "collections_list_FbQRpf": {
+      "type": "collections-list",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Shop by categories",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": "{{ collection.metafields.ecomus.related_collections.value }}",
+        "collection_des": "1",
+        "content_size": "xl",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "1",
+        "space_items": "x",
+        "half_item": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "dots_pos": "default",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "boxed_content": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
-    "main"
+    "main",
+    "collections_list_FbQRpf"
   ]
 }
