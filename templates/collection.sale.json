@@ -33,7 +33,7 @@
         "text_c9RHPY"
       ],
       "custom_css": [
-        "h2 {font-family: \"Kaftan\"}"
+        "h2 {font-family: \"Kaftan\";}"
       ],
       "settings": {
         "image_height": "fixed",
@@ -162,6 +162,9 @@
       "block_order": [
         "tab_item_p7DMf4",
         "tab_item_chFyKc"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "tabs_heading": "Best-Selling Diffusers",
@@ -574,7 +577,7 @@
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
       "custom_css": [
-        "h4,h3 {font-family: \"Heldane\";}"
+        "h4 {font-weight: 200}"
       ],
       "settings": {
         "heading": "Bundles for Sleep",
