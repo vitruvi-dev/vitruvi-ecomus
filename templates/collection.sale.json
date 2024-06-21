@@ -176,7 +176,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 8,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
@@ -199,7 +199,7 @@
         "tab_item_knWkXz": {
           "type": "tab_item",
           "settings": {
-            "title": "Diffusers",
+            "title": "Humidifiers",
             "collection": "humidifiers",
             "product_list": [
 
@@ -209,7 +209,7 @@
         "tab_item_6NBgVj": {
           "type": "tab_item",
           "settings": {
-            "title": "Diffuser Scents",
+            "title": "Filters & Accessories",
             "collection": "essential-oils-for-diffusers",
             "product_list": [
 
@@ -222,7 +222,7 @@
         "tab_item_6NBgVj"
       ],
       "settings": {
-        "tabs_heading": "Best-Selling Diffusers",
+        "tabs_heading": "Award-Winning Humidifiers",
         "heading_size": "h5",
         "heading_inline": true,
         "tabs_head_spacing": 30,
