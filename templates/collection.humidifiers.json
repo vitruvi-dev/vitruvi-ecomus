@@ -83,7 +83,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Essential Oil Diffusers",
+        "sec_heading": "Cloud Humidifier & Accessories",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "",
@@ -91,7 +91,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "essential-oil-diffusers",
+        "collection": "humidifiers",
         "product_list": [
 
         ],
@@ -100,7 +100,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 3,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
