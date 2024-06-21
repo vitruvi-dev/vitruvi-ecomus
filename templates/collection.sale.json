@@ -81,10 +81,9 @@
         },
         "view_all_hUn9QE": {
           "type": "view_all",
-          "disabled": true,
           "settings": {
-            "title": "Discovery all new items",
-            "item_link": ""
+            "title": "Shop All",
+            "item_link": "shopify:\/\/collections\/shop-all"
           }
         }
       },
