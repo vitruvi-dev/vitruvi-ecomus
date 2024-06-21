@@ -46,16 +46,6 @@
     },
     "main": {
       "type": "main-collection",
-      "blocks": {
-        "filter_wreQ8q": {
-          "type": "filter",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "filter_wreQ8q"
-      ],
       "custom_css": [
 
       ],
