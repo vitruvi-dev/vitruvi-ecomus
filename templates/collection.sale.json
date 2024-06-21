@@ -362,35 +362,10 @@
     "banner_kG9KgW": {
       "type": "banner",
       "blocks": {
-        "banner_2_8KTJnH": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "@silchuknest",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        },
         "banner_2_UHXEme": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_5_sahnndra_diffuser-move_white.jpg",
+            "image": "shopify:\/\/shop_images\/ugc_1_sahnndra_cloud-humidifier_oat.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -412,10 +387,35 @@
             "alignment_mb": "left"
           }
         },
+        "banner_2_8KTJnH": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_5_yana.sushchik_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@yana.sushchik",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
         "banner_2_Lqe8wE": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "image": "shopify:\/\/shop_images\/ugc_3_emilytartaglia_cloud-humidifier_dove.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -439,8 +439,8 @@
         }
       },
       "block_order": [
-        "banner_2_8KTJnH",
         "banner_2_UHXEme",
+        "banner_2_8KTJnH",
         "banner_2_Lqe8wE"
       ],
       "settings": {
@@ -456,7 +456,7 @@
         "space_item_tb": 15,
         "row_height_mb": 250,
         "space_item_mb": 15,
-        "padding_top": 60,
+        "padding_top": 80,
         "padding_bottom": 0,
         "padding_rate": 75
       }
