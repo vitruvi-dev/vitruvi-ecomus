@@ -91,7 +91,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "essential-oil-diffusers-test",
+        "collection": "essential-oil-diffusers",
         "product_list": [
 
         ],
@@ -100,7 +100,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 8,
+        "products_count": 4,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
