@@ -98,12 +98,12 @@
         "heading_align": "center",
         "sec_heading": "Best-Sellers",
         "heading_tag": "h2",
-        "heading_size": "text-lg",
+        "heading_size": "h5",
         "sec_subheading": "<p>Save on our Best-Selling Diffusers, Humidifiers, and Scents<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
-        "sec_heading_spacing": 30,
+        "sec_heading_spacing": 24,
         "collection": "best-sellers",
         "product_list": [
 
@@ -128,79 +128,6 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "tabs_collections_grid_XmHUAb": {
-      "type": "tabs-collections-grid",
-      "blocks": {
-        "tab_item_7WphQL": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Best-Sellers",
-            "collection": "best-sellers",
-            "product_list": [
-
-            ]
-          }
-        },
-        "tab_item_CCapNy": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Bundles",
-            "collection": "",
-            "product_list": [
-
-            ]
-          }
-        },
-        "tab_item_D8EL6A": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Clearance",
-            "collection": "",
-            "product_list": [
-
-            ]
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_7WphQL",
-        "tab_item_CCapNy",
-        "tab_item_D8EL6A"
-      ],
-      "disabled": true,
-      "settings": {
-        "tabs_heading": "",
-        "heading_size": "h4",
-        "heading_inline": false,
-        "tabs_head_spacing": 30,
-        "tabs_des": "underline",
-        "tab_item_size": "lg",
-        "tab_item_weight": "medium",
-        "text_transform": false,
-        "border_width": 2,
-        "spacing_items": 30,
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "2",
-        "col_mb": "1",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
         "padding_rate": 75
       }
     },
@@ -302,7 +229,6 @@
     "hero_image_3w3ny6",
     "heading",
     "featured_collection_grid_HJgnxq",
-    "tabs_collections_grid_XmHUAb",
     "categories_section_m638jN",
     "main"
   ]
