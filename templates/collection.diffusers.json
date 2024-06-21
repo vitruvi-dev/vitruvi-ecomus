@@ -1,0 +1,86 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "heading": {
+      "type": "heading-collection",
+      "blocks": {
+        "breadcrumb_CM7qtX": {
+          "type": "breadcrumb",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "description_Ddhb9a": {
+          "type": "description",
+          "settings": {
+            "description": "Limited Time: Up to 40% Off Sitewide"
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb_CM7qtX",
+        "9a1347b4-da62-490d-9fd4-427a03686ac2",
+        "description_Ddhb9a"
+      ],
+      "settings": {
+        "spacing_hd": 15,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 15,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "product_des": "4",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "collection-product-categories",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 30,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "main"
+  ]
+}
