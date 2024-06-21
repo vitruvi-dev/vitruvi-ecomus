@@ -77,10 +77,126 @@
         "sidebar_position": "left",
         "sidebar_size": "medium"
       }
+    },
+    "featured_collection_carousel_rdEzV6": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Best Seller",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "diffuser-bundles",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_8ani3H": {
+      "type": "featured-product",
+      "blocks": {
+        "title_g8nHFn": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_fRTGed": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_GUHQLK": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_yjJgAH": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_6NkCWY": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_g8nHFn",
+        "price_fRTGed",
+        "description_GUHQLK",
+        "buy_buttons_yjJgAH",
+        "view_products_details_6NkCWY"
+      ],
+      "settings": {
+        "product": "starter-stone-diffuser-bundle-sale",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
-    "main"
+    "main",
+    "featured_collection_carousel_rdEzV6",
+    "featured_product_8ani3H"
   ]
 }
