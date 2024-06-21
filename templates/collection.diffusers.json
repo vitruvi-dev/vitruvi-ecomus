@@ -105,7 +105,7 @@
         "col_mb": "2",
         "space_items": "x",
         "half_item": true,
-        "navUI": true,
+        "navUI": false,
         "nav_des": "outline",
         "nav_pos": "ontop_right",
         "dotUI": true,
