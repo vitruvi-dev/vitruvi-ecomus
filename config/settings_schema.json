@@ -727,7 +727,7 @@
         "type": "checkbox",
         "id": "use_preorder_badge",
         "label": "Use pre order badge",
-        "default": true
+        "default": false
       },
       {
         "type": "checkbox",
