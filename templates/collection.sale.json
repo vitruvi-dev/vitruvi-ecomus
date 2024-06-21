@@ -44,6 +44,118 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_grid_HJgnxq": {
+      "type": "featured-collection-grid",
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Best-Sellers",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "best-sellers",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_XmHUAb": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_7WphQL": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Best-Sellers",
+            "collection": "best-sellers",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_CCapNy": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Bundles",
+            "collection": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_D8EL6A": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Clearance",
+            "collection": "",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_7WphQL",
+        "tab_item_CCapNy",
+        "tab_item_D8EL6A"
+      ],
+      "settings": {
+        "tabs_heading": "",
+        "heading_size": "h4",
+        "heading_inline": false,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "1",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "categories_section_m638jN": {
       "type": "categories-section",
       "blocks": {
@@ -102,45 +214,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_HJgnxq": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Best-Sellers",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "best-sellers",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "hero_image_3w3ny6": {
       "type": "hero-image",
       "blocks": {
@@ -189,59 +262,6 @@
         "padding_rate": 75
       }
     },
-    "banner_product_grid_4tEyHH": {
-      "type": "banner-product-grid",
-      "blocks": {
-        "heading_XMbYXa": {
-          "type": "heading",
-          "settings": {
-            "heading": "Summer Style Guide"
-          }
-        },
-        "text_PaiYbb": {
-          "type": "text",
-          "settings": {
-            "text": "UP TO 30% OFF"
-          }
-        },
-        "button_YCnJwh": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_XMbYXa",
-        "text_PaiYbb",
-        "button_YCnJwh"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "product_color_scheme": "",
-        "banner_url": "",
-        "banner_target": false,
-        "product_list": [
-
-        ],
-        "product_des": "10",
-        "image_ratio": "adapt_image",
-        "content_position": "center",
-        "alignment": "center",
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "main": {
       "type": "main-collection",
       "disabled": true,
@@ -280,10 +300,10 @@
   },
   "order": [
     "heading",
-    "categories_section_m638jN",
     "featured_collection_grid_HJgnxq",
+    "tabs_collections_grid_XmHUAb",
+    "categories_section_m638jN",
     "hero_image_3w3ny6",
-    "banner_product_grid_4tEyHH",
     "main"
   ]
 }
