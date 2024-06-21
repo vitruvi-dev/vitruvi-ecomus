@@ -577,10 +577,10 @@
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
       "custom_css": [
-        "h4 {font-weight: 200}"
+        "h4 {font-weight: 200;}"
       ],
       "settings": {
-        "heading": "Bundles for Sleep",
+        "heading": "Save on Sleep Bundles",
         "label": "Set the stage for your best night's rest.",
         "image": "shopify:\/\/shop_images\/pdp_best-sleep-bundle_CloudWhite-StoneBlack_gallery_2_v1_image_3cb5727f-29a3-4dd4-9943-f0d95ba7cddb.jpg",
         "external_video_url": "",
