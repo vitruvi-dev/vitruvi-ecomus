@@ -72,7 +72,7 @@
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
-        "image_height_mb": "adapt_image",
+        "image_height_mb": "fixed",
         "fixed_height_mb": 300,
         "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_desktop.jpg",
         "image_mb": "shopify:\/\/shop_images\/collection_summer-sale_header-mobile.png",
@@ -88,66 +88,8 @@
         "full_width": false,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
-    "banner_J3QXF3": {
-      "type": "banner",
-      "blocks": {
-        "banner_3_a3mdnP": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/collection_summer-sale_header-desktop.png",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "SUMMER SALE",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Limited Time: Up to 40% Off Sitewide",
-            "des_space": 28,
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "banner_3_a3mdnP"
-      ],
-      "custom_css": [
-        ".hdt-heading {font-family: \"Kaftan\";}"
-      ],
-      "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "col_dk": "1",
-        "row_height": 300,
-        "content_pd_y": 15,
-        "content_pd_x": 15,
-        "space_item": 30,
-        "col_tb": "1",
-        "row_height_tb": 500,
-        "space_item_tb": 15,
-        "row_height_mb": 250,
-        "space_item_mb": 15,
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -189,7 +131,6 @@
   "order": [
     "heading",
     "hero_image_3w3ny6",
-    "banner_J3QXF3",
     "main"
   ]
 }
