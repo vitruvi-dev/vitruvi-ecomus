@@ -190,7 +190,8 @@
       "type": "featured-collection-carousel",
       "custom_css": [
         ".hdt-slider__container {justify-content: center;}",
-        ".hdt-card-align-left {text-align: center; justify-items: center;}"
+        ".hdt-card-align-left {text-align: center; justify-items: center;}",
+        ".hdt-price__list, .hdt-badge__wrapp, .hdt-color-list {display: none;}"
       ],
       "settings": {
         "heading_align": "center",
