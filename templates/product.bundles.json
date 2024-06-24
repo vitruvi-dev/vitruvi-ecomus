@@ -190,13 +190,13 @@
       "type": "featured-collection-carousel",
       "custom_css": [
         ".hdt-slider__container {justify-content: center;}",
-        ".hdt-price__list {display: none;}"
+        ".hdt-card-align-left {text-align: center; justify-items: center;}"
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Best Seller",
-        "heading_tag": "h3",
-        "heading_size": "h4",
+        "sec_heading": "Items in this bundle",
+        "heading_tag": "h2",
+        "heading_size": "h5",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
