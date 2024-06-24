@@ -276,7 +276,7 @@
         "tab_html_YAfkaj": {
           "type": "tab_html",
           "settings": {
-            "title": "Tab Custom HTML",
+            "title": "Included In Your Bundle",
             "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
             "page": ""
           }
