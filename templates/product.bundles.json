@@ -201,9 +201,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
-        "product_list": [
-
-        ],
+        "product_list": "{{ product.metafields.ecomus[\"bundles_included-products\"].value }}",
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
