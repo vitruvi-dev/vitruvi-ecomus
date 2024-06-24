@@ -191,7 +191,7 @@
       "custom_css": [
         ".hdt-slider__container {justify-content: center;}",
         ".hdt-card-align-left {text-align: center; justify-items: center;}",
-        ".hdt-price__list, .hdt-badge__wrapp, .hdt-color-list {display: none;}"
+        ".hdt-price__list,.hdt-badge__wrapp,.hdt-color-list {display: none;}"
       ],
       "settings": {
         "heading_align": "center",
@@ -232,6 +232,48 @@
         "padding_top": 0,
         "padding_bottom": 52,
         "padding_rate": 75
+      }
+    },
+    "tabs": {
+      "type": "main-product-tabs",
+      "blocks": {
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Features",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_FAnLrE": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Specs",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_eeFthN": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Warranty & Returns",
+            "content": "",
+            "page": "product-returns-humidifiers-diffusers"
+          }
+        }
+      },
+      "block_order": [
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
+        "tab_html_FAnLrE",
+        "tab_html_eeFthN"
+      ],
+      "settings": {
+        "tabs_design": "tab_vertical",
+        "enable_first_tab": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 50
       }
     },
     "icon_box_xRGYey": {
@@ -316,57 +358,6 @@
         "padding_top": 60,
         "padding_bottom": 60,
         "padding_rate": 75
-      }
-    },
-    "tabs": {
-      "type": "main-product-tabs",
-      "blocks": {
-        "tab_html_YAfkaj": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Included In Your Bundle",
-            "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Features",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_FAnLrE": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Specs",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_eeFthN": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Warranty & Returns",
-            "content": "",
-            "page": "product-returns-humidifiers-diffusers"
-          }
-        }
-      },
-      "block_order": [
-        "tab_html_YAfkaj",
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
-        "tab_html_FAnLrE",
-        "tab_html_eeFthN"
-      ],
-      "settings": {
-        "tabs_design": "tab_vertical",
-        "enable_first_tab": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 50
       }
     },
     "top_heading_GTjYAL": {
@@ -876,8 +867,8 @@
     "breacrumb",
     "main",
     "featured_collection_carousel_tGNnzh",
-    "icon_box_xRGYey",
     "tabs",
+    "icon_box_xRGYey",
     "top_heading_GTjYAL",
     "banner_gdzX4R",
     "video_width_text2_anqqEU",
