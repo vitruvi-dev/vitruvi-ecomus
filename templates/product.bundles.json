@@ -188,6 +188,9 @@
     },
     "featured_collection_carousel_tGNnzh": {
       "type": "featured-collection-carousel",
+      "custom_css": [
+        ".hdt-slider__container {justify-content: center;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Best Seller",
@@ -208,7 +211,7 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 8,
-        "col_dk": "6",
+        "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
         "half_item": false,
