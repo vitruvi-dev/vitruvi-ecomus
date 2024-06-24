@@ -189,7 +189,8 @@
     "featured_collection_carousel_tGNnzh": {
       "type": "featured-collection-carousel",
       "custom_css": [
-        ".hdt-slider__container {justify-content: center;}"
+        ".hdt-slider__container {justify-content: center;}",
+        ".hdt-card-product__info {text-align: center !important;}"
       ],
       "settings": {
         "heading_align": "center",
