@@ -275,7 +275,7 @@
         "text_transform": false,
         "content_position": "center",
         "content_padding": 30,
-        "image_ratio": "adapt_image",
+        "image_ratio": "portrait",
         "image_size": true,
         "col_dk": "3",
         "col_tb": "3",
