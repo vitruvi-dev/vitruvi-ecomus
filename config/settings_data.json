@@ -346,9 +346,63 @@
         "settings": {
         }
       },
+      "15912215999290715800": {
+        "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-modal\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
+        "disabled": false,
+        "settings": {
+          "test_mode": false,
+          "modal_closeButton": false,
+          "option_flag_style": "square",
+          "option_currency_type": "only_flag",
+          "option_language": false,
+          "option_search_country": false,
+          "title": "Where are we shipping to?",
+          "text": "Purchasing from your country's website is the best way to connect your home to the world's finest home scenting.",
+          "helper_text": "",
+          "cta_text": "SHOP NOW",
+          "fallback_text": "We don’t yet ship to {country}",
+          "alignment_image": "right",
+          "style_corners": "square",
+          "style_dropdown": "underlined",
+          "modal_button_align": "center",
+          "title_font_size": 22,
+          "text_font_size": 16,
+          "show_blurred_background": false,
+          "style_colors_background": "#f7f8f6",
+          "style_colors_closeButton": "#474946",
+          "style_colors_cta_text": "#f7f8f6",
+          "style_colors_cta_button": "#474946",
+          "style_colors_text": "#000"
+        }
+      },
+      "5858961087409699889": {
+        "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-footer-selector\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
+        "disabled": false,
+        "settings": {
+          "footer_ui_type": "selector",
+          "option_language": false,
+          "style_corners": "square",
+          "style_dropdown": "outlined",
+          "option_classic_flag_style": "square",
+          "option_classic_currency_type": "iso",
+          "search_country": true,
+          "block_background": "#fff",
+          "style_colors_background": "#fff",
+          "style_colors_border": "#474946",
+          "style_colors_text": "#474946",
+          "option_modal_continent": false,
+          "option_flag_style": "square",
+          "option_currency_type": "iso",
+          "option_modal_language": false,
+          "title": "Select Your Region",
+          "language_title": "Preferred Language",
+          "helper_text": "Changing language will not affect your selected region",
+          "block_alignement": "center"
+        }
+      },
       "1173261918193615741": {
         "type": "shopify:\/\/apps\/geo-pro-geolocation\/blocks\/geopro\/16fc5313-7aee-4e90-ac95-f50fc7c8b657",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }
