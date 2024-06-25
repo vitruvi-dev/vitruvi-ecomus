@@ -112,7 +112,7 @@
         "mega_shop_xTkPbf"
       ],
       "custom_css": [
-
+        ".hdt-mb-language_currencies {display: none !important;}"
       ],
       "settings": {
         "header_layout": "logo_left",
