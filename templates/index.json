@@ -304,7 +304,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/press-logo_ad_2024-06.png",
             "heading": "",
-            "content": "<p>“A perfect addition to your nightstand.”<\/p>",
+            "content": "<h6>“A perfect addition to your nightstand.”<\/h6>",
             "author": "Architectural Digest"
           }
         },
@@ -368,9 +368,9 @@
         "heading_align": "center",
         "sec_heading": "★★★★★",
         "heading_tag": "h3",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "<p>14,000+ 5 Star Reviews<\/p>",
-        "subheading_size": "2xl",
+        "subheading_size": "10xl",
         "heading_reverse": false,
         "heading_gap": 14,
         "sec_heading_spacing": 70,
