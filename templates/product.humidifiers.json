@@ -28,10 +28,10 @@
           "settings": {
             "show_icon": false,
             "mess": "",
-            "source": "1",
+            "source": "2",
             "image": "shopify:\/\/shop_images\/Badge-allure.png",
             "wimg": 100,
-            "svg": "",
+            "svg": "apple_pay",
             "height": 30
           }
         },
@@ -39,12 +39,12 @@
           "type": "badges",
           "disabled": true,
           "settings": {
-            "special": "",
+            "special": "Best Seller",
             "min": 10,
             "max": 64,
             "content": "",
-            "icon_svg": "none",
-            "ani": "none"
+            "icon_svg": "wave",
+            "ani": "hdt-ani-heartBeat"
           }
         },
         "3a222052-35a9-4684-a336-6a32a56eb638": {
