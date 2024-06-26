@@ -23,18 +23,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "img_trust_QQ97EW": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "shopify:\/\/shop_images\/vitruvi-wordmark-black_7af02c7b-ff10-423f-86cc-b24b8e5d7387.png",
-            "wimg": 335,
-            "svg": "",
-            "height": 30
-          }
-        },
         "83296f29-170d-4d7b-9291-c9b59bb98b32": {
           "type": "badges",
           "disabled": true,
@@ -103,6 +91,18 @@
             "length": 31
           }
         },
+        "img_trust_QQ97EW": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "shopify:\/\/shop_images\/vitruvi-wordmark-black_7af02c7b-ff10-423f-86cc-b24b8e5d7387.png",
+            "wimg": 200,
+            "svg": "",
+            "height": 30
+          }
+        },
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
           "disabled": true,
@@ -148,7 +148,6 @@
         }
       },
       "block_order": [
-        "img_trust_QQ97EW",
         "83296f29-170d-4d7b-9291-c9b59bb98b32",
         "3a222052-35a9-4684-a336-6a32a56eb638",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
@@ -157,6 +156,7 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
         "description_Fh49zX",
+        "img_trust_QQ97EW",
         "countdown_timer_pLgxfe",
         "order_jbW4Fg",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
@@ -188,6 +188,48 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 52,
+        "padding_rate": 50
+      }
+    },
+    "tabs": {
+      "type": "main-product-tabs",
+      "blocks": {
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Features",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_FAnLrE": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Specs",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_eeFthN": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Warranty & Returns",
+            "content": "",
+            "page": "product-returns-humidifiers-diffusers"
+          }
+        }
+      },
+      "block_order": [
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
+        "tab_html_FAnLrE",
+        "tab_html_eeFthN"
+      ],
+      "settings": {
+        "tabs_design": "tab_vertical",
+        "enable_first_tab": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
         "padding_rate": 50
       }
     },
@@ -273,48 +315,6 @@
         "padding_top": 60,
         "padding_bottom": 60,
         "padding_rate": 75
-      }
-    },
-    "tabs": {
-      "type": "main-product-tabs",
-      "blocks": {
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Features",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_FAnLrE": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Specs",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_eeFthN": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Warranty & Returns",
-            "content": "",
-            "page": "product-returns-humidifiers-diffusers"
-          }
-        }
-      },
-      "block_order": [
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
-        "tab_html_FAnLrE",
-        "tab_html_eeFthN"
-      ],
-      "settings": {
-        "tabs_design": "tab_vertical",
-        "enable_first_tab": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 50
       }
     },
     "video_width_text2_anqqEU": {
@@ -654,8 +654,8 @@
   "order": [
     "breacrumb",
     "main",
-    "icon_box_xRGYey",
     "tabs",
+    "icon_box_xRGYey",
     "video_width_text2_anqqEU",
     "video_width_text2_gAFGz7",
     "testimonials_2_R9NQQF",
