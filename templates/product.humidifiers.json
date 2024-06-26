@@ -94,11 +94,11 @@
         "img_trust_QQ97EW": {
           "type": "img_trust",
           "settings": {
-            "show_icon": false,
-            "mess": "Approved",
+            "show_icon": true,
+            "mess": "Critically Acclaimed",
             "source": "1",
             "image": "shopify:\/\/shop_images\/Group_1.png",
-            "wimg": 200,
+            "wimg": 220,
             "svg": "",
             "height": 30
           }
@@ -163,8 +163,7 @@
         "bundle_product_F3hwaK"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}",
-        ".hdt-product__trust-seal,.hdt-product__description {--product-margin-end: 1rem;}"
+        ".hdt-sticky-atc__qty-selector {display: none;}"
       ],
       "settings": {
         "space_content_media": true,
