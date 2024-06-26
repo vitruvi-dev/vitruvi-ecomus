@@ -382,6 +382,7 @@
         "heading_Yk8Ark",
         "sub_heading_dXe8rc"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -477,6 +478,7 @@
         "banner_2_Gd9rXf",
         "banner_2_gYifcd"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
       ],
@@ -520,6 +522,7 @@
         "heading_Wzbctd",
         "sub_heading_jeJGRx"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -690,6 +693,7 @@
         "quote_ieGhmJ",
         "quote_87jeBH"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "top_heading": "Join over 100k homes happily scented by a Vitruvi diffuser",
