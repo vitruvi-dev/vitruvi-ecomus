@@ -344,7 +344,10 @@
                 {%- capture html_trust -%}
                   {%- if block.settings.source == '1' and block.settings.image != blank -%}
                     {%- assign image_size_2x = block.settings.wimg | times: 2 -%}
-                    <div class="hdt-img__trust-image hdt-block lg:hdt-inline-block" style="max-width: min(100%, {{ block.settings.wimg }}px);">
+                    {% comment %}
+                    <div class="hdt-img__trust-image hdt-block lg:hdt-inline-block" style="max-width: min(100%, {{ block.settings.wimg }}px);"> 
+                    {% endcomment %} 
+                    <div class="hdt-img__trust-image hdt-block lg:hdt-inline-block" style="max-width: min(100%, 50px);">
                       <img width="{{ block.settings.image.width }}" class="hdt-inline-block" height="{{ block.settings.image.height }}" srcset="{{ block.settings.image | image_url: width: block.settings.image_width }}, {{ block.settings.image | image_url: width: image_size_2x }} 2x" src="{{ block.settings.image | image_url: width: 760 }}" alt="{{ block.settings.image.alt | escape }}" loading="lazy">
                     </div>
                   {%- elsif block.settings.svg != blank -%}
