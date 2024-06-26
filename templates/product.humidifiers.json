@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "breacrumb": {
@@ -14,8 +23,21 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "img_trust_QQ97EW": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "shopify:\/\/shop_images\/Badge-allure.png",
+            "wimg": 100,
+            "svg": "",
+            "height": 30
+          }
+        },
         "83296f29-170d-4d7b-9291-c9b59bb98b32": {
           "type": "badges",
+          "disabled": true,
           "settings": {
             "special": "",
             "min": 10,
@@ -126,6 +148,7 @@
         }
       },
       "block_order": [
+        "img_trust_QQ97EW",
         "83296f29-170d-4d7b-9291-c9b59bb98b32",
         "3a222052-35a9-4684-a336-6a32a56eb638",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
