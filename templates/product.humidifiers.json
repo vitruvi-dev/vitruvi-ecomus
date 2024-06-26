@@ -95,7 +95,7 @@
           "type": "img_trust",
           "settings": {
             "show_icon": false,
-            "mess": "",
+            "mess": "Approved",
             "source": "1",
             "image": "shopify:\/\/shop_images\/Group_1.png",
             "wimg": 200,
@@ -163,7 +163,8 @@
         "bundle_product_F3hwaK"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}"
+        ".hdt-sticky-atc__qty-selector {display: none;}",
+        ".hdt-product__trust-seal,.hdt-product__description {--product-margin-end: 1rem;}"
       ],
       "settings": {
         "space_content_media": true,
