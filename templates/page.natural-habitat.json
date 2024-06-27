@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "heading": {
@@ -73,8 +82,7 @@
         "banner_1_7J8ynU": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20220727-Vitruvi-StudioSantiago-Request_3.jpg",
-            "image_mb": "shopify:\/\/shop_images\/20220727-Vitruvi-StudioSantiago-Request_3.jpg",
+            "image": "shopify:\/\/shop_images\/page_natural-habitat_article-1_2024-06.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
             "banner_target": false,
@@ -142,7 +150,7 @@
         "banner_1_XEPqtm": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mary-skrynnikova-SjJOVlc70Bc-unsplash.jpg",
+            "image": "shopify:\/\/shop_images\/page_natural-habitat_article-3_2024-06.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "shopify:\/\/blogs\/spaces\/the-health-risks-of-burning-scented-candles",
             "banner_target": false,
