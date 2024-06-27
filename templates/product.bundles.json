@@ -189,6 +189,7 @@
     "featured_collection_carousel_tGNnzh": {
       "type": "featured-collection-carousel",
       "custom_css": [
+        "@media (max-width: 767px) {.hdt-slider__container {padding-left: 30px; padding-right: 30px; }}",
         ".hdt-card-align-left {justify-items: center;}",
         "@media (min-width: 768px) {.hdt-slider__container {justify-content: center; }}",
         ".hdt-price__list,.hdt-badge__wrapp,.hdt-color-list {display: none;}"
