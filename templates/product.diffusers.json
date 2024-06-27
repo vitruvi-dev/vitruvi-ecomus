@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "breacrumb": {
@@ -112,25 +121,6 @@
             "short_des": "",
             "length": 31
           }
-        },
-        "complimentary_products_n6BDx7": {
-          "type": "complimentary_products",
-          "disabled": true,
-          "settings": {
-            "text": "Customers Also Loved"
-          }
-        },
-        "bundle_product_NRaNMn": {
-          "type": "bundle_product",
-          "disabled": true,
-          "settings": {
-            "bundle_prs_inner": true,
-            "product_list": [
-              "bergamot-essential-oil",
-              "boost-essential-oil-blend",
-              "boost-essential-oil-blend-5"
-            ]
-          }
         }
       },
       "block_order": [
@@ -144,9 +134,7 @@
         "countdown_timer_pLgxfe",
         "order_jbW4Fg",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "description_Fh49zX",
-        "complimentary_products_n6BDx7",
-        "bundle_product_NRaNMn"
+        "description_Fh49zX"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
