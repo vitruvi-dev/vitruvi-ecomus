@@ -368,125 +368,6 @@
         "padding_rate": 75
       }
     },
-    "image_gallery_q4m8dn": {
-      "type": "image-gallery",
-      "blocks": {
-        "gallery_item_z6fGp9": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_iQPWbb": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD3_V1_White-Sleep-Book_2024_Q1_Evergreen_Image_Square.png",
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_U3JRDx": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
-            "item_link": "",
-            "product_item": ""
-          }
-        },
-        "gallery_item_UA8Bpm": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_6__carissavianca_diffuser-stone_suede.jpg",
-            "item_link": "",
-            "product_item": ""
-          }
-        }
-      },
-      "block_order": [
-        "gallery_item_z6fGp9",
-        "gallery_item_iQPWbb",
-        "gallery_item_U3JRDx",
-        "gallery_item_UA8Bpm"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Transform Any Room",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Able to scent 500 sq.-ft., the Stone Diffuser is great for bedrooms, living rooms, and home offices.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "1",
-        "spacing_items": 10,
-        "navUI": true,
-        "nav_des": "simple",
-        "dotUI": true,
-        "dots_pos": "outline",
-        "section_fullwidth": false,
-        "boxed_fullwidth": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 40,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "video_width_text2_anqqEU": {
-      "type": "video-width-text2",
-      "blocks": {
-        "heading_Wzbctd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Natural Beauty",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_jeJGRx": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "With a matte ceramic finish, the Stone Diffuser doubles as a piece of art in your home.",
-            "sub_fs": "lg"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Wzbctd",
-        "sub_heading_jeJGRx"
-      ],
-      "disabled": true,
-      "settings": {
-        "video_option": "1",
-        "video_height": "adapt_image_first",
-        "fixed_height": 500,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/pdp_stone-diffuser_feature_1_video_mobile.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "left",
-        "video_autoplay": true,
-        "section_fullwidth": true,
-        "color_scheme": "scheme-1",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "left",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "171512128966062076": {
       "type": "apps",
       "blocks": {
@@ -646,8 +527,6 @@
     "icon_box_C6TXn9",
     "tabs",
     "slideshow_Ak3WEL",
-    "image_gallery_q4m8dn",
-    "video_width_text2_anqqEU",
     "171512128966062076",
     "related",
     "recently",
