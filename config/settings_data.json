@@ -98,7 +98,7 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
     "search_fullwidth": false,
-    "search_quick_link": "footer-ecomus-help",
+    "search_quick_link": "footer_help",
     "products_suggest": [
       "cloud-humidifier",
       "stone-essential-oil-diffuser",

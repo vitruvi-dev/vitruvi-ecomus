@@ -19,7 +19,7 @@
           "settings": {
             "border-column": true,
             "heading_menu": "Help",
-            "menu": "footer-ecomus-help",
+            "menu": "footer_help",
             "padding_inner": "",
             "custom_w_dk": "20"
           }
@@ -39,7 +39,7 @@
           "settings": {
             "border-column": true,
             "heading_menu": "Company",
-            "menu": "footer-company",
+            "menu": "footer_company",
             "padding_inner": "0px,50px,0px,50px",
             "custom_w_dk": "20"
           }
