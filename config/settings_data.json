@@ -375,6 +375,12 @@
           "style_colors_text": "#000"
         }
       },
+      "1173261918193615741": {
+        "type": "shopify:\/\/apps\/geo-pro-geolocation\/blocks\/geopro\/16fc5313-7aee-4e90-ac95-f50fc7c8b657",
+        "disabled": true,
+        "settings": {
+        }
+      },
       "5858961087409699889": {
         "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-footer-selector\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
         "disabled": false,
@@ -386,8 +392,8 @@
           "option_classic_flag_style": "square",
           "option_classic_currency_type": "iso",
           "search_country": true,
-          "block_background": "#fff",
-          "style_colors_background": "#fff",
+          "block_background": "#f7f8f6",
+          "style_colors_background": "#f7f8f6",
           "style_colors_border": "#474946",
           "style_colors_text": "#474946",
           "option_modal_continent": false,
@@ -398,12 +404,6 @@
           "language_title": "Preferred Language",
           "helper_text": "Changing language will not affect your selected region",
           "block_alignement": "center"
-        }
-      },
-      "1173261918193615741": {
-        "type": "shopify:\/\/apps\/geo-pro-geolocation\/blocks\/geopro\/16fc5313-7aee-4e90-ac95-f50fc7c8b657",
-        "disabled": true,
-        "settings": {
         }
       }
     },
