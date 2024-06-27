@@ -530,7 +530,7 @@
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "",
-        "btn_style": "solid",
+        "btn_style": "outline",
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
