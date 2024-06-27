@@ -224,7 +224,7 @@
         "dotUI": true,
         "pagination_type": "none",
         "paginate_pos": "center",
-        "dis_pagination": 63,
+        "dis_pagination": 30,
         "btn_label": "View all",
         "btn_style": "solid",
         "btn_fw": "normal",

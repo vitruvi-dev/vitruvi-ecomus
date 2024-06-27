@@ -592,9 +592,9 @@
         "fixed_height_mb": 250,
         "collection": "",
         "product_list": [
-          "sleep-stone-diffuser-bundle",
-          "sleep-cloud-humidifier-bundle",
-          "best-sleep-diffuser-humidifier-bundle"
+          "diffuser-sleep-bundle-test",
+          "humidifier-sleep-bundle-test",
+          "best-sleep-bundle-test"
         ],
         "products_count": 3,
         "product_des": "4",
