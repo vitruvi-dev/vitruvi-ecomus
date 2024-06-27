@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "footer",
   "name": "Footer Group",
@@ -10,7 +19,7 @@
           "settings": {
             "border-column": true,
             "heading_menu": "Help",
-            "menu": "footer-ecomus-help",
+            "menu": "footer_help",
             "padding_inner": "",
             "custom_w_dk": "20"
           }
@@ -30,7 +39,7 @@
           "settings": {
             "border-column": true,
             "heading_menu": "Company",
-            "menu": "footer-company",
+            "menu": "footer_company",
             "padding_inner": "0px,50px,0px,50px",
             "custom_w_dk": "20"
           }
