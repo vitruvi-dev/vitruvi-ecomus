@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "heading": {
@@ -286,7 +295,7 @@
             "title": "Member",
             "image_pos": "left",
             "alignment": "left",
-            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_early-access_image_desktop_9d3a8d2f-6756-4519-88e7-f831d1ed785f.png",
+            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_early-access_image_desktop.png",
             "heading": "Member",
             "content": "0 to 29,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>",
             "btn_label": "Shop now",
@@ -304,7 +313,7 @@
             "title": "Insider",
             "image_pos": "left",
             "alignment": "left",
-            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_special-sale_image_desktop_5951cab6-001d-46f6-8b39-f3b4b829bd69.png",
+            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_special-sale_image_desktop.png",
             "heading": "Insider",
             "content": "30,000 to 59,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>\n<br>\n➕ Early access to product drops and merch",
             "btn_label": "Shop now",
@@ -562,7 +571,7 @@
         "banner_1_CkUQqA": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop_89b66dcd-cce7-49aa-aff6-283fdfb39f25.png",
+            "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop.png",
             "color_scheme": "scheme-3",
             "banner_url": "#smile-home",
             "banner_target": false,
