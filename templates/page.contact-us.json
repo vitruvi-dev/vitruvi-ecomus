@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "top_heading_XNxk7w": {
@@ -41,7 +50,7 @@
           "settings": {
             "icon_svg": "support",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/phone.png",
+            "image": "shopify:\/\/shop_images\/icons_contact-phone_2024-06.png",
             "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
@@ -56,7 +65,7 @@
           "settings": {
             "icon_svg": "payment",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/hands_dea33a55-65e2-4c7e-9728-7ede266e30bc.png",
+            "image": "shopify:\/\/shop_images\/icons_contact-hands_2024-06.png",
             "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
@@ -71,7 +80,7 @@
           "settings": {
             "icon_svg": "return",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/sparkle-150.png",
+            "image": "shopify:\/\/shop_images\/icons_contact-sparkle_2024-06.png",
             "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
@@ -86,7 +95,7 @@
           "settings": {
             "icon_svg": "box",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/sprouting-150.png",
+            "image": "shopify:\/\/shop_images\/icons_contact-sprout_2024-06.png",
             "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
@@ -101,7 +110,7 @@
           "settings": {
             "icon_svg": "box",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/lightbulb-150.png",
+            "image": "shopify:\/\/shop_images\/icons_contact-lightbulb_2024-06.png",
             "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
@@ -116,7 +125,7 @@
           "settings": {
             "icon_svg": "box",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/gift-128.png",
+            "image": "shopify:\/\/shop_images\/icons_contact-gift_2024-06.png",
             "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
