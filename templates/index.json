@@ -339,7 +339,7 @@
           "type": "quote",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/BHG-logo-brandprimary-dark_1_1_1.png",
+            "image": "shopify:\/\/shop_images\/press-logo_bhg_2024-06.png",
             "heading": "",
             "content": "<p>“The best humidifier from a design standpoint.”<\/p>",
             "author": "Better Homes & Gardens"
@@ -537,46 +537,6 @@
         "padding_bottom": 100,
         "padding_rate": 75
       }
-    },
-    "featured_collection_grid_hUARCz": {
-      "type": "featured-collection-grid",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Test Products",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "ecomus",
-        "product_list": [
-
-        ],
-        "product_des": "4",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 50,
-        "col_dk": "6",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -587,7 +547,6 @@
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
     "slideshow_zT9KVC",
-    "cef9818d-d174-4a85-935f-31cd9035f495",
-    "featured_collection_grid_hUARCz"
+    "cef9818d-d174-4a85-935f-31cd9035f495"
   ]
 }
