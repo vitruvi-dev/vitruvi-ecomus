@@ -29,7 +29,7 @@
           "settings": {
             "border-column": true,
             "heading_menu": "Shop",
-            "menu": "collection-product-categories",
+            "menu": "footer_product-categories",
             "padding_inner": "0px,50px,0px,50px",
             "custom_w_dk": "20"
           }
