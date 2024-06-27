@@ -69,7 +69,7 @@
         "enable_num_cols_selector": false,
         "widget_heading": "Product Categories",
         "cat_source": "2",
-        "cat_link_list": "footer_product-categories",
+        "cat_link_list": "footer_products",
         "count": true,
         "section_fullwidth": false,
         "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
