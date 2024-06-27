@@ -118,7 +118,7 @@
         "header_layout": "logo_left",
         "header_fullwidth": true,
         "header_height": 94,
-        "logo": "shopify:\/\/shop_images\/vitruvi-wordmark-black-medium.png",
+        "logo": "shopify:\/\/shop_images\/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
         "main_menu": "header_desktop_ecomus_sale",
@@ -143,7 +143,7 @@
         "header_mobile_colors": "scheme-1",
         "note_mobile": "",
         "header_transparent": true,
-        "logo_transparent": "shopify:\/\/shop_images\/vitruvi-wordmark-white-small.png",
+        "logo_transparent": "shopify:\/\/shop_images\/vitruvi-logo_wordmark-white.png",
         "header_transparent_colors": "scheme-3",
         "sticky_type": "always",
         "sticky_glass": false
