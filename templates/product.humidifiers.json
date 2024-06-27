@@ -176,7 +176,7 @@
           "settings": {
             "icon_svg": "box2",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/IconsBlack-Truck.svg",
+            "image": "shopify:\/\/shop_images\/icons_shipping_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "shopify:\/\/pages\/frequently-asked-questions",
@@ -191,7 +191,7 @@
           "settings": {
             "icon_svg": "leaf2",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/IconsBlack-Warranty.svg",
+            "image": "shopify:\/\/shop_images\/icons_warranty_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "shopify:\/\/pages\/warranty",
@@ -206,7 +206,7 @@
           "settings": {
             "icon_svg": "support",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/IconsBlack-Returns.svg",
+            "image": "shopify:\/\/shop_images\/icons_returns_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "shopify:\/\/pages\/returns-and-exchanges",
