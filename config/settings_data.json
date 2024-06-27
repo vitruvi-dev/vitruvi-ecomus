@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "purchase_code": "d73daf1c-7794-4014-a4fc-1b4c8797200b",
@@ -89,7 +98,7 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
     "search_fullwidth": false,
-    "search_quick_link": "footer-ecomus-help",
+    "search_quick_link": "footer_help",
     "products_suggest": [
       "cloud-humidifier",
       "stone-essential-oil-diffuser",
