@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "breacrumb": {
@@ -267,24 +276,6 @@
             "page": ""
           }
         },
-        "tab_html_WB9zxa": {
-          "type": "tab_html",
-          "disabled": true,
-          "settings": {
-            "title": "Quality",
-            "content": "{{ product.metafields.ecomus.tabs_scent_quality | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_bdaEfj": {
-          "type": "tab_html",
-          "disabled": true,
-          "settings": {
-            "title": "Scent Notes",
-            "content": "{{ product.metafields.ecomus.tabs_scent_notes | metafield_tag }}",
-            "page": ""
-          }
-        },
         "tab_html_KQpeCL": {
           "type": "tab_html",
           "settings": {
@@ -298,8 +289,6 @@
         "tab_html_r8KYLQ",
         "tab_html_8PLjap",
         "tab_html_NGKtrx",
-        "tab_html_WB9zxa",
-        "tab_html_bdaEfj",
         "tab_html_KQpeCL"
       ],
       "settings": {
