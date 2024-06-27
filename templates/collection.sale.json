@@ -590,11 +590,9 @@
         "fixed_height": 500,
         "image_height_mb": "fixed",
         "fixed_height_mb": 250,
-        "collection": "",
+        "collection": "best-essential-oils-for-sleep",
         "product_list": [
-          "diffuser-sleep-bundle-test",
-          "sleep-cloud-humidifier-bundle-1",
-          "best-sleep-bundle-test"
+
         ],
         "products_count": 3,
         "product_des": "4",
