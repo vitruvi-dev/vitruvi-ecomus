@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "top_heading_tKKKwG": {
@@ -245,7 +254,7 @@
             "label": "STEP 1",
             "title": "Start Your Return",
             "content": "Visit our returns center to get started.",
-            "image": "shopify:\/\/shop_images\/working-from-home.jpg",
+            "image": "shopify:\/\/shop_images\/page_returns_step-1_2024-06.jpg",
             "content_position": "end"
           }
         },
@@ -267,7 +276,7 @@
             "label": "STEP 3",
             "title": "Receive Your Refund",
             "content": "Once the product has been successfully returned, you'll be refunded via your original form of payment.",
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD12_V1_Stone-Terracotta-Boost_2024_Q1_Evergreen_Image_Square.png",
+            "image": "shopify:\/\/shop_images\/page_returns_step-3_2024-06.png",
             "content_position": "end"
           }
         }
