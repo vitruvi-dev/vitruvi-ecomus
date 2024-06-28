@@ -77,6 +77,9 @@
     },
     "video_2_CeHmJV": {
       "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
       "settings": {
         "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_features_video.mp4",
         "external_video_url": "",
@@ -123,6 +126,9 @@
     },
     "video_2_ya9rFj": {
       "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
       "settings": {
         "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_set-up_video.mp4",
         "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
@@ -169,10 +175,13 @@
     },
     "video_2_3Ld94L": {
       "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
       "settings": {
         "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_cleaning_video.mp4",
         "external_video_url": "",
-        "video_ratio": "adapt_video",
+        "video_ratio": "16_9",
         "color_scheme": "",
         "full_width": false,
         "padding_top": 0,
@@ -215,10 +224,13 @@
     },
     "video_2_jndyyQ": {
       "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
       "settings": {
         "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_filter_v2_video.mp4",
         "external_video_url": "",
-        "video_ratio": "adapt_video",
+        "video_ratio": "16_9",
         "color_scheme": "",
         "full_width": false,
         "padding_top": 0,
