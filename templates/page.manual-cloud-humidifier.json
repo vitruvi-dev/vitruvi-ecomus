@@ -16,14 +16,14 @@
           "type": "sub_heading",
           "settings": {
             "sub_heading": "QUICK START GUIDE",
-            "sub_heading_fs": "base"
+            "sub_heading_fs": "xl"
           }
         },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
             "heading": "Get to Know the Cloud Humidifier",
-            "heading_fs": "h3"
+            "heading_fs": "h2"
           }
         }
       },
