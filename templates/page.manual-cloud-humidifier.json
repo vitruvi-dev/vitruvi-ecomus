@@ -126,7 +126,7 @@
       "settings": {
         "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_set-up_video.mp4",
         "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "video_ratio": "adapt_video",
+        "video_ratio": "16_9",
         "color_scheme": "",
         "full_width": false,
         "padding_top": 0,
