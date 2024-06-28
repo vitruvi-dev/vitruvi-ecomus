@@ -9,7 +9,7 @@
 */
 {
   "current": {
-    "purchase_code": "41d04515-5bff-4b77-9c02-392a00d13efe",
+    "purchase_code": "d73daf1c-7794-4014-a4fc-1b4c8797200b",
     "color_scheme_dialog": "scheme-1",
     "color_background": "#f7f8f6",
     "color_text": "#474946",
@@ -375,12 +375,6 @@
           "style_colors_text": "#000"
         }
       },
-      "1173261918193615741": {
-        "type": "shopify:\/\/apps\/geo-pro-geolocation\/blocks\/geopro\/16fc5313-7aee-4e90-ac95-f50fc7c8b657",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "5858961087409699889": {
         "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-footer-selector\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
         "disabled": false,
@@ -404,6 +398,12 @@
           "language_title": "Preferred Language",
           "helper_text": "Changing language will not affect your selected region",
           "block_alignement": "center"
+        }
+      },
+      "1173261918193615741": {
+        "type": "shopify:\/\/apps\/geo-pro-geolocation\/blocks\/geopro\/16fc5313-7aee-4e90-ac95-f50fc7c8b657",
+        "disabled": false,
+        "settings": {
         }
       }
     },
