@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "top_heading_TkKzrj": {
@@ -7,14 +16,14 @@
           "type": "sub_heading",
           "settings": {
             "sub_heading": "QUICK START GUIDE",
-            "sub_heading_fs": "base"
+            "sub_heading_fs": "xl"
           }
         },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
             "heading": "Get to Know the Stone Diffuser",
-            "heading_fs": "h4"
+            "heading_fs": "h2"
           }
         }
       },
@@ -356,6 +365,33 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
+    },
+    "video_2_a7CBfN": {
+      "type": "video-2",
+      "settings": {
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "video_2_qcKXNa": {
+      "type": "video-2",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -365,6 +401,8 @@
     "image_with_text_MreEGt",
     "image_with_text_tbWHUW",
     "accordion_jUzj9J",
-    "accordion_V3FMja"
+    "accordion_V3FMja",
+    "video_2_a7CBfN",
+    "video_2_qcKXNa"
   ]
 }
