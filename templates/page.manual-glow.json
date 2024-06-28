@@ -42,42 +42,27 @@
         "padding_rate": 75
       }
     },
-    "video_2_Hk3GYX": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "top_heading_TPdATp": {
       "type": "top-heading",
       "blocks": {
-        "heading_LUqzgx": {
-          "type": "heading",
-          "settings": {
-            "heading": "We are Ecomus",
-            "heading_fs": "h4"
-          }
-        },
         "sub_heading_dUni4X": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading": "FEATURES OF THE",
             "sub_heading_fs": "base"
+          }
+        },
+        "heading_LUqzgx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Glow Diffuser",
+            "heading_fs": "h4"
           }
         }
       },
       "block_order": [
-        "heading_LUqzgx",
-        "sub_heading_dUni4X"
+        "sub_heading_dUni4X",
+        "heading_LUqzgx"
       ],
       "settings": {
         "spacing_item": 30,
@@ -90,50 +75,19 @@
         "padding_rate": 75
       }
     },
-    "video_width_text2_LDcnfz": {
-      "type": "video-width-text2",
-      "blocks": {
-        "sub_heading_gieaeF": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "FEATURES OF YOUR",
-            "sub_fs": "base"
-          }
-        },
-        "heading_hzy9jk": {
-          "type": "heading",
-          "settings": {
-            "heading": "GLOW DIFFUSER",
-            "heading_fs": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_gieaeF",
-        "heading_hzy9jk"
+    "video_2_Hk3GYX": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video_option": "1",
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
         "video": "shopify:\/\/files\/videos\/Glow_Features.mp4",
         "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "left",
-        "video_autoplay": false,
-        "section_fullwidth": false,
+        "video_ratio": "16_9",
         "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -470,9 +424,8 @@
   },
   "order": [
     "top_heading_TkKzrj",
-    "video_2_Hk3GYX",
     "top_heading_TPdATp",
-    "video_width_text2_LDcnfz",
+    "video_2_Hk3GYX",
     "video_width_text2_YKGQqD",
     "video_width_text2_GQEMFc",
     "accordion_jUzj9J",
