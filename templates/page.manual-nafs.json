@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "top_heading_V3Jczp": {
@@ -7,14 +16,14 @@
           "type": "sub_heading",
           "settings": {
             "sub_heading": "QUICK START GUIDE",
-            "sub_heading_fs": "base"
+            "sub_heading_fs": "lg"
           }
         },
         "heading_R6Hxtb": {
           "type": "heading",
           "settings": {
             "heading": "Get to Know Our Natural Air Freshener Sprays",
-            "heading_fs": "h3"
+            "heading_fs": "h2"
           }
         }
       },
