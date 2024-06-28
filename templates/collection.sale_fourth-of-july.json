@@ -23,7 +23,7 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>Up to 40% off seasonal favorites ☀️<\/p>",
+            "text": "<p>Up to 40% off sitewide. Ends this week.<\/p>",
             "adding_border": false
           }
         }
@@ -40,12 +40,12 @@
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_desktop.jpg",
-        "image_mb": "shopify:\/\/shop_images\/collection_summer-sale_header-mobile.png",
+        "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+        "image_mb": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
-        "use_overlay": true,
+        "use_overlay": false,
         "use_bg_content": false,
         "content_position": "center",
         "content_align": "center",
@@ -53,7 +53,7 @@
         "content_align_mb": "center",
         "full_width": false,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "padding_top": 100,
         "padding_bottom": 0,
         "padding_rate": 75
