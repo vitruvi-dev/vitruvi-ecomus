@@ -16,14 +16,14 @@
           "type": "sub_heading",
           "settings": {
             "sub_heading": "QUICK START GUIDE",
-            "sub_heading_fs": "lg"
+            "sub_heading_fs": "xl"
           }
         },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
             "heading": "Get to Know the Move Diffuser",
-            "heading_fs": "h3"
+            "heading_fs": "h2"
           }
         }
       },
@@ -39,6 +39,55 @@
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_6ntnMr": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_4qVbX8": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "FEATURES OF YOUR",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_AGqCyJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Move Diffuser",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_4qVbX8",
+        "heading_AGqCyJ"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_E9pQBa": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_features_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -86,6 +135,55 @@
         "alignment_mb": "center",
         "padding_top": 40,
         "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_pReQLa": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_xC3iNX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Move Diffuser",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_7kbFXk": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO SET UP YOUR",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xC3iNX",
+        "sub_heading_7kbFXk"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_tj8Deh": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_set-up_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -331,7 +429,11 @@
   },
   "order": [
     "top_heading_TkKzrj",
+    "top_heading_6ntnMr",
+    "video_2_E9pQBa",
     "video_width_text2_LDcnfz",
+    "top_heading_pReQLa",
+    "video_2_tj8Deh",
     "video_width_text2_YKGQqD",
     "image_with_text_XfPHGe",
     "accordion_V3FMja",
