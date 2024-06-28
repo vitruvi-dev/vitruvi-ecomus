@@ -42,6 +42,52 @@
         "padding_rate": 75
       }
     },
+    "top_heading_yjXtDA": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_bQqbCc": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "FEATURES OF YOUR",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_fczH89": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cloud Humidifier",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_bQqbCc",
+        "heading_fczH89"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_CeHmJV": {
+      "type": "video-2",
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_features_video.mp4",
+        "external_video_url": "",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "video_width_text2_LDcnfz": {
       "type": "video-width-text2",
       "blocks": {
@@ -230,19 +276,6 @@
         "padding_rate": 75
       }
     },
-    "video_2_Cq4Cxw": {
-      "type": "video-2",
-      "settings": {
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_cleaning_video.mp4",
-        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "video_ratio": "adapt_video",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "accordion_jUzj9J": {
       "type": "accordion",
       "blocks": {
@@ -392,11 +425,12 @@
   },
   "order": [
     "top_heading_TkKzrj",
+    "top_heading_yjXtDA",
+    "video_2_CeHmJV",
     "video_width_text2_LDcnfz",
     "video_width_text2_YKGQqD",
     "video_width_text2_GQEMFc",
     "video_width_text2_NzrnjT",
-    "video_2_Cq4Cxw",
     "accordion_jUzj9J",
     "accordion_V3FMja"
   ]
