@@ -91,74 +91,27 @@
         "padding_rate": 75
       }
     },
-    "video_width_text2_LDcnfz": {
-      "type": "video-width-text2",
-      "blocks": {
-        "sub_heading_gieaeF": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "FEATURES OF YOUR",
-            "sub_fs": "base"
-          }
-        },
-        "heading_hzy9jk": {
-          "type": "heading",
-          "settings": {
-            "heading": "Move Diffuser",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_gieaeF",
-        "heading_hzy9jk"
-      ],
-      "settings": {
-        "video_option": "1",
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_features_video_desktop.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "left",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "image_last": true,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "top_heading_pReQLa": {
       "type": "top-heading",
       "blocks": {
-        "heading_xC3iNX": {
-          "type": "heading",
-          "settings": {
-            "heading": "Move Diffuser",
-            "heading_fs": "h4"
-          }
-        },
         "sub_heading_7kbFXk": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "HOW TO SET UP YOUR",
             "sub_heading_fs": "base"
           }
+        },
+        "heading_xC3iNX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Move Diffuser",
+            "heading_fs": "h4"
+          }
         }
       },
       "block_order": [
-        "heading_xC3iNX",
-        "sub_heading_7kbFXk"
+        "sub_heading_7kbFXk",
+        "heading_xC3iNX"
       ],
       "settings": {
         "spacing_item": 30,
@@ -184,53 +137,6 @@
         "full_width": false,
         "padding_top": 0,
         "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "video_width_text2_YKGQqD": {
-      "type": "video-width-text2",
-      "blocks": {
-        "sub_heading_EdTVLL": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "HOW TO SET UP YOUR",
-            "sub_fs": "base"
-          }
-        },
-        "heading_LNx49V": {
-          "type": "heading",
-          "settings": {
-            "heading": "Move Diffuser",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_EdTVLL",
-        "heading_LNx49V"
-      ],
-      "settings": {
-        "video_option": "1",
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_set-up_video_desktop.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "right",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "image_last": true,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -274,7 +180,7 @@
         "content_pl": 0,
         "image_last_mb": true,
         "content_position_mb": "center",
-        "alignment_mb": "center",
+        "alignment_mb": "left",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
@@ -431,10 +337,8 @@
     "top_heading_TkKzrj",
     "top_heading_6ntnMr",
     "video_2_E9pQBa",
-    "video_width_text2_LDcnfz",
     "top_heading_pReQLa",
     "video_2_tj8Deh",
-    "video_width_text2_YKGQqD",
     "image_with_text_XfPHGe",
     "accordion_V3FMja",
     "accordion_KWjBMV"
