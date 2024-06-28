@@ -70,8 +70,8 @@
         "742a3693-7d5d-4e92-914c-270e1d777d11": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
-            "image_mb": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/page_home-hero_stone-diffuser_kitchen_v2_desktop.png",
+            "image_mb": "shopify:\/\/shop_images\/page_home-hero_stone-diffuser_kitchen_v2_mobile.png",
             "url": "shopify:\/\/collections\/summer-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
