@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "top_heading_TkKzrj": {
@@ -134,14 +143,14 @@
           "type": "sub_heading",
           "settings": {
             "sub_heading": "CLEANING YOUR",
-            "sub_fs": "lg"
+            "sub_fs": "base"
           }
         },
         "heading_aAAgtb": {
           "type": "heading",
           "settings": {
             "heading": "Move Diffuser Interior",
-            "heading_fs": "h3"
+            "heading_fs": "h4"
           }
         },
         "text_Rx8qYQ": {
