@@ -91,97 +91,101 @@
         "padding_rate": 75
       }
     },
-    "video_width_text2_YKGQqD": {
-      "type": "video-width-text2",
+    "top_heading_kyMk96": {
+      "type": "top-heading",
       "blocks": {
-        "sub_heading_EdTVLL": {
+        "sub_heading_hyL6Rh": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "HOW TO SET UP YOUR",
-            "sub_fs": "base"
+            "sub_heading_fs": "base"
           }
         },
-        "heading_LNx49V": {
+        "heading_L8JBqX": {
           "type": "heading",
           "settings": {
-            "heading": "GLOW DIFFUSER",
-            "heading_fs": "h3"
+            "heading": "Glow Diffuser",
+            "heading_fs": "h4"
           }
         }
       },
       "block_order": [
-        "sub_heading_EdTVLL",
-        "heading_LNx49V"
+        "sub_heading_hyL6Rh",
+        "heading_L8JBqX"
       ],
       "settings": {
-        "video_option": "1",
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/Glow_How-To-Set-Up.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "right",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "image_last": true,
-        "content_position": "center",
+        "spacing_item": 30,
         "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
         "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
       }
     },
-    "video_width_text2_GQEMFc": {
-      "type": "video-width-text2",
+    "video_2_YYWjUK": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/Glow_How-To-Set-Up.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_Ln3Je6": {
+      "type": "top-heading",
       "blocks": {
-        "sub_heading_6gtDhV": {
+        "sub_heading_UGrxEJ": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "HOW TO CLEAN YOUR",
-            "sub_fs": "base"
+            "sub_heading_fs": "base"
           }
         },
-        "heading_B7m7Cg": {
+        "heading_V6JwDr": {
           "type": "heading",
           "settings": {
-            "heading": "GLOW DIFFUSER",
-            "heading_fs": "h3"
+            "heading": "Glow Diffuser",
+            "heading_fs": "h4"
           }
         }
       },
       "block_order": [
-        "sub_heading_6gtDhV",
-        "heading_B7m7Cg"
+        "sub_heading_UGrxEJ",
+        "heading_V6JwDr"
       ],
       "settings": {
-        "video_option": "1",
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/Glow_How-To-Clean.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "right",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
+        "spacing_item": 30,
         "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
         "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_8EzxFr": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/Glow_How-To-Clean.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -330,109 +334,17 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
-    },
-    "top_heading_kyMk96": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_L8JBqX": {
-          "type": "heading",
-          "settings": {
-            "heading": "We are Ecomus",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_hyL6Rh": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "heading_L8JBqX",
-        "sub_heading_hyL6Rh"
-      ],
-      "settings": {
-        "spacing_item": 30,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_8EzxFr": {
-      "type": "video-2",
-      "settings": {
-        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "video_ratio": "adapt_video",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_Ln3Je6": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_V6JwDr": {
-          "type": "heading",
-          "settings": {
-            "heading": "We are Ecomus",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_UGrxEJ": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "heading_V6JwDr",
-        "sub_heading_UGrxEJ"
-      ],
-      "settings": {
-        "spacing_item": 30,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_YYWjUK": {
-      "type": "video-2",
-      "settings": {
-        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "video_ratio": "adapt_video",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "top_heading_TkKzrj",
     "top_heading_TPdATp",
     "video_2_Hk3GYX",
-    "video_width_text2_YKGQqD",
-    "video_width_text2_GQEMFc",
-    "accordion_jUzj9J",
-    "accordion_V3FMja",
     "top_heading_kyMk96",
-    "video_2_8EzxFr",
+    "video_2_YYWjUK",
     "top_heading_Ln3Je6",
-    "video_2_YYWjUK"
+    "video_2_8EzxFr",
+    "accordion_jUzj9J",
+    "accordion_V3FMja"
   ]
 }
