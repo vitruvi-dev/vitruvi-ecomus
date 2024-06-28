@@ -421,6 +421,141 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
+    },
+    "top_heading_8cAYAz": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_eb8LBq": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are Ecomus",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_ydy9iX": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eb8LBq",
+        "sub_heading_ydy9iX"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_3Ld94L": {
+      "type": "video-2",
+      "settings": {
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_JHBfmM": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_mWheYQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are Ecomus",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_7YhUBW": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mWheYQ",
+        "sub_heading_7YhUBW"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_jndyyQ": {
+      "type": "video-2",
+      "settings": {
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_G9XgdY": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_RfBfkf": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are Ecomus",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_b3fkAt": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RfBfkf",
+        "sub_heading_b3fkAt"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_ya9rFj": {
+      "type": "video-2",
+      "settings": {
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -432,6 +567,12 @@
     "video_width_text2_GQEMFc",
     "video_width_text2_NzrnjT",
     "accordion_jUzj9J",
-    "accordion_V3FMja"
+    "accordion_V3FMja",
+    "top_heading_8cAYAz",
+    "video_2_3Ld94L",
+    "top_heading_JHBfmM",
+    "video_2_jndyyQ",
+    "top_heading_G9XgdY",
+    "video_2_ya9rFj"
   ]
 }
