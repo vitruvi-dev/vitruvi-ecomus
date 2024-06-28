@@ -42,17 +42,17 @@
         "padding_rate": 75
       }
     },
-    "video_width_text2_LDcnfz": {
-      "type": "video-width-text2",
+    "top_heading_fLpmV3": {
+      "type": "top-heading",
       "blocks": {
-        "sub_heading_gieaeF": {
+        "sub_heading_yBLNCb": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "FEATURES OF YOUR",
-            "sub_fs": "base"
+            "sub_heading_fs": "base"
           }
         },
-        "heading_hzy9jk": {
+        "heading_frLbqK": {
           "type": "heading",
           "settings": {
             "heading": "Stone Diffuser",
@@ -61,45 +61,47 @@
         }
       },
       "block_order": [
-        "sub_heading_gieaeF",
-        "heading_hzy9jk"
+        "sub_heading_yBLNCb",
+        "heading_frLbqK"
       ],
       "settings": {
-        "video_option": "1",
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-stone_features_video_desktop.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "left",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "image_last": true,
-        "content_position": "center",
+        "spacing_item": 30,
         "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
         "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
       }
     },
-    "video_width_text2_YKGQqD": {
-      "type": "video-width-text2",
+    "video_2_a7CBfN": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-stone_features_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_Pz44Tk": {
+      "type": "top-heading",
       "blocks": {
-        "sub_heading_EdTVLL": {
+        "sub_heading_wrbdzQ": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "HOW TO SET UP YOUR",
-            "sub_fs": "base"
+            "sub_heading_fs": "base"
           }
         },
-        "heading_LNx49V": {
+        "heading_h7XAMb": {
           "type": "heading",
           "settings": {
             "heading": "Stone Diffuser",
@@ -108,31 +110,33 @@
         }
       },
       "block_order": [
-        "sub_heading_EdTVLL",
-        "heading_LNx49V"
+        "sub_heading_wrbdzQ",
+        "heading_h7XAMb"
       ],
       "settings": {
-        "video_option": "1",
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-stone_set-up_video_desktop.mp4",
-        "external_video_url": "",
-        "external_video_frame": "",
-        "video_position": "right",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "image_last": true,
-        "content_position": "center",
+        "spacing_item": 30,
         "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
         "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_qcKXNa": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-stone_set-up_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -176,7 +180,7 @@
         "content_pl": 0,
         "image_last_mb": true,
         "content_position_mb": "center",
-        "alignment_mb": "center",
+        "alignment_mb": "left",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
@@ -365,44 +369,17 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
-    },
-    "video_2_a7CBfN": {
-      "type": "video-2",
-      "settings": {
-        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "video_ratio": "adapt_video",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "video_2_qcKXNa": {
-      "type": "video-2",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "video_ratio": "adapt_video",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "top_heading_TkKzrj",
-    "video_width_text2_LDcnfz",
-    "video_width_text2_YKGQqD",
+    "top_heading_fLpmV3",
+    "video_2_a7CBfN",
+    "top_heading_Pz44Tk",
+    "video_2_qcKXNa",
     "image_with_text_MreEGt",
     "image_with_text_tbWHUW",
     "accordion_jUzj9J",
-    "accordion_V3FMja",
-    "video_2_a7CBfN",
-    "video_2_qcKXNa"
+    "accordion_V3FMja"
   ]
 }
