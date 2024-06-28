@@ -1,17 +1,34 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "top_heading_TkKzrj": {
       "type": "top-heading",
       "blocks": {
+        "sub_heading_DUz8HB": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "QUICK START GUIDE",
+            "sub_heading_fs": "lg"
+          }
+        },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
-            "heading": "GET TO KNOW THE  GLOW DIFFUSER",
-            "heading_fs": "h3"
+            "heading": "Get to Know the Glow Diffuser",
+            "heading_fs": "h2"
           }
         }
       },
       "block_order": [
+        "sub_heading_DUz8HB",
         "heading_bkRD7y"
       ],
       "settings": {
@@ -22,6 +39,54 @@
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "video_2_Hk3GYX": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_TPdATp": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_LUqzgx": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are Ecomus",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_dUni4X": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LUqzgx",
+        "sub_heading_dUni4X"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -311,14 +376,110 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
+    },
+    "top_heading_kyMk96": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_L8JBqX": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are Ecomus",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_hyL6Rh": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_L8JBqX",
+        "sub_heading_hyL6Rh"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_8EzxFr": {
+      "type": "video-2",
+      "settings": {
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_Ln3Je6": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_V6JwDr": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are Ecomus",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_UGrxEJ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_V6JwDr",
+        "sub_heading_UGrxEJ"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_YYWjUK": {
+      "type": "video-2",
+      "settings": {
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "top_heading_TkKzrj",
+    "video_2_Hk3GYX",
+    "top_heading_TPdATp",
     "video_width_text2_LDcnfz",
     "video_width_text2_YKGQqD",
     "video_width_text2_GQEMFc",
     "accordion_jUzj9J",
-    "accordion_V3FMja"
+    "accordion_V3FMja",
+    "top_heading_kyMk96",
+    "video_2_8EzxFr",
+    "top_heading_Ln3Je6",
+    "video_2_YYWjUK"
   ]
 }
