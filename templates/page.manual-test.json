@@ -88,71 +88,10 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
-    },
-    "video_with_text_YrPQPi": {
-      "type": "video-with-text",
-      "blocks": {
-        "item_content_MCftAV": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Unscrew cap of 4EVERBTL™ and fill with water. Screw cap back on."
-          }
-        },
-        "item_content_wTgaWw": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Peel-off one blister individual seal and place tablet in the palm of your hand."
-          }
-        },
-        "item_content_6CpLby": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Add 3-8 drops of water and mix until tablet is fully dissolved."
-          }
-        },
-        "item_content_DG9gMG": {
-          "type": "item_content",
-          "settings": {
-            "content_text": "Apply on clean skin like any liquid serum!"
-          }
-        }
-      },
-      "block_order": [
-        "item_content_MCftAV",
-        "item_content_wTgaWw",
-        "item_content_6CpLby",
-        "item_content_DG9gMG"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "video_height": "adapt_image_first",
-        "fixed_height": 860,
-        "video_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_features_video.mp4",
-        "external_video_url": "",
-        "external_video_frame": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "video_position": "right",
-        "video_autoplay": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "top_heading_TkKzrj",
-    "video_width_text2_LDcnfz",
-    "video_with_text_YrPQPi"
+    "video_width_text2_LDcnfz"
   ]
 }
