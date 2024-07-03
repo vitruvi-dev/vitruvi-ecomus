@@ -22,6 +22,7 @@
         },
         "text_c9RHPY": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Up to 40% off seasonal favorites ☀️<\/p>",
             "adding_border": false
@@ -77,12 +78,12 @@
       ],
       "settings": {
         "full_width": true,
-        "year": 2030,
-        "month": 4,
-        "day": 19,
-        "hour": 12,
+        "year": 2024,
+        "month": 7,
+        "day": 9,
+        "hour": 0,
         "minute": 0,
-        "effect_cd": "move_top",
+        "effect_cd": "none",
         "uppercase": false,
         "prepend_number": false,
         "hide_on_complete": false,
