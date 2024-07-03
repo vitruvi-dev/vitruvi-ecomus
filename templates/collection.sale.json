@@ -62,15 +62,18 @@
     "countdown_text_9mEM7m": {
       "type": "countdown_text",
       "blocks": {
-        "text_369ihh": {
-          "type": "text",
+        "text_2_kXTz6w": {
+          "type": "text_2",
           "settings": {
-            "heading": "Sale"
+            "sub_heading": "Up to 40% off seasonal favorites, ending soon."
           }
         }
       },
       "block_order": [
-        "text_369ihh"
+        "text_2_kXTz6w"
+      ],
+      "custom_css": [
+        ".hdt-heading hdt-h4 {display: none;}"
       ],
       "settings": {
         "full_width": true,
