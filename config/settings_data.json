@@ -538,9 +538,9 @@
         "settings": {
           "text": "#000000",
           "text2": "#db1215",
-          "background": "#f7f8f6",
+          "background": "#ab4e52",
           "background_gradient": "",
-          "background2": "#e2eef6",
+          "background2": "#545454",
           "button": "#db1215",
           "button_label": "#b2c2a9",
           "button_border": "#db1215",
@@ -548,7 +548,7 @@
           "line_border": "#e2eef6",
           "overlay": "#b2c2a9",
           "pr_text": "#000000",
-          "price": "#474946",
+          "price": "#b2c2a9",
           "sale_price": "#ab4e52",
           "input_primary": "#ffffff",
           "input_secondary": "#db1215"
