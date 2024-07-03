@@ -23,12 +23,13 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>Ends tonight.<\/p>",
+            "text": "<p>Up to 40% off seasonal favorites ☀️<\/p>",
             "adding_border": false
           }
         },
         "countdown_GzDAET": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
@@ -83,7 +84,7 @@
         "countdown_UtpHpn": {
           "type": "countdown",
           "settings": {
-            "title": "",
+            "title": "Ends tonight.",
             "year": 2024,
             "month": 7,
             "day": 9,
@@ -101,7 +102,6 @@
       "block_order": [
         "countdown_UtpHpn"
       ],
-      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 200,
