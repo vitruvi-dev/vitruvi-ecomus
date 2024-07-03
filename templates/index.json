@@ -159,13 +159,45 @@
         "padding_rate": 75
       }
     },
+    "countdown_text_7Qr8m8": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_ACcXwy": {
+          "type": "text",
+          "settings": {
+            "heading": "One-Time Only"
+          }
+        }
+      },
+      "block_order": [
+        "text_ACcXwy"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2030,
+        "month": 4,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "d81e394c-3467-4709-a303-1d274f42da41": {
       "type": "featured-collection-grid",
       "custom_css": [
         ".hdt-collection-products {--spacing-y: 30px;}",
         ".hdt-view-all-btn {letter-spacing: 0.1px;}",
         "@media (min-width: 768px) {.hdt-collection-products {--spacing-y: 50px; }}",
-        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}"
+        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}",
+        ".hdt-section-main-heading {display: none;}"
       ],
       "settings": {
         "heading_align": "center",
@@ -543,6 +575,7 @@
     "video_GKb7jj",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
+    "countdown_text_7Qr8m8",
     "d81e394c-3467-4709-a303-1d274f42da41",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
