@@ -95,46 +95,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_HJgnxq": {
-      "type": "featured-collection-grid",
-      "disabled": true,
-      "settings": {
-        "heading_align": "start",
-        "sec_heading": "Best-Selling Diffusers",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 100,
-        "collection": "best-sellers",
-        "product_list": [
-
-        ],
-        "product_des": "4",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "tabs_collections_grid_q79MGA": {
       "type": "tabs-collections-grid",
       "blocks": {
@@ -164,7 +124,7 @@
         "tab_item_chFyKc"
       ],
       "custom_css": [
-
+        "h4 {font-family: \"Heldane\";}"
       ],
       "settings": {
         "tabs_heading": "Best-Selling Diffusers",
@@ -331,6 +291,9 @@
       "block_order": [
         "tab_item_knWkXz",
         "tab_item_6NBgVj"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}"
       ],
       "settings": {
         "tabs_heading": "Award-Winning Humidifiers",
@@ -506,6 +469,9 @@
         "tab_item_VhL7Ut",
         "tab_item_m96mgW"
       ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}"
+      ],
       "settings": {
         "tabs_heading": "All-Natural Scents",
         "heading_size": "h5",
@@ -613,7 +579,6 @@
   "order": [
     "hero_image_3w3ny6",
     "heading",
-    "featured_collection_grid_HJgnxq",
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
     "tabs_collections_grid_iwng4g",
