@@ -196,8 +196,7 @@
         ".hdt-collection-products {--spacing-y: 30px;}",
         ".hdt-view-all-btn {letter-spacing: 0.1px;}",
         "@media (min-width: 768px) {.hdt-collection-products {--spacing-y: 50px; }}",
-        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}",
-        ".hdt-section-main-heading {display: none;}"
+        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}"
       ],
       "settings": {
         "heading_align": "center",
