@@ -26,29 +26,11 @@
             "text": "<p>Ends tonight.<\/p>",
             "adding_border": false
           }
-        },
-        "countdown_rEtKhn": {
-          "type": "countdown",
-          "settings": {
-            "title": "",
-            "year": 2024,
-            "month": 7,
-            "day": 9,
-            "hour": 0,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": true,
-            "mess_complete": "",
-            "color_scheme": ""
-          }
         }
       },
       "block_order": [
         "heading_EWgKGd",
-        "text_c9RHPY",
-        "countdown_rEtKhn"
+        "text_c9RHPY"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}"
@@ -73,6 +55,54 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_qgF9F4": {
+      "type": "hero-image",
+      "blocks": {
+        "countdown_UtpHpn": {
+          "type": "countdown",
+          "settings": {
+            "title": "",
+            "year": 2024,
+            "month": 7,
+            "day": 9,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": true,
+            "mess_complete": "",
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "countdown_UtpHpn"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+        "image_mb": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -596,6 +626,7 @@
   },
   "order": [
     "hero_image_3w3ny6",
+    "hero_image_qgF9F4",
     "heading",
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
