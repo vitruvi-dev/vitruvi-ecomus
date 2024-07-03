@@ -26,11 +26,29 @@
             "text": "<p>Ends tonight.<\/p>",
             "adding_border": false
           }
+        },
+        "countdown_GzDAET": {
+          "type": "countdown",
+          "settings": {
+            "title": "",
+            "year": 2024,
+            "month": 7,
+            "day": 9,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "none",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": ""
+          }
         }
       },
       "block_order": [
         "heading_EWgKGd",
-        "text_c9RHPY"
+        "text_c9RHPY",
+        "countdown_GzDAET"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}"
@@ -83,6 +101,7 @@
       "block_order": [
         "countdown_UtpHpn"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 200,
