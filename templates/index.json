@@ -243,6 +243,7 @@
     },
     "d81e394c-3467-4709-a303-1d274f42da41": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "custom_css": [
         ".hdt-collection-products {--spacing-y: 30px;}",
         ".hdt-view-all-btn {letter-spacing: 0.1px;}",
