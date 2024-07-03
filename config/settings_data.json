@@ -537,7 +537,7 @@
       "scheme-9398d56e-f549-45a9-b621-617f6d9eeb60": {
         "settings": {
           "text": "#000000",
-          "text2": "#474946",
+          "text2": "#db1215",
           "background": "#f7f8f6",
           "background_gradient": "",
           "background2": "#e2eef6",
@@ -545,13 +545,13 @@
           "button_label": "#b2c2a9",
           "button_border": "#db1215",
           "secondary_button_label": "#b2c2a9",
-          "line_border": "#474946",
-          "overlay": "#474946",
+          "line_border": "#e2eef6",
+          "overlay": "#b2c2a9",
           "pr_text": "#000000",
           "price": "#474946",
           "sale_price": "#ab4e52",
           "input_primary": "#ffffff",
-          "input_secondary": "#474946"
+          "input_secondary": "#db1215"
         }
       }
     }
