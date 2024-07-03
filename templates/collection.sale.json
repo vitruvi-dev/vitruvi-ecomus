@@ -26,30 +26,11 @@
             "text": "<p>Up to 40% off seasonal favorites ☀️<\/p>",
             "adding_border": false
           }
-        },
-        "countdown_GzDAET": {
-          "type": "countdown",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "year": 2024,
-            "month": 7,
-            "day": 9,
-            "hour": 0,
-            "minute": 0,
-            "effect_cd": "none",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": "",
-            "color_scheme": ""
-          }
         }
       },
       "block_order": [
         "heading_EWgKGd",
-        "text_c9RHPY",
-        "countdown_GzDAET"
+        "text_c9RHPY"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}"
@@ -78,6 +59,112 @@
         "padding_rate": 75
       }
     },
+    "infinite_loop_slider_PNifHY": {
+      "type": "infinite-loop-slider",
+      "blocks": {
+        "image_9yEgC3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/transparent.png",
+            "link_img": "",
+            "target": false
+          }
+        },
+        "image_PAmAdN": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link_img": "",
+            "target": false
+          }
+        },
+        "image_yVhaMT": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link_img": "",
+            "target": false
+          }
+        },
+        "heading_bgLfdi": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Ecomus theme shopify",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_nn3TiU": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
+            "adding_border": false
+          }
+        },
+        "button_zR7k8k": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "countdown_KzWnKd": {
+          "type": "countdown",
+          "settings": {
+            "title": "Hungry up ! Deals end in :",
+            "year": 2030,
+            "month": 4,
+            "day": 19,
+            "hour": 12,
+            "minute": 0,
+            "effect_cd": "none",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": "scheme-9398d56e-f549-45a9-b621-617f6d9eeb60"
+          }
+        }
+      },
+      "block_order": [
+        "image_9yEgC3",
+        "image_PAmAdN",
+        "image_yVhaMT",
+        "heading_bgLfdi",
+        "text_nn3TiU",
+        "button_zR7k8k",
+        "countdown_KzWnKd"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "use_bg_content": false,
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "1",
+        "speed": 0.1,
+        "direction": "rtl",
+        "marquee_pause_when_hover": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "hero_image_qgF9F4": {
       "type": "hero-image",
       "blocks": {
@@ -102,6 +189,7 @@
       "block_order": [
         "countdown_UtpHpn"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 200,
@@ -645,6 +733,7 @@
   },
   "order": [
     "hero_image_3w3ny6",
+    "infinite_loop_slider_PNifHY",
     "hero_image_qgF9F4",
     "heading",
     "tabs_collections_grid_q79MGA",
