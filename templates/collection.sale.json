@@ -29,7 +29,6 @@
         },
         "countdown_LQEYWr": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "title": "",
             "year": 2030,
@@ -92,6 +91,7 @@
       "block_order": [
         "text_2_kXTz6w"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-row-flex {flex-direction: column;}",
         ".hdt-col-inner {justify-content: center; text-align: center;}"
