@@ -165,19 +165,19 @@
         "text_ACcXwy": {
           "type": "text",
           "settings": {
-            "heading": "Best-Sellers On Sale"
+            "heading": "Summer Sale Ends Soon"
           }
         },
         "button_k6gWgC": {
           "type": "button",
           "settings": {
-            "btn_label": "Shop Summer Sale",
+            "btn_label": "Shop Now",
             "btn_link": "shopify:\/\/collections\/summer-sale",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "2"
           }
         }
       },
