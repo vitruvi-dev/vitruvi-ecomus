@@ -85,7 +85,7 @@
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
           "settings": {
-            "content": "HURRY UP! SALE ENDS IN:",
+            "content": "Summer Sale Ending Soon",
             "icon_svg": "clock",
             "ani": "none"
           }
