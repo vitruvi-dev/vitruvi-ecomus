@@ -167,10 +167,23 @@
           "settings": {
             "heading": "Best-Sellers On Sale"
           }
+        },
+        "button_k6gWgC": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop Summer Sale",
+            "btn_link": "shopify:\/\/collections\/summer-sale",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
         }
       },
       "block_order": [
-        "text_ACcXwy"
+        "text_ACcXwy",
+        "button_k6gWgC"
       ],
       "custom_css": [
         "h4 {font-family: \"Heldane\";}"
