@@ -29,6 +29,7 @@
         },
         "countdown_LQEYWr": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "title": "",
             "year": 2030,
@@ -91,7 +92,6 @@
       "block_order": [
         "text_2_kXTz6w"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-row-flex {flex-direction: column;}",
         ".hdt-col-inner {justify-content: center; text-align: center;}"
@@ -109,7 +109,7 @@
         "hide_on_complete": false,
         "mess_complete": "",
         "color_scheme": "",
-        "padding_top": 15,
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
