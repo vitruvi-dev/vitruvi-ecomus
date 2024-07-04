@@ -47,7 +47,8 @@
     "collections_list_LcyKbA": {
       "type": "collections-list",
       "custom_css": [
-        "@media (min-width: 768px) {.hdt-slider__container {justify-content: center; }}"
+        "@media (min-width: 768px) {.hdt-slider__container {justify-content: center; }}",
+        ".hdt-collection-count {display: none;}"
       ],
       "settings": {
         "heading_align": "center",
