@@ -14,7 +14,6 @@
       "blocks": {
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
-          "disabled": true,
           "settings": {
           }
         },
@@ -46,6 +45,9 @@
     },
     "collections_list_LcyKbA": {
       "type": "collections-list",
+      "custom_css": [
+        ".hdt-slider__container {justify-content: center;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
