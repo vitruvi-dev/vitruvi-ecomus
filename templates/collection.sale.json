@@ -23,7 +23,7 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>Up to 40% off seasonal favorites ☀️<\/p>",
+            "text": "<p>Up to 40% off seasonal favorites ends tonight.<\/p>",
             "adding_border": false
           }
         }
@@ -65,7 +65,7 @@
         "text_2_kXTz6w": {
           "type": "text_2",
           "settings": {
-            "sub_heading": "Ends tonight."
+            "sub_heading": ""
           }
         }
       },
