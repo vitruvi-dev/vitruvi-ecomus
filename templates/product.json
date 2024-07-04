@@ -90,7 +90,7 @@
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
           "settings": {
-            "content": "Summer Sale Ending Soon",
+            "content": "Summer Sale Ends Soon",
             "icon_svg": "clock",
             "ani": "none"
           }
