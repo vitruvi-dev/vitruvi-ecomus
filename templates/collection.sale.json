@@ -36,7 +36,7 @@
             "day": 19,
             "hour": 12,
             "minute": 0,
-            "effect_cd": "move_top",
+            "effect_cd": "none",
             "uppercase": false,
             "prepend_number": false,
             "hide_on_complete": false,
@@ -51,7 +51,9 @@
         "countdown_LQEYWr"
       ],
       "custom_css": [
-        "h2 {font-family: \"Kaftan\";}"
+        "h2 {font-family: \"Kaftan\";}",
+        ".hdt-countdown__item {border-radius: 0px; font-weight: 100;}",
+        ".hdt-countdown__inner{font-weight: 100 important!;}"
       ],
       "settings": {
         "image_height": "fixed",
@@ -90,6 +92,7 @@
       "block_order": [
         "text_2_kXTz6w"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-row-flex {flex-direction: column;}",
         ".hdt-col-inner {justify-content: center; text-align: center;}"
