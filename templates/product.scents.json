@@ -82,10 +82,12 @@
             "progress_bar_max": 50
           }
         },
-        "8253e974-5acb-4076-9230-03b0f804dcdf": {
-          "type": "back_instock",
+        "countdown_timer_NCVUEc": {
+          "type": "countdown_timer",
           "settings": {
-            "only_show_soldout": true
+            "content": "Summer Sale Ends Soon",
+            "icon_svg": "clock",
+            "ani": "none"
           }
         },
         "description_Fh49zX": {
@@ -94,6 +96,12 @@
             "des": "1",
             "short_des": "",
             "length": 31
+          }
+        },
+        "8253e974-5acb-4076-9230-03b0f804dcdf": {
+          "type": "back_instock",
+          "settings": {
+            "only_show_soldout": true
           }
         }
       },
@@ -105,8 +113,9 @@
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
-        "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "description_Fh49zX"
+        "countdown_timer_NCVUEc",
+        "description_Fh49zX",
+        "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
