@@ -42,7 +42,6 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -99,6 +98,7 @@
       "block_order": [
         "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
@@ -185,6 +185,7 @@
         "text_ACcXwy",
         "button_k6gWgC"
       ],
+      "disabled": true,
       "custom_css": [
         "h4 {font-family: \"Heldane\";}"
       ],
@@ -208,6 +209,7 @@
     },
     "featured_collection_grid_6BDUmj": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "custom_css": [
         ".hdt-collection-products {--spacing-y: 30px;}",
         ".hdt-view-all-btn {letter-spacing: 0.1px;}",
@@ -216,7 +218,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "",
+        "sec_heading": "Best-Sellers",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "",
@@ -256,7 +258,6 @@
     },
     "d81e394c-3467-4709-a303-1d274f42da41": {
       "type": "featured-collection-grid",
-      "disabled": true,
       "custom_css": [
         ".hdt-collection-products {--spacing-y: 30px;}",
         ".hdt-view-all-btn {letter-spacing: 0.1px;}",
