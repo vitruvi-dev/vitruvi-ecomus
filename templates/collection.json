@@ -48,7 +48,7 @@
       "type": "collections-list",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Shop by categories",
+        "sec_heading": "",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
