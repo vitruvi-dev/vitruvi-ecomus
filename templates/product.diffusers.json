@@ -84,7 +84,6 @@
         },
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
-          "disabled": true,
           "settings": {
             "content": "HURRY UP! SALE ENDS IN:",
             "icon_svg": "clock",
