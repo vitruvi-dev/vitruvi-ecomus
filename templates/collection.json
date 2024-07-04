@@ -44,51 +44,6 @@
         "padding_rate": 75
       }
     },
-    "collections_list_LcyKbA": {
-      "type": "collections-list",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-slider__container {justify-content: center; }}",
-        ".hdt-collection-count {display: none;}"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": "{{ collection.metafields.ecomus.related_collections.value }}",
-        "collection_des": "4",
-        "content_size": "xl",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "center",
-        "content_padding": 30,
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "6",
-        "col_tb": "4",
-        "col_mb": "2",
-        "space_items": "x",
-        "half_item": false,
-        "navUI": false,
-        "nav_des": "simple",
-        "nav_pos": "middle_in",
-        "dotUI": true,
-        "dots_pos": "default",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "boxed_content": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 30,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
     "main": {
       "type": "main-collection",
       "custom_css": [
@@ -126,7 +81,6 @@
   },
   "order": [
     "heading",
-    "collections_list_LcyKbA",
     "main"
   ]
 }
