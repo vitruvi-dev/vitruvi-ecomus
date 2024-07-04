@@ -74,7 +74,8 @@
         "text_2_kXTz6w"
       ],
       "custom_css": [
-        ".hdt-section-inner {display: flex; flex-direction: col;}"
+        ".hdt-section-inner {align-items: center; justify-content: center; text-align: center;}",
+        ".hdt-row-flex {flex-direction: column;}"
       ],
       "settings": {
         "full_width": true,
