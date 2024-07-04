@@ -130,6 +130,37 @@
         "padding_rate": 75
       }
     },
+    "countdown_text_pwJCCt": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_zWiBPD": {
+          "type": "text",
+          "settings": {
+            "heading": "One-Time Only"
+          }
+        }
+      },
+      "block_order": [
+        "text_zWiBPD"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2030,
+        "month": 4,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "tabs_collections_grid_q79MGA": {
       "type": "tabs-collections-grid",
       "blocks": {
@@ -574,6 +605,7 @@
     "heading",
     "main",
     "hero_image_3w3ny6",
+    "countdown_text_pwJCCt",
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
     "tabs_collections_grid_iwng4g",
