@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "breacrumb": {
@@ -78,36 +87,12 @@
             "progress_bar_max": 50
           }
         },
-        "order_jbW4Fg": {
-          "type": "order",
-          "disabled": true,
-          "settings": {
-            "hide_pre": true,
-            "icon_svg": "delivery",
-            "ani": "none",
-            "txt": "Order in the next [hour] to get it between [date_start] and [date_end]",
-            "ds": 10,
-            "de": 15,
-            "mode": "1",
-            "cut_day": "SAT,SUN",
-            "off_days": "23\/12\/****\n24\/12\/****\n01\/01\/****",
-            "frm_day": "t44, t45 t46",
-            "time": "16:00:00"
-          }
-        },
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
-          "disabled": true,
           "settings": {
-            "content": "HURRY UP! SALE ENDS IN:",
+            "content": "Summer Sale Ending Soon",
             "icon_svg": "clock",
             "ani": "none"
-          }
-        },
-        "8253e974-5acb-4076-9230-03b0f804dcdf": {
-          "type": "back_instock",
-          "settings": {
-            "only_show_soldout": true
           }
         },
         "description_Fh49zX": {
@@ -116,6 +101,12 @@
             "des": "1",
             "short_des": "",
             "length": 31
+          }
+        },
+        "8253e974-5acb-4076-9230-03b0f804dcdf": {
+          "type": "back_instock",
+          "settings": {
+            "only_show_soldout": true
           }
         }
       },
@@ -128,10 +119,9 @@
         "appstle_subscription_appstle_subscription_product_page_widget_diCGNT",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
-        "order_jbW4Fg",
         "countdown_timer_pLgxfe",
-        "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "description_Fh49zX"
+        "description_Fh49zX",
+        "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
