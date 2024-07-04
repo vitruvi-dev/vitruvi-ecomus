@@ -75,7 +75,8 @@
       ],
       "custom_css": [
         ".hdt-section-inner {align-items: center; justify-content: center; text-align: center;}",
-        ".hdt-row-flex {flex-direction: column;}"
+        ".hdt-row-flex {flex-direction: column;}",
+        ".hdt-col-inner {justify-content: center;}"
       ],
       "settings": {
         "full_width": true,
