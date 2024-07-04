@@ -46,46 +46,6 @@
     },
     "collections_list_LcyKbA": {
       "type": "collections-list",
-      "blocks": {
-        "collection_item_9iDXpE": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": ""
-          }
-        },
-        "collection_item_yJtkkp": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": ""
-          }
-        },
-        "collection_item_qGHhmT": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": ""
-          }
-        },
-        "collection_item_pAWzU9": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_9iDXpE",
-        "collection_item_yJtkkp",
-        "collection_item_qGHhmT",
-        "collection_item_pAWzU9"
-      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Shop by categories",
@@ -104,7 +64,7 @@
         "text_transform": false,
         "content_position": "center",
         "content_padding": 30,
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "col_dk": "4",
         "col_tb": "2",
