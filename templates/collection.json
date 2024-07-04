@@ -61,7 +61,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection_list": "{{ collection.metafields.ecomus.related_collections.value }}",
-        "collection_des": "1",
+        "collection_des": "4",
         "content_size": "xl",
         "content_weight": "medium",
         "text_transform": false,
@@ -82,7 +82,7 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "boxed_content": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "padding_top": 30,
         "padding_bottom": 52,
         "padding_rate": 75
