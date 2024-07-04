@@ -85,7 +85,7 @@
         "countdown_timer_NCVUEc": {
           "type": "countdown_timer",
           "settings": {
-            "content": "Summer Sale Ends Soon",
+            "content": "Sale Ends Soon",
             "icon_svg": "clock",
             "ani": "none"
           }
