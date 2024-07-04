@@ -26,11 +26,29 @@
             "text": "<p>Up to 40% off seasonal favorites ends tonight.<\/p>",
             "adding_border": false
           }
+        },
+        "countdown_LQEYWr": {
+          "type": "countdown",
+          "settings": {
+            "title": "",
+            "year": 2030,
+            "month": 4,
+            "day": 19,
+            "hour": 12,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": ""
+          }
         }
       },
       "block_order": [
         "heading_EWgKGd",
-        "text_c9RHPY"
+        "text_c9RHPY",
+        "countdown_LQEYWr"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}"
