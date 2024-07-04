@@ -52,8 +52,8 @@
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px; font-weight: 100;}",
-        ".hdt-countdown__inner{font-weight: 100 important!;}"
+        ".hdt-countdown__item {border-radius: 0px;}",
+        ".hdt-hero-image__countdown {font-weight: 100 !important;}"
       ],
       "settings": {
         "image_height": "fixed",
