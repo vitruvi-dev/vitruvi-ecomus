@@ -186,7 +186,9 @@
         "button_k6gWgC"
       ],
       "custom_css": [
-        "h4 {font-family: \"Heldane\";}"
+        "h4 {font-family: \"Heldane\";}",
+        ".hdt-row-flex {flex-direction: column;}",
+        ".hdt-col-inner {justify-content: center; text-align: center;}"
       ],
       "settings": {
         "full_width": true,
