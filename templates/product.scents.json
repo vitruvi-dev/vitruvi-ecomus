@@ -84,6 +84,7 @@
         },
         "countdown_timer_NCVUEc": {
           "type": "countdown_timer",
+          "disabled": true,
           "settings": {
             "content": "Sale Ends Soon",
             "icon_svg": "clock",
