@@ -52,8 +52,8 @@
             "btn_link": "#",
             "target": false,
             "btn_size": "base",
-            "btn_style": "outline",
-            "btn_fw": "normal",
+            "btn_style": "link",
+            "btn_fw": "bold",
             "btn_icon": "none"
           }
         }
