@@ -1,0 +1,696 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "hero_image_3w3ny6": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_EWgKGd": {
+          "type": "heading",
+          "settings": {
+            "heading": "SUMMER SALE",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_c9RHPY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Up to 40% off sitewide ends soon.<\/p>",
+            "adding_border": false
+          }
+        },
+        "countdown_LQEYWr": {
+          "type": "countdown",
+          "settings": {
+            "title": "",
+            "year": 2024,
+            "month": 7,
+            "day": 9,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "none",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": "scheme-9398d56e-f549-45a9-b621-617f6d9eeb60"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EWgKGd",
+        "text_c9RHPY",
+        "countdown_LQEYWr"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\";}",
+        ".hdt-countdown__item {border-radius: 0px;}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_desktop.jpg",
+        "image_mb": "shopify:\/\/shop_images\/collection_summer-sale_header-mobile.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": true,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "countdown_text_9mEM7m": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_2_kXTz6w": {
+          "type": "text_2",
+          "settings": {
+            "sub_heading": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_2_kXTz6w"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".hdt-row-flex {flex-direction: column;}",
+        ".hdt-col-inner {justify-content: center; text-align: center;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2024,
+        "month": 7,
+        "day": 9,
+        "hour": 0,
+        "minute": 0,
+        "effect_cd": "none",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_qgF9F4": {
+      "type": "hero-image",
+      "blocks": {
+        "countdown_UtpHpn": {
+          "type": "countdown",
+          "settings": {
+            "title": "Ends tonight.",
+            "year": 2024,
+            "month": 7,
+            "day": 9,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": true,
+            "mess_complete": "",
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "countdown_UtpHpn"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/transparent.png",
+        "image_mb": "shopify:\/\/shop_images\/transparent.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "heading": {
+      "type": "heading-collection",
+      "blocks": {
+        "breadcrumb_CM7qtX": {
+          "type": "breadcrumb",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "description_Ddhb9a": {
+          "type": "description",
+          "settings": {
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb_CM7qtX",
+        "9a1347b4-da62-490d-9fd4-427a03686ac2",
+        "description_Ddhb9a"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing_hd": 5,
+        "color_scheme": "scheme-1",
+        "padding_top": 15,
+        "padding_bottom": 15,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_q79MGA": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_p7DMf4": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Diffusers",
+            "collection": "essential-oil-diffusers",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_chFyKc": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Diffuser Scents",
+            "collection": "essential-oils-for-diffusers",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_p7DMf4",
+        "tab_item_chFyKc"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "tabs_heading": "Best-Selling Diffusers",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "4",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_MNTtak": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_wGNqDt": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@silchuknest",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_Gd9rXf": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_5_sahnndra_diffuser-move_white.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@sahnndra",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_gYifcd": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@emilytartaglia",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_wGNqDt",
+        "banner_2_Gd9rXf",
+        "banner_2_gYifcd"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-size: 12px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_iwng4g": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_knWkXz": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Humidifiers",
+            "collection": "humidifiers",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_6NBgVj": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Filters & Accessories",
+            "collection": "essential-oils-for-diffusers",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_knWkXz",
+        "tab_item_6NBgVj"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "tabs_heading": "Award-Winning Humidifiers",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "normal",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "4",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_kG9KgW": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_UHXEme": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_1_sahnndra_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@sahnndra",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_8KTJnH": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_5_yana.sushchik_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@yana.sushchik",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_Lqe8wE": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_3_emilytartaglia_cloud-humidifier_dove.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@emilytartaglia",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_UHXEme",
+        "banner_2_8KTJnH",
+        "banner_2_Lqe8wE"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_UVDK3E": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_dMNMwh": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Diffuser Blends",
+            "collection": "essential-oil-blends",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_VhL7Ut": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Essential Oils",
+            "collection": "essential-oils",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_m96mgW": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Air Fresheners",
+            "collection": "natural-air-freshener-sprays",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_dMNMwh",
+        "tab_item_VhL7Ut",
+        "tab_item_m96mgW"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "tabs_heading": "All-Natural Scents",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "normal",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "4",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 16,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "product_des": "4",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 30,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
+      }
+    },
+    "banner_product_carousel_hgp3p4": {
+      "type": "banner-product-carousel",
+      "custom_css": [
+        "h4 {font-weight: 200;}"
+      ],
+      "settings": {
+        "heading": "Save on Sleep Bundles",
+        "label": "Set the stage for your best night's rest.",
+        "image": "shopify:\/\/shop_images\/collection_sleep-humidifier-bedside.jpg",
+        "external_video_url": "",
+        "banner_url": "",
+        "banner_target": false,
+        "image_height": "fixed",
+        "fixed_height": 500,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 250,
+        "collection": "sleep-bundles",
+        "product_list": [
+
+        ],
+        "products_count": 3,
+        "product_des": "4",
+        "image_ratio": "adapt_image",
+        "color_scheme": "",
+        "navUI": false,
+        "dotUI": true,
+        "content_position": "start-center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "hero_image_3w3ny6",
+    "countdown_text_9mEM7m",
+    "hero_image_qgF9F4",
+    "heading",
+    "tabs_collections_grid_q79MGA",
+    "banner_MNTtak",
+    "tabs_collections_grid_iwng4g",
+    "banner_kG9KgW",
+    "tabs_collections_grid_UVDK3E",
+    "main",
+    "banner_product_carousel_hgp3p4"
+  ]
+}
