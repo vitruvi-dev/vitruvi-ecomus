@@ -15,7 +15,7 @@
         "heading_EWgKGd": {
           "type": "heading",
           "settings": {
-            "heading": "SUMMER SALE",
+            "heading": "Summer Savings",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -43,12 +43,25 @@
             "mess_complete": "",
             "color_scheme": "scheme-9398d56e-f549-45a9-b621-617f6d9eeb60"
           }
+        },
+        "button_HeLgJM": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Use Code: SUMMER30",
+            "btn_link": "#",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "outline",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
         }
       },
       "block_order": [
         "heading_EWgKGd",
         "text_c9RHPY",
-        "countdown_LQEYWr"
+        "countdown_LQEYWr",
+        "button_HeLgJM"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
