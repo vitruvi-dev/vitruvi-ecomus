@@ -132,7 +132,7 @@
         "heading_g4CrCy": {
           "type": "heading",
           "settings": {
-            "heading": "Home Team Perks",
+            "heading": "Program Perks",
             "heading_fs": "h4"
           }
         },
@@ -208,15 +208,15 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/page_home-team_perks_image.png",
         "style_image": "1",
-        "image_effect": "lunc",
+        "image_effect": "zoom-in",
         "color_scheme": "",
         "image_last": true,
         "content_position": "center",
-        "alignment": "left",
+        "alignment": "center",
         "content_pl": 0,
         "image_last_mb": true,
         "content_position_mb": "center",
-        "alignment_mb": "left",
+        "alignment_mb": "center",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
