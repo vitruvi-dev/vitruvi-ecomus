@@ -85,8 +85,8 @@
       "settings": {
         "image_height": "fixed",
         "fixed_height": 400,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 200,
         "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop.png",
         "link_img": "",
         "target": false,
