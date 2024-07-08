@@ -1,0 +1,745 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "heading": {
+      "type": "main-heading",
+      "blocks": {
+        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
+          "type": "1",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "spacing_hd": 0,
+        "padding_top": 80,
+        "padding_bottom": 86,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_eattDT": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_bVGfVY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Take Care Club",
+            "heading_fs": "h1",
+            "heading_fw": "normal"
+          }
+        },
+        "button_WfcHyh": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Join the club",
+            "btn_link": "#smile-home",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "text_gJ8xRq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You’re invited to join our exclusive rewards program.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bVGfVY",
+        "button_WfcHyh",
+        "text_gJ8xRq"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\"; font-style: normal;}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 400,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 200,
+        "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_kprGGE": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_YGYAAm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Club Rules",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_zRAmmK": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YGYAAm",
+        "sub_heading_zRAmmK"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "banner_masonry_AUJMT4": {
+      "type": "banner-masonry",
+      "blocks": {
+        "banner_3_eNiYiw": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 1",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Sign Up",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "Create an account online—it’s fast and completely free.",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_PTTmH7": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 2",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Earn Points",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "Start earning points with purchases, reviews, and more.",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_AYfUnB": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 1",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Unlock Benefits",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "Redeem your points to unlock incredible Club perks.",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_eNiYiw",
+        "banner_3_PTTmH7",
+        "banner_3_AYfUnB"
+      ],
+      "settings": {
+        "row_height": 200,
+        "row_height_mb": 150,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_hzmrET": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_RHrRXn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Club Tiers",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RHrRXn"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "tabs_image_with_text_RaR4bp": {
+      "type": "tabs-image-with-text",
+      "blocks": {
+        "tab_item_jpCpDm": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Member",
+            "image_pos": "left",
+            "alignment": "left",
+            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_early-access_image_desktop.png",
+            "heading": "Member",
+            "content": "0 to 29,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "tab_item_EAFcze": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Insider",
+            "image_pos": "left",
+            "alignment": "left",
+            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_special-sale_image_desktop.png",
+            "heading": "Insider",
+            "content": "30,000 to 59,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>\n<br>\n➕ Early access to product drops and merch",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "tab_item_eyC3Ut": {
+          "type": "tab_item",
+          "settings": {
+            "title": "VIP",
+            "image_pos": "left",
+            "alignment": "left",
+            "image": "shopify:\/\/shop_images\/page_loyalty_club-perks_birthday-gift_image_desktop.png",
+            "heading": "VIP",
+            "content": "30,000 to 59,999 points\n<br><br>\n☑️ Welcome gift<br>\n☑️ Birthday gift<br>\n☑️ Exclusive members-only sale<br>\n☑️ Early access to seasonal sales<br>\n<br>\n➕ Early access to product drops and merch<br>\n➕ Personal shopping",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_jpCpDm",
+        "tab_item_EAFcze",
+        "tab_item_eyC3Ut"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "sec_heading": "",
+        "heading_tag": "h4",
+        "sec_heading_spacing": 30,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_jEprkm": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_HnF9L4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Take Care",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HnF9L4"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "icon_box_wAxxXq": {
+      "type": "icon-box",
+      "blocks": {
+        "item_F9A89M": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "leaf",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Sign up",
+            "content": "<p>7,000 points<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_C9MimC": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "payment2",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Shop",
+            "content": "<p>100 points for every $1 spent<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_37mtin": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "health",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Instagram Follow",
+            "content": "<p>3,000 points<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_xBRb9M": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "smile2",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Leave A Review",
+            "content": "<p>4,000 points<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_F9A89M",
+        "item_C9MimC",
+        "item_37mtin",
+        "item_xBRb9M"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Ways to Earn Points",
+        "heading_tag": "h3",
+        "heading_size": "text-lg",
+        "sec_subheading": "",
+        "subheading_size": "base",
+        "heading_reverse": true,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": true,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "carousel_mobile": false,
+        "border_style": "none",
+        "fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "icon_box_rGQcEN": {
+      "type": "icon-box",
+      "blocks": {
+        "item_NyTghB": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box2",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Stock Up",
+            "content": "<p>Use your points towards future orders: 3,500 points gets you $5 off.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_kn4BTd": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "payment",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Gift Card",
+            "content": "<p>Treat someone you love. Get a $25 gift card when you redeem 17,500 points.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_yT3iqe": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "smile",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Exclusive Products",
+            "content": "<p>During select times throughout the year, redeem your points for special items.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_NyTghB",
+        "item_kn4BTd",
+        "item_yT3iqe"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Ways to Redeem Points",
+        "heading_tag": "h3",
+        "heading_size": "text-lg",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": true,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "carousel_mobile": false,
+        "border_style": "none",
+        "fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "banner_masonry_yQFmjm": {
+      "type": "banner-masonry",
+      "blocks": {
+        "banner_1_CkUQqA": {
+          "type": "banner_1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_loyalty_hero_image_desktop.png",
+            "color_scheme": "scheme-3",
+            "banner_url": "#smile-home",
+            "banner_target": false,
+            "sub_heading": "Want in? We thought you might.",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "sub_heading_space": 15,
+            "heading_first": true,
+            "heading": "Club Status",
+            "heading_fs": "h2",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "btn_label": "Join the club",
+            "btn_link": "#smile-home",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "12",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_1_CkUQqA"
+      ],
+      "settings": {
+        "row_height": 200,
+        "row_height_mb": 150,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "accordion_neAdmh": {
+      "type": "accordion",
+      "blocks": {
+        "title_NUc3H7": {
+          "type": "title",
+          "settings": {
+            "title": "Frequently asked questions"
+          }
+        },
+        "accordion_item_Rqg93b": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I join the Take Care Club?",
+            "content": "To create a free Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, select “Join Now” to become a member.\n\nNote: if you have an existing Vitruvi account, you don’t need to create a separate Take Care Club account; simply sign in with your Vitruvi login information through the Take Care Club panel."
+          }
+        },
+        "accordion_item_JFE7iV": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I access my points and perks?",
+            "content": "To sign into your Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, click “Sign In” to access your membership information."
+          }
+        },
+        "accordion_item_6VkiNg": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I redeem my points?",
+            "content": "Sign into your Take Care Club account through the rewards panel on the bottom left corner. Select “Ways To Redeem” to view all of your available rewards. To use your points, click “Redeem.”"
+          }
+        },
+        "accordion_item_6WKEch": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I redeem my points towards subscription orders?",
+            "content": "No, points cannot be redeemed towards subscription orders."
+          }
+        },
+        "accordion_item_zeaWgJ": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Will my points expire?",
+            "content": "Yes—points expire two years after the date they were earned. We will send you a reminder 30 days before your points expire."
+          }
+        },
+        "accordion_item_kiXFNF": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Will my tier expire?",
+            "content": "No—you can move up in tiers, but not down. Once you’ve reached a higher tier, you will keep that status."
+          }
+        },
+        "accordion_item_AY6bdX": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I input my birthday?",
+            "content": "To add your birthday, log into your Take Care Club account and head to the Ways to Earn Section. You can then select Edit Date next to Celebrate a Birthday. If your birthday is within the next 30 days, please reach out to us at hello@vitruvi.com to be manually awarded."
+          }
+        },
+        "accordion_item_NrEfYm": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "When are birthday points awarded?",
+            "content": "The points will be rewarded on your birthday!"
+          }
+        },
+        "accordion_item_d7jPTL": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How does friend referral work?",
+            "content": "Make sure you’re signed in to your Take Care Club account. To grab your referral link, click the Rewards icon in the bottom left corner. Share your referral link with your friend; once they click into your referral link and enter their email address, they will receive a $10 off discount code. Then, once your friend places their first order, you will receive a $10 off discount code. Please note that friend referrals are only available for customers who have never made a purchase with us or shared their email with us before."
+          }
+        },
+        "accordion_item_AKnQdE": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What happens to my earned points if I return my order?",
+            "content": "If you return an order, the points earned on that purchase will automatically be removed from your balance."
+          }
+        },
+        "accordion_item_HhxnKY": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What happens to my redeemed points if I return my order?",
+            "content": "Any points that you redeemed on an order you now wish to return will not be automatically added back to your account. That said, we’d be happy to help you out with this; please reach out to us at hello@vitruvi.com for support."
+          }
+        }
+      },
+      "block_order": [
+        "title_NUc3H7",
+        "accordion_item_Rqg93b",
+        "accordion_item_JFE7iV",
+        "accordion_item_6VkiNg",
+        "accordion_item_6WKEch",
+        "accordion_item_zeaWgJ",
+        "accordion_item_kiXFNF",
+        "accordion_item_AY6bdX",
+        "accordion_item_NrEfYm",
+        "accordion_item_d7jPTL",
+        "accordion_item_AKnQdE",
+        "accordion_item_HhxnKY"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "main",
+    "hero_image_eattDT",
+    "top_heading_kprGGE",
+    "banner_masonry_AUJMT4",
+    "top_heading_hzmrET",
+    "tabs_image_with_text_RaR4bp",
+    "top_heading_jEprkm",
+    "icon_box_wAxxXq",
+    "icon_box_rGQcEN",
+    "banner_masonry_yQFmjm",
+    "accordion_neAdmh"
+  ]
+}
