@@ -23,7 +23,7 @@
         "text_gJ8xRq": {
           "type": "text",
           "settings": {
-            "text": "<p>The Home Team is our amazing community of ambassadors.<\/p>",
+            "text": "<p>The Home Team is our amazing community of affiliates.<\/p>",
             "adding_border": false
           }
         },
@@ -89,67 +89,6 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_TDhf78": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_LpckxM": {
-          "type": "heading",
-          "settings": {
-            "heading": "60% Discount",
-            "heading_fs": "h3"
-          }
-        },
-        "count_down_DJaNck": {
-          "type": "count_down",
-          "settings": {
-            "color_scheme": "",
-            "title": "Hungry up ! Deals end in :",
-            "year": 2030,
-            "month": 4,
-            "day": 19,
-            "hour": 12,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": ""
-          }
-        },
-        "button_VzjbQW": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_LpckxM",
-        "count_down_DJaNck",
-        "button_VzjbQW"
-      ],
-      "settings": {
-        "style_image": "1",
-        "image_effect": "lunc",
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -226,22 +165,13 @@
         "heading_YGYAAm": {
           "type": "heading",
           "settings": {
-            "heading": "Club Rules",
+            "heading": "How It Works",
             "heading_fs": "h4"
-          }
-        },
-        "sub_heading_zRAmmK": {
-          "type": "sub_heading",
-          "disabled": true,
-          "settings": {
-            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
-            "sub_heading_fs": "base"
           }
         }
       },
       "block_order": [
-        "heading_YGYAAm",
-        "sub_heading_zRAmmK"
+        "heading_YGYAAm"
       ],
       "settings": {
         "spacing_item": 30,
@@ -268,11 +198,11 @@
             "sub_heading_fs": "base",
             "sub_heading_fw": "bold",
             "sub_heading_space": 12,
-            "heading": "Sign Up",
+            "heading": "Apply",
             "heading_fs": "h5",
             "heading_fw": "semibold",
             "heading_space": 30,
-            "desc": "Create an account online—it’s fast and completely free.",
+            "desc": "Fill out an application so that we can get to know you.",
             "des_space": 40,
             "btn_label": "",
             "btn_link": "",
@@ -303,11 +233,11 @@
             "sub_heading_fs": "base",
             "sub_heading_fw": "bold",
             "sub_heading_space": 12,
-            "heading": "Earn Points",
+            "heading": "Connect",
             "heading_fs": "h5",
             "heading_fw": "semibold",
             "heading_space": 30,
-            "desc": "Start earning points with purchases, reviews, and more.",
+            "desc": "If your application is accepted, we’ll reach out to provide you with products and posting guidelines.",
             "des_space": 40,
             "btn_label": "",
             "btn_link": "",
@@ -338,11 +268,11 @@
             "sub_heading_fs": "base",
             "sub_heading_fw": "bold",
             "sub_heading_space": 12,
-            "heading": "Unlock Benefits",
+            "heading": "Create",
             "heading_fs": "h5",
             "heading_fw": "semibold",
             "heading_space": 30,
-            "desc": "Redeem your points to unlock incredible Club perks.",
+            "desc": "Share your products with your audience, and earn commission on any orders that are placed with your unique code or link.",
             "des_space": 40,
             "btn_label": "",
             "btn_link": "",
@@ -845,7 +775,6 @@
   },
   "order": [
     "hero_image_eattDT",
-    "image_with_text_TDhf78",
     "top_heading_6Wnbyj",
     "heading",
     "main",
