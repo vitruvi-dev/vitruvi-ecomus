@@ -411,120 +411,6 @@
         "padding_rate": 75
       }
     },
-    "banner_JanUnJ": {
-      "type": "banner",
-      "blocks": {
-        "banner_3_c4k39U": {
-          "type": "banner_3",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_4LJJya": {
-          "type": "banner_3",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_DYV7iY": {
-          "type": "banner_3",
-          "settings": {
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "banner_3_c4k39U",
-        "banner_3_4LJJya",
-        "banner_3_DYV7iY"
-      ],
-      "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "col_dk": "3",
-        "row_height": 500,
-        "content_pd_y": 15,
-        "content_pd_x": 15,
-        "space_item": 30,
-        "col_tb": "2",
-        "row_height_tb": 500,
-        "space_item_tb": 15,
-        "row_height_mb": 250,
-        "space_item_mb": 15,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "accordion_neAdmh": {
       "type": "accordion",
       "blocks": {
@@ -648,7 +534,6 @@
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
     "hero_image_xMbfBr",
-    "banner_JanUnJ",
     "accordion_neAdmh"
   ]
 }
