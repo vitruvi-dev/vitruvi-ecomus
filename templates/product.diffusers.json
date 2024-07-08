@@ -309,86 +309,34 @@
     "banner_gdzX4R": {
       "type": "banner",
       "blocks": {
-        "banner_2_wGNqDt": {
+        "banner_2_Lk6MJG": {
           "type": "banner_2",
           "settings": {
-            "image": "{{ product.metafields.ecomus.banner_1_media.value }}",
-            "color_scheme": "scheme-3",
+            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
-            "heading": "{{ product.metafields.ecomus.banner_1_heading.value }}",
+            "heading": "UV charger",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
-            "sub_heading": "",
+            "sub_heading": "Every piece is made to last beyond the season",
             "sub_heading_fs": "base",
             "sub_heading_fw": "normal",
-            "btn_label": "",
+            "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        },
-        "banner_2_Gd9rXf": {
-          "type": "banner_2",
-          "settings": {
-            "image": "{{ product.metafields.ecomus.banner_2_media.value }}",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "{{ product.metafields.ecomus.banner_2_heading.value }}",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        },
-        "banner_2_gYifcd": {
-          "type": "banner_2",
-          "settings": {
-            "image": "{{ product.metafields.ecomus.banner_3_media.value }}",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "{{ product.metafields.ecomus.banner_3_heading.value }}",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
+            "btn_icon": "1",
+            "alignment": "center",
+            "alignment_mb": "center"
           }
         }
       },
       "block_order": [
-        "banner_2_wGNqDt",
-        "banner_2_Gd9rXf",
-        "banner_2_gYifcd"
+        "banner_2_Lk6MJG"
       ],
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
