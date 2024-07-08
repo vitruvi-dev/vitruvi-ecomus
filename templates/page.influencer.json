@@ -181,13 +181,13 @@
         "button_NmpJnn": {
           "type": "button",
           "settings": {
-            "btn_label": "Shop now",
+            "btn_label": "JOIN NOW",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
             "btn_fw": "normal",
-            "btn_icon": "1"
+            "btn_icon": "none"
           }
         }
       },
@@ -200,6 +200,10 @@
         "sub_heading_pAYTtT",
         "label_WfCBMq",
         "button_NmpJnn"
+      ],
+      "custom_css": [
+        ".hdt-label {font-weight: 200;}",
+        ".hdt-subheading {font-weight: 400;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/page_home-team_perks_image.png",
