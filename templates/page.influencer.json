@@ -182,7 +182,7 @@
           "type": "button",
           "settings": {
             "btn_label": "JOIN NOW",
-            "btn_link": "",
+            "btn_link": "https:\/\/api.collabs.shopify.com\/creator\/signup\/community_application\/3ec6f7fd3ae66ecc",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
