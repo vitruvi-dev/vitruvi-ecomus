@@ -222,6 +222,48 @@
         "padding_rate": 75
       }
     },
+    "hero_image_xMbfBr": {
+      "type": "hero-image",
+      "blocks": {
+        "button_qXbmFh": {
+          "type": "button",
+          "settings": {
+            "btn_label": "START YOUR APPLICATION",
+            "btn_link": "https:\/\/api.collabs.shopify.com\/creator\/signup\/community_application\/3ec6f7fd3ae66ecc",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "button_qXbmFh"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/transparent.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "top_heading_kprGGE": {
       "type": "top-heading",
       "blocks": {
@@ -488,6 +530,7 @@
     "heading",
     "main",
     "image_with_text_cEXAjM",
+    "hero_image_xMbfBr",
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
     "accordion_neAdmh"
