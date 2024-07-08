@@ -9,40 +9,6 @@
 */
 {
   "sections": {
-    "heading": {
-      "type": "main-heading",
-      "blocks": {
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
-          "type": "1",
-          "settings": {
-            "heading": "",
-            "heading_size": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "spacing_hd": 0,
-        "padding_top": 80,
-        "padding_bottom": 86,
-        "padding_rate": 75
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
     "hero_image_eattDT": {
       "type": "hero-image",
       "blocks": {
@@ -101,6 +67,40 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "heading": {
+      "type": "main-heading",
+      "blocks": {
+        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
+          "type": "1",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "spacing_hd": 0,
+        "padding_top": 80,
+        "padding_bottom": 86,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
         "padding_bottom": 36,
         "padding_rate": 75
       }
@@ -729,9 +729,9 @@
     }
   },
   "order": [
+    "hero_image_eattDT",
     "heading",
     "main",
-    "hero_image_eattDT",
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
     "top_heading_hzmrET",
