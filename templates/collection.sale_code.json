@@ -27,29 +27,11 @@
             "adding_border": false
           }
         },
-        "countdown_LQEYWr": {
-          "type": "countdown",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "year": 2024,
-            "month": 7,
-            "day": 9,
-            "hour": 0,
-            "minute": 0,
-            "effect_cd": "none",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": "",
-            "color_scheme": "scheme-9398d56e-f549-45a9-b621-617f6d9eeb60"
-          }
-        },
         "button_HeLgJM": {
           "type": "button",
           "settings": {
             "btn_label": "Use Code: SUMMER30",
-            "btn_link": "\/discount\/SUMMER30?redirect=%2Fcollections%2Fsummer-savings",
+            "btn_link": "shopify:\/\/collections\/summer-savings",
             "target": false,
             "btn_size": "base",
             "btn_style": "link",
@@ -61,7 +43,6 @@
       "block_order": [
         "heading_EWgKGd",
         "text_c9RHPY",
-        "countdown_LQEYWr",
         "button_HeLgJM"
       ],
       "custom_css": [
