@@ -224,7 +224,7 @@
     "product": {
       "quick_add": "Quick add",
       "quick_view": "Quick view",
-      "pre_order": "ADD TO BAG",
+      "pre_order": "PRE-ORDER",
       "add_to_cart": "ADD TO BAG",
       "add_selected_to_cart": "Add selected to cart",
       "choose_options": "Choose options",
@@ -238,7 +238,7 @@
       "inventory_low_stock": "Low stock",
       "inventory_low_stock_show_count_html": "Low stock: <span data-quantity>{{ quantity }}<\/span> left",
       "inventory_out_of_stock": "Out of stock",
-      "inventory_out_of_stock_continue_selling": "Low stock",
+      "inventory_out_of_stock_continue_selling": "Pre-Order",
       "will_not_ship_until_html": "Will not ship until <span data-incoming-date>{{ date }}<\/span>",
       "will_be_in_stock_after_html": "Will be in stock after <span data-incoming-date>{{ date }}<\/span>",
       "sku": "SKU:",
