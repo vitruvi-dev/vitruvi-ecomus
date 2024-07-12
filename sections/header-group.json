@@ -24,7 +24,7 @@
         "announcement_DzM7TW": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Limited Time: Free Shipping with code <span style=\"text-decoration:underline\"><strong>FREESHIP<\/strong><\/span><\/a>"
+            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Free Shipping with Code <span style=\"text-decoration:underline\"><strong>FREESHIP<\/strong><\/span> <\/a><a href=\"\/collections\/shop-all\" title=\"Shop All\">–<\/a><a href=\"\/collections\/shop-all\" title=\"Shop All\"> Limited Time<\/a>"
           }
         }
       },
