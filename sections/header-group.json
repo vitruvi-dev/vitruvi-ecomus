@@ -24,7 +24,7 @@
         "announcement_DzM7TW": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Limited Time: Free Shipping with code FREESHIP<\/a>"
+            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Limited Time: Free Shipping with code <strong>FREESHIP<\/strong><\/a>"
           }
         }
       },
