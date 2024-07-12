@@ -12,6 +12,12 @@
     "video_GKb7jj": {
       "type": "video",
       "blocks": {
+        "label_4V4jzj": {
+          "type": "label",
+          "settings": {
+            "label": "EXCLUSIVE OFFER"
+          }
+        },
         "heading_FQ3wCc": {
           "type": "heading",
           "settings": {
@@ -21,7 +27,7 @@
         "sub_heading_cjY6qn": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents."
+            "sub_heading": "Get free Shipping on all Orders with Code FREESHIP."
           }
         },
         "button_widJMP": {
@@ -38,6 +44,7 @@
         }
       },
       "block_order": [
+        "label_4V4jzj",
         "heading_FQ3wCc",
         "sub_heading_cjY6qn",
         "button_widJMP"
@@ -45,6 +52,58 @@
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
+      "settings": {
+        "image_height": "full",
+        "fixed_height": 860,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "video": "shopify:\/\/files\/videos\/home_hero-video_2024-06.mp4",
+        "external_video_url": "",
+        "content_bg": false,
+        "color_scheme": "scheme-3",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
+    "video_QeHhEF": {
+      "type": "video",
+      "blocks": {
+        "heading_CzarDM": {
+          "type": "heading",
+          "settings": {
+            "heading": "MAKE THE AIR YOURS"
+          }
+        },
+        "sub_heading_j6W4Hc": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents."
+          }
+        },
+        "button_WXJFph": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP NOW",
+            "btn_link": "shopify:\/\/collections\/shop-all",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CzarDM",
+        "sub_heading_j6W4Hc",
+        "button_WXJFph"
+      ],
+      "disabled": true,
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
@@ -74,10 +133,10 @@
             "url": "shopify:\/\/collections\/summer-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>UP TO<\/strong><\/p><p>40% off<\/p><p>sitewide<\/p>",
+            "heading": "<p>Make the Air Yours<\/p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Brighten your summer days ☀️. Shop our seasonal favorites with special discounts just for you.",
+            "sub_heading": "Weekend Special: Free Shipping on All Orders with Code FREESHIP",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP SUMMER SALE",
@@ -165,11 +224,12 @@
         "text_ACcXwy": {
           "type": "text",
           "settings": {
-            "heading": "Summer Sale Ends Soon"
+            "heading": "Free Shipping"
           }
         },
         "button_k6gWgC": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "btn_label": "Shop Now",
             "btn_link": "shopify:\/\/collections\/summer-sale",
@@ -193,7 +253,7 @@
         "full_width": true,
         "year": 2024,
         "month": 7,
-        "day": 9,
+        "day": 16,
         "hour": 0,
         "minute": 0,
         "effect_cd": "none",
@@ -218,7 +278,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Best-Sellers",
+        "sec_heading": "",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "",
@@ -638,6 +698,7 @@
   },
   "order": [
     "video_GKb7jj",
+    "video_QeHhEF",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "countdown_text_7Qr8m8",
