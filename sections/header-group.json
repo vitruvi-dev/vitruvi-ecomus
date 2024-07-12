@@ -24,7 +24,7 @@
         "announcement_DzM7TW": {
           "type": "announcement",
           "settings": {
-            "text": "Free Shipping on All Orders with Code <span style=\"text-decoration:underline\"><strong>FREESHIP<\/strong><\/span>"
+            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Free Shipping on All Orders with Code <span style=\"text-decoration:underline\"><strong>FREESHIP<\/strong><\/span><\/a>"
           }
         }
       },
