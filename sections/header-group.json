@@ -16,13 +16,21 @@
       "blocks": {
         "announcement_RzCepp": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
+          }
+        },
+        "announcement_DzM7TW": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Limited Time: Free Shipping with code FREESHIP<\/a>"
           }
         }
       },
       "block_order": [
-        "announcement_RzCepp"
+        "announcement_RzCepp",
+        "announcement_DzM7TW"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
