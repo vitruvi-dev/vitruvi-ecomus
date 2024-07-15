@@ -115,7 +115,7 @@
       ],
       "custom_css": [
         "h4 {font-family: \"Heldane\";}",
-        ".hdt-tabs-head {align-items: center;}"
+        ".hdt-tabs-head {justify-content: center;}"
       ],
       "settings": {
         "tabs_heading": "",
