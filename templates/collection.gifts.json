@@ -306,6 +306,9 @@
         "package_Ke8f3Y",
         "package_kAXKYA"
       ],
+      "custom_css": [
+        ".hdt-main-price-table {max-width: 80%; align-items: center; justify-content: center;}"
+      ],
       "settings": {
         "top_heading": "Browse curated bundles",
         "heading_tag": "h2",
@@ -317,7 +320,7 @@
         "image_ratio": "square",
         "image_size": true,
         "col_dk": "2",
-        "col_tb": "3",
+        "col_tb": "2",
         "col_mb": "2",
         "navUI": false,
         "dotUI": false,
