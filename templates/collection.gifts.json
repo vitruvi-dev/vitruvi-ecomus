@@ -142,6 +142,7 @@
       ],
       "settings": {
         "product": "starter-stone-diffuser-bundle",
+        "image": "shopify:\/\/shop_images\/pdp_starter-bundle_white_gallery_1_v5_image_6b276a4f-d673-4ecf-a942-216a6eb49369.png",
         "media_width": 50,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
