@@ -702,8 +702,8 @@
           "settings": {
             "color_scheme": "",
             "product": "starter-stone-diffuser-bundle",
-            "show_vendor": true,
-            "label_cl": "#FF3232",
+            "show_vendor": false,
+            "label_cl": "#474946",
             "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
             "btn_label": "CUSTOMIZE YOUR BUNDLE",
             "target": false,
