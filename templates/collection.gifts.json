@@ -137,6 +137,9 @@
         "view_products_details_NnDDax",
         "custom_liquid_HfAWjC"
       ],
+      "custom_css": [
+        ".hdt-slider__viewport {display: none;}"
+      ],
       "settings": {
         "product": "starter-stone-diffuser-bundle",
         "media_width": 50,
