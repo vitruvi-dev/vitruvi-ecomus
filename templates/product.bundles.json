@@ -126,7 +126,7 @@
         "media_width": 50,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
+        "mobile_media_layout": "fraction",
         "show_first_media": false,
         "use_select_varaint_change_media": true,
         "enable_media_autoplay": true,
