@@ -119,9 +119,7 @@
         "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}",
-        ".hdt-slider__slide {display: none;}",
-        ".hdt-slider__slide:first-child {display: block;}"
+        ".hdt-sticky-atc__qty-selector {display: none;}"
       ],
       "settings": {
         "space_content_media": true,
@@ -141,7 +139,7 @@
         "zoom_level": 2,
         "max_zoom_lightbox": 3,
         "sticky_atc": true,
-        "navUI": true,
+        "navUI": false,
         "nav_des": "default",
         "color_scheme": "scheme-1",
         "padding_top": 0,
