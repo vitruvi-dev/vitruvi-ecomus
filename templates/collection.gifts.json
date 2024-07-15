@@ -98,6 +98,16 @@
             ]
           }
         },
+        "tab_item_7y6aWW": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Gifts Under $100",
+            "collection": "gifts-under-100",
+            "product_list": [
+
+            ]
+          }
+        },
         "tab_item_chFyKc": {
           "type": "tab_item",
           "settings": {
@@ -111,6 +121,7 @@
       },
       "block_order": [
         "tab_item_p7DMf4",
+        "tab_item_7y6aWW",
         "tab_item_chFyKc"
       ],
       "custom_css": [
