@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "Find the perfect gift",
-            "heading_fs": "h4"
+            "heading_fs": "h3"
           }
         },
         "sub_heading_nUijdA": {
@@ -44,11 +44,12 @@
     },
     "featured_collection_grid_yRaTqb": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Summer Essentials",
-        "heading_tag": "h3",
-        "heading_size": "h4",
+        "sec_heading": "Best Sellers",
+        "heading_tag": "h2",
+        "heading_size": "h5",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
@@ -81,6 +82,70 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_q79MGA": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_p7DMf4": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Diffusers",
+            "collection": "essential-oil-diffusers",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_chFyKc": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Diffuser Scents",
+            "collection": "essential-oils-for-diffusers",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_p7DMf4",
+        "tab_item_chFyKc"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "tabs_heading": "",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "4",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -272,70 +337,6 @@
         "color_scheme": "scheme-1",
         "padding_top": 15,
         "padding_bottom": 15,
-        "padding_rate": 75
-      }
-    },
-    "tabs_collections_grid_q79MGA": {
-      "type": "tabs-collections-grid",
-      "blocks": {
-        "tab_item_p7DMf4": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Diffusers",
-            "collection": "essential-oil-diffusers",
-            "product_list": [
-
-            ]
-          }
-        },
-        "tab_item_chFyKc": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Diffuser Scents",
-            "collection": "essential-oils-for-diffusers",
-            "product_list": [
-
-            ]
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_p7DMf4",
-        "tab_item_chFyKc"
-      ],
-      "custom_css": [
-        "h4 {font-family: \"Heldane\";}"
-      ],
-      "settings": {
-        "tabs_heading": "Best-Selling Diffusers",
-        "heading_size": "h5",
-        "heading_inline": true,
-        "tabs_head_spacing": 30,
-        "tabs_des": "underline",
-        "tab_item_size": "lg",
-        "tab_item_weight": "medium",
-        "text_transform": false,
-        "border_width": 2,
-        "spacing_items": 30,
-        "product_des": "4",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "view_all",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "outline",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -759,11 +760,11 @@
   "order": [
     "top_heading_pMLWNL",
     "featured_collection_grid_yRaTqb",
+    "tabs_collections_grid_q79MGA",
     "hero_image_3w3ny6",
     "countdown_text_9mEM7m",
     "hero_image_qgF9F4",
     "heading",
-    "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
     "tabs_collections_grid_iwng4g",
     "banner_kG9KgW",
