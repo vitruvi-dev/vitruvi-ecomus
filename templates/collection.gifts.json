@@ -457,169 +457,6 @@
         "padding_rate": 75
       }
     },
-    "featured_product_Ta44Cg": {
-      "type": "featured-product",
-      "blocks": {
-        "title_cYWzYg": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "price_zrMtRb": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "custom_liquid_HfAWjC": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "123123123"
-          }
-        },
-        "description_9Be6f3": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "buy_buttons_QiJdk7": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": false,
-            "show_wishlist": false,
-            "show_compare": false
-          }
-        },
-        "view_products_details_NnDDax": {
-          "type": "view_products_details",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "title_cYWzYg",
-        "price_zrMtRb",
-        "custom_liquid_HfAWjC",
-        "description_9Be6f3",
-        "buy_buttons_QiJdk7",
-        "view_products_details_NnDDax"
-      ],
-      "custom_css": [
-        ".hdt-slider__viewport {display: none;}"
-      ],
-      "settings": {
-        "product": "starter-stone-diffuser-bundle",
-        "image": "shopify:\/\/shop_images\/pdp_starter-bundle_white_gallery_1_v5_image_6b276a4f-d673-4ecf-a942-216a6eb49369.png",
-        "media_width": 50,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_rnLDWN": {
-      "type": "featured-product",
-      "blocks": {
-        "title_wFUYPm": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "price_CXMyxA": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "custom_liquid_padr8i": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "123123123"
-          }
-        },
-        "description_Ja7JE9": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "buy_buttons_kQMKWA": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": false,
-            "show_wishlist": false,
-            "show_compare": false
-          }
-        },
-        "view_products_details_b4FdjT": {
-          "type": "view_products_details",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "title_wFUYPm",
-        "price_CXMyxA",
-        "custom_liquid_padr8i",
-        "description_Ja7JE9",
-        "buy_buttons_kQMKWA",
-        "view_products_details_b4FdjT"
-      ],
-      "settings": {
-        "product": "good-air-cloud-humidifier-bundle",
-        "image": "shopify:\/\/shop_images\/pdp_good-air-bundle_white_gallery_1_image_3c100fe4-a5ce-4c38-98b3-bbaeff3be5aa.png",
-        "media_width": 50,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
     "main": {
       "type": "main-collection",
       "disabled": true,
@@ -655,45 +492,6 @@
         "sidebar_size": "medium"
       }
     },
-    "featured_collection_grid_egEiyY": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Summer Essentials",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "archive-sale",
-        "product_list": [
-
-        ],
-        "product_des": "11",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "price_tables_Kxrm86": {
       "type": "price_tables",
       "blocks": {
@@ -704,7 +502,7 @@
             "product": "starter-stone-diffuser-bundle",
             "show_vendor": false,
             "label_cl": "#474946",
-            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
+            "content": "",
             "btn_label": "CUSTOMIZE YOUR BUNDLE",
             "target": false,
             "btn_size": "base",
@@ -717,7 +515,7 @@
           "type": "package",
           "settings": {
             "color_scheme": "",
-            "product": "",
+            "product": "good-air-cloud-humidifier-bundle",
             "show_vendor": true,
             "label_cl": "#FF3232",
             "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
@@ -733,7 +531,7 @@
           "type": "package",
           "settings": {
             "color_scheme": "",
-            "product": "",
+            "product": "best-sleep-diffuser-humidifier-bundle",
             "show_vendor": true,
             "label_cl": "#FF3232",
             "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
@@ -783,10 +581,7 @@
     "hero_image_qgF9F4",
     "heading",
     "banner_MNTtak",
-    "featured_product_Ta44Cg",
-    "featured_product_rnLDWN",
     "main",
-    "featured_collection_grid_egEiyY",
     "price_tables_Kxrm86"
   ]
 }
