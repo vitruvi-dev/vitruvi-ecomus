@@ -95,13 +95,21 @@
         },
         "price_zrMtRb": {
           "type": "price",
+          "disabled": true,
           "settings": {
+          }
+        },
+        "custom_liquid_HfAWjC": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "123123123"
           }
         },
         "description_9Be6f3": {
           "type": "description",
           "settings": {
-            "des": "2",
+            "des": "1",
             "short_des": "",
             "length": 31
           }
@@ -121,21 +129,15 @@
           "type": "view_products_details",
           "settings": {
           }
-        },
-        "custom_liquid_HfAWjC": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "123123123"
-          }
         }
       },
       "block_order": [
         "title_cYWzYg",
         "price_zrMtRb",
+        "custom_liquid_HfAWjC",
         "description_9Be6f3",
         "buy_buttons_QiJdk7",
-        "view_products_details_NnDDax",
-        "custom_liquid_HfAWjC"
+        "view_products_details_NnDDax"
       ],
       "custom_css": [
         ".hdt-slider__viewport {display: none;}"
