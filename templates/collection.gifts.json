@@ -108,17 +108,24 @@
         },
         "buy_buttons_QiJdk7": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": true,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": false,
+            "show_wishlist": false,
             "show_compare": false
           }
         },
         "view_products_details_NnDDax": {
           "type": "view_products_details",
           "settings": {
+          }
+        },
+        "custom_liquid_HfAWjC": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "123123123"
           }
         }
       },
@@ -127,10 +134,11 @@
         "price_zrMtRb",
         "description_9Be6f3",
         "buy_buttons_QiJdk7",
-        "view_products_details_NnDDax"
+        "view_products_details_NnDDax",
+        "custom_liquid_HfAWjC"
       ],
       "settings": {
-        "product": "starter-stone-diffuser-bundle-old",
+        "product": "starter-stone-diffuser-bundle",
         "media_width": 50,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
