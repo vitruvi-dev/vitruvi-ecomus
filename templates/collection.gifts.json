@@ -9,6 +9,39 @@
 */
 {
   "sections": {
+    "top_heading_pMLWNL": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_xKAiUk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Find the perfect gift",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_nUijdA": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Thoughtfully curated selection of humidifiers, diffusers, and scents to delight anyone on your list.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xKAiUk",
+        "sub_heading_nUijdA"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "hero_image_3w3ny6": {
       "type": "hero-image",
       "blocks": {
@@ -50,6 +83,7 @@
         "text_c9RHPY",
         "countdown_LQEYWr"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         ".hdt-countdown__item {border-radius: 0px;}"
@@ -681,6 +715,7 @@
     }
   },
   "order": [
+    "top_heading_pMLWNL",
     "hero_image_3w3ny6",
     "countdown_text_9mEM7m",
     "hero_image_qgF9F4",
