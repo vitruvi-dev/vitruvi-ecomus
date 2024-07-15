@@ -169,7 +169,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "",
+            "banner_url": "shopify:\/\/products\/stone-essential-oil-diffuser",
             "banner_target": false,
             "heading": "@silchuknest",
             "heading_fs": "base",
@@ -194,7 +194,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_1__sahnndra_cloud-humidifier_oat.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "",
+            "banner_url": "shopify:\/\/products\/cloud-humidifier",
             "banner_target": false,
             "heading": "@sahnndra",
             "heading_fs": "base",
@@ -219,7 +219,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "",
+            "banner_url": "shopify:\/\/products\/stone-essential-oil-diffuser",
             "banner_target": false,
             "heading": "@emilytartaglia",
             "heading_fs": "base",
