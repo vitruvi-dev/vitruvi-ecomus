@@ -115,7 +115,7 @@
       ],
       "custom_css": [
         "h4 {font-family: \"Heldane\";}",
-        ".hdt-slider__container {align-items: center;}"
+        ".hdt-tabs-head {align-items: center;}"
       ],
       "settings": {
         "tabs_heading": "",
