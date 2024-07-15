@@ -119,7 +119,9 @@
         "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}"
+        ".hdt-sticky-atc__qty-selector {display: none;}",
+        ".hdt-slider__slide {display: none;}",
+        ".hdt-slider__slide:first-child {display: block;}"
       ],
       "settings": {
         "space_content_media": true,
