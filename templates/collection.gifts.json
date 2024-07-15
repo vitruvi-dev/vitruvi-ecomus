@@ -285,22 +285,6 @@
             "btn_icon": "none"
           }
         },
-        "package_q7kkca": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "good-air-cloud-humidifier-bundle",
-            "show_vendor": false,
-            "label_cl": "#e2eef6",
-            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
-            "btn_label": "CUSTOMIZE BUNDLE",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        },
         "package_kAXKYA": {
           "type": "package",
           "settings": {
@@ -316,12 +300,28 @@
             "btn_fw": "semibold",
             "btn_icon": "none"
           }
+        },
+        "package_q7kkca": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "good-air-cloud-humidifier-bundle",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
         }
       },
       "block_order": [
         "package_Ke8f3Y",
-        "package_q7kkca",
-        "package_kAXKYA"
+        "package_kAXKYA",
+        "package_q7kkca"
       ],
       "settings": {
         "top_heading": "Browse curated bundles",
@@ -333,7 +333,7 @@
         "content_pos": "start",
         "image_ratio": "adapt_image",
         "image_size": true,
-        "col_dk": "3",
+        "col_dk": "2",
         "col_tb": "3",
         "col_mb": "2",
         "navUI": false,
