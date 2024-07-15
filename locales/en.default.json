@@ -231,7 +231,7 @@
       "choose_product_options": "Choose options for {{ product_name }}",
       "choose_an_option": "Choose an option",
       "view_product": "View product",
-      "view_products_details": "View full details",
+      "view_products_details": "Customize your bundle",
       "description": "Description",
       "inventory_in_stock": "In stock",
       "inventory_in_stock_show_count_html": "<span data-quantity>{{ quantity }}<\/span> in stock",
