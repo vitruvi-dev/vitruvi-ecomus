@@ -307,8 +307,7 @@
         "package_kAXKYA"
       ],
       "custom_css": [
-        ".hdt-main-price-table {padding-left: 10%; padding-right: 10%;}",
-        ".hdt-price-table-item {padding-left: 5%; padding-right: 5%}"
+        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%;}.hdt-price-table-item {padding-left: 5%; padding-right: 5%;}}"
       ],
       "settings": {
         "top_heading": "Browse curated bundles",
