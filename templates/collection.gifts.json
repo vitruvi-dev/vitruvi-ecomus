@@ -276,7 +276,7 @@
             "product": "starter-stone-diffuser-bundle",
             "show_vendor": false,
             "label_cl": "#e2eef6",
-            "content": "Create a calming home environment\nDiscover favorite essential oil scents\nStart a daily relaxation routine",
+            "content": "Perfect for those new to diffusing or looking to try something new.",
             "btn_label": "CUSTOMIZE BUNDLE",
             "target": false,
             "btn_size": "base",
@@ -307,7 +307,7 @@
         "package_kAXKYA"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%;}.hdt-price-table-item {padding-left: 5%; padding-right: 5%;}}"
+        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}"
       ],
       "settings": {
         "top_heading": "Browse curated bundles",
@@ -315,7 +315,7 @@
         "heading_size": "h4",
         "top_description": "",
         "sec_heading_spacing": 30,
-        "enable_icon_check": true,
+        "enable_icon_check": false,
         "content_pos": "start",
         "image_ratio": "square",
         "image_size": true,
