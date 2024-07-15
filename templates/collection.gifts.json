@@ -114,7 +114,8 @@
         "tab_item_chFyKc"
       ],
       "custom_css": [
-        "h4 {font-family: \"Heldane\";}"
+        "h4 {font-family: \"Heldane\";}",
+        ".hdt-slider__container {align-items: center;}"
       ],
       "settings": {
         "tabs_heading": "",
