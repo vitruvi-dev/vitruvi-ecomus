@@ -63,11 +63,6 @@
             "size_chart_page": "size-chart"
           }
         },
-        "quantity_selector_7mnwbU": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -117,7 +112,6 @@
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
-        "quantity_selector_7mnwbU",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
         "countdown_timer_pLgxfe",
@@ -132,24 +126,115 @@
         "media_width": 50,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
+        "mobile_media_layout": "fraction",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": true,
-        "enable_video_looping": true,
-        "enable_thumb_efect": true,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
         "image_ratio": "square",
         "image_size": true,
         "image_zoom": "no",
         "image_zoom_type": "external",
         "zoom_level": 2,
         "max_zoom_lightbox": 3,
-        "sticky_atc": true,
-        "navUI": true,
-        "nav_des": "default",
+        "sticky_atc": false,
+        "navUI": false,
+        "nav_des": "simple",
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 52,
+        "padding_rate": 50
+      }
+    },
+    "featured_collection_carousel_tGNnzh": {
+      "type": "featured-collection-carousel",
+      "custom_css": [
+        "@media (max-width: 767px) {.hdt-slider__container {padding-left: 30px; padding-right: 30px; }}",
+        ".hdt-card-align-left {justify-items: center;}",
+        "@media (min-width: 768px) {.hdt-slider__container {justify-content: center; }}",
+        ".hdt-price__list,.hdt-badge__wrapp,.hdt-color-list {display: none;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Items in this bundle",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": "{{ product.metafields.ecomus[\"bundles_included-products\"].value }}",
+        "product_des": "4",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "6",
+        "col_tb": "4",
+        "col_mb": "1",
+        "half_item": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": true,
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "tabs": {
+      "type": "main-product-tabs",
+      "blocks": {
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Features",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_FAnLrE": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Specs",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_eeFthN": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Warranty & Returns",
+            "content": "",
+            "page": "product-returns-humidifiers-diffusers"
+          }
+        }
+      },
+      "block_order": [
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
+        "tab_html_FAnLrE",
+        "tab_html_eeFthN"
+      ],
+      "settings": {
+        "tabs_design": "tab_vertical",
+        "enable_first_tab": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
         "padding_rate": 50
       }
     },
@@ -237,48 +322,6 @@
         "padding_rate": 75
       }
     },
-    "tabs": {
-      "type": "main-product-tabs",
-      "blocks": {
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Features",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_FAnLrE": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Specs",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_eeFthN": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Warranty & Returns",
-            "content": "",
-            "page": "product-returns-humidifiers-diffusers"
-          }
-        }
-      },
-      "block_order": [
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
-        "tab_html_FAnLrE",
-        "tab_html_eeFthN"
-      ],
-      "settings": {
-        "tabs_design": "tab_vertical",
-        "enable_first_tab": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 50
-      }
-    },
     "top_heading_GTjYAL": {
       "type": "top-heading",
       "blocks": {
@@ -301,6 +344,7 @@
         "heading_Yk8Ark",
         "sub_heading_dXe8rc"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -396,6 +440,7 @@
         "banner_2_Gd9rXf",
         "banner_2_gYifcd"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
       ],
@@ -439,6 +484,7 @@
         "heading_Wzbctd",
         "sub_heading_jeJGRx"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -609,6 +655,7 @@
         "quote_ieGhmJ",
         "quote_87jeBH"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "top_heading": "Join over 100k homes happily scented by a Vitruvi diffuser",
@@ -785,8 +832,9 @@
   "order": [
     "breacrumb",
     "main",
-    "icon_box_xRGYey",
+    "featured_collection_carousel_tGNnzh",
     "tabs",
+    "icon_box_xRGYey",
     "top_heading_GTjYAL",
     "banner_gdzX4R",
     "video_width_text2_anqqEU",
