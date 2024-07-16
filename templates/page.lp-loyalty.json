@@ -54,10 +54,26 @@
             "heading_fw": "normal"
           }
         },
+        "text_gJ8xRq": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>The Take Care Club will be sunsetting on July 31, 2024.<\/p><p>Please log-in to your account before this date to redeem your points.<\/p>",
+            "adding_border": false
+          }
+        },
+        "text_RYERJ7": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>If you have any questions, please reach out to our team at hello@vitruvi.com<\/p>",
+            "adding_border": false
+          }
+        },
         "button_WfcHyh": {
           "type": "button",
           "settings": {
-            "btn_label": "Join the club",
+            "btn_label": "Sign In",
             "btn_link": "#smile-home",
             "target": false,
             "btn_size": "base",
@@ -65,19 +81,13 @@
             "btn_fw": "normal",
             "btn_icon": "none"
           }
-        },
-        "text_gJ8xRq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>You’re invited to join our exclusive rewards program.<\/p>",
-            "adding_border": false
-          }
         }
       },
       "block_order": [
         "heading_bVGfVY",
-        "button_WfcHyh",
-        "text_gJ8xRq"
+        "text_gJ8xRq",
+        "text_RYERJ7",
+        "button_WfcHyh"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\"; font-style: normal;}"
@@ -100,6 +110,65 @@
         "full_width": true,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_cQAGWf": {
+      "type": "hero-image",
+      "blocks": {
+        "button_rjH9WE": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "btn_label": "Sign In",
+            "btn_link": "#smile-home",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "text_8pKDVj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Take Care Club will be sunsetting on July 31, 2024.<\/p><p>Please log-in to your account before this date to redeem your points.<\/p>",
+            "adding_border": false
+          }
+        },
+        "text_r6G9BP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have any questions, please reach out to our team at hello@vitruvi.com<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "button_rjH9WE",
+        "text_8pKDVj",
+        "text_r6G9BP"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/transparent.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 36,
         "padding_rate": 75
@@ -128,6 +197,7 @@
         "heading_YGYAAm",
         "sub_heading_zRAmmK"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -253,6 +323,7 @@
         "banner_3_PTTmH7",
         "banner_3_AYfUnB"
       ],
+      "disabled": true,
       "settings": {
         "row_height": 200,
         "row_height_mb": 150,
@@ -275,6 +346,7 @@
       "block_order": [
         "heading_RHrRXn"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -349,6 +421,7 @@
         "tab_item_EAFcze",
         "tab_item_eyC3Ut"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -377,6 +450,7 @@
       "block_order": [
         "heading_HnF9L4"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -454,6 +528,7 @@
         "item_37mtin",
         "item_xBRb9M"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Ways to Earn Points",
@@ -535,6 +610,7 @@
         "item_kn4BTd",
         "item_yT3iqe"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Ways to Redeem Points",
@@ -606,6 +682,7 @@
       "block_order": [
         "banner_1_CkUQqA"
       ],
+      "disabled": true,
       "settings": {
         "row_height": 200,
         "row_height_mb": 150,
@@ -625,6 +702,7 @@
         },
         "accordion_item_Rqg93b": {
           "type": "accordion_item",
+          "disabled": true,
           "settings": {
             "title": "How do I join the Take Care Club?",
             "content": "To create a free Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, select “Join Now” to become a member.\n\nNote: if you have an existing Vitruvi account, you don’t need to create a separate Take Care Club account; simply sign in with your Vitruvi login information through the Take Care Club panel."
@@ -646,6 +724,7 @@
         },
         "accordion_item_6WKEch": {
           "type": "accordion_item",
+          "disabled": true,
           "settings": {
             "title": "Can I redeem my points towards subscription orders?",
             "content": "No, points cannot be redeemed towards subscription orders."
@@ -653,6 +732,7 @@
         },
         "accordion_item_zeaWgJ": {
           "type": "accordion_item",
+          "disabled": true,
           "settings": {
             "title": "Will my points expire?",
             "content": "Yes—points expire two years after the date they were earned. We will send you a reminder 30 days before your points expire."
@@ -660,6 +740,7 @@
         },
         "accordion_item_kiXFNF": {
           "type": "accordion_item",
+          "disabled": true,
           "settings": {
             "title": "Will my tier expire?",
             "content": "No—you can move up in tiers, but not down. Once you’ve reached a higher tier, you will keep that status."
@@ -667,6 +748,7 @@
         },
         "accordion_item_AY6bdX": {
           "type": "accordion_item",
+          "disabled": true,
           "settings": {
             "title": "How do I input my birthday?",
             "content": "To add your birthday, log into your Take Care Club account and head to the Ways to Earn Section. You can then select Edit Date next to Celebrate a Birthday. If your birthday is within the next 30 days, please reach out to us at hello@vitruvi.com to be manually awarded."
@@ -674,6 +756,7 @@
         },
         "accordion_item_NrEfYm": {
           "type": "accordion_item",
+          "disabled": true,
           "settings": {
             "title": "When are birthday points awarded?",
             "content": "The points will be rewarded on your birthday!"
@@ -732,6 +815,7 @@
     "heading",
     "main",
     "hero_image_eattDT",
+    "hero_image_cQAGWf",
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
     "top_heading_hzmrET",
