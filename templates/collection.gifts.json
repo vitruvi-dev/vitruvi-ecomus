@@ -1,0 +1,416 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "top_heading_pMLWNL": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_xKAiUk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Find the perfect gift",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_nUijdA": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Thoughtfully curated selection of humidifiers, diffusers, and scents to delight anyone on your list.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xKAiUk",
+        "sub_heading_nUijdA"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_yRaTqb": {
+      "type": "featured-collection-grid",
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Best Sellers",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "cloud-humidifier",
+          "stone-essential-oil-diffuser",
+          "move-cordless-essential-oil-diffuser",
+          "glow-essential-oil-diffuser"
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_q79MGA": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_p7DMf4": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Best-Sellers",
+            "collection": "best-sellers",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_7y6aWW": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Gifts Under $100",
+            "collection": "gifts-under-100",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_chFyKc": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Gift Cards",
+            "collection": "gift-cards",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_p7DMf4",
+        "tab_item_7y6aWW",
+        "tab_item_chFyKc"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}",
+        ".hdt-tabs-head {justify-content: center;}"
+      ],
+      "settings": {
+        "tabs_heading": "",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "4",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_MNTtak": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_wGNqDt": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "banner_target": false,
+            "heading": "@silchuknest",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_Gd9rXf": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_1__sahnndra_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify:\/\/products\/cloud-humidifier",
+            "banner_target": false,
+            "heading": "@sahnndra",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_gYifcd": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "banner_target": false,
+            "heading": "@emilytartaglia",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_wGNqDt",
+        "banner_2_Gd9rXf",
+        "banner_2_gYifcd"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-size: 12px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "price_tables_Kxrm86": {
+      "type": "price_tables",
+      "blocks": {
+        "package_Ke8f3Y": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "starter-stone-diffuser-bundle",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Perfect for those new to diffusing or looking to try something new.",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        },
+        "package_kAXKYA": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "best-sleep-diffuser-humidifier-bundle",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Includes all of our top aircare products for creating the perfect sleep environment.",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "package_Ke8f3Y",
+        "package_kAXKYA"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}",
+        ".hdt-badge__wrapp {display: none;}"
+      ],
+      "settings": {
+        "top_heading": "Browse curated bundles",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "top_description": "",
+        "sec_heading_spacing": 30,
+        "enable_icon_check": false,
+        "content_pos": "start",
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "2",
+        "col_tb": "2",
+        "col_mb": "2",
+        "navUI": false,
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 116,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "heading": {
+      "type": "heading-collection",
+      "blocks": {
+        "breadcrumb_CM7qtX": {
+          "type": "breadcrumb",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "description_Ddhb9a": {
+          "type": "description",
+          "settings": {
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb_CM7qtX",
+        "9a1347b4-da62-490d-9fd4-427a03686ac2",
+        "description_Ddhb9a"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing_hd": 5,
+        "color_scheme": "scheme-1",
+        "padding_top": 15,
+        "padding_bottom": 15,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "product_des": "4",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 30,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
+      }
+    }
+  },
+  "order": [
+    "top_heading_pMLWNL",
+    "featured_collection_grid_yRaTqb",
+    "tabs_collections_grid_q79MGA",
+    "banner_MNTtak",
+    "price_tables_Kxrm86",
+    "heading",
+    "main"
+  ]
+}
