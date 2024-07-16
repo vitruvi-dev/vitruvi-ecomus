@@ -56,6 +56,7 @@
         },
         "text_gJ8xRq": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>The Take Care Club will be sunsetting on July 31, 2024.<\/p><p>Please log-in to your account before this date to redeem your points.<\/p>",
             "adding_border": false
@@ -63,6 +64,7 @@
         },
         "text_RYERJ7": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>If you have any questions, please reach out to our team at hello@vitruvi.com<\/p>",
             "adding_border": false
@@ -108,6 +110,65 @@
         "full_width": true,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_cQAGWf": {
+      "type": "hero-image",
+      "blocks": {
+        "button_rjH9WE": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "btn_label": "Sign In",
+            "btn_link": "#smile-home",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "text_8pKDVj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Take Care Club will be sunsetting on July 31, 2024.<\/p><p>Please log-in to your account before this date to redeem your points.<\/p>",
+            "adding_border": false
+          }
+        },
+        "text_r6G9BP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have any questions, please reach out to our team at hello@vitruvi.com<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "button_rjH9WE",
+        "text_8pKDVj",
+        "text_r6G9BP"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/transparent.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 36,
         "padding_rate": 75
@@ -754,6 +815,7 @@
     "heading",
     "main",
     "hero_image_eattDT",
+    "hero_image_cQAGWf",
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
     "top_heading_hzmrET",
