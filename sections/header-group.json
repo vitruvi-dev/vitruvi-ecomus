@@ -18,13 +18,13 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
+            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\"><strong>Fast, Free Shipping on Orders Over $75<\/strong><\/a>"
           }
         },
         "announcement_UcEX3q": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">This Week Only: Free Vitruvi Gift With Purchase<\/a>"
+            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">This Week Only: FREE Vitruvi Gift With Purchase<\/a>"
           }
         }
       },
