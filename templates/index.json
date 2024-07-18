@@ -138,25 +138,14 @@
         "heading_NNeLRY": {
           "type": "heading",
           "settings": {
-            "heading": "60% Discount",
-            "heading_fs": "h3"
+            "heading": "Free Gift",
+            "heading_fs": "h4"
           }
         },
-        "count_down_qBhW6z": {
-          "type": "count_down",
+        "text_dU8TVd": {
+          "type": "text",
           "settings": {
-            "color_scheme": "",
-            "title": "Hungry up ! Deals end in :",
-            "year": 2030,
-            "month": 4,
-            "day": 19,
-            "hour": 12,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": ""
+            "text": "<p>Enjoy a sleek fabric zip-up cube with your purchase. Perfect for holding oils, toiletries, or small items. Keep Vitruvi with you wherever you travel this summer.<\/p>"
           }
         },
         "button_ramYgE": {
@@ -174,10 +163,11 @@
       },
       "block_order": [
         "heading_NNeLRY",
-        "count_down_qBhW6z",
+        "text_dU8TVd",
         "button_ramYgE"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pdp_kit_myster_gallery_2_image.jpg",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "",
