@@ -112,6 +112,7 @@
         },
         "img_trust_kQWB4H": {
           "type": "img_trust",
+          "disabled": true,
           "settings": {
             "show_icon": false,
             "mess": "Free Zip-Up Cube with Purchase",
