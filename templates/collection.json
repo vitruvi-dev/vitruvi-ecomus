@@ -47,6 +47,9 @@
     },
     "icon_with_text_it3GGE": {
       "type": "icon_with_text",
+      "custom_css": [
+        ".hdt-custom-col-4 {display: none;}"
+      ],
       "settings": {
         "color_scheme": "",
         "image": "shopify:\/\/shop_images\/pdp_black-zip-kit_gallery_1_image.png",
