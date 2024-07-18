@@ -85,7 +85,7 @@
             "heading": "<p>Summer Special<\/p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Free gift with purchase on all orders. Ideal for adding a touch of luxury to your daily routine. While supplies last.",
+            "sub_heading": "Brighten your summer days ☀️. Enjoy a free gift with with every purchase. While supplies last.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP NOW",
@@ -129,57 +129,6 @@
         "dot_space": 57,
         "padding_top": 0,
         "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_RhGmcd": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_eCD9pk": {
-          "type": "heading",
-          "settings": {
-            "heading": "Free Vitruvi Zip Cube",
-            "heading_fs": "h4"
-          }
-        },
-        "text_aWwLjP": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Get a free sleek fabric zip-up cube with your purchase! Perfect for oils, toiletries, or small items. Take Vitruvi on every summer adventure and travel in style.<\/p>"
-          }
-        },
-        "button_kH7UcP": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eCD9pk",
-        "text_aWwLjP",
-        "button_kH7UcP"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pdp_kit_myster_gallery_4_image.jpg",
-        "style_image": "1",
-        "image_effect": "lunc",
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -697,7 +646,6 @@
   "order": [
     "video_GKb7jj",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
-    "image_with_text_RhGmcd",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "countdown_text_7Qr8m8",
     "featured_collection_grid_6BDUmj",
