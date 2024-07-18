@@ -44,6 +44,40 @@
         "padding_rate": 75
       }
     },
+    "marquee_y6VccF": {
+      "type": "marquee",
+      "blocks": {
+        "item_MjcwKt": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Welcome to our store<\/p>",
+            "icon_svg": "arrow_up",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/pdp_black-zip-kit_gallery_1_image_5b931f2e-ad69-4bdf-96ed-4f29ebd984ee.png",
+            "icon_width": 60,
+            "icon_width_mb": 20
+          }
+        }
+      },
+      "block_order": [
+        "item_MjcwKt"
+      ],
+      "settings": {
+        "space_item": 20,
+        "speed": 0.1,
+        "direction": "ltr",
+        "marquee_pause_when_hover": true,
+        "text_fs": "h5",
+        "text_fw": "normal",
+        "text_uppercase": false,
+        "adding_border": true,
+        "icon_position_between": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "main": {
       "type": "main-collection",
       "custom_css": [
@@ -81,6 +115,7 @@
   },
   "order": [
     "heading",
+    "marquee_y6VccF",
     "main"
   ]
 }
