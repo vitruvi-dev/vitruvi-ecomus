@@ -26,7 +26,6 @@
         },
         "description_Ddhb9a": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "description": ""
           }
@@ -42,27 +41,6 @@
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 15,
-        "padding_rate": 75
-      }
-    },
-    "icon_with_text_it3GGE": {
-      "type": "icon_with_text",
-      "custom_css": [
-        ".hdt-flex .hdt-col:nth-of-type(2) {display: none;}"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "image": "shopify:\/\/shop_images\/pdp_black-zip-kit_gallery_1_image.png",
-        "text": "<p>Enjoy a sleek fabric zip-up cube with your purchase. Perfect for holding oils, toiletries, or small items. Keep Vitruvi with you wherever you travel this summer.<\/p>",
-        "btn_label": "",
-        "btn_link": "",
-        "target": false,
-        "btn_size": "base",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "btn_icon": "none",
-        "padding_top": 36,
-        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
@@ -103,7 +81,6 @@
   },
   "order": [
     "heading",
-    "icon_with_text_it3GGE",
     "main"
   ]
 }
