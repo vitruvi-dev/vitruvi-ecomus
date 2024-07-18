@@ -16,21 +16,13 @@
       "blocks": {
         "announcement_RzCepp": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\"><strong>Fast, Free Shipping on Orders Over $75<\/strong><\/a>"
-          }
-        },
-        "announcement_UcEX3q": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">This Week Only: FREE Vitruvi Gift With Purchase<\/a>"
+            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
           }
         }
       },
       "block_order": [
-        "announcement_RzCepp",
-        "announcement_UcEX3q"
+        "announcement_RzCepp"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
