@@ -48,7 +48,7 @@
     "icon_with_text_it3GGE": {
       "type": "icon_with_text",
       "custom_css": [
-        ".hdt-custom-col-4 {display: none;}"
+        ".hdt-flex .hdt-col:nth-of-type(2) {display: none;}"
       ],
       "settings": {
         "color_scheme": "",
