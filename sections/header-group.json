@@ -16,13 +16,21 @@
       "blocks": {
         "announcement_RzCepp": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
+          }
+        },
+        "announcement_4dD7J8": {
+          "type": "announcement",
+          "settings": {
+            "text": "This Week Only: Free Vitruvi Gift With Every Purchase"
           }
         }
       },
       "block_order": [
-        "announcement_RzCepp"
+        "announcement_RzCepp",
+        "announcement_4dD7J8"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
