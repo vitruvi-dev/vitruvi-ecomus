@@ -114,10 +114,10 @@
           "type": "img_trust",
           "settings": {
             "show_icon": false,
-            "mess": "Free Vitruvi Zip Cube with Purchase",
+            "mess": "Limited Time: \nFree Vitruvi Zip Cube with Purchase",
             "source": "1",
             "image": "shopify:\/\/shop_images\/pdp_black-zip-kit_gallery_1_image.png",
-            "wimg": 100,
+            "wimg": 190,
             "svg": "",
             "height": 30
           }
