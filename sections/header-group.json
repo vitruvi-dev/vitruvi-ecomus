@@ -14,12 +14,6 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_VVHBVr": {
-          "type": "announcement",
-          "settings": {
-            "text": "FREE Vitruvi Zip Case On All Orders"
-          }
-        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
@@ -28,7 +22,6 @@
         }
       },
       "block_order": [
-        "announcement_VVHBVr",
         "announcement_RzCepp"
       ],
       "custom_css": [

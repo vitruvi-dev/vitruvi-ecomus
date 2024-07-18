@@ -63,68 +63,6 @@
         "padding_rate": 75
       }
     },
-    "image_with_text_YmXihg": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_GBif3P": {
-          "type": "heading",
-          "settings": {
-            "heading": "60% Discount",
-            "heading_fs": "h3"
-          }
-        },
-        "count_down_yTCFmW": {
-          "type": "count_down",
-          "settings": {
-            "color_scheme": "",
-            "title": "Hungry up ! Deals end in :",
-            "year": 2030,
-            "month": 4,
-            "day": 19,
-            "hour": 12,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": ""
-          }
-        },
-        "button_jdt8Eh": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GBif3P",
-        "count_down_yTCFmW",
-        "button_jdt8Eh"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pdp_kit_myster_gallery_4_image.jpg",
-        "style_image": "1",
-        "image_effect": "lunc",
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
       "type": "slideshow",
       "blocks": {
@@ -700,7 +638,6 @@
   },
   "order": [
     "video_GKb7jj",
-    "image_with_text_YmXihg",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "countdown_text_7Qr8m8",
