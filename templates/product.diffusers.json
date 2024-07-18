@@ -110,16 +110,13 @@
             "only_show_soldout": true
           }
         },
-        "linked_products_eNeqKb": {
-          "type": "linked_products",
+        "bundle_product_7ph7qx": {
+          "type": "bundle_product",
           "settings": {
-            "option_name": "",
-            "option_values": "",
+            "bundle_prs_inner": true,
             "product_list": [
               "black-zip-cube"
-            ],
-            "linked_type": "image_with_title",
-            "linked_size": "large"
+            ]
           }
         }
       },
@@ -135,7 +132,7 @@
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "linked_products_eNeqKb"
+        "bundle_product_7ph7qx"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
