@@ -110,12 +110,6 @@
             "only_show_soldout": true
           }
         },
-        "complimentary_products_d68PDP": {
-          "type": "complimentary_products",
-          "settings": {
-            "text": "Pairs well with"
-          }
-        },
         "linked_products_CdDCjE": {
           "type": "linked_products",
           "settings": {
@@ -141,7 +135,6 @@
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "complimentary_products_d68PDP",
         "linked_products_CdDCjE"
       ],
       "custom_css": [
