@@ -44,35 +44,19 @@
         "padding_rate": 75
       }
     },
-    "marquee_y6VccF": {
-      "type": "marquee",
-      "blocks": {
-        "item_MjcwKt": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Welcome to our store<\/p>",
-            "icon_svg": "arrow_up",
-            "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/pdp_black-zip-kit_gallery_1_image_5b931f2e-ad69-4bdf-96ed-4f29ebd984ee.png",
-            "icon_width": 60,
-            "icon_width_mb": 20
-          }
-        }
-      },
-      "block_order": [
-        "item_MjcwKt"
-      ],
+    "icon_with_text_it3GGE": {
+      "type": "icon_with_text",
       "settings": {
-        "space_item": 20,
-        "speed": 0.1,
-        "direction": "ltr",
-        "marquee_pause_when_hover": true,
-        "text_fs": "h5",
-        "text_fw": "normal",
-        "text_uppercase": false,
-        "adding_border": true,
-        "icon_position_between": true,
         "color_scheme": "",
+        "image": "shopify:\/\/shop_images\/pdp_black-zip-kit_gallery_1_image.png",
+        "text": "<p>The4Studio<\/p>",
+        "btn_label": "",
+        "btn_link": "",
+        "target": false,
+        "btn_size": "base",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "btn_icon": "none",
         "padding_top": 36,
         "padding_bottom": 36,
         "padding_rate": 75
@@ -115,7 +99,7 @@
   },
   "order": [
     "heading",
-    "marquee_y6VccF",
+    "icon_with_text_it3GGE",
     "main"
   ]
 }
