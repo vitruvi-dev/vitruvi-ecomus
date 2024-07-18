@@ -12,6 +12,12 @@
     "video_GKb7jj": {
       "type": "video",
       "blocks": {
+        "label_rHtJ3e": {
+          "type": "label",
+          "settings": {
+            "label": "FREE GIFT WITH PURCHASE OFFER"
+          }
+        },
         "heading_FQ3wCc": {
           "type": "heading",
           "settings": {
@@ -38,10 +44,12 @@
         }
       },
       "block_order": [
+        "label_rHtJ3e",
         "heading_FQ3wCc",
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -74,14 +82,14 @@
             "url": "shopify:\/\/collections\/summer-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>UP TO<\/strong><\/p><p>40% off<\/p><p>sitewide<\/p>",
+            "heading": "<p>Summer Special<\/p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Brighten your summer days ☀️. Shop our seasonal favorites with special discounts just for you.",
+            "sub_heading": "Brighten your summer days ☀️. Enjoy a free gift with with every purchase. While supplies last.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
-            "btn_label": "SHOP SUMMER SALE",
-            "btn_link": "shopify:\/\/collections\/summer-sale",
+            "btn_label": "SHOP NOW",
+            "btn_link": "shopify:\/\/collections\/shop-all",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -98,7 +106,6 @@
       "block_order": [
         "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
@@ -122,6 +129,57 @@
         "dot_space": 57,
         "padding_top": 0,
         "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_yqNnyc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_NNeLRY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Gift",
+            "heading_fs": "h4"
+          }
+        },
+        "text_dU8TVd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy a sleek fabric zip-up cube with your purchase. Perfect for holding oils, toiletries, or small items. Keep Vitruvi with you wherever you travel this summer.<\/p>"
+          }
+        },
+        "button_ramYgE": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP NOW",
+            "btn_link": "shopify:\/\/collections\/shop-all",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NNeLRY",
+        "text_dU8TVd",
+        "button_ramYgE"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pdp_kit_myster_gallery_2_image.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -639,6 +697,7 @@
   "order": [
     "video_GKb7jj",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "image_with_text_yqNnyc",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "countdown_text_7Qr8m8",
     "featured_collection_grid_6BDUmj",
