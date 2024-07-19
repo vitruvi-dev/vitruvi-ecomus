@@ -42,6 +42,89 @@
         "padding_rate": 75
       }
     },
+    "price_tables_Kxrm86": {
+      "type": "price_tables",
+      "blocks": {
+        "package_Ke8f3Y": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "stone-diffuser-3-pack",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Perfect for those new to diffusing or looking to try something new.",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        },
+        "package_fMhgdp": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "starter-stone-diffuser-bundle",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Perfect for those new to diffusing or looking to try something new.",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        },
+        "package_kAXKYA": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "best-sleep-diffuser-humidifier-bundle",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Includes all of our top aircare products for creating the perfect sleep environment.",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "package_Ke8f3Y",
+        "package_fMhgdp",
+        "package_kAXKYA"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}",
+        ".hdt-badge__wrapp {display: none;}"
+      ],
+      "settings": {
+        "top_heading": "Browse gift bundles",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "top_description": "",
+        "sec_heading_spacing": 30,
+        "enable_icon_check": false,
+        "content_pos": "start",
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "2",
+        "col_tb": "2",
+        "col_mb": "2",
+        "navUI": false,
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 116,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_yRaTqb": {
       "type": "featured-collection-grid",
       "disabled": true,
@@ -266,72 +349,6 @@
         "padding_rate": 75
       }
     },
-    "price_tables_Kxrm86": {
-      "type": "price_tables",
-      "blocks": {
-        "package_Ke8f3Y": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "starter-stone-diffuser-bundle",
-            "show_vendor": false,
-            "label_cl": "#e2eef6",
-            "content": "Perfect for those new to diffusing or looking to try something new.",
-            "btn_label": "CUSTOMIZE BUNDLE",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        },
-        "package_kAXKYA": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "best-sleep-diffuser-humidifier-bundle",
-            "show_vendor": false,
-            "label_cl": "#e2eef6",
-            "content": "Includes all of our top aircare products for creating the perfect sleep environment.",
-            "btn_label": "CUSTOMIZE BUNDLE",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "package_Ke8f3Y",
-        "package_kAXKYA"
-      ],
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}",
-        ".hdt-badge__wrapp {display: none;}"
-      ],
-      "settings": {
-        "top_heading": "Browse gift bundles",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "top_description": "",
-        "sec_heading_spacing": 30,
-        "enable_icon_check": false,
-        "content_pos": "start",
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "2",
-        "col_tb": "2",
-        "col_mb": "2",
-        "navUI": false,
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 116,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "heading": {
       "type": "heading-collection",
       "blocks": {
@@ -406,10 +423,10 @@
   },
   "order": [
     "top_heading_pMLWNL",
+    "price_tables_Kxrm86",
     "featured_collection_grid_yRaTqb",
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
-    "price_tables_Kxrm86",
     "heading",
     "main"
   ]
