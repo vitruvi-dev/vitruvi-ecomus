@@ -311,7 +311,7 @@
         ".hdt-badge__wrapp {display: none;}"
       ],
       "settings": {
-        "top_heading": "Browse curated bundles",
+        "top_heading": "Browse gift bundles",
         "heading_tag": "h2",
         "heading_size": "h4",
         "top_description": "",
