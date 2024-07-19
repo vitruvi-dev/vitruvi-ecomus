@@ -313,7 +313,7 @@
       "settings": {
         "top_heading": "Browse diffuser gift bundles",
         "heading_tag": "h2",
-        "heading_size": "h4",
+        "heading_size": "h5",
         "top_description": "",
         "sec_heading_spacing": 30,
         "enable_icon_check": false,
@@ -379,7 +379,7 @@
       "settings": {
         "top_heading": "Browse humidifier gift bundles",
         "heading_tag": "h2",
-        "heading_size": "h4",
+        "heading_size": "h5",
         "top_description": "",
         "sec_heading_spacing": 30,
         "enable_icon_check": false,
