@@ -273,6 +273,22 @@
           "type": "package",
           "settings": {
             "color_scheme": "",
+            "product": "stone-diffuser-3-pack",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Perfect as a housewarming gift to effortlessly scent every room with natural fragrances.",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        },
+        "package_fMhgdp": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
             "product": "starter-stone-diffuser-bundle",
             "show_vendor": false,
             "label_cl": "#e2eef6",
@@ -284,8 +300,58 @@
             "btn_fw": "semibold",
             "btn_icon": "none"
           }
+        }
+      },
+      "block_order": [
+        "package_Ke8f3Y",
+        "package_fMhgdp"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}",
+        ".hdt-badge__wrapp {display: none;}"
+      ],
+      "settings": {
+        "top_heading": "Browse diffuser gift bundles",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "top_description": "",
+        "sec_heading_spacing": 30,
+        "enable_icon_check": false,
+        "content_pos": "start",
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "2",
+        "navUI": false,
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 116,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "price_tables_DNiYn4": {
+      "type": "price_tables",
+      "blocks": {
+        "package_zPgPKw": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "good-air-cloud-humidifier-bundle",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Perfect for beginners or those eager to experience the benefits of humidifying effortlessly.",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
         },
-        "package_kAXKYA": {
+        "package_JjfJ4d": {
           "type": "package",
           "settings": {
             "color_scheme": "",
@@ -303,24 +369,24 @@
         }
       },
       "block_order": [
-        "package_Ke8f3Y",
-        "package_kAXKYA"
+        "package_zPgPKw",
+        "package_JjfJ4d"
       ],
       "custom_css": [
         "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}",
         ".hdt-badge__wrapp {display: none;}"
       ],
       "settings": {
-        "top_heading": "Browse curated bundles",
+        "top_heading": "Browse humidifier gift bundles",
         "heading_tag": "h2",
-        "heading_size": "h4",
+        "heading_size": "h5",
         "top_description": "",
         "sec_heading_spacing": 30,
         "enable_icon_check": false,
         "content_pos": "start",
         "image_ratio": "square",
         "image_size": true,
-        "col_dk": "2",
+        "col_dk": "3",
         "col_tb": "2",
         "col_mb": "2",
         "navUI": false,
@@ -410,6 +476,7 @@
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
     "price_tables_Kxrm86",
+    "price_tables_DNiYn4",
     "heading",
     "main"
   ]
