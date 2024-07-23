@@ -41,3 +41,39 @@
     {%- endif -%}
   </div>
 {%- endif -%}
+
+{% capture breadcrumb_json_ld %}
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "{{ 'products.breadcrumb.home' | t }}",
+      "item": "{{ routes.root_url }}"
+    }
+    {% assign position = 2 %}
+    {% if product.metafields.global.breadcrumb %}
+    ,
+    {
+      "@type": "ListItem",
+      "position": {{ position }},
+      "name": "{{ collections[product.metafields.global.breadcrumb].title }}",
+      "item": "{{ collections[product.metafields.global.breadcrumb].url }}"
+    }
+    {% assign position = position | plus: 1 %}
+    {% endif %}
+    ,
+    {
+      "@type": "ListItem",
+      "position": {{ position }},
+      "name": "{{ product.title }}",
+      "item": "{{ routes.product_url }}"
+    }
+  ]
+}
+{% endcapture %}
+<script type="application/ld+json">
+  {{ breadcrumb_json_ld | strip_newlines }}
+</script>
