@@ -74,7 +74,15 @@
       echo 'hdt-policy.css' | asset_url | stylesheet_tag
       endif
     -%}
+    {% capture content_for_header_fixed %}
     {{ content_for_header }}
+    {% endcapture %}
+    {% if product.metafields.seo.hidden == 1 or collection.metafields.seo.hidden == 1 %}
+    {{ content_for_header_fixed | remove: '<meta name="robots"
+    content="noindex,nofollow">' }}
+    {% else %}
+    {{ content_for_header }}
+    {% endif %}
     {%- endunless -%}
 
   </head>
