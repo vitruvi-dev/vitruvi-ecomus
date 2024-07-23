@@ -316,7 +316,7 @@
                   if col_mobile == 0 or col_tablet == 0 or col_desktop == 0
                     for product in search_products_list
                       unless settings.remove_collection_url
-                        assign product_url = product.url | within: collection
+                        assign product_url = product.url 
                       endunless
                       render 'card-product-list', card_product: product, class: "hdt-pr-list", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                     endfor
@@ -330,7 +330,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product1', card_product: product, class: "hdt-pr-style1", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -342,7 +342,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product2', card_product: product, class: "hdt-pr-style2", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -354,7 +354,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product3', card_product: product, class: "hdt-pr-style3", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -366,7 +366,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product4', card_product: product, class: "hdt-pr-style4", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -378,7 +378,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product5', card_product: product, class: "hdt-pr-style5", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -390,7 +390,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product6', card_product: product, class: "hdt-pr-style6", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -402,7 +402,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product7', card_product: product, class: "hdt-pr-style7", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -414,7 +414,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product8', card_product: product, class: "hdt-pr-style8", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -426,7 +426,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product9', card_product: product, class: "hdt-pr-style1 hdt-pr-style9", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -438,7 +438,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product10', card_product: product, class: "hdt-pr-style1 hdt-pr-style10", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
@@ -450,7 +450,7 @@
                         endcapture
                         for product in search_products_list
                           unless settings.remove_collection_url
-                            assign product_url = product.url | within: collection
+                            assign product_url = product.url 
                           endunless
                           render 'card-product11', card_product: product, section_id: section.id, class: "hdt-pr-style1 hdt-pr-style11", sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                         endfor
