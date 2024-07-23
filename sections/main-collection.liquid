@@ -112,7 +112,7 @@
                 if col_mobile == 0 or col_tablet == 0 or col_desktop == 0
                   for product in collection.products
                     unless settings.remove_collection_url
-                      assign product_url = product.url 
+                      assign product_url = product.ur
                     endunless
                     render 'card-product-list', card_product: product, class: "hdt-pr-list", section_id: section.id, sizes: sizes, image_ratio: section.settings.image_ratio, color_list: color_list, size_list: size_list, product_url: product_url, btn_wishlist_code: btn_wishlist_code, show_vendor: section.settings.show_vendor
                   endfor
