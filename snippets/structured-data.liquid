@@ -22,7 +22,7 @@
       "@type": "ListItem",
       "position": {{ position }},
       "name": {{ product.title | json }},
-      "item": "{{ shop.url }}{{ product.url | within: collection }}"
+      "item": "{{ shop.url }}{{ product.url  }}"
       {%- assign position = position | plus: 1 -%}
     }
     {%- elsif template.name == 'list-collections' -%},{
