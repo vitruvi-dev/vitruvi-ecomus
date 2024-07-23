@@ -43,6 +43,10 @@
     </title>
 
     {%- if page_description %}<meta name="description" content="{{ page_description | escape }}">{% endif %}
+    
+    {%- if current_tags %}
+    <meta name="robots" content="noindex, follow">
+    {% endif %}
 
     {%- liquid
       render 'social-meta-tags'
