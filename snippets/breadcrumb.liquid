@@ -1,15 +1,14 @@
-<!-- snippets/breadcrumb.liquid -->
 <nav aria-label="breadcrumb" class="breadcrumb">
   <ul class="breadcrumb__list">
     <li>
       <a href="{{ routes.root_url }}">{{ 'general.breadcrumb.home' | t }}</a>
     </li>
-    {% if section.settings %}
-      {% if section.settings.breadcrumb_item %}
-        <li>
-          <a href="{{ section.settings.breadcrumb_item.url }}">{{ section.settings.breadcrumb_item.title }}</a>
-        </li>
-      {% endif %}
+    {% if product.metafields.global.breadcrumb %}
+      <li>
+        <a href="{{ collections[product.metafields.global.breadcrumb].url }}">
+          {{ collections[product.metafields.global.breadcrumb].title }}
+        </a>
+      </li>
     {% endif %}
     {% if template == 'product' %}
       <li>{{ product.title }}</li>
@@ -20,46 +19,3 @@
     {% endif %}
   </ul>
 </nav>
-
-<style>
-  .breadcrumb__list {
-    display: inline-flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: .6rem;
-  }
-  .breadcrumb__list a {
-    transition: color .3s ease;
-  }
-  .breadcrumb__list svg {
-    height: var(--spacing-0-8);
-    width: auto;
-  }
-  .breadcrumb__next, .breadcrumb__prev {
-    width: var(--spacing-1-4);
-    height: var(--spacing-1-4);
-  }
-  .breadcrumb__back {
-    margin: 0 var(--spacing-1-2);
-  }
-  .breadcrumb__wrap {
-    display: grid;
-    gap: 3rem;
-    grid-template-columns: 1fr auto;
-  }
-  @media (min-width: 768px) {
-    .breadcrumb__list svg {
-      margin: 0 var(--spacing-1);
-    }
-  }
-  .dir--rtl .breadcrumb__list svg,
-  .dir--rtl .breadcrumb__prev-next svg {
-    transform: rotate(180deg);
-  }
-  @media (-moz-touch-enabled: 0), (hover: hover) and (min-width: 1150px) {
-    .breadcrumb__prev-next a:hover,
-    .breadcrumb__list a:hover {
-      color: rgb(var(--color-accent));
-    }
-  }
-</style>
