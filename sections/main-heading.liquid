@@ -15,7 +15,25 @@
     {%- render 'heading_page' -%}
   </div>
 </div>
-{%- style -%}#shopify-section-{{section.id}}{--section-pt:{{section.settings.padding_top}}px;--section-pb:{{section.settings.padding_bottom}}px;--section-prate:{{section.settings.padding_rate}}}.hdt-spacing_hd{gap:{{section.settings.spacing_hd}}px}.hdt-heading-template .hdt-heading-banner img{width:100%;height:100%;object-fit:cover;object-position:center}.hdt-heading-template .hdt-main-heading{z-index:2}.hdt-breadcrumb ul svg{margin:0 10px}{%- if section.settings.spacing_hd>=30 -%}@media(max-width:767px){.section-{{section.id}}.hdt-spacing_hd{gap:20px}}{%- endif -%}{%- endstyle -%}
+{%- style -%}
+  #shopify-section-{{section.id}}{--section-pt:{{section.settings.padding_top}}px;--section-pb:{{section.settings.padding_bottom}}px;--section-prate:{{section.settings.padding_rate}}}
+  .hdt-spacing_hd{gap:{{section.settings.spacing_hd}}px}
+  .hdt-heading-template .hdt-heading-banner img{width:100%;height:100%;object-fit:cover;object-position:center}
+  .hdt-heading-template .hdt-main-heading{z-index:2}
+  .hdt-breadcrumb ul svg{margin:0 10px}
+  {%- if section.settings.spacing_hd>=30 -%}
+  @media(max-width:767px){.section-{{section.id}}.hdt-spacing_hd{gap:20px}}
+  {%- endif -%}
+{%- endstyle -%}
+
+<div class="hdt-breadcrumb hdt-s-gradient hdt-section-spacing" color-scheme="{{ section.settings.color_scheme }}">
+  <div class="hdt-container">
+    <div class="hdt-breadcrumb__wrap hdt-s-text">
+      {% include 'breadcrumb' %}
+    </div>
+  </div>
+</div>
+
 {% schema %}
 {
   "name": "t:sections.heading-page.name",
