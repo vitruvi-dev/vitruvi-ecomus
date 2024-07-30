@@ -202,8 +202,9 @@
         "button_NmpJnn"
       ],
       "custom_css": [
-        ".hdt-label {font-weight: 200;}",
-        ".hdt-subheading {font-weight: 400;}"
+        ".hdt-label {font-weight: 200; padding-top: 10px}",
+        ".hdt-subheading {font-weight: 400;}",
+        ".hdt-heading {padding-top: 20px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/page_home-team_perks_image.png",
@@ -297,7 +298,6 @@
         "label_jLTcRM",
         "button_cC9gXp"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-label {font-weight: 200;}",
         ".hdt-subheading {font-weight: 400;}"
