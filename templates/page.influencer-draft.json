@@ -160,15 +160,15 @@
         "label_EHcg6n": {
           "type": "label",
           "settings": {
-            "label": "Be the first to experience our newest aircare innovations.",
+            "label": "Be the first to experience our newest aircare innovations and get gifted Vitruvi's full suite of aircare products.",
             "label_fs": "base"
           }
         },
-        "sub_heading_pAYTtT": {
-          "type": "sub_heading",
+        "heading_NEPEi6": {
+          "type": "heading",
           "settings": {
-            "sub_heading": "Social Spotlight",
-            "sub_fs": "base"
+            "heading": "Social Spotlight",
+            "heading_fs": "h4"
           }
         },
         "label_WfCBMq": {
@@ -197,12 +197,12 @@
         "label_qXYXtA",
         "heading_qq8ikr",
         "label_EHcg6n",
-        "sub_heading_pAYTtT",
+        "heading_NEPEi6",
         "label_WfCBMq",
         "button_NmpJnn"
       ],
       "custom_css": [
-        ".hdt-label {font-weight: 200; padding-top: 10px}",
+        ".hdt-label {font-weight: 200; padding-top: 5px; line-height: 20px;}",
         ".hdt-subheading {font-weight: 400;}",
         ".hdt-heading {padding-top: 20px;}"
       ],
