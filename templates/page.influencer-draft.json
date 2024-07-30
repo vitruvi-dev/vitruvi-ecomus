@@ -513,7 +513,7 @@
             "heading_fw": "semibold",
             "heading_space": 30,
             "desc": "<strong>Tier Gift:<\/strong>\n<br>\nStone Diffuser + Diffuser Blend\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n8% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\nFree Shipping",
-            "des_space": 40,
+            "des_space": 74,
             "btn_label": "",
             "btn_link": "",
             "target": false,
@@ -547,7 +547,7 @@
             "heading_fs": "h5",
             "heading_fw": "semibold",
             "heading_space": 30,
-            "desc": "If your application is accepted, we’ll reach out to provide you with products and posting guidelines.",
+            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nDiffuser Blend + Move Diffuser or Cloud Humidifier\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n8% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\n20% Off Sitewide\n<br><br>\n<strong>Other Perks:<\/strong> \n<br>\nAccess to new product releases and paid opportunities.",
             "des_space": 40,
             "btn_label": "",
             "btn_link": "",
@@ -582,7 +582,7 @@
             "heading_fs": "h5",
             "heading_fw": "semibold",
             "heading_space": 30,
-            "desc": "Share your products with your audience, and earn commission on any orders that are placed with your unique code or link.",
+            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nQuarterly Scent Stock Ups\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n10% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\n20% Off Sitewide\n<br><br>\n<strong>Other Perks:<\/strong> \n<br>\nEligible for commission during peak sale periods like seasonal sales and Black Friday.",
             "des_space": 40,
             "btn_label": "",
             "btn_link": "",
@@ -609,8 +609,8 @@
         "banner_3_r8HWEr"
       ],
       "settings": {
-        "row_height": 300,
-        "row_height_mb": 300,
+        "row_height": 500,
+        "row_height_mb": 400,
         "padding_top": 40,
         "padding_bottom": 0,
         "padding_rate": 75
