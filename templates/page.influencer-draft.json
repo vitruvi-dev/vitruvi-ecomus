@@ -298,6 +298,7 @@
         "label_jLTcRM",
         "button_cC9gXp"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-label {font-weight: 200;}",
         ".hdt-subheading {font-weight: 400;}"
@@ -333,6 +334,7 @@
       "block_order": [
         "heading_YGYAAm"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -457,6 +459,154 @@
         "banner_3_eNiYiw",
         "banner_3_PTTmH7",
         "banner_3_AYfUnB"
+      ],
+      "disabled": true,
+      "settings": {
+        "row_height": 300,
+        "row_height_mb": 300,
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_KLGj8F": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_hRr3en": {
+          "type": "heading",
+          "settings": {
+            "heading": "Program Tiers",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hRr3en"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "banner_masonry_FNeQMK": {
+      "type": "banner-masonry",
+      "blocks": {
+        "banner_3_ynJhbG": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Starting Tier",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "🥉 Bronze Tier",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "<strong>Gift:<\/strong> Stone Diffuser + Diffuser Blend\n<br>\nYour commission",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_UzaCRJ": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "After Driving $1,000 in Sales",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "🥈 Silver Tier",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "If your application is accepted, we’ll reach out to provide you with products and posting guidelines.",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_r8HWEr": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "After Driving $5,000",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "🥇 Gold Tier",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "Share your products with your audience, and earn commission on any orders that are placed with your unique code or link.",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_ynJhbG",
+        "banner_3_UzaCRJ",
+        "banner_3_r8HWEr"
       ],
       "settings": {
         "row_height": 300,
@@ -631,6 +781,8 @@
     "image_with_text_6Xrmi3",
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
+    "top_heading_KLGj8F",
+    "banner_masonry_FNeQMK",
     "hero_image_xMbfBr",
     "accordion_neAdmh"
   ]
