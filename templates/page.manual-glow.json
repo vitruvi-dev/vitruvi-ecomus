@@ -9,342 +9,36 @@
 */
 {
   "sections": {
-    "top_heading_TkKzrj": {
-      "type": "top-heading",
+    "heading": {
+      "type": "main-heading",
       "blocks": {
-        "sub_heading_DUz8HB": {
-          "type": "sub_heading",
+        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
+          "type": "1",
           "settings": {
-            "sub_heading": "QUICK START GUIDE",
-            "sub_heading_fs": "xl"
-          }
-        },
-        "heading_bkRD7y": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get to Know the Glow Diffuser",
-            "heading_fs": "h2"
+            "heading": "",
+            "heading_size": "h3"
           }
         }
       },
       "block_order": [
-        "sub_heading_DUz8HB",
-        "heading_bkRD7y"
+        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
       ],
       "settings": {
-        "spacing_item": 15,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
+        "image": "shopify:\/\/shop_images\/z4683181570507_46fb10fa21da971ae2af71e75431028c.png",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 100,
-        "padding_rate": 75
+        "spacing_hd": 0,
+        "padding_top": 80,
+        "padding_bottom": 86
       }
     },
-    "top_heading_TPdATp": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_dUni4X": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "FEATURES OF THE",
-            "sub_heading_fs": "base"
-          }
-        },
-        "heading_LUqzgx": {
-          "type": "heading",
-          "settings": {
-            "heading": "Glow Diffuser",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_dUni4X",
-        "heading_LUqzgx"
-      ],
+    "main": {
+      "type": "main-page",
       "settings": {
-        "spacing_item": 15,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_Hk3GYX": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify:\/\/files\/videos\/Glow_Features.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_kyMk96": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_hyL6Rh": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "HOW TO SET UP YOUR",
-            "sub_heading_fs": "base"
-          }
-        },
-        "heading_L8JBqX": {
-          "type": "heading",
-          "settings": {
-            "heading": "Glow Diffuser",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_hyL6Rh",
-        "heading_L8JBqX"
-      ],
-      "settings": {
-        "spacing_item": 15,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_YYWjUK": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify:\/\/files\/videos\/Glow_How-To-Set-Up.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_Ln3Je6": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_UGrxEJ": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "HOW TO CLEAN YOUR",
-            "sub_heading_fs": "base"
-          }
-        },
-        "heading_V6JwDr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Glow Diffuser",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_UGrxEJ",
-        "heading_V6JwDr"
-      ],
-      "settings": {
-        "spacing_item": 15,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_8EzxFr": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify:\/\/files\/videos\/Glow_How-To-Clean.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "accordion_jUzj9J": {
-      "type": "accordion",
-      "blocks": {
-        "title_XrDgbn": {
-          "type": "title",
-          "settings": {
-            "title": "FREQUENTLY ASKED QUESTIONS"
-          }
-        },
-        "accordion_item_9fAdcU": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How do I change the Glow Diffuser time setting?",
-            "content": "The Glow Diffuser has two time settings. The 4-hour setting runs continuously; the 8-hour setting runs intermittently, turning on for 30 seconds and then off for 30 seconds.\n\nTo select the 4-hour time setting, turn on the diffuser by clicking the button once.\n\nTo change to the 8-hour time setting, click the button for a second time. You will know that the time setting has been successfully changed when the light flashes.\n\nTo turn off your diffuser, click the button for a third time."
-          }
-        },
-        "accordion_item_j4Bm9T": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How do I turn the Glow Diffuser light on and off?",
-            "content": "When you turn on the Glow Diffuser, the light will automatically turn on. To turn off the light, click and hold the button for two seconds. To turn the light back on, click and hold the button for two seconds."
-          }
-        },
-        "accordion_item_r9agBQ": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How much water does the Glow Diffuser reservoir hold?",
-            "content": "The Glow Diffuser holds 100 ml of water."
-          }
-        },
-        "accordion_item_hw6wtG": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "What type of water should I use with the Glow Diffuser?",
-            "content": "You can use both tap and distilled water with your diffuser. That said, if you live in an area with hard water, we recommend using distilled."
-          }
-        },
-        "accordion_item_66KyLm": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How do I clean the Glow Diffuser?",
-            "content": "To clean the Glow Diffuser cover, hand-wash it under warm water with a soft brush and mild soap.\n\nTo deep clean your Glow Diffuser, fill the reservoir halfway with water and add with one tablespoon of white vinegar. Let the solution sit in the reservoir for 30 minutes, and then rinse it out and use a cotton swab to wipe it clean."
-          }
-        },
-        "accordion_item_dnXKxw": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Does the Glow Diffuser have an automatic safety feature?",
-            "content": "Yes. The Glow Diffuser will automatically turn off once the time cycle is up or the water runs out. As part of this automatic safety feature, a little bit of water will always remain in the reservoir."
-          }
-        },
-        "accordion_item_dThqRA": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Can I diffuse essential oils around my pets?",
-            "content": "Our pets are as unique as us. The first thing we suggest doing is checking with your vet—your animal may be more sensitive than others, so your vet will know best.\n\nStronger scents such as Lemon, Grapefruit, Peppermint, and Boost, should be used sparingly. If you would still like to diffuse one of these scents, I would suggest limiting the number of drops to approximately 1-5 drops.\n\nFrankincense, Lavender, and Cedarwood are great options to diffuse around animals. We also suggest turning your diffuser off when your animals are home alone, just in case they do become agitated by the scent.\n\nFor more information, visit our page here."
-          }
-        },
-        "accordion_item_M64rpw": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Which oils are safe for pregnancy and babies?",
-            "content": "The best thing to do before using essential oils is to chat with your doctor.\n\nIn a diffuser, we recommend using small amounts of essential oils when pregnant (about 5 drops). When it comes to newborns, we recommend waiting 3 months before using essential oils. But your doctor will know best, as we all react differently.\nAlways opt for essential oils that are 100% pure, vegan, cruelty-free, and free from synthetic fragrance.\n\n\nThese are the products we recommend starting with once you’ve spoken to your doctor: Lavender, Bergamot, Grapefruit, Lemon, Frankincense, Cedarwood, Boost, Sleep."
-          }
-        }
-      },
-      "block_order": [
-        "title_XrDgbn",
-        "accordion_item_9fAdcU",
-        "accordion_item_j4Bm9T",
-        "accordion_item_r9agBQ",
-        "accordion_item_hw6wtG",
-        "accordion_item_66KyLm",
-        "accordion_item_dnXKxw",
-        "accordion_item_dThqRA",
-        "accordion_item_M64rpw"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
-        "enable_link_list": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
-    "accordion_V3FMja": {
-      "type": "accordion",
-      "blocks": {
-        "title_EziF9c": {
-          "type": "title",
-          "settings": {
-            "title": "TROUBLESHOOTING"
-          }
-        },
-        "accordion_item_KFkmBh": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Glow Diffuser not misting?",
-            "content": "There may be a few reasons why your diffuser isn’t misting properly. Here are some ways to troubleshoot the issue.\n\nFirst, give your diffuser a deep clean. As a part of a built-in feature to protect our diffusers, the unit won’t run if the ultrasonic plates are clogged with essential oils. Watch our video above for instructions on how to clean your diffuser.\n\nNext, make sure the water is filled to just below the line inside the reservoir. If there is too little or too much water in the reservoir, the diffuser won’t turn on."
-          }
-        },
-        "accordion_item_ecAAMM": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Glow Diffuser not misting for the full 4-hour or 8-hour time cycle?",
-            "content": "In order for your diffuser to run for the full time cycle, ensure that the water is filled to just below the fill line. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run times by approximately 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com."
-          }
-        },
-        "accordion_item_4tmXAX": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Glow Diffuser not turning on?",
-            "content": "Make sure you’re using the original power cord that came with your Glow Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source.\n\nNext, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Glow Diffuser cover is sitting completely flush on the base."
-          }
-        },
-        "accordion_item_m7DphA": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Does my Glow Diffuser come with a warranty?",
-            "content": "Yes: the Glow Diffuser comes with a lifetime warranty. If your diffuser has any mechanical or manufacturing defects, we would be happy to assist you. Please get in touch with us at hello@vitruvi.com.\n\nPlease note that our lifetime device warranty does not cover personal damages. That said, if you need a replacement part, you’re able to purchase it here."
-          }
-        }
-      },
-      "block_order": [
-        "title_EziF9c",
-        "accordion_item_KFkmBh",
-        "accordion_item_ecAAMM",
-        "accordion_item_4tmXAX",
-        "accordion_item_m7DphA"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
-        "enable_link_list": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
-        "padding_rate": 75
       }
     }
   },
   "order": [
-    "top_heading_TkKzrj",
-    "top_heading_TPdATp",
-    "video_2_Hk3GYX",
-    "top_heading_kyMk96",
-    "video_2_YYWjUK",
-    "top_heading_Ln3Je6",
-    "video_2_8EzxFr",
-    "accordion_jUzj9J",
-    "accordion_V3FMja"
+    "heading",
+    "main"
   ]
 }
