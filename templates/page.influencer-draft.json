@@ -1,0 +1,539 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "hero_image_eattDT": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_bVGfVY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Home Team",
+            "heading_fs": "h1",
+            "heading_fw": "normal"
+          }
+        },
+        "text_gJ8xRq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Home Team is our amazing community of affiliates.<\/p>",
+            "adding_border": false
+          }
+        },
+        "text_HGQRVd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you’re a content creator who shares our passion for beautiful, natural air care, we’d love to hear from you.<\/p>",
+            "adding_border": false
+          }
+        },
+        "button_WfcHyh": {
+          "type": "button",
+          "settings": {
+            "btn_label": "JOIN NOW",
+            "btn_link": "https:\/\/api.collabs.shopify.com\/creator\/signup\/community_application\/3ec6f7fd3ae66ecc",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_WxqUxh": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SIGN IN",
+            "btn_link": "https:\/\/api.collabs.shopify.com\/creator\/login\/community_application\/3ec6f7fd3ae66ecc",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bVGfVY",
+        "text_gJ8xRq",
+        "text_HGQRVd",
+        "button_WfcHyh",
+        "button_WxqUxh"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\"; font-style: normal;}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 400,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 200,
+        "image": "shopify:\/\/shop_images\/page_loyalty_callout_image_desktop.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": true,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "heading": {
+      "type": "main-heading",
+      "blocks": {
+        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
+          "type": "1",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "spacing_hd": 0,
+        "padding_top": 80,
+        "padding_bottom": 86,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_cEXAjM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_g4CrCy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Program Perks",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_YaqXWm": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Earn Commission With Ease",
+            "sub_fs": "base"
+          }
+        },
+        "label_V6EPqh": {
+          "type": "label",
+          "settings": {
+            "label": "Enjoy commissions on every sale made through your unique affiliate code and link.",
+            "label_fs": "base"
+          }
+        },
+        "sub_heading_rrkX7c": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Exclusive First Access",
+            "sub_fs": "base"
+          }
+        },
+        "label_EHcg6n": {
+          "type": "label",
+          "settings": {
+            "label": "Be the first to experience our newest aircare innovations.",
+            "label_fs": "base"
+          }
+        },
+        "sub_heading_pAYTtT": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Social Spotlight",
+            "sub_fs": "base"
+          }
+        },
+        "label_WfCBMq": {
+          "type": "label",
+          "settings": {
+            "label": "Get featured with your handle on Vitruvi’s social media, reaching hundreds of thousands of users.",
+            "label_fs": "base"
+          }
+        },
+        "button_NmpJnn": {
+          "type": "button",
+          "settings": {
+            "btn_label": "JOIN NOW",
+            "btn_link": "https:\/\/api.collabs.shopify.com\/creator\/signup\/community_application\/3ec6f7fd3ae66ecc",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_g4CrCy",
+        "sub_heading_YaqXWm",
+        "label_V6EPqh",
+        "sub_heading_rrkX7c",
+        "label_EHcg6n",
+        "sub_heading_pAYTtT",
+        "label_WfCBMq",
+        "button_NmpJnn"
+      ],
+      "custom_css": [
+        ".hdt-label {font-weight: 200;}",
+        ".hdt-subheading {font-weight: 400;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/page_home-team_perks_image.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_kprGGE": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_YGYAAm": {
+          "type": "heading",
+          "settings": {
+            "heading": "How It Works",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YGYAAm"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "banner_masonry_AUJMT4": {
+      "type": "banner-masonry",
+      "blocks": {
+        "banner_3_eNiYiw": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 1",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Apply",
+            "heading_fs": "h4",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "Fill out an application so that we can get to know you.",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_PTTmH7": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 2",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Connect",
+            "heading_fs": "h4",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "If your application is accepted, we’ll reach out to provide you with products and posting guidelines.",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_AYfUnB": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Step 3",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Create",
+            "heading_fs": "h4",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "Share your products with your audience, and earn commission on any orders that are placed with your unique code or link.",
+            "des_space": 40,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "col_w": "4",
+            "row_count": 1,
+            "content_position": "center",
+            "alignment": "center",
+            "content_pd_y": 15,
+            "content_pd_x": 15,
+            "col_w_mb": "2",
+            "row_count_mb": 1,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_eNiYiw",
+        "banner_3_PTTmH7",
+        "banner_3_AYfUnB"
+      ],
+      "settings": {
+        "row_height": 300,
+        "row_height_mb": 300,
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_xMbfBr": {
+      "type": "hero-image",
+      "blocks": {
+        "button_qXbmFh": {
+          "type": "button",
+          "settings": {
+            "btn_label": "START YOUR APPLICATION",
+            "btn_link": "https:\/\/api.collabs.shopify.com\/creator\/signup\/community_application\/3ec6f7fd3ae66ecc",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "button_qXbmFh"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/transparent.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "accordion_neAdmh": {
+      "type": "accordion",
+      "blocks": {
+        "title_NUc3H7": {
+          "type": "title",
+          "settings": {
+            "title": "Frequently asked questions"
+          }
+        },
+        "accordion_item_Rqg93b": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I join the Take Care Club?",
+            "content": "To create a free Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, select “Join Now” to become a member.\n\nNote: if you have an existing Vitruvi account, you don’t need to create a separate Take Care Club account; simply sign in with your Vitruvi login information through the Take Care Club panel."
+          }
+        },
+        "accordion_item_JFE7iV": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I access my points and perks?",
+            "content": "To sign into your Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, click “Sign In” to access your membership information."
+          }
+        },
+        "accordion_item_6VkiNg": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I redeem my points?",
+            "content": "Sign into your Take Care Club account through the rewards panel on the bottom left corner. Select “Ways To Redeem” to view all of your available rewards. To use your points, click “Redeem.”"
+          }
+        },
+        "accordion_item_6WKEch": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I redeem my points towards subscription orders?",
+            "content": "No, points cannot be redeemed towards subscription orders."
+          }
+        },
+        "accordion_item_zeaWgJ": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Will my points expire?",
+            "content": "Yes—points expire two years after the date they were earned. We will send you a reminder 30 days before your points expire."
+          }
+        },
+        "accordion_item_kiXFNF": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Will my tier expire?",
+            "content": "No—you can move up in tiers, but not down. Once you’ve reached a higher tier, you will keep that status."
+          }
+        },
+        "accordion_item_AY6bdX": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I input my birthday?",
+            "content": "To add your birthday, log into your Take Care Club account and head to the Ways to Earn Section. You can then select Edit Date next to Celebrate a Birthday. If your birthday is within the next 30 days, please reach out to us at hello@vitruvi.com to be manually awarded."
+          }
+        },
+        "accordion_item_NrEfYm": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "When are birthday points awarded?",
+            "content": "The points will be rewarded on your birthday!"
+          }
+        },
+        "accordion_item_d7jPTL": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How does friend referral work?",
+            "content": "Make sure you’re signed in to your Take Care Club account. To grab your referral link, click the Rewards icon in the bottom left corner. Share your referral link with your friend; once they click into your referral link and enter their email address, they will receive a $10 off discount code. Then, once your friend places their first order, you will receive a $10 off discount code. Please note that friend referrals are only available for customers who have never made a purchase with us or shared their email with us before."
+          }
+        },
+        "accordion_item_AKnQdE": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What happens to my earned points if I return my order?",
+            "content": "If you return an order, the points earned on that purchase will automatically be removed from your balance."
+          }
+        },
+        "accordion_item_HhxnKY": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What happens to my redeemed points if I return my order?",
+            "content": "Any points that you redeemed on an order you now wish to return will not be automatically added back to your account. That said, we’d be happy to help you out with this; please reach out to us at hello@vitruvi.com for support."
+          }
+        }
+      },
+      "block_order": [
+        "title_NUc3H7",
+        "accordion_item_Rqg93b",
+        "accordion_item_JFE7iV",
+        "accordion_item_6VkiNg",
+        "accordion_item_6WKEch",
+        "accordion_item_zeaWgJ",
+        "accordion_item_kiXFNF",
+        "accordion_item_AY6bdX",
+        "accordion_item_NrEfYm",
+        "accordion_item_d7jPTL",
+        "accordion_item_AKnQdE",
+        "accordion_item_HhxnKY"
+      ],
+      "disabled": true,
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "hero_image_eattDT",
+    "heading",
+    "main",
+    "image_with_text_cEXAjM",
+    "top_heading_kprGGE",
+    "banner_masonry_AUJMT4",
+    "hero_image_xMbfBr",
+    "accordion_neAdmh"
+  ]
+}
