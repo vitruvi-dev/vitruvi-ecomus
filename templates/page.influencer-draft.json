@@ -146,7 +146,7 @@
         "label_qXYXtA": {
           "type": "label",
           "settings": {
-            "label": "Creators in Vitruvi's Home Team have earned over $200k in commissions.",
+            "label": "Creators in Vitruvi's Home Team have earned <strong>over $200k in commissions<\/strong>.",
             "label_fs": "base"
           }
         },
