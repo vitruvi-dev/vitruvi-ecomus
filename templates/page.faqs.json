@@ -106,6 +106,15 @@
             "collection_link": "shopify:\/\/pages\/get-to-know-the-move-diffuser"
           }
         },
+        "collection_item_PxdbJi": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/pdp_glow-difuser_feature_3_mobile_image.png",
+            "title": "Glow Diffuser",
+            "collection_link": "shopify:\/\/pages\/get-to-know-the-glow-diffuser"
+          }
+        },
         "collection_item_MeqH4q": {
           "type": "collection_item",
           "settings": {
@@ -145,6 +154,7 @@
         "collection_item_B6TeVF",
         "collection_item_8jBfNx",
         "collection_item_MmqWxE",
+        "collection_item_PxdbJi",
         "collection_item_MeqH4q",
         "collection_item_wBNHVA",
         "collection_item_4WeQDG",
