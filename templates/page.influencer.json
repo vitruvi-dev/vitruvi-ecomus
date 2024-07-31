@@ -129,18 +129,11 @@
     "image_with_text_cEXAjM": {
       "type": "image-with-text",
       "blocks": {
-        "heading_g4CrCy": {
+        "heading_zJyJVR": {
           "type": "heading",
           "settings": {
-            "heading": "Program Perks",
+            "heading": "Earn Commission With Ease",
             "heading_fs": "h4"
-          }
-        },
-        "sub_heading_YaqXWm": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Earn Commission With Ease",
-            "sub_fs": "base"
           }
         },
         "label_V6EPqh": {
@@ -150,25 +143,32 @@
             "label_fs": "base"
           }
         },
-        "sub_heading_rrkX7c": {
-          "type": "sub_heading",
+        "label_qXYXtA": {
+          "type": "label",
           "settings": {
-            "sub_heading": "Exclusive First Access",
-            "sub_fs": "base"
+            "label": "Creators in Vitruvi's Home Team have earned <strong>over $200k in commissions<\/strong>.",
+            "label_fs": "base"
+          }
+        },
+        "heading_qq8ikr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Exclusive First Access",
+            "heading_fs": "h4"
           }
         },
         "label_EHcg6n": {
           "type": "label",
           "settings": {
-            "label": "Be the first to experience our newest aircare innovations.",
+            "label": "Be the first to experience our newest aircare innovations and get gifted Vitruvi's full suite of aircare products.",
             "label_fs": "base"
           }
         },
-        "sub_heading_pAYTtT": {
-          "type": "sub_heading",
+        "heading_NEPEi6": {
+          "type": "heading",
           "settings": {
-            "sub_heading": "Social Spotlight",
-            "sub_fs": "base"
+            "heading": "Social Spotlight",
+            "heading_fs": "h4"
           }
         },
         "label_WfCBMq": {
@@ -192,15 +192,113 @@
         }
       },
       "block_order": [
-        "heading_g4CrCy",
-        "sub_heading_YaqXWm",
+        "heading_zJyJVR",
         "label_V6EPqh",
-        "sub_heading_rrkX7c",
+        "label_qXYXtA",
+        "heading_qq8ikr",
         "label_EHcg6n",
-        "sub_heading_pAYTtT",
+        "heading_NEPEi6",
         "label_WfCBMq",
         "button_NmpJnn"
       ],
+      "custom_css": [
+        ".hdt-label {font-weight: 200; padding-top: 5px; line-height: 20px;}",
+        ".hdt-subheading {font-weight: 400;}",
+        ".hdt-heading {padding-top: 20px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/page_home-team_perks_image.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_6Xrmi3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qdVhNc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Program Perks",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_ciy96q": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Earn Commission With Ease",
+            "sub_fs": "base"
+          }
+        },
+        "label_fpJ3Jm": {
+          "type": "label",
+          "settings": {
+            "label": "Enjoy commissions on every sale made through your unique affiliate code and link.",
+            "label_fs": "base"
+          }
+        },
+        "sub_heading_ta93md": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Exclusive First Access",
+            "sub_fs": "base"
+          }
+        },
+        "label_9Ltk7K": {
+          "type": "label",
+          "settings": {
+            "label": "Be the first to experience our newest aircare innovations.",
+            "label_fs": "base"
+          }
+        },
+        "sub_heading_YnzGJK": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Social Spotlight",
+            "sub_fs": "base"
+          }
+        },
+        "label_jLTcRM": {
+          "type": "label",
+          "settings": {
+            "label": "Get featured with your handle on Vitruvi’s social media, reaching hundreds of thousands of users.",
+            "label_fs": "base"
+          }
+        },
+        "button_cC9gXp": {
+          "type": "button",
+          "settings": {
+            "btn_label": "JOIN NOW",
+            "btn_link": "https:\/\/api.collabs.shopify.com\/creator\/signup\/community_application\/3ec6f7fd3ae66ecc",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qdVhNc",
+        "sub_heading_ciy96q",
+        "label_fpJ3Jm",
+        "sub_heading_ta93md",
+        "label_9Ltk7K",
+        "sub_heading_YnzGJK",
+        "label_jLTcRM",
+        "button_cC9gXp"
+      ],
+      "disabled": true,
       "custom_css": [
         ".hdt-label {font-weight: 200;}",
         ".hdt-subheading {font-weight: 400;}"
@@ -236,6 +334,7 @@
       "block_order": [
         "heading_YGYAAm"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -361,11 +460,157 @@
         "banner_3_PTTmH7",
         "banner_3_AYfUnB"
       ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
       "settings": {
         "row_height": 300,
         "row_height_mb": 300,
         "padding_top": 40,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_KLGj8F": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_hRr3en": {
+          "type": "heading",
+          "settings": {
+            "heading": "Program Tiers",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hRr3en"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "banner_H7bf9h": {
+      "type": "banner",
+      "blocks": {
+        "banner_3_CUjMjV": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "Starting Tier",
+            "sub_heading_fs": "h5",
+            "sub_heading_fw": "semibold",
+            "sub_heading_space": 30,
+            "heading": "🥉 Bronze Tier",
+            "heading_fs": "h5",
+            "heading_fw": "bold",
+            "heading_space": 30,
+            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nStone Diffuser + Diffuser Blend\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n8% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\nFree Shipping",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "start-center",
+            "alignment": "center",
+            "content_position_mb": "start-center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_TwVg3x": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "After Driving $1,000 in Sales",
+            "sub_heading_fs": "h5",
+            "sub_heading_fw": "semibold",
+            "sub_heading_space": 30,
+            "heading": "🥈 Silver Tier",
+            "heading_fs": "h5",
+            "heading_fw": "bold",
+            "heading_space": 30,
+            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nDiffuser Blend + Move Diffuser or Cloud Humidifier\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n8% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\n20% Off Sitewide\n<br><br>\n<strong>Other Perks:<\/strong> \n<br>\nAccess to new product releases and paid opportunities.",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "start-center",
+            "alignment": "center",
+            "content_position_mb": "start-center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_384U3n": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "After Driving $5,000 in Sales",
+            "sub_heading_fs": "h5",
+            "sub_heading_fw": "semibold",
+            "sub_heading_space": 30,
+            "heading": "🥇 Gold Tier",
+            "heading_fs": "h5",
+            "heading_fw": "bold",
+            "heading_space": 30,
+            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nQuarterly Scent Stock Ups\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n10% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\n20% Off Sitewide\n<br><br>\n<strong>Other Perks:<\/strong> \n<br>\nEligible for commission during peak sale periods like seasonal sales and Black Friday.",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "start-center",
+            "alignment": "center",
+            "content_position_mb": "start-center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_CUjMjV",
+        "banner_3_TwVg3x",
+        "banner_3_384U3n"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 500,
+        "content_pd_y": 30,
+        "content_pd_x": 30,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 30,
+        "padding_top": 0,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -531,8 +776,11 @@
     "heading",
     "main",
     "image_with_text_cEXAjM",
+    "image_with_text_6Xrmi3",
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
+    "top_heading_KLGj8F",
+    "banner_H7bf9h",
     "hero_image_xMbfBr",
     "accordion_neAdmh"
   ]
