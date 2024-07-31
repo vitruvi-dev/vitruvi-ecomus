@@ -497,6 +497,61 @@
         "padding_rate": 75
       }
     },
+    "banner_H7bf9h": {
+      "type": "banner",
+      "blocks": {
+        "banner_3_CUjMjV": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "After Driving $5,000 in Sales",
+            "sub_heading_fs": "h5",
+            "sub_heading_fw": "semibold",
+            "sub_heading_space": 30,
+            "heading": "🥇 Gold Tier",
+            "heading_fs": "h5",
+            "heading_fw": "bold",
+            "heading_space": 30,
+            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nQuarterly Scent Stock Ups\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n10% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\n20% Off Sitewide\n<br><br>\n<strong>Other Perks:<\/strong> \n<br>\nEligible for commission during peak sale periods like seasonal sales and Black Friday.",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_CUjMjV"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 500,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "2",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "banner_masonry_FNeQMK": {
       "type": "banner-masonry",
       "blocks": {
@@ -527,10 +582,10 @@
             "row_count": 2,
             "content_position": "start-center",
             "alignment": "center",
-            "content_pd_y": 15,
+            "content_pd_y": 30,
             "content_pd_x": 15,
             "col_w_mb": "2",
-            "row_count_mb": 1,
+            "row_count_mb": 2,
             "content_position_mb": "start-center",
             "alignment_mb": "center"
           }
@@ -562,7 +617,7 @@
             "row_count": 2,
             "content_position": "start-center",
             "alignment": "center",
-            "content_pd_y": 15,
+            "content_pd_y": 30,
             "content_pd_x": 15,
             "col_w_mb": "2",
             "row_count_mb": 2,
@@ -597,10 +652,10 @@
             "row_count": 2,
             "content_position": "start-center",
             "alignment": "center",
-            "content_pd_y": 15,
+            "content_pd_y": 30,
             "content_pd_x": 15,
             "col_w_mb": "2",
-            "row_count_mb": 1,
+            "row_count_mb": 2,
             "content_position_mb": "start-center",
             "alignment_mb": "center"
           }
@@ -616,7 +671,7 @@
       ],
       "settings": {
         "row_height": 270,
-        "row_height_mb": 400,
+        "row_height_mb": 300,
         "padding_top": 40,
         "padding_bottom": 0,
         "padding_rate": 75
@@ -788,6 +843,7 @@
     "top_heading_kprGGE",
     "banner_masonry_AUJMT4",
     "top_heading_KLGj8F",
+    "banner_H7bf9h",
     "banner_masonry_FNeQMK",
     "hero_image_xMbfBr",
     "accordion_neAdmh"
