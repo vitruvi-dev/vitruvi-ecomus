@@ -461,6 +461,9 @@
         "banner_3_AYfUnB"
       ],
       "disabled": true,
+      "custom_css": [
+
+      ],
       "settings": {
         "row_height": 300,
         "row_height_mb": 300,
@@ -607,6 +610,9 @@
         "banner_3_ynJhbG",
         "banner_3_UzaCRJ",
         "banner_3_r8HWEr"
+      ],
+      "custom_css": [
+        ".hdt-place-self-center {place-self: start center;}"
       ],
       "settings": {
         "row_height": 500,
