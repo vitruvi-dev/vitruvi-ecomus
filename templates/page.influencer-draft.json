@@ -531,8 +531,8 @@
             "content_pd_x": 15,
             "col_w_mb": "2",
             "row_count_mb": 1,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "content_position_mb": "start-center",
+            "alignment_mb": "right"
           }
         },
         "banner_3_UzaCRJ": {
@@ -612,7 +612,7 @@
         "banner_3_r8HWEr"
       ],
       "custom_css": [
-        ".hdt-place-self-center {place-self: start center;}"
+
       ],
       "settings": {
         "row_height": 500,
