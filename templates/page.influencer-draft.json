@@ -525,14 +525,14 @@
             "btn_icon": "none",
             "col_w": "4",
             "row_count": 1,
-            "content_position": "center",
+            "content_position": "start-center",
             "alignment": "center",
             "content_pd_y": 15,
             "content_pd_x": 15,
             "col_w_mb": "2",
             "row_count_mb": 1,
             "content_position_mb": "start-center",
-            "alignment_mb": "right"
+            "alignment_mb": "center"
           }
         },
         "banner_3_UzaCRJ": {
@@ -559,14 +559,14 @@
             "btn_fw": "normal",
             "btn_icon": "none",
             "col_w": "4",
-            "row_count": 1,
-            "content_position": "center",
+            "row_count": 2,
+            "content_position": "start-center",
             "alignment": "center",
             "content_pd_y": 15,
             "content_pd_x": 15,
             "col_w_mb": "2",
-            "row_count_mb": 1,
-            "content_position_mb": "center",
+            "row_count_mb": 2,
+            "content_position_mb": "start-center",
             "alignment_mb": "center"
           }
         },
@@ -595,13 +595,13 @@
             "btn_icon": "none",
             "col_w": "4",
             "row_count": 1,
-            "content_position": "center",
+            "content_position": "start-center",
             "alignment": "center",
             "content_pd_y": 15,
             "content_pd_x": 15,
             "col_w_mb": "2",
             "row_count_mb": 1,
-            "content_position_mb": "center",
+            "content_position_mb": "start-center",
             "alignment_mb": "center"
           }
         }
@@ -615,7 +615,7 @@
 
       ],
       "settings": {
-        "row_height": 500,
+        "row_height": 270,
         "row_height_mb": 400,
         "padding_top": 40,
         "padding_bottom": 0,
