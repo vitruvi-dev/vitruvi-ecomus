@@ -609,133 +609,8 @@
         "space_item_tb": 15,
         "row_height_mb": 250,
         "space_item_mb": 30,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "banner_masonry_FNeQMK": {
-      "type": "banner-masonry",
-      "blocks": {
-        "banner_3_ynJhbG": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "Starting Tier",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "🥉 Bronze Tier",
-            "heading_fs": "h5",
-            "heading_fw": "semibold",
-            "heading_space": 30,
-            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nStone Diffuser + Diffuser Blend\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n8% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\nFree Shipping",
-            "des_space": 74,
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "col_w": "4",
-            "row_count": 2,
-            "content_position": "start-center",
-            "alignment": "center",
-            "content_pd_y": 30,
-            "content_pd_x": 15,
-            "col_w_mb": "2",
-            "row_count_mb": 2,
-            "content_position_mb": "start-center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_UzaCRJ": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "After Driving $1,000 in Sales",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "🥈 Silver Tier",
-            "heading_fs": "h5",
-            "heading_fw": "semibold",
-            "heading_space": 30,
-            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nDiffuser Blend + Move Diffuser or Cloud Humidifier\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n8% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\n20% Off Sitewide\n<br><br>\n<strong>Other Perks:<\/strong> \n<br>\nAccess to new product releases and paid opportunities.",
-            "des_space": 40,
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "col_w": "4",
-            "row_count": 2,
-            "content_position": "start-center",
-            "alignment": "center",
-            "content_pd_y": 30,
-            "content_pd_x": 15,
-            "col_w_mb": "2",
-            "row_count_mb": 2,
-            "content_position_mb": "start-center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_r8HWEr": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "After Driving $5,000",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "🥇 Gold Tier",
-            "heading_fs": "h5",
-            "heading_fw": "semibold",
-            "heading_space": 30,
-            "desc": "<strong>Tier Gift:<\/strong>\n<br>\nQuarterly Scent Stock Ups\n<br><br>\n<strong>You Get:<\/strong>\n<br>\n10% Commission\n<br><br>\n<strong>Your Audience Gets:<\/strong> \n<br>\n20% Off Sitewide\n<br><br>\n<strong>Other Perks:<\/strong> \n<br>\nEligible for commission during peak sale periods like seasonal sales and Black Friday.",
-            "des_space": 40,
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "col_w": "4",
-            "row_count": 2,
-            "content_position": "start-center",
-            "alignment": "center",
-            "content_pd_y": 30,
-            "content_pd_x": 15,
-            "col_w_mb": "2",
-            "row_count_mb": 2,
-            "content_position_mb": "start-center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "banner_3_ynJhbG",
-        "banner_3_UzaCRJ",
-        "banner_3_r8HWEr"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "row_height": 270,
-        "row_height_mb": 300,
-        "padding_top": 40,
-        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -906,7 +781,6 @@
     "banner_masonry_AUJMT4",
     "top_heading_KLGj8F",
     "banner_H7bf9h",
-    "banner_masonry_FNeQMK",
     "hero_image_xMbfBr",
     "accordion_neAdmh"
   ]
