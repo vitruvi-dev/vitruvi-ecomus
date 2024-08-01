@@ -2645,7 +2645,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 :where(.hdt-pr-style10,.hdt-pr-style11) .hdt-product-btns.hdt-pr-btns-group1 :where(.hdt-card-product__btn-ultra,.hdt-product-form .hdt-card-product__btn-ultra) {
   padding: 0 24px;
   border: solid 1px var(--atc-bg-cl);
-  width: auto !important;
+  width: 100% !important;
 }
 :where .hdt-product-btns.hdt-pr-btns-group1 .hdt-pr_btn > span {
   text-transform: none;
