@@ -224,7 +224,7 @@
     "product": {
       "quick_add": "ADD TO BAG",
       "quick_view": "Quick view",
-      "pre_order": "PRE-ORDER",
+      "pre_order": "ADD TO BAG",
       "add_to_cart": "ADD TO BAG",
       "add_selected_to_cart": "Add selected to cart",
       "choose_options": "Choose options",
