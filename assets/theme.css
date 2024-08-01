@@ -2593,7 +2593,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 	color: var(--atc-bg-cl);
   background-color: var(--atc-cl);
   border-color: var(--atc-cl);
-  --color-button-text: var(--atc-bg-cl);
+  --color-button-text: var(--atc-cl);
   /* --light_skew-color:rgb(var(--color-button)/.25); */
 }
 .hdt-pr-style10 .hdt-card-product__wrapper {
