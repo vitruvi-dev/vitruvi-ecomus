@@ -109,19 +109,6 @@
           "settings": {
             "only_show_soldout": true
           }
-        },
-        "img_trust_kQWB4H": {
-          "type": "img_trust",
-          "disabled": true,
-          "settings": {
-            "show_icon": false,
-            "mess": "Free Zip-Up Cube with Purchase",
-            "source": "1",
-            "image": "shopify:\/\/shop_images\/pdp_black-zip-kit_gallery_1_image.png",
-            "wimg": 100,
-            "svg": "",
-            "height": 30
-          }
         }
       },
       "block_order": [
@@ -135,8 +122,7 @@
         "inventory_ftnW9y",
         "countdown_timer_NCVUEc",
         "description_Fh49zX",
-        "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "img_trust_kQWB4H"
+        "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
@@ -195,22 +181,7 @@
             "icon_width_mb": 60,
             "link": "",
             "open_link": false,
-            "title": "Free from synthetic fragrance",
-            "content": "",
-            "adding_border": false
-          }
-        },
-        "item_wmRw6a": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "health",
-            "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_heart_2024-06.svg",
-            "icon_width": 60,
-            "icon_width_mb": 60,
-            "link": "",
-            "open_link": false,
-            "title": "Vegan & cruelty-free",
+            "title": "Free from Synthetic fragrance",
             "content": "",
             "adding_border": false
           }
@@ -220,12 +191,27 @@
           "settings": {
             "icon_svg": "health",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_recycle_2024-08.svg",
+            "image": "shopify:\/\/shop_images\/icons_heart_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
             "open_link": false,
-            "title": "Fully recyclable &<br>UV protected bottles",
+            "title": "Vegan and cruelty-free",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_np3GKW": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Natural.svg",
+            "icon_width": 60,
+            "icon_width_mb": 60,
+            "link": "",
+            "open_link": false,
+            "title": "Fully Recyclable &<br>UV Protected Bottles",
             "content": "",
             "adding_border": false
           }
@@ -234,8 +220,8 @@
       "block_order": [
         "item_LxpgtV",
         "item_4BAcqB",
-        "item_wmRw6a",
-        "item_dGEfXk"
+        "item_dGEfXk",
+        "item_np3GKW"
       ],
       "settings": {
         "heading_align": "center",
@@ -253,13 +239,13 @@
         "space_icon_heading": "medium",
         "size_heading": "medium",
         "heading_uppercase": false,
-        "space_heading_content": "medium",
-        "col_dk": "4",
+        "space_heading_content": "small",
+        "col_dk": "3",
         "col_tb": "4",
         "col_mb": "1",
         "carousel_mobile": true,
         "border_style": "none",
-        "fullwidth": false,
+        "fullwidth": true,
         "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
@@ -416,7 +402,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 4,
-        "product_des": "10",
+        "product_des": "4",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
@@ -448,7 +434,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 10,
-        "product_des": "10",
+        "product_des": "4",
         "image_ratio": "custom-pr",
         "image_size": true,
         "show_vendor": false,
