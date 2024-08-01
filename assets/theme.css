@@ -2590,11 +2590,16 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 	text-transform: none;
 }
 .hdt-card-product.hdt-pr-style10 .hdt-product-btns .hdt-card-product__btn-ultra {
-	color: var(--atc-bg-cl);
-  background-color: var(--atc-cl);
+	color: var(--atc-cl);
+  background-color: transparent;
   border-color: var(--atc-cl);
   --color-button-text: var(--atc-cl);
-  /* --light_skew-color:rgb(var(--color-button)/.25); */
+  /* 
+  color: var(--atc-cl);
+  background-color: var(--atc-bg-cl);
+  border-color: var(--atc-bg-cl);
+  --color-button-text: var(--atc-cl);
+  --light_skew-color:rgb(var(--color-button)/.25); */
 }
 .hdt-pr-style10 .hdt-card-product__wrapper {
 	border-radius: var(--rounded-product-card);
