@@ -195,12 +195,12 @@
             "icon_width_mb": 60,
             "link": "",
             "open_link": false,
-            "title": "Free from Synthetic fragrance",
+            "title": "Free from synthetic fragrance",
             "content": "",
             "adding_border": false
           }
         },
-        "item_dGEfXk": {
+        "item_wmRw6a": {
           "type": "item",
           "settings": {
             "icon_svg": "health",
@@ -210,7 +210,22 @@
             "icon_width_mb": 60,
             "link": "",
             "open_link": false,
-            "title": "Vegan and cruelty-free",
+            "title": "Vegan & cruelty-free",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_dGEfXk": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "health",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/icons_recycle_2024-08.svg",
+            "icon_width": 60,
+            "icon_width_mb": 60,
+            "link": "",
+            "open_link": false,
+            "title": "Fully recyclable &<br>UV protected bottles",
             "content": "",
             "adding_border": false
           }
@@ -219,6 +234,7 @@
       "block_order": [
         "item_LxpgtV",
         "item_4BAcqB",
+        "item_wmRw6a",
         "item_dGEfXk"
       ],
       "settings": {
@@ -237,13 +253,13 @@
         "space_icon_heading": "medium",
         "size_heading": "medium",
         "heading_uppercase": false,
-        "space_heading_content": "small",
-        "col_dk": "3",
-        "col_tb": "3",
+        "space_heading_content": "medium",
+        "col_dk": "4",
+        "col_tb": "4",
         "col_mb": "1",
         "carousel_mobile": true,
         "border_style": "none",
-        "fullwidth": true,
+        "fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
