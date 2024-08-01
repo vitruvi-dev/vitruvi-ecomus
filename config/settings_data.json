@@ -70,7 +70,7 @@
     "show_rating": true,
     "uppercase_title": false,
     "pr_title_size": "base",
-    "color_mode": "color",
+    "color_mode": "hide",
     "color_type": "only",
     "color_shape": "cricle",
     "image_source": "custom_img",
@@ -78,6 +78,7 @@
     "color_event": "hover",
     "enable_color_limit": true,
     "color_maximum": 5,
+    "size_type": "all",
     "remove_collection_url": true,
     "hidden_badges": false,
     "action_after_atc": "open_cart_drawer",
@@ -582,7 +583,9 @@
       ".yotpo-reviews-wrapper {display: none;}",
       ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}",
       ".hdt-mb-language_currencies {display: none;}",
-      ".hdt-badge__pre_order {display: none;}"
+      ".hdt-badge__pre_order {display: none;}",
+      ".hdt-pr-style10 .hdt-card-product__wrapper {background-color: transparent;}",
+      ".hdt-pr-style10 .hdt-size-list {display: none;}"
     ]
   }
 }

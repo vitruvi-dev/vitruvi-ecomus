@@ -47,7 +47,7 @@
     "main": {
       "type": "main-collection",
       "custom_css": [
-        ".hdt-card-product__wrapper {background-color: transparent;}"
+
       ],
       "settings": {
         "product_des": "10",
