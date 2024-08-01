@@ -80,7 +80,6 @@
         },
         "inventory_ftnW9y": {
           "type": "inventory",
-          "disabled": true,
           "settings": {
             "inventory_threshold": 20,
             "show_inventory_quantity": false,
@@ -110,19 +109,6 @@
           "settings": {
             "only_show_soldout": true
           }
-        },
-        "img_trust_XztLJJ": {
-          "type": "img_trust",
-          "disabled": true,
-          "settings": {
-            "show_icon": false,
-            "mess": "Free Zip-Up Cube with Purchase",
-            "source": "1",
-            "image": "shopify:\/\/shop_images\/pdp_black-zip-kit_gallery_1_image.png",
-            "wimg": 100,
-            "svg": "",
-            "height": 30
-          }
         }
       },
       "block_order": [
@@ -136,8 +122,7 @@
         "inventory_ftnW9y",
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
-        "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "img_trust_XztLJJ"
+        "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
@@ -505,7 +490,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 4,
-        "product_des": "10",
+        "product_des": "4",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
@@ -609,7 +594,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 50,
         "limit": 10,
-        "product_des": "10",
+        "product_des": "4",
         "image_ratio": "custom-pr",
         "image_size": true,
         "show_vendor": false,

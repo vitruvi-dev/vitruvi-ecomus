@@ -2058,7 +2058,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 }
 .hdt-card-product .hdt-product-btns .hdt-pr_btn > span {
   font-size: var(--text-sm);
-  font-weight: var(--font-bold);
+  font-weight: var(--font);
   text-transform: uppercase;
 }
 .hdt-product-form + .hdt-pr_btn > span {
@@ -2132,10 +2132,12 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 }
 .hdt-card-product .hdt-product-btns {
   z-index: 4;
+  display: block;
+  /*
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 5px;
+  gap: 5px; */
 }
 .hdt-card-product .hdt-product-btns .hdt-pr_btn,
 .hdt-card-product .hdt-product-btns a.hdt-card-product__btn-ultra {
@@ -2147,9 +2149,9 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
   align-items: center;
   justify-content: center;
   font-weight: var(--font-medium);
-  border-radius: 3px;
-  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
-  box-shadow: 0px 8px 24px 0px rgba(149, 157, 165, 0.20);
+  border-radius:0px;
+  /* box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); */
+  /* box-shadow: 0px 8px 24px 0px rgba(149, 157, 165, 0.20); */
 }
 .hdt-card-product :where(.hdt-product-btns .hdt-pr_btn,.hdt-product-form .hdt-quantity-wrapp + .hdt-card-product__btn-ultra) {
   height: 32px;
@@ -2581,7 +2583,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 .hdt-pr-style10 .hdt-product-btns.hdt-pr-btns-group1 {
   transform: none;
   opacity: 1;
-  width: auto;
+  width: 100%;
   margin-top: 10px;
 }
 .hdt-card-product.hdt-pr-style10 .hdt-product-btns .hdt-pr_btn > span {
@@ -2589,10 +2591,15 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 }
 .hdt-card-product.hdt-pr-style10 .hdt-product-btns .hdt-card-product__btn-ultra {
 	color: var(--atc-cl);
+  background-color: transparent;
+  border-color: var(--atc-cl);
+  --color-button-text: var(--atc-cl);
+  /* 
+  color: var(--atc-cl);
   background-color: var(--atc-bg-cl);
   border-color: var(--atc-bg-cl);
   --color-button-text: var(--atc-cl);
-  --light_skew-color:rgb(var(--color-button)/.25);
+  --light_skew-color:rgb(var(--color-button)/.25); */
 }
 .hdt-pr-style10 .hdt-card-product__wrapper {
 	border-radius: var(--rounded-product-card);
@@ -2645,7 +2652,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 :where(.hdt-pr-style10,.hdt-pr-style11) .hdt-product-btns.hdt-pr-btns-group1 :where(.hdt-card-product__btn-ultra,.hdt-product-form .hdt-card-product__btn-ultra) {
   padding: 0 24px;
   border: solid 1px var(--atc-bg-cl);
-  width: auto !important;
+  width: 100% !important;
 }
 :where .hdt-product-btns.hdt-pr-btns-group1 .hdt-pr_btn > span {
   text-transform: none;
