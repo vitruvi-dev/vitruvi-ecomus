@@ -2147,9 +2147,9 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
   align-items: center;
   justify-content: center;
   font-weight: var(--font-medium);
-  border-radius: 3px;
-  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
-  box-shadow: 0px 8px 24px 0px rgba(149, 157, 165, 0.20);
+  border-radius:0px;
+  /* box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); */
+  /* box-shadow: 0px 8px 24px 0px rgba(149, 157, 165, 0.20); */
 }
 .hdt-card-product :where(.hdt-product-btns .hdt-pr_btn,.hdt-product-form .hdt-quantity-wrapp + .hdt-card-product__btn-ultra) {
   height: 32px;
