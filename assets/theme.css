@@ -2058,7 +2058,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 }
 .hdt-card-product .hdt-product-btns .hdt-pr_btn > span {
   font-size: var(--text-sm);
-  font-weight: var(--font-bold);
+  font-weight: var(--font);
   text-transform: uppercase;
 }
 .hdt-product-form + .hdt-pr_btn > span {
