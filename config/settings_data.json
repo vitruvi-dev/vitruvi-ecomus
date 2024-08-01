@@ -419,6 +419,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "12592085946906583873": {
+        "type": "shopify:\/\/apps\/wunderkind\/blocks\/tag\/40b05e3b-2403-4814-8fab-e17e57e8b1aa",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
@@ -593,6 +599,6 @@
       ".hdt-pr-style10 .hdt-card-product__wrapper {background-color: transparent;}",
       ".hdt-pr-style10 .hdt-size-list {display: none;}",
       ".hdt-main-product-quick-add .shopify-payment-button {display: none;}"
-   ]
+    ]
   }
 }
