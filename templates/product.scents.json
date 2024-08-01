@@ -200,12 +200,28 @@
             "content": "",
             "adding_border": false
           }
+        },
+        "item_np3GKW": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/IconsBlack-Natural.svg",
+            "icon_width": 60,
+            "icon_width_mb": 60,
+            "link": "",
+            "open_link": false,
+            "title": "Fully Recyclable &<br>UV Protected Bottles",
+            "content": "",
+            "adding_border": false
+          }
         }
       },
       "block_order": [
         "item_LxpgtV",
         "item_4BAcqB",
-        "item_dGEfXk"
+        "item_dGEfXk",
+        "item_np3GKW"
       ],
       "settings": {
         "heading_align": "center",
@@ -225,7 +241,7 @@
         "heading_uppercase": false,
         "space_heading_content": "small",
         "col_dk": "3",
-        "col_tb": "3",
+        "col_tb": "4",
         "col_mb": "1",
         "carousel_mobile": true,
         "border_style": "none",
