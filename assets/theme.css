@@ -2132,10 +2132,12 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 }
 .hdt-card-product .hdt-product-btns {
   z-index: 4;
+  display: block;
+  /*
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 5px;
+  gap: 5px; */
 }
 .hdt-card-product .hdt-product-btns .hdt-pr_btn,
 .hdt-card-product .hdt-product-btns a.hdt-card-product__btn-ultra {
@@ -2581,7 +2583,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 .hdt-pr-style10 .hdt-product-btns.hdt-pr-btns-group1 {
   transform: none;
   opacity: 1;
-  width: auto;
+  width: 100%;
   margin-top: 10px;
 }
 .hdt-card-product.hdt-pr-style10 .hdt-product-btns .hdt-pr_btn > span {
