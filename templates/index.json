@@ -15,7 +15,7 @@
         "label_rHtJ3e": {
           "type": "label",
           "settings": {
-            "label": "FREE GIFT WITH PURCHASE OFFER"
+            "label": ""
           }
         },
         "heading_FQ3wCc": {
@@ -49,7 +49,6 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -106,6 +105,7 @@
       "block_order": [
         "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
@@ -166,6 +166,7 @@
         "text_dU8TVd",
         "button_ramYgE"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/pdp_kit_myster_gallery_2_image.jpg",
         "style_image": "1",
