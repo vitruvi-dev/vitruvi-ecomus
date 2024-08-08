@@ -420,14 +420,10 @@
         "settings": {
         }
       },
-      "124348908681409149": {
-        "type": "shopify:\/\/apps\/simple-bundles-kits\/blocks\/simple-bundles-v2\/e553276b-36b2-446d-b80a-aa47fe5f96ac",
+      "5918445685253060206": {
+        "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-script-append\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
         "disabled": false,
         "settings": {
-          "select_placeholder": "Please select an option",
-          "disable_oos_options": true,
-          "custom_css": "",
-          "custom_js": ""
         }
       }
     },
