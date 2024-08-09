@@ -1,0 +1,19 @@
+# Shopify ecommerce platform settings
+{%- comment -%}
+# Caution! Read Shopify's SEO guide before making changes.
+{% endcomment %}
+{% for group in robots.default_groups %}
+ {{- group.user_agent -}}
+ {% for rule in group.rules %}
+ {{- rule -}}
+ {% endfor %}
+ {%- if group.user_agent.value == '*' -%}
+ {{ 'Disallow: /collections/all*' }}
+ {{ 'Disallow: /*?q=*' }}
+ {{ 'Disallow: /collections/*/*' }}
+ {{ 'Disallow: /blogs/*/tagged/*' }}
+ {%- endif -%}
+ {%- if group.sitemap != blank -%}
+ {{ group.sitemap }}
+ {%- endif -%}
+{% endfor %}
