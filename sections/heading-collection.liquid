@@ -5,10 +5,26 @@
     assign page_type = 'customers'
   endif
 -%}
-{%- style -%}#shopify-section-{{section.id}}{--section-pt:{{section.settings.padding_top}}px;--section-pb:{{section.settings.padding_bottom}}px;--section-prate:{{section.settings.padding_rate}}}.hdt-heading-content{z-index:3}.hdt-spacing_hd{gap:{{section.settings.spacing_hd}}px}.hdt-heading-template .hdt-heading-banner img{width:100%;height:100%;object-fit:cover;object-position:center}.hdt-heading-template .hdt-main-heading{z-index:10}.hdt-breadcrumb ul svg{margin:0 10px}@media(min-width:768px){.hdt-collection-heading{font-size:42px}}@media(max-width:767px){ {%- if section.settings.spacing_hd>=30 -%}.section-{{section.id}}.hdt-spacing_hd{gap:15px}{%- endif -%}}@media (-moz-touch-enabled:0),(hover:hover) and (min-width:1150px){.hdt-breadcrumb a:hover{color:rgb(var(--accent-color))}}{%- endstyle -%}
+{%- style -%}
+  #shopify-section-{{section.id}}{--section-pt:{{section.settings.padding_top}}px;--section-pb:{{section.settings.padding_bottom}}px;--section-prate:{{section.settings.padding_rate}}}
+  .hdt-heading-content{z-index:3}
+  .hdt-spacing_hd{gap:{{section.settings.spacing_hd}}px}
+  .hdt-heading-template .hdt-heading-banner img{width:100%;height:100%;object-fit:cover;object-position:center}
+  .hdt-heading-template .hdt-main-heading{z-index:10}
+  .hdt-breadcrumb ul svg{margin:0 10px}
+  @media(min-width:768px){.hdt-collection-heading{font-size:42px}}
+  @media(max-width:767px){
+    {%- if section.settings.spacing_hd>=30 -%}
+    .section-{{section.id}}.hdt-spacing_hd{gap:15px}
+    {%- endif -%}
+  }
+  @media (-moz-touch-enabled:0),(hover:hover) and (min-width:1150px){
+    .hdt-breadcrumb a:hover{color:rgb(var(--accent-color))}
+  }
+{%- endstyle -%}
 <div class="hdt-heading-template hdt-section-spacing hdt-s-gradient section-{{ section.id }} hdt-relative" color-scheme="{{ section.settings.color_scheme }}">
   <div class="hdt-heading-full-page">
-    <div class="hdt-container hdt-heading-content hdt-spacing_hd hdt-flex hdt-justify-center hdt-text-center hdt-align-center hdt-flex-col hdt-relative xxx">
+    <div class="hdt-container hdt-heading-content hdt-spacing_hd hdt-flex hdt-justify-center hdt-text-center hdt-align-center hdt-flex-col hdt-relative">
       {%- for block in section.blocks -%}
         {%- liquid 
         capture heading_content
@@ -55,19 +71,9 @@
             {% if collection.description != blank or block.settings.description != blank %}
               <div class="hdt-collection-description hdt-s-text2 hdt-text-lg hdt-font-normal">{{ block.settings.description | default: collection.description }}</div>
             {% endif %}
-          {%- else -%}
+          {%- when 'breadcrumb' -%}
             <nav class="hdt-breadcrumb" role="navigation" aria-label="breadcrumbs">
-              <ul class="hdt-flex hdt-align-center hdt-text-base hdt-font-normal hdt-breadcrumb-list">
-                <li class="hdt-breadcrumb-item hdt-inline-flex hdt-s-text">
-                  <a href="{{ routes.root_url }}">{{ 'general.breadcrumb.home' | t }}</a>
-                </li>
-                <svg xmlns="http://www.w3.org/2000/svg" width="5" height="8" viewBox="0 0 5 8" class="hdt-s-text" fill="currentColor">
-                  <path d="M0.886718 3.49691e-07L4.88672 4L0.886719 8L0.176719 7.29L3.46672 4L0.176719 0.71L0.886718 3.49691e-07Z"/>
-                </svg>
-                <li class="hdt-breadcrumb-item hdt-inline-flex hdt-s-text2">
-                  {{ heading_title }}
-                </li>
-              </ul>
+              {% include 'breadcrumb' %}
             </nav>
         {%- endcase -%}
       {%- endfor -%}

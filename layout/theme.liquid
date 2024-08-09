@@ -25,6 +25,12 @@
     <meta name="theme-color" content="">
     <link rel="canonical" href="{{ canonical_url }}">
 
+    {%- if product.metafields.global.canonical != blank %}
+    <link rel="canonical" href="{{ product.metafields.global.canonical }}">
+    {%- else -%}
+    <link rel="canonical" href="{{ canonical_url }}">
+    {%- endif %}
+      
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
       <link rel="apple-touch-icon" href="{{ settings.favicon | image_url: width: 48, height: 48 }}">
@@ -43,6 +49,21 @@
     </title>
 
     {%- if page_description %}<meta name="description" content="{{ page_description | escape }}">{% endif %}
+    
+    {%- if current_tags %}
+    <meta name="robots" content="noindex, follow">
+    {% endif %}
+    {% if template contains "collection" and collection.handle == "vendors" %}
+    <meta name="robots" content="noindex, follow">
+    {% endif %}
+    {% if template contains "collection" and collection.handle == "types" %}
+    <meta name="robots" content="noindex, follow">
+    {% endif %}
+    {% if (template contains "collection" and collection.handle == "all") or
+    (template contains "collection" and collection.handle == "new") or
+    (canonical_url == "https://vitruvi.com/collections") %}
+    <meta name="robots" content="noindex, follow">
+    {% endif %}
 
     {%- liquid
       render 'social-meta-tags'
@@ -53,7 +74,15 @@
       echo 'hdt-policy.css' | asset_url | stylesheet_tag
       endif
     -%}
+    {% capture content_for_header_fixed %}
     {{ content_for_header }}
+    {% endcapture %}
+    {% if product.metafields.seo.hidden == 1 or collection.metafields.seo.hidden == 1 %}
+    {{ content_for_header_fixed | remove: '<meta name="robots"
+    content="noindex,nofollow">' }}
+    {% else %}
+    {{ content_for_header }}
+    {% endif %}
     {%- endunless -%}
 
   </head>
