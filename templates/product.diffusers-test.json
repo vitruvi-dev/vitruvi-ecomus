@@ -52,7 +52,6 @@
         },
         "1248e930-5734-45b4-a1d6-a814910fdb63": {
           "type": "variant_picker",
-          "disabled": true,
           "settings": {
             "pick_mode": "first_available",
             "enable_historystate": true,
@@ -110,6 +109,17 @@
           "settings": {
             "only_show_soldout": true
           }
+        },
+        "extra_link_ykaFP7": {
+          "type": "extra_link",
+          "settings": {
+            "show_cp_cl": true,
+            "show_ask": false,
+            "show_phone": true,
+            "show_delivery": false,
+            "page_delivery": "",
+            "show_share_btn": true
+          }
         }
       },
       "block_order": [
@@ -123,7 +133,8 @@
         "inventory_ftnW9y",
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
-        "8253e974-5acb-4076-9230-03b0f804dcdf"
+        "8253e974-5acb-4076-9230-03b0f804dcdf",
+        "extra_link_ykaFP7"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"

@@ -52,7 +52,6 @@
         },
         "1248e930-5734-45b4-a1d6-a814910fdb63": {
           "type": "variant_picker",
-          "disabled": true,
           "settings": {
             "pick_mode": "first_available",
             "enable_historystate": true,
