@@ -41,6 +41,7 @@
         },
         "edac686e-a845-4ed7-9b50-51639a11cf56": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -52,6 +53,7 @@
         },
         "1248e930-5734-45b4-a1d6-a814910fdb63": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "pick_mode": "first_available",
             "enable_historystate": true,
@@ -65,6 +67,7 @@
         },
         "quantity_selector_t9eqn8": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
@@ -80,6 +83,7 @@
         },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 20,
             "show_inventory_quantity": true,
@@ -94,6 +98,20 @@
             "content": "Sale Ends Soon",
             "icon_svg": "clock",
             "ani": "none"
+          }
+        },
+        "linked_products_PcGQpR": {
+          "type": "linked_products",
+          "settings": {
+            "option_name": "",
+            "option_values": "",
+            "product_list": [
+              "apres-essential-oil-blend",
+              "bergamot-essential-oil",
+              "black-zip-cube"
+            ],
+            "linked_type": "image_with_title",
+            "linked_size": "large"
           }
         },
         "description_Fh49zX": {
@@ -121,6 +139,7 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
         "countdown_timer_pLgxfe",
+        "linked_products_PcGQpR",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
