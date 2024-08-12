@@ -110,15 +110,16 @@
             "only_show_soldout": true
           }
         },
-        "extra_link_ykaFP7": {
-          "type": "extra_link",
+        "linked_products_kAkXnr": {
+          "type": "linked_products",
           "settings": {
-            "show_cp_cl": true,
-            "show_ask": false,
-            "show_phone": true,
-            "show_delivery": false,
-            "page_delivery": "",
-            "show_share_btn": true
+            "option_name": "Test",
+            "option_values": "",
+            "product_list": [
+              "bap-7163ba1d-fb42-422c-9427-65e106f8ffcf"
+            ],
+            "linked_type": "image_with_title",
+            "linked_size": "large"
           }
         }
       },
@@ -134,7 +135,7 @@
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "extra_link_ykaFP7"
+        "linked_products_kAkXnr"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
