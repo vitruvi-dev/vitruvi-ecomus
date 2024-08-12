@@ -110,16 +110,13 @@
             "only_show_soldout": true
           }
         },
-        "linked_products_kAkXnr": {
-          "type": "linked_products",
+        "fast_bundle_product_bundle_with_ids_jLPCHN": {
+          "type": "shopify:\/\/apps\/fast-bundle\/blocks\/product_bundle_with_ids\/9e87fbe2-9041-4c23-acf5-322413994cef",
           "settings": {
-            "option_name": "Test",
-            "option_values": "",
-            "product_list": [
-              "bap-7163ba1d-fb42-422c-9427-65e106f8ffcf"
-            ],
-            "linked_type": "image_with_title",
-            "linked_size": "large"
+            "bundle_ids": "bc3a3fda-f52b-42c7-807f-d776b106c514",
+            "products": [
+
+            ]
           }
         }
       },
@@ -135,7 +132,7 @@
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "linked_products_kAkXnr"
+        "fast_bundle_product_bundle_with_ids_jLPCHN"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
