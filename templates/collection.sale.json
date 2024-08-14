@@ -257,6 +257,9 @@
         "buy_buttons_DK3mVp",
         "view_products_details_gBPr9Q"
       ],
+      "custom_css": [
+        ".hdt-product-form__buttons {max-width: 350px;}"
+      ],
       "settings": {
         "product": "back-to-school-diffuser-bundle",
         "image": "shopify:\/\/shop_images\/pdp_back-to-school-bundle-white_gallery_1_image.png",
