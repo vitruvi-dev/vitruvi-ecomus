@@ -211,7 +211,6 @@
         },
         "view_products_details_gBPr9Q": {
           "type": "view_products_details",
-          "disabled": true,
           "settings": {
           }
         }
