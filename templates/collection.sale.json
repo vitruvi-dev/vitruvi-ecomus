@@ -516,7 +516,7 @@
         "tab_item_UKTrkR": {
           "type": "tab_item",
           "settings": {
-            "title": "For Relaxation",
+            "title": "For Calm",
             "collection": "scents-for-relaxation-and-stress-relief",
             "product_list": [
 
@@ -525,6 +525,7 @@
         },
         "tab_item_jDkc7T": {
           "type": "tab_item",
+          "disabled": true,
           "settings": {
             "title": "For Comfort",
             "collection": "scents-for-comfort-and-coziness",
