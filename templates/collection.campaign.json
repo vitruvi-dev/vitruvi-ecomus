@@ -15,7 +15,7 @@
         "heading_EWgKGd": {
           "type": "heading",
           "settings": {
-            "heading": "SUMMER SALE",
+            "heading": "BACK TO SCHOOL",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -23,12 +23,13 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>Up to 40% off sitewide ends soon.<\/p>",
+            "text": "<p>Set them up for success with up to 25% off back-to-school must-haves<\/p>",
             "adding_border": false
           }
         },
         "countdown_LQEYWr": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
