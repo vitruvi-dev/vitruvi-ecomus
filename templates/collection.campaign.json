@@ -112,6 +112,7 @@
         },
         "view_products_details_TV9Gdh": {
           "type": "view_products_details",
+          "disabled": true,
           "settings": {
           }
         }
@@ -125,16 +126,16 @@
       ],
       "settings": {
         "product": "back-to-school-diffuser-bundle",
-        "media_width": 50,
-        "desktop_media_layout": "thumbnail_bottom",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
         "use_select_varaint_change_media": true,
         "enable_media_autoplay": false,
         "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
         "image_size": true,
         "image_zoom": "zoom",
         "image_zoom_type": "external",
