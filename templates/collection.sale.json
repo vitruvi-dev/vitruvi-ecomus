@@ -445,8 +445,49 @@
     "tabs_collections_grid_UVDK3E": {
       "type": "tabs-collections-grid",
       "blocks": {
+        "tab_item_YRYXdh": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Focus",
+            "collection": "scents-for-focus-and-productivity",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_UKTrkR": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Relaxation",
+            "collection": "scents-for-relaxation-and-stress-relief",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_jDkc7T": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Comfort",
+            "collection": "scents-for-comfort-and-coziness",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_RqbLA9": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Sleep",
+            "collection": "scents-for-better-sleep",
+            "product_list": [
+
+            ]
+          }
+        },
         "tab_item_dMNMwh": {
           "type": "tab_item",
+          "disabled": true,
           "settings": {
             "title": "Diffuser Blends",
             "collection": "essential-oil-blends",
@@ -457,6 +498,7 @@
         },
         "tab_item_VhL7Ut": {
           "type": "tab_item",
+          "disabled": true,
           "settings": {
             "title": "Essential Oils",
             "collection": "essential-oils",
@@ -467,6 +509,7 @@
         },
         "tab_item_m96mgW": {
           "type": "tab_item",
+          "disabled": true,
           "settings": {
             "title": "Scent Kits",
             "collection": "scent-kits",
@@ -477,6 +520,10 @@
         }
       },
       "block_order": [
+        "tab_item_YRYXdh",
+        "tab_item_UKTrkR",
+        "tab_item_jDkc7T",
+        "tab_item_RqbLA9",
         "tab_item_dMNMwh",
         "tab_item_VhL7Ut",
         "tab_item_m96mgW"
