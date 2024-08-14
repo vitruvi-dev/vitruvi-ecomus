@@ -177,11 +177,76 @@
         "tab_item_p7DMf4",
         "tab_item_chFyKc"
       ],
+      "disabled": true,
       "custom_css": [
         "h4 {font-family: \"Heldane\";}"
       ],
       "settings": {
         "tabs_heading": "20% Off Best-Selling Diffusers",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "10",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_iTVjfe": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_Jxd37t": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Best-Sellers",
+            "collection": "best-sellers",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_Un9wKR": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Shop All",
+            "collection": "essential-oils-for-diffusers",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_Jxd37t",
+        "tab_item_Un9wKR"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "tabs_heading": "20% Off Best-Sellers",
         "heading_size": "h5",
         "heading_inline": true,
         "tabs_head_spacing": 30,
@@ -928,6 +993,7 @@
     "main",
     "hero_image_3w3ny6",
     "tabs_collections_grid_q79MGA",
+    "tabs_collections_grid_iTVjfe",
     "featured_product_et3cHf",
     "banner_MNTtak",
     "tabs_collections_grid_UVDK3E",
