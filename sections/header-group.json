@@ -23,7 +23,7 @@
         "announcement_4dD7J8": {
           "type": "announcement",
           "settings": {
-            "text": "Free Golden Diffuser Blend on $100+ Orders"
+            "text": "<a href=\"\/collections\/back-to-school-savings\" title=\"Back to School Savings\">Free Golden Diffuser Blend on $100+ Orders<\/a>"
           }
         },
         "announcement_RzCepp": {
@@ -48,7 +48,7 @@
         "show_close_btn": true,
         "show_line_separator": false,
         "adding_border": false,
-        "au_time": 3.5,
+        "au_time": 4,
         "slider_pause_when_hover": false,
         "speed": 0.1,
         "direction": "rtl",
