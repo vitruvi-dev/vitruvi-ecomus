@@ -23,7 +23,7 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>This Week Only: Enjoy 20% off sitewide and receive a free Golden Diffuser Blend with every purchase!<\/p>",
+            "text": "<p>This Week Only: Enjoy 20% off sitewide<\/p><p>and receive a free Golden Diffuser Blend with every purchase!<\/p>",
             "adding_border": false
           }
         },
