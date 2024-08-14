@@ -17,27 +17,27 @@
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
-            "text": "Back to School Savings: 20% Off Sitewide"
-          }
-        },
-        "announcement_RzCepp": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
+            "text": "<a href=\"\/collections\/back-to-school-savings\" title=\"Back to School Savings\">Back to School Savings: 20% Off Sitewide<\/a>"
           }
         },
         "announcement_4dD7J8": {
           "type": "announcement",
+          "settings": {
+            "text": "Free Golden Diffuser Blend on $100+ Orders"
+          }
+        },
+        "announcement_RzCepp": {
+          "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Free Vitruvi Gift With Every Purchase"
+            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
           }
         }
       },
       "block_order": [
         "announcement_RqB4ka",
-        "announcement_RzCepp",
-        "announcement_4dD7J8"
+        "announcement_4dD7J8",
+        "announcement_RzCepp"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
