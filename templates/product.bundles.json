@@ -104,6 +104,18 @@
           "settings": {
             "only_show_soldout": true
           }
+        },
+        "img_trust_ygqnBq": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": true,
+            "mess": "Limited Time: Free Blend on $100+ Orders",
+            "source": "1",
+            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_golden_gallery_1_v2_image.png",
+            "wimg": 100,
+            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "height": 30
+          }
         }
       },
       "block_order": [
@@ -116,10 +128,12 @@
         "inventory_ftnW9y",
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
-        "8253e974-5acb-4076-9230-03b0f804dcdf"
+        "8253e974-5acb-4076-9230-03b0f804dcdf",
+        "img_trust_ygqnBq"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}"
+        ".hdt-sticky-atc__qty-selector {display: none;}",
+        ".hdt-product__trust-seal {width: 100%}"
       ],
       "settings": {
         "space_content_media": true,
