@@ -45,6 +45,41 @@
         "padding_rate": 75
       }
     },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 30,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
+      }
+    },
     "hero_image_3w3ny6": {
       "type": "hero-image",
       "blocks": {
@@ -572,8 +607,8 @@
         "tab_item_m96mgW": {
           "type": "tab_item",
           "settings": {
-            "title": "Air Fresheners",
-            "collection": "natural-air-freshener-sprays",
+            "title": "Scent Kits",
+            "collection": "scent-kits",
             "product_list": [
 
             ]
@@ -604,7 +639,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 16,
+        "products_count": 8,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
@@ -621,46 +656,111 @@
         "padding_rate": 75
       }
     },
-    "main": {
-      "type": "main-collection",
-      "disabled": true,
-      "custom_css": [
-
+    "banner_fqg8yT": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_yA4w3z": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_1_sahnndra_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@sahnndra",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_diaAzh": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_5_yana.sushchik_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@yana.sushchik",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_pTHtrr": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_3_emilytartaglia_cloud-humidifier_dove.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@emilytartaglia",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_yA4w3z",
+        "banner_2_diaAzh",
+        "banner_2_pTHtrr"
       ],
       "settings": {
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "infinite",
-        "paginate_pos": "center",
-        "dis_pagination": 60,
-        "enable_sorting": true,
-        "enable_filtering": true,
-        "enable_num_cols_selector": false,
-        "widget_heading": "Product Categories",
-        "cat_source": "2",
-        "cat_link_list": "footer_products",
-        "count": true,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
-        "padding_top": 30,
-        "padding_bottom": 70,
-        "padding_rate": 75,
-        "sidebar_position": "left",
-        "sidebar_size": "medium"
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
       }
     },
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
-      "custom_css": [
-        "h4 {font-weight: 200;}"
-      ],
+      "disabled": true,
       "settings": {
         "heading": "Save on Sleep Bundles",
         "label": "Set the stage for your best night's rest.",
@@ -694,6 +794,7 @@
   },
   "order": [
     "heading",
+    "main",
     "hero_image_3w3ny6",
     "tabs_collections_grid_q79MGA",
     "featured_product_et3cHf",
@@ -701,7 +802,7 @@
     "tabs_collections_grid_iwng4g",
     "banner_kG9KgW",
     "tabs_collections_grid_UVDK3E",
-    "main",
+    "banner_fqg8yT",
     "banner_product_carousel_hgp3p4"
   ]
 }
