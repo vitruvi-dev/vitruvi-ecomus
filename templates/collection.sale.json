@@ -290,6 +290,11 @@
             "show_compare": false
           }
         },
+        "back_instock_3X4Nq3": {
+          "type": "back_instock",
+          "settings": {
+          }
+        },
         "description_bcNjKX": {
           "type": "description",
           "settings": {
@@ -308,6 +313,7 @@
         "title_ewBTGr",
         "price_Pa9rqR",
         "buy_buttons_DK3mVp",
+        "back_instock_3X4Nq3",
         "description_bcNjKX",
         "view_products_details_gBPr9Q"
       ],
