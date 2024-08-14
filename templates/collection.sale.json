@@ -442,172 +442,6 @@
         "padding_rate": 75
       }
     },
-    "tabs_collections_grid_iwng4g": {
-      "type": "tabs-collections-grid",
-      "blocks": {
-        "tab_item_knWkXz": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Humidifiers",
-            "collection": "humidifiers",
-            "product_list": [
-
-            ]
-          }
-        },
-        "tab_item_6NBgVj": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Filters & Accessories",
-            "collection": "essential-oils-for-diffusers",
-            "product_list": [
-
-            ]
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_knWkXz",
-        "tab_item_6NBgVj"
-      ],
-      "custom_css": [
-        "h4 {font-family: \"Heldane\";}"
-      ],
-      "settings": {
-        "tabs_heading": "20% Off Award-Winning Humidifiers",
-        "heading_size": "h5",
-        "heading_inline": true,
-        "tabs_head_spacing": 30,
-        "tabs_des": "underline",
-        "tab_item_size": "lg",
-        "tab_item_weight": "normal",
-        "text_transform": false,
-        "border_width": 2,
-        "spacing_items": 30,
-        "product_des": "10",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "view_all",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "outline",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "banner_kG9KgW": {
-      "type": "banner",
-      "blocks": {
-        "banner_2_UHXEme": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1_sahnndra_cloud-humidifier_oat.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "@sahnndra",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        },
-        "banner_2_8KTJnH": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_5_yana.sushchik_cloud-humidifier_oat.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "@yana.sushchik",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        },
-        "banner_2_Lqe8wE": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_3_emilytartaglia_cloud-humidifier_dove.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "@emilytartaglia",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        }
-      },
-      "block_order": [
-        "banner_2_UHXEme",
-        "banner_2_8KTJnH",
-        "banner_2_Lqe8wE"
-      ],
-      "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "col_dk": "3",
-        "row_height": 250,
-        "content_pd_y": 15,
-        "content_pd_x": 15,
-        "space_item": 30,
-        "col_tb": "3",
-        "row_height_tb": 250,
-        "space_item_tb": 15,
-        "row_height_mb": 250,
-        "space_item_mb": 15,
-        "padding_top": 80,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "tabs_collections_grid_UVDK3E": {
       "type": "tabs-collections-grid",
       "blocks": {
@@ -839,6 +673,172 @@
         "padding_rate": 75
       }
     },
+    "tabs_collections_grid_iwng4g": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_knWkXz": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Humidifiers",
+            "collection": "humidifiers",
+            "product_list": [
+
+            ]
+          }
+        },
+        "tab_item_6NBgVj": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Filters & Accessories",
+            "collection": "essential-oils-for-diffusers",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_knWkXz",
+        "tab_item_6NBgVj"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "tabs_heading": "20% Off Award-Winning Humidifiers",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "normal",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "10",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_kG9KgW": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_UHXEme": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_1_sahnndra_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@sahnndra",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_8KTJnH": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_5_yana.sushchik_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@yana.sushchik",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_Lqe8wE": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_3_emilytartaglia_cloud-humidifier_dove.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@emilytartaglia",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_UHXEme",
+        "banner_2_8KTJnH",
+        "banner_2_Lqe8wE"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
       "disabled": true,
@@ -880,10 +880,10 @@
     "tabs_collections_grid_q79MGA",
     "featured_product_et3cHf",
     "banner_MNTtak",
-    "tabs_collections_grid_iwng4g",
-    "banner_kG9KgW",
     "tabs_collections_grid_UVDK3E",
     "banner_fqg8yT",
+    "tabs_collections_grid_iwng4g",
+    "banner_kG9KgW",
     "banner_product_carousel_hgp3p4"
   ]
 }
