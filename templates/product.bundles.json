@@ -99,12 +99,6 @@
             "length": 31
           }
         },
-        "8253e974-5acb-4076-9230-03b0f804dcdf": {
-          "type": "back_instock",
-          "settings": {
-            "only_show_soldout": true
-          }
-        },
         "img_trust_ygqnBq": {
           "type": "img_trust",
           "settings": {
@@ -115,6 +109,12 @@
             "wimg": 100,
             "svg": "visa,paypal,master,american_express,amazon_payments",
             "height": 100
+          }
+        },
+        "8253e974-5acb-4076-9230-03b0f804dcdf": {
+          "type": "back_instock",
+          "settings": {
+            "only_show_soldout": true
           }
         }
       },
@@ -128,8 +128,8 @@
         "inventory_ftnW9y",
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
-        "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "img_trust_ygqnBq"
+        "img_trust_ygqnBq",
+        "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
