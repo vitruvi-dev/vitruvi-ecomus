@@ -226,21 +226,10 @@
 
             ]
           }
-        },
-        "tab_item_Un9wKR": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Shop All",
-            "collection": "essential-oils-for-diffusers",
-            "product_list": [
-
-            ]
-          }
         }
       },
       "block_order": [
-        "tab_item_Jxd37t",
-        "tab_item_Un9wKR"
+        "tab_item_Jxd37t"
       ],
       "custom_css": [
         "h4 {font-family: \"Heldane\";}"
@@ -261,11 +250,11 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 8,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "view_all",
+        "pagination_type": "none",
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "",
