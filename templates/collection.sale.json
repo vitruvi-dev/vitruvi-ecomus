@@ -146,7 +146,7 @@
         "h4 {font-family: \"Heldane\";}"
       ],
       "settings": {
-        "tabs_heading": "Best-Selling Diffusers",
+        "tabs_heading": "20% Off Best-Selling Diffusers",
         "heading_size": "h5",
         "heading_inline": true,
         "tabs_head_spacing": 30,
@@ -276,6 +276,31 @@
             "alignment_mb": "left"
           }
         },
+        "banner_2_dVL4kJ": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_2_mariiismith_glow-diffuser_white.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@mariiismith",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
         "banner_2_Gd9rXf": {
           "type": "banner_2",
           "settings": {
@@ -303,6 +328,7 @@
         },
         "banner_2_gYifcd": {
           "type": "banner_2",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
             "color_scheme": "scheme-3",
@@ -329,6 +355,7 @@
       },
       "block_order": [
         "banner_2_wGNqDt",
+        "banner_2_dVL4kJ",
         "banner_2_Gd9rXf",
         "banner_2_gYifcd"
       ],
@@ -385,7 +412,7 @@
         "h4 {font-family: \"Heldane\";}"
       ],
       "settings": {
-        "tabs_heading": "Award-Winning Humidifiers",
+        "tabs_heading": "20% Off Award-Winning Humidifiers",
         "heading_size": "h5",
         "heading_inline": true,
         "tabs_head_spacing": 30,
@@ -562,7 +589,7 @@
         "h4 {font-family: \"Heldane\";}"
       ],
       "settings": {
-        "tabs_heading": "All-Natural Scents",
+        "tabs_heading": "20% Off All-Natural Scents",
         "heading_size": "h5",
         "heading_inline": true,
         "tabs_head_spacing": 30,
