@@ -27,7 +27,7 @@
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": ""
+            "description": "{{ collection.metafields.custom_fields.menu_label.value }}"
           }
         }
       },
