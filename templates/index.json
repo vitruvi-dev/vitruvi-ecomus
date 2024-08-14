@@ -79,7 +79,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/page_home-hero_stone-diffuser_3diffusers_v3_desktop.png",
             "image_mb": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_mobile.jpg",
-            "url": "shopify:\/\/collections\/shop-all",
+            "url": "shopify:\/\/collections\/back-to-school-savings",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p><strong>BACK TO SCHOOL SAVINGS<\/strong><\/p><p>20% Off Sitewide<\/p><p><\/p>",
@@ -152,7 +152,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/shop-all",
+            "btn_link": "shopify:\/\/collections\/back-to-school-savings",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
