@@ -14,6 +14,12 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_RqB4ka": {
+          "type": "announcement",
+          "settings": {
+            "text": "Back to School Savings: 20% Off Sitewide"
+          }
+        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
@@ -29,6 +35,7 @@
         }
       },
       "block_order": [
+        "announcement_RqB4ka",
         "announcement_RzCepp",
         "announcement_4dD7J8"
       ],
