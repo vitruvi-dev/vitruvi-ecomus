@@ -336,8 +336,34 @@
             "alignment_mb": "left"
           }
         },
+        "banner_2_ewAfhr": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_scents_lavender_ciaocarito9.png",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@ciacarito9",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
         "banner_2_Gd9rXf": {
           "type": "banner_2",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ugc_5_sahnndra_diffuser-move_white.jpg",
             "color_scheme": "scheme-3",
@@ -391,6 +417,7 @@
       "block_order": [
         "banner_2_wGNqDt",
         "banner_2_dVL4kJ",
+        "banner_2_ewAfhr",
         "banner_2_Gd9rXf",
         "banner_2_gYifcd"
       ],
@@ -754,7 +781,7 @@
         "row_height_mb": 250,
         "space_item_mb": 15,
         "padding_top": 80,
-        "padding_bottom": 100,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
