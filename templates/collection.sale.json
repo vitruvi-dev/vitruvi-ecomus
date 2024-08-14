@@ -451,7 +451,7 @@
         "tab_item_YRYXdh": {
           "type": "tab_item",
           "settings": {
-            "title": "Focus",
+            "title": "For Focus",
             "collection": "scents-for-focus-and-productivity",
             "product_list": [
 
@@ -461,7 +461,7 @@
         "tab_item_UKTrkR": {
           "type": "tab_item",
           "settings": {
-            "title": "Relaxation",
+            "title": "For Relaxation",
             "collection": "scents-for-relaxation-and-stress-relief",
             "product_list": [
 
@@ -471,7 +471,7 @@
         "tab_item_jDkc7T": {
           "type": "tab_item",
           "settings": {
-            "title": "Comfort",
+            "title": "For Comfort",
             "collection": "scents-for-comfort-and-coziness",
             "product_list": [
 
@@ -481,7 +481,7 @@
         "tab_item_RqbLA9": {
           "type": "tab_item",
           "settings": {
-            "title": "Sleep",
+            "title": "For Sleep",
             "collection": "scents-for-better-sleep",
             "product_list": [
 
