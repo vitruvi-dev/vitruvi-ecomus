@@ -173,11 +173,11 @@
         "color_scheme": "",
         "image_last": false,
         "content_position": "center",
-        "alignment": "center",
+        "alignment": "left",
         "content_pl": 0,
         "image_last_mb": false,
         "content_position_mb": "center",
-        "alignment_mb": "center",
+        "alignment_mb": "left",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
