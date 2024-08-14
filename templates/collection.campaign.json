@@ -81,6 +81,7 @@
     },
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
+      "disabled": true,
       "custom_css": [
         "h4 {font-weight: 200;}"
       ],
@@ -116,6 +117,7 @@
     },
     "collections_list_simple_ifPh79": {
       "type": "collections-list-simple",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
@@ -139,79 +141,6 @@
         "color_scheme": "",
         "padding_top": 50,
         "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_m6H9CY": {
-      "type": "featured-product",
-      "blocks": {
-        "title_a7kh4z": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "price_dtpLgq": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_DAVDMj": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "buy_buttons_f6fX9n": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": false,
-            "show_compare": false
-          }
-        },
-        "view_products_details_TV9Gdh": {
-          "type": "view_products_details",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "title_a7kh4z",
-        "price_dtpLgq",
-        "description_DAVDMj",
-        "buy_buttons_f6fX9n",
-        "view_products_details_TV9Gdh"
-      ],
-      "custom_css": [
-        "@media (min-width: 720px) {.hdt-product-form__top-buttons {max-width: 60%; }}"
-      ],
-      "settings": {
-        "product": "back-to-school-diffuser-bundle",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "inner",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
         "padding_rate": 75
       }
     },
@@ -397,6 +326,79 @@
         "color_scheme": "",
         "padding_top": 100,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_m6H9CY": {
+      "type": "featured-product",
+      "blocks": {
+        "title_a7kh4z": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_dtpLgq": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_DAVDMj": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_f6fX9n": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "view_products_details_TV9Gdh": {
+          "type": "view_products_details",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_a7kh4z",
+        "price_dtpLgq",
+        "description_DAVDMj",
+        "buy_buttons_f6fX9n",
+        "view_products_details_TV9Gdh"
+      ],
+      "custom_css": [
+        "@media (min-width: 720px) {.hdt-product-form__top-buttons {max-width: 60%; }}"
+      ],
+      "settings": {
+        "product": "back-to-school-diffuser-bundle",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "inner",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
         "padding_rate": 75
       }
     },
@@ -786,11 +788,11 @@
     "hero_image_3w3ny6",
     "banner_product_carousel_hgp3p4",
     "collections_list_simple_ifPh79",
-    "featured_product_m6H9CY",
     "countdown_text_9mEM7m",
     "hero_image_qgF9F4",
     "heading",
     "tabs_collections_grid_q79MGA",
+    "featured_product_m6H9CY",
     "banner_MNTtak",
     "tabs_collections_grid_iwng4g",
     "banner_kG9KgW",
