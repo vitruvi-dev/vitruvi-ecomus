@@ -132,8 +132,7 @@
         "img_trust_ygqnBq"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}",
-        ".hdt-product__trust-seal {width: 100%}"
+        ".hdt-sticky-atc__qty-selector {display: none;}"
       ],
       "settings": {
         "space_content_media": true,
