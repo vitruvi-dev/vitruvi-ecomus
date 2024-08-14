@@ -675,7 +675,7 @@
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
@@ -716,6 +716,7 @@
     },
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
+      "disabled": true,
       "custom_css": [
         "h4 {font-weight: 200;}"
       ],
