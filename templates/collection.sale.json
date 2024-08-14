@@ -15,13 +15,14 @@
         "heading_EWgKGd": {
           "type": "heading",
           "settings": {
-            "heading": "SUMMER SALE",
+            "heading": "BACK TO SCHOOL SAVINGS",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
         },
         "text_c9RHPY": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Up to 40% off sitewide ends soon.<\/p>",
             "adding_border": false
