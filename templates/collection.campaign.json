@@ -79,6 +79,34 @@
         "padding_rate": 75
       }
     },
+    "collections_list_simple_ifPh79": {
+      "type": "collections-list-simple",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": [
+          "essential-oil-diffusers",
+          "humidifiers",
+          "scents"
+        ],
+        "text_transform": false,
+        "other_link_label": "View all categories",
+        "other_link": "",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 130,
+        "padding_bottom": 130,
+        "padding_rate": 75
+      }
+    },
     "featured_product_m6H9CY": {
       "type": "featured-product",
       "blocks": {
@@ -123,6 +151,9 @@
         "description_DAVDMj",
         "buy_buttons_f6fX9n",
         "view_products_details_TV9Gdh"
+      ],
+      "custom_css": [
+        "@media (min-width: 720px) {.hdt-product-form__top-buttons {max-width: 60%; }}"
       ],
       "settings": {
         "product": "back-to-school-diffuser-bundle",
@@ -754,6 +785,7 @@
   },
   "order": [
     "hero_image_3w3ny6",
+    "collections_list_simple_ifPh79",
     "featured_product_m6H9CY",
     "countdown_text_9mEM7m",
     "hero_image_qgF9F4",
