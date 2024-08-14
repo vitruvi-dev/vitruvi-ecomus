@@ -138,14 +138,14 @@
         "heading_NNeLRY": {
           "type": "heading",
           "settings": {
-            "heading": "Free Gift",
+            "heading": "Free Diffuser Blend",
             "heading_fs": "h4"
           }
         },
         "text_dU8TVd": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy a sleek fabric zip-up cube with your purchase. Perfect for holding oils, toiletries, or small items. Keep Vitruvi with you wherever you travel this summer.<\/p>"
+            "text": "<p>Enjoy a free Golden Diffuser Blend on all orders over $100, while supplies last. A bonus, perfect for elevating your space with a calming scent that supports focus and relaxation.<\/p>"
           }
         },
         "button_ramYgE": {
@@ -166,9 +166,8 @@
         "text_dU8TVd",
         "button_ramYgE"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/pdp_kit_myster_gallery_2_image.jpg",
+        "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "",
