@@ -686,56 +686,6 @@
     "banner_fqg8yT": {
       "type": "banner",
       "blocks": {
-        "banner_2_yA4w3z": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_scents_flatlay_qwisun.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "@sahnndra",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        },
-        "banner_2_diaAzh": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_scents_spring_tristenmargaret1.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "@yana.sushchik",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        },
         "banner_2_pTHtrr": {
           "type": "banner_2",
           "settings": {
@@ -761,14 +711,65 @@
             "alignment_mb": "left"
           }
         },
-        "banner_2_kEEWVU": {
+        "banner_2_yA4w3z": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
+            "image": "shopify:\/\/shop_images\/ugc_scents_flatlay_qwisun.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "@thecurrentlovee",
+            "heading": "@qwisun",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_kEEWVU": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_scents_sculpture_richellekingsland_v2.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@richellekingsland",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_diaAzh": {
+          "type": "banner_2",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_scents_spring_tristenmargaret1.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "@tristenmargaret1",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -814,10 +815,10 @@
         }
       },
       "block_order": [
-        "banner_2_yA4w3z",
-        "banner_2_diaAzh",
         "banner_2_pTHtrr",
+        "banner_2_yA4w3z",
         "banner_2_kEEWVU",
+        "banner_2_diaAzh",
         "banner_2_yMwGyF"
       ],
       "settings": {
