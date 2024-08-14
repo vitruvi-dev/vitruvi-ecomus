@@ -79,6 +79,44 @@
         "padding_rate": 75
       }
     },
+    "hero_image_gEyRJK": {
+      "type": "hero-image",
+      "blocks": {
+        "text_XPEawT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This Week Only:<\/p><p>Enjoy 20% off sitewide and receive a free Golden Diffuser Blend with every purchase!<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "text_XPEawT"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/transparent.png",
+        "image_mb": "shopify:\/\/shop_images\/transparent.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
       "disabled": true,
@@ -786,6 +824,7 @@
   },
   "order": [
     "hero_image_3w3ny6",
+    "hero_image_gEyRJK",
     "banner_product_carousel_hgp3p4",
     "collections_list_simple_ifPh79",
     "countdown_text_9mEM7m",
