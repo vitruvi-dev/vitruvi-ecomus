@@ -178,6 +178,77 @@
         "padding_rate": 75
       }
     },
+    "featured_product_et3cHf": {
+      "type": "featured-product",
+      "blocks": {
+        "title_ewBTGr": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_Pa9rqR": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_bcNjKX": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_DK3mVp": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": false,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "view_products_details_gBPr9Q": {
+          "type": "view_products_details",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_ewBTGr",
+        "price_Pa9rqR",
+        "description_bcNjKX",
+        "buy_buttons_DK3mVp",
+        "view_products_details_gBPr9Q"
+      ],
+      "settings": {
+        "product": "back-to-school-diffuser-bundle",
+        "image": "shopify:\/\/shop_images\/pdp_back-to-school-bundle-white_gallery_1_image.png",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "banner_MNTtak": {
       "type": "banner",
       "blocks": {
@@ -599,6 +670,7 @@
     "heading",
     "hero_image_3w3ny6",
     "tabs_collections_grid_q79MGA",
+    "featured_product_et3cHf",
     "banner_MNTtak",
     "tabs_collections_grid_iwng4g",
     "banner_kG9KgW",
