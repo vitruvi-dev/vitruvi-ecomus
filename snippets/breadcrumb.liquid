@@ -3,16 +3,24 @@
   <svg class="hdt-inline-block" xmlns="http://www.w3.org/2000/svg" width="5" height="8" viewBox="0 0 5 8" fill="currentColor">
     <path d="M0.886718 3.49691e-07L4.88672 4L0.886719 8L0.176719 7.29L3.46672 4L0.176719 0.71L0.886718 3.49691e-07Z"/>
   </svg>
-  {% if product.metafields.global.breadcrumb %}
-    <a href="{{ collections[product.metafields.global.breadcrumb].url }}" class="hdt-d-inline-block">
-      {{ collections[product.metafields.global.breadcrumb].title }}
+  
+  {% assign position = 2 %}
+  
+  {% if collection %}
+    <a href="{{ collection.url }}" class="hdt-inline-block">
+      {{ collection.title }}
     </a>
     <svg class="hdt-inline-block" xmlns="http://www.w3.org/2000/svg" width="5" height="8" viewBox="0 0 5 8" fill="currentColor">
       <path d="M0.886718 3.49691e-07L4.88672 4L0.886719 8L0.176719 7.29L3.46672 4L0.176719 0.71L0.886718 3.49691e-07Z"/>
     </svg>
+    {% assign position = position | plus: 1 %}
   {% endif %}
-  <span class="hdt-s-text2">{{ product.title }}</span> 
+  
+  {% if product %}
+    <span class="hdt-s-text2">{{ product.title }}</span> 
+  {% endif %}
 </div>
+
 {%- if section.settings.back_next_pr and collection != blank -%}
   {%- assign next_pr = collection.next_product -%}
   {%- assign prev_pr = collection.previous_product -%}
@@ -49,28 +57,33 @@
   "itemListElement": [
     {
       "@type": "ListItem",
+      "@id": "{{ routes.root_url | prepend: 'https://' }}#breadcrumb-home",
       "position": 1,
       "name": "{{ 'products.breadcrumb.home' | t }}",
-      "item": "{{ routes.root_url }}"
+      "item": "{{ routes.root_url | prepend: 'https://' }}"
     }
     {% assign position = 2 %}
-    {% if product.metafields.global.breadcrumb %}
+    {% if collection %}
     ,
     {
       "@type": "ListItem",
+      "@id": "{{ collection.url | prepend: 'https://' }}#breadcrumb-{{ position }}",
       "position": {{ position }},
-      "name": "{{ collections[product.metafields.global.breadcrumb].title }}",
-      "item": "{{ collections[product.metafields.global.breadcrumb].url }}"
+      "name": "{{ collection.title }}",
+      "item": "{{ collection.url | prepend: 'https://' }}"
     }
     {% assign position = position | plus: 1 %}
     {% endif %}
+    {% if product %}
     ,
     {
       "@type": "ListItem",
+      "@id": "{{ routes.product_url | prepend: 'https://' }}#breadcrumb-{{ position }}",
       "position": {{ position }},
       "name": "{{ product.title }}",
-      "item": "{{ routes.product_url }}"
+      "item": "{{ routes.product_url | prepend: 'https://' }}"
     }
+    {% endif %}
   ]
 }
 {% endcapture %}
