@@ -754,7 +754,7 @@
         "row_height_mb": 250,
         "space_item_mb": 15,
         "padding_top": 80,
-        "padding_bottom": 0,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
