@@ -489,6 +489,7 @@
         "banner_2_Gd9rXf",
         "banner_2_gYifcd"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
       ],
