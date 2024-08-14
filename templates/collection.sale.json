@@ -280,14 +280,6 @@
           "settings": {
           }
         },
-        "description_bcNjKX": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
         "buy_buttons_DK3mVp": {
           "type": "buy_buttons",
           "settings": {
@@ -296,6 +288,14 @@
             "show_price_variant": false,
             "show_wishlist": false,
             "show_compare": false
+          }
+        },
+        "description_bcNjKX": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
           }
         },
         "view_products_details_gBPr9Q": {
@@ -307,8 +307,8 @@
       "block_order": [
         "title_ewBTGr",
         "price_Pa9rqR",
-        "description_bcNjKX",
         "buy_buttons_DK3mVp",
+        "description_bcNjKX",
         "view_products_details_gBPr9Q"
       ],
       "custom_css": [
