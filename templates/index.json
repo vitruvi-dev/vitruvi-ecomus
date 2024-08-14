@@ -49,6 +49,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -81,10 +82,10 @@
             "url": "shopify:\/\/collections\/shop-all",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p>Summer Special<\/p>",
+            "heading": "<p><strong>BACK TO SCHOOL SAVINGS<\/strong><\/p><p>20% Off Sitewide<\/p><p><\/p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Brighten your summer days ☀️. Enjoy a free gift with with every purchase. While supplies last.",
+            "sub_heading": "Elevate your year with scents that inspire productivity, calm, and relaxation.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP NOW",
@@ -105,7 +106,6 @@
       "block_order": [
         "742a3693-7d5d-4e92-914c-270e1d777d11"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
