@@ -79,6 +79,75 @@
         "padding_rate": 75
       }
     },
+    "featured_product_m6H9CY": {
+      "type": "featured-product",
+      "blocks": {
+        "title_a7kh4z": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_dtpLgq": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_DAVDMj": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_f6fX9n": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_TV9Gdh": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_a7kh4z",
+        "price_dtpLgq",
+        "description_DAVDMj",
+        "buy_buttons_f6fX9n",
+        "view_products_details_TV9Gdh"
+      ],
+      "settings": {
+        "product": "back-to-school-diffuser-bundle",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "countdown_text_9mEM7m": {
       "type": "countdown_text",
       "blocks": {
@@ -683,6 +752,7 @@
   },
   "order": [
     "hero_image_3w3ny6",
+    "featured_product_m6H9CY",
     "countdown_text_9mEM7m",
     "hero_image_qgF9F4",
     "heading",
