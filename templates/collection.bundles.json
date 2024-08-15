@@ -40,7 +40,7 @@
         "spacing_hd": 15,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 15,
+        "padding_bottom": 5,
         "padding_rate": 75
       }
     },
