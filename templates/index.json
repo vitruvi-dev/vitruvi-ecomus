@@ -443,7 +443,7 @@
         "dotUI": false,
         "dots_pos": "ontop",
         "section_fullwidth": false,
-        "boxed_fullwidth": true,
+        "boxed_fullwidth": false,
         "boxed_content": false,
         "color_scheme": "scheme-1",
         "padding_top": 75,
