@@ -58,6 +58,9 @@
       "block_order": [
         "sub_heading_BDHJAt"
       ],
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
       "settings": {
         "spacing_item": 0,
         "alignment": "center",

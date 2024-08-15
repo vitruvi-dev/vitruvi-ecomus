@@ -56,6 +56,9 @@
       "block_order": [
         "sub_heading_zEA96H"
       ],
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
       "settings": {
         "spacing_item": 0,
         "alignment": "center",
