@@ -348,7 +348,7 @@
         "content_pos": "start",
         "image_ratio": "square",
         "image_size": true,
-        "col_dk": "4",
+        "col_dk": "2",
         "col_tb": "2",
         "col_mb": "2",
         "navUI": false,
