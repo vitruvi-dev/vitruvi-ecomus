@@ -353,7 +353,7 @@
         "col_mb": "2",
         "navUI": false,
         "dotUI": false,
-        "section_fullwidth": false,
+        "section_fullwidth": true,
         "color_scheme": "",
         "padding_top": 116,
         "padding_bottom": 50,
