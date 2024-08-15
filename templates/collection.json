@@ -44,6 +44,31 @@
         "padding_rate": 75
       }
     },
+    "top_heading_6VWCD4": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_P6dMit": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_P6dMit"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "main": {
       "type": "main-collection",
       "custom_css": [
@@ -81,6 +106,7 @@
   },
   "order": [
     "heading",
+    "top_heading_6VWCD4",
     "main"
   ]
 }
