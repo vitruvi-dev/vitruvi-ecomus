@@ -262,8 +262,8 @@
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -341,8 +341,8 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -624,7 +624,7 @@
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 100,
+        "padding_top": 80,
         "padding_bottom": 0,
         "padding_rate": 75
       }
