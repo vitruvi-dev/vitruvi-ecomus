@@ -48,8 +48,8 @@
         "show_close_btn": true,
         "show_line_separator": false,
         "adding_border": false,
-        "au_time": 4,
-        "slider_pause_when_hover": false,
+        "au_time": 10,
+        "slider_pause_when_hover": true,
         "speed": 0.1,
         "direction": "rtl",
         "marquee_pause_when_hover": false
