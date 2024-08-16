@@ -813,6 +813,7 @@
         "tab_item_knWkXz",
         "tab_item_6NBgVj"
       ],
+      "disabled": true,
       "custom_css": [
         "h4 {font-family: \"Heldane\";}"
       ],
@@ -933,6 +934,7 @@
         "banner_2_8KTJnH",
         "banner_2_Lqe8wE"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "boxed_fullwidth": false,
