@@ -161,6 +161,67 @@
             "title": "3. Experiment",
             "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
           }
+        },
+        "title_GKiGqe": {
+          "type": "title",
+          "settings": {
+            "title": "How to Use Vitruvi Essential Oil Blends"
+          }
+        },
+        "accordion_item_GHyBnG": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "1. Add Water",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim. Justo in sem tristique magnis maecenas. Scelerisque etiam aptent mattis commodo; pharetra at. Varius mauris tempor fringilla posuere elit. Etiam dictum habitasse fermentum condimentum netus tincidunt placerat. Vestibulum inceptos senectus pretium nulla maecenas non."
+          }
+        },
+        "accordion_item_cqVkaq": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "2. Add Essential Oils",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim. Justo in sem tristique magnis maecenas. Scelerisque etiam aptent mattis commodo; pharetra at. Varius mauris tempor fringilla posuere elit. Etiam dictum habitasse fermentum condimentum netus tincidunt placerat. Vestibulum inceptos senectus pretium nulla maecenas non."
+          }
+        },
+        "accordion_item_KXMATj": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "3. Power On",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim. Justo in sem tristique magnis maecenas. Scelerisque etiam aptent mattis commodo; pharetra at. Varius mauris tempor fringilla posuere elit. Etiam dictum habitasse fermentum condimentum netus tincidunt placerat. Vestibulum inceptos senectus pretium nulla maecenas non."
+          }
+        },
+        "accordion_item_pkY3f4": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "4. Enjoy",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim. Justo in sem tristique magnis maecenas. Scelerisque etiam aptent mattis commodo; pharetra at. Varius mauris tempor fringilla posuere elit. Etiam dictum habitasse fermentum condimentum netus tincidunt placerat. Vestibulum inceptos senectus pretium nulla maecenas non."
+          }
+        },
+        "accordion_item_RUExRT": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Usage Note",
+            "content": "For best results lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
+          }
+        },
+        "title_6h8Nwj": {
+          "type": "title",
+          "settings": {
+            "title": "Frequently Asked Questions"
+          }
+        },
+        "accordion_item_RWCW8P": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can you mix different essential oils together?",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
+          }
+        },
+        "accordion_item_jYUQVC": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Lorem ipsum?",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
+          }
         }
       },
       "block_order": [
@@ -175,7 +236,16 @@
         "title_pFfHKQ",
         "accordion_item_PiDheQ",
         "accordion_item_cBLL7J",
-        "accordion_item_TY77BC"
+        "accordion_item_TY77BC",
+        "title_GKiGqe",
+        "accordion_item_GHyBnG",
+        "accordion_item_cqVkaq",
+        "accordion_item_KXMATj",
+        "accordion_item_pkY3f4",
+        "accordion_item_RUExRT",
+        "title_6h8Nwj",
+        "accordion_item_RWCW8P",
+        "accordion_item_jYUQVC"
       ],
       "custom_css": [
         "h5 {font-family: \"Heldane\";}"
