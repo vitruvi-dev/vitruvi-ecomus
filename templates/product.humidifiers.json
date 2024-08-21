@@ -634,7 +634,6 @@
         "heading_TMtAb7",
         "sub_heading_mP3y3G"
       ],
-      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -652,7 +651,7 @@
         "title_G9ebFD": {
           "type": "title",
           "settings": {
-            "title": "Benefits of Cloud Humidifiers by Vitruvi"
+            "title": "Humidifier Benefits"
           }
         },
         "accordion_item_tDQf3x": {
@@ -716,6 +715,17 @@
             "title": "What Is the Return and Warranty Policy for Vitruvi's Cloud Humidifier?",
             "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
           }
+        },
+        "other_content_Am73Jh": {
+          "type": "other_content",
+          "settings": {
+            "heading": "",
+            "content": "",
+            "solid_btn_label": "",
+            "solid_btn_link": "",
+            "underline_btn_label": "",
+            "underline_btn_link": ""
+          }
         }
       },
       "block_order": [
@@ -728,7 +738,8 @@
         "title_Mk3w3P",
         "accordion_item_ejPUJL",
         "accordion_item_KnbrP9",
-        "accordion_item_HYe3pG"
+        "accordion_item_HYe3pG",
+        "other_content_Am73Jh"
       ],
       "custom_css": [
         "h5 {font-family: \"Heldane\";}"
@@ -737,7 +748,7 @@
         "accordion_position": "start",
         "accordion_icon": "2",
         "open_first": true,
-        "enable_link_list": false,
+        "enable_link_list": true,
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 85,
