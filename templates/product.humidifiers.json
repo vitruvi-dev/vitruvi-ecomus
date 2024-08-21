@@ -719,12 +719,12 @@
         "other_content_Am73Jh": {
           "type": "other_content",
           "settings": {
-            "heading": "",
+            "heading": "Additional Resources",
             "content": "",
             "solid_btn_label": "",
             "solid_btn_link": "",
-            "underline_btn_label": "",
-            "underline_btn_link": ""
+            "underline_btn_label": "Why You Should Use A Humidifier in the Summer",
+            "underline_btn_link": "shopify:\/\/blogs\/spaces\/why-you-should-use-a-humidifier-in-the-summer"
           }
         }
       },
@@ -748,7 +748,7 @@
         "accordion_position": "start",
         "accordion_icon": "2",
         "open_first": true,
-        "enable_link_list": true,
+        "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 85,
