@@ -90,35 +90,73 @@
         "accordion_item_g4qXth": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Essential Oils",
+            "content": "Essential Oils are concentrated lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
           }
         },
         "accordion_item_LJfj7C": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Pure Elegance",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
           }
         },
         "accordion_item_xYLNmr": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "accordion_item_TrACn4": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Sensory Journey",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
           }
         },
         "title_k88Jeq": {
           "type": "title",
           "settings": {
-            "title": "What Are Essential Oil Blends?"
+            "title": "Benefits of Essential Oil Blends"
+          }
+        },
+        "accordion_item_YWYDF8": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Physical Benefits",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
+          }
+        },
+        "accordion_item_mNfyzP": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Emotional Benefits",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
+          }
+        },
+        "accordion_item_CMzxzm": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Mental Benefits",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
+          }
+        },
+        "title_pFfHKQ": {
+          "type": "title",
+          "settings": {
+            "title": "Choosing the Right Essential Oil Blend For You"
+          }
+        },
+        "other_content_hcJXNi": {
+          "type": "other_content",
+          "settings": {
+            "heading": "",
+            "content": "",
+            "solid_btn_label": "",
+            "solid_btn_link": "",
+            "underline_btn_label": "",
+            "underline_btn_link": ""
+          }
+        },
+        "other_link_Uxi4p3": {
+          "type": "other_link",
+          "settings": {
+            "title": "Other link",
+            "link": "shopify:\/\/blogs\/bodies"
           }
         }
       },
@@ -127,8 +165,13 @@
         "accordion_item_g4qXth",
         "accordion_item_LJfj7C",
         "accordion_item_xYLNmr",
-        "accordion_item_TrACn4",
-        "title_k88Jeq"
+        "title_k88Jeq",
+        "accordion_item_YWYDF8",
+        "accordion_item_mNfyzP",
+        "accordion_item_CMzxzm",
+        "title_pFfHKQ",
+        "other_content_hcJXNi",
+        "other_link_Uxi4p3"
       ],
       "custom_css": [
         "h5 {font-family: \"Heldane\";}"
