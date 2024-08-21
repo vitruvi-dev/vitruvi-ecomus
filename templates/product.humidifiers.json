@@ -611,6 +611,139 @@
         "padding_bottom": 100,
         "padding_rate": 75
       }
+    },
+    "top_heading_yFFdaa": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_TMtAb7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cloud Humidifiers by Vitruvi",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_mP3y3G": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Lorem ipsum odor amet, consectetuer adipiscing elit. Sit ultricies luctus maecenas erat aptent arcu. Urna platea sagittis placerat iaculis proin feugiat pulvinar. Imperdiet vehicula commodo nisl nullam cras potenti hendrerit. Sapien tincidunt ultricies non imperdiet per elementum cursus massa suscipit. Sollicitudin auctor urna augue lorem maximus cras mi? Netus sed montes sodales tellus libero lectus per.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TMtAb7",
+        "sub_heading_mP3y3G"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "accordion_KXXDfQ": {
+      "type": "accordion",
+      "blocks": {
+        "title_G9ebFD": {
+          "type": "title",
+          "settings": {
+            "title": "Benefits of Cloud Humidifiers by Vitruvi"
+          }
+        },
+        "accordion_item_tDQf3x": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Relieving Dryness",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
+          }
+        },
+        "accordion_item_WnTDEz": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Sleep Benefits",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
+          }
+        },
+        "accordion_item_MAKqbq": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Beauty Benefits",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
+          }
+        },
+        "accordion_item_9iGtEr": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Health Benefits",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
+          }
+        },
+        "accordion_item_mRmt6V": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Maintaining a Comfortable Indoor Environment",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
+          }
+        },
+        "title_Mk3w3P": {
+          "type": "title",
+          "settings": {
+            "title": "Frequently Asked Questions"
+          }
+        },
+        "accordion_item_ejPUJL": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Is a Cloud Humidifier Easy to Clean?",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
+          }
+        },
+        "accordion_item_KnbrP9": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I Use Tap Water in My Humidifier?",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
+          }
+        },
+        "accordion_item_HYe3pG": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What Is the Return and Warranty Policy for Vitruvi's Cloud Humidifier?",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat ut curae sapien ligula nullam netus erat id. Ullamcorper porttitor porta est sociosqu conubia vehicula nascetur. Nisi tortor enim velit dolor nec gravida ipsum. Metus pharetra posuere libero dictum lectus. Sagittis laoreet sem commodo hac netus tempus. Luctus felis mi nulla aliquet fames neque nisl?"
+          }
+        }
+      },
+      "block_order": [
+        "title_G9ebFD",
+        "accordion_item_tDQf3x",
+        "accordion_item_WnTDEz",
+        "accordion_item_MAKqbq",
+        "accordion_item_9iGtEr",
+        "accordion_item_mRmt6V",
+        "title_Mk3w3P",
+        "accordion_item_ejPUJL",
+        "accordion_item_KnbrP9",
+        "accordion_item_HYe3pG"
+      ],
+      "custom_css": [
+        "h5 {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": true,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -624,6 +757,8 @@
     "171512128966062076",
     "related",
     "sidebar",
-    "recently"
+    "recently",
+    "top_heading_yFFdaa",
+    "accordion_KXXDfQ"
   ]
 }
