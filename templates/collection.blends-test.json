@@ -141,22 +141,25 @@
             "title": "Choosing the Right Essential Oil Blend For You"
           }
         },
-        "other_content_hcJXNi": {
-          "type": "other_content",
+        "accordion_item_PiDheQ": {
+          "type": "accordion_item",
           "settings": {
-            "heading": "",
-            "content": "",
-            "solid_btn_label": "",
-            "solid_btn_link": "",
-            "underline_btn_label": "",
-            "underline_btn_link": ""
+            "title": "1. Know Your Goal",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
           }
         },
-        "other_link_Uxi4p3": {
-          "type": "other_link",
+        "accordion_item_cBLL7J": {
+          "type": "accordion_item",
           "settings": {
-            "title": "Other link",
-            "link": "shopify:\/\/blogs\/bodies"
+            "title": "2. Identify Your Scent Preference",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
+          }
+        },
+        "accordion_item_TY77BC": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "3. Experiment",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Gravida nostra per integer ligula, nam primis. Pretium vivamus fusce himenaeos nisl euismod lorem. Fermentum congue eleifend facilisis vehicula nam ligula tristique dignissim."
           }
         }
       },
@@ -170,8 +173,9 @@
         "accordion_item_mNfyzP",
         "accordion_item_CMzxzm",
         "title_pFfHKQ",
-        "other_content_hcJXNi",
-        "other_link_Uxi4p3"
+        "accordion_item_PiDheQ",
+        "accordion_item_cBLL7J",
+        "accordion_item_TY77BC"
       ],
       "custom_css": [
         "h5 {font-family: \"Heldane\";}"
