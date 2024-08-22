@@ -221,7 +221,7 @@
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "half_item": true,
+        "half_item": false,
         "navUI": false,
         "nav_des": "default",
         "nav_pos": "middle_in",
