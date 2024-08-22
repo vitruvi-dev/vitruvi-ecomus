@@ -119,7 +119,7 @@
             "display_shadow": true,
             "display_selection_count": true,
             "display_running_totals": true,
-            "enable_product_links": false,
+            "enable_product_links": true,
             "card_padding": 10,
             "grid_gap": 10,
             "border_color": "#E1E1E1",
