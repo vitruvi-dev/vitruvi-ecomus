@@ -161,13 +161,14 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}"
+        ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
+        ".biscuits-bundle-step__title {font-size: 24px;}"
       ],
       "settings": {
         "space_content_media": true,
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "right",
+        "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
         "use_select_varaint_change_media": true,
