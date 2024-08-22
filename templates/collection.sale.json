@@ -100,12 +100,11 @@
         },
         "countdown_LQEYWr": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
-            "month": 7,
-            "day": 9,
+            "month": 9,
+            "day": 3,
             "hour": 0,
             "minute": 0,
             "effect_cd": "none",
