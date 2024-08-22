@@ -247,6 +247,7 @@
         "accordion_item_RWCW8P",
         "accordion_item_jYUQVC"
       ],
+      "disabled": true,
       "custom_css": [
         "h5 {font-family: \"Heldane\";}"
       ],
@@ -261,11 +262,37 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
+    },
+    "accordion_9WYD8N": {
+      "type": "accordion",
+      "blocks": {
+        "title_zC9Qyr": {
+          "type": "title",
+          "settings": {
+            "title": "{{ collection.metafields.custom_fields.menu_copy.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "title_zC9Qyr"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "accordion_UQ4zNK"
+    "accordion_UQ4zNK",
+    "accordion_9WYD8N"
   ]
 }
