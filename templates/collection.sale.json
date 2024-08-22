@@ -86,7 +86,7 @@
         "heading_EWgKGd": {
           "type": "heading",
           "settings": {
-            "heading": "BACK TO SCHOOL SAVINGS",
+            "heading": "Labor Day Sale",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -94,7 +94,7 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy 20% off sitewide plus a free Golden Diffuser Blend on $100+ orders.<\/p>",
+            "text": "<p>Enjoy 25% off sitewide.<\/p>",
             "adding_border": false
           }
         },
@@ -131,19 +131,20 @@
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/collection_back-to-school_header.jpg",
+        "image": "shopify:\/\/shop_images\/collection_summer-sale_header-desktop.png",
+        "image_mb": "shopify:\/\/shop_images\/collection_summer-sale_header-mobile.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
-        "use_bg_content": true,
+        "use_bg_content": false,
         "content_position": "center",
         "content_align": "center",
         "content_position_mb": "center",
         "content_align_mb": "center",
         "full_width": false,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "padding_top": 80,
         "padding_bottom": 0,
         "padding_rate": 75
