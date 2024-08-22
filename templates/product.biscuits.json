@@ -229,6 +229,7 @@
         "tab_html_eeFthN",
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1"
       ],
+      "disabled": true,
       "settings": {
         "tabs_design": "tab_vertical",
         "enable_first_tab": true,
