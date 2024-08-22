@@ -162,7 +162,7 @@
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
-        ".biscuits-bundle-step__title {font-size: 24px;}"
+        ".biscuits-bundle-step__number, .biscuits-bundle-step__title {font-size: 24px;}"
       ],
       "settings": {
         "space_content_media": true,
