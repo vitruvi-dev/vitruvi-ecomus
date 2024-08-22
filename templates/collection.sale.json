@@ -439,9 +439,10 @@
         "text_U8W96F"
       ],
       "custom_css": [
-        "h4 {font-weight: 200;}",
-        "h3 {font-family: \"Heldane\"; font-size: 24px;}",
-        ".hdt-subheading {color: #ffffff; font-size: 14px;}"
+        "h4 {font-weight: 200; font-size: 14px;}",
+        "h3 {font-family: \"Heldane\"; font-size: 18px;}",
+        ".hdt-subheading {color: #ffffff; font-size: 12px;}",
+        "@media screen and (min-width: 1024px) {.hdt-subheading {font-size: 14px;} h4 {font-size: 18px; } h3 {font-size: 28px; }}"
       ],
       "settings": {
         "heading": "Diffuser Bundles",
