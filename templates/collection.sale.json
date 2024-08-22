@@ -426,6 +426,56 @@
         "padding_rate": 75
       }
     },
+    "tabs_collections_grid_TLDXXx": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_AMDtmL": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Best-Sellers",
+            "collection": "essential-oil-diffusers",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_AMDtmL"
+      ],
+      "settings": {
+        "tabs_heading": "25% Off Diffusers",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "10",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
       "settings": {
@@ -914,6 +964,7 @@
     "tabs_collections_grid_q79MGA",
     "tabs_collections_grid_iTVjfe",
     "banner_MNTtak",
+    "tabs_collections_grid_TLDXXx",
     "banner_product_carousel_hgp3p4",
     "tabs_collections_grid_UVDK3E",
     "banner_fqg8yT",
