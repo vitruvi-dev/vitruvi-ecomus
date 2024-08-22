@@ -441,6 +441,102 @@
         "color_scheme": "scheme-1",
         "space": 60
       }
+    },
+    "icon_box_graPbB": {
+      "type": "icon-box",
+      "blocks": {
+        "item_FhDzG3": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "none",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "shopify:\/\/products\/biscuits-bundle-product",
+            "open_link": false,
+            "title": "Build Your Own 4-Pack",
+            "content": "",
+            "adding_border": true
+          }
+        },
+        "item_w4gh7a": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "payment",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Flexible Payment",
+            "content": "<p>Pay with Multiple Credit Cards<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_MMWiLR": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "return",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "14 Day Returns",
+            "content": "<p>Within 30 days for an exchange<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_9n6AgJ": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Premium Suport",
+            "content": "<p>Outstanding premium support<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_FhDzG3",
+        "item_w4gh7a",
+        "item_MMWiLR",
+        "item_9n6AgJ"
+      ],
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Choose a different size<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -451,6 +547,7 @@
     "related",
     "171512128966062076",
     "recently",
-    "sidebar"
+    "sidebar",
+    "icon_box_graPbB"
   ]
 }
