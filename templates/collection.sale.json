@@ -427,6 +427,17 @@
     },
     "banner_product_carousel_hgp3p4": {
       "type": "banner-product-carousel",
+      "blocks": {
+        "text_U8W96F": {
+          "type": "text",
+          "settings": {
+            "text": "@helloarielchristine"
+          }
+        }
+      },
+      "block_order": [
+        "text_U8W96F"
+      ],
       "settings": {
         "heading": "Save on Sleep Bundles",
         "label": "Set the stage for your best night's rest.",
@@ -446,13 +457,13 @@
         "products_count": 3,
         "product_des": "10",
         "image_ratio": "adapt_image",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "navUI": false,
         "dotUI": true,
-        "content_position": "start-center",
-        "alignment": "center",
+        "content_position": "end-start",
+        "alignment": "left",
         "content_position_mb": "center",
-        "alignment_mb": "center",
+        "alignment_mb": "right",
         "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
