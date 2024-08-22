@@ -111,7 +111,7 @@
           "type": "shopify:\/\/apps\/biscuits-bundles\/blocks\/biscuits-bundle-form\/9e9ff1bd-2cba-468f-b59f-a1ff63f6efe9",
           "settings": {
             "text_color": "#121212",
-            "card_color": "#deded9",
+            "card_color": "#f7f8f6",
             "input_type": "rectangle",
             "input_text_color": "#474946",
             "input_color": "#f7f8f6",
@@ -121,11 +121,11 @@
             "enable_product_links": false,
             "card_padding": 10,
             "grid_gap": 10,
-            "border_color": "#dedfdd",
+            "border_color": "#474946",
             "border_radius": 0,
             "highlight_type": "fill",
             "selected_text_color": "#121212",
-            "selected_color": "#e2eef6",
+            "selected_color": "#deded9",
             "border_thickness": 1,
             "divider_color": "#e1e1e1",
             "important_color": "#dd1d1d",
@@ -162,7 +162,7 @@
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
-        ".biscuits-bundle-step__number, .biscuits-bundle-step__title {font-size: 24px;}"
+        ".biscuits-bundle-step__number,.biscuits-bundle-step__title {font-size: 24px;}"
       ],
       "settings": {
         "space_content_media": true,
