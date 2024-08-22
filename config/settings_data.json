@@ -9,7 +9,7 @@
 */
 {
   "current": {
-    "purchase_code": "d73daf1c-7794-4014-a4fc-1b4c8797200b",
+    "purchase_code": "41d04515-5bff-4b77-9c02-392a00d13efe",
     "color_scheme_dialog": "scheme-1",
     "color_background": "#f7f8f6",
     "color_text": "#474946",
@@ -412,13 +412,6 @@
           "utm_campaign": true,
           "utm_term": true,
           "ref": true
-        }
-      },
-      "1530068250781986104": {
-        "type": "shopify:\/\/apps\/fast-bundle\/blocks\/fast_bundle\/9e87fbe2-9041-4c23-acf5-322413994cef",
-        "disabled": true,
-        "settings": {
-          "home": false
         }
       },
       "8746983209849429782": {
