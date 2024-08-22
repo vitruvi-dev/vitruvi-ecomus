@@ -329,6 +329,7 @@
       "block_order": [
         "yotpo_product_reviews_ugc_reviews_dERaaf"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
