@@ -514,6 +514,50 @@
         "padding_rate": 75
       }
     },
+    "banner_product_carousel_WcGrVh": {
+      "type": "banner-product-carousel",
+      "blocks": {
+        "text_NcG8z7": {
+          "type": "text",
+          "settings": {
+            "text": "@helloarielchristine"
+          }
+        }
+      },
+      "block_order": [
+        "text_NcG8z7"
+      ],
+      "settings": {
+        "heading": "Diffuser Bundles",
+        "label": "Everything you need to enhance your air",
+        "image": "shopify:\/\/shop_images\/ugc_1_helloarielchristine_glow-diffuser_white.jpg",
+        "external_video_url": "",
+        "banner_url": "",
+        "banner_target": false,
+        "image_height": "fixed",
+        "fixed_height": 500,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 250,
+        "collection": "",
+        "product_list": [
+          "best-sleep-diffuser-humidifier-bundle",
+          "sleep-cloud-humidifier-bundle"
+        ],
+        "products_count": 3,
+        "product_des": "10",
+        "image_ratio": "adapt_image",
+        "color_scheme": "scheme-1",
+        "navUI": false,
+        "dotUI": true,
+        "content_position": "start-center",
+        "alignment": "right",
+        "content_position_mb": "start-center",
+        "alignment_mb": "left",
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "banner_kG9KgW": {
       "type": "banner",
       "blocks": {
@@ -906,6 +950,7 @@
     "tabs_collections_grid_q79MGA",
     "banner_product_carousel_hgp3p4",
     "tabs_collections_grid_iwng4g",
+    "banner_product_carousel_WcGrVh",
     "banner_kG9KgW",
     "tabs_collections_grid_UVDK3E",
     "banner_fqg8yT"
