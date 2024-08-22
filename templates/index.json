@@ -178,7 +178,7 @@
         "color_scheme": "",
         "loop": true,
         "auto_play": 10,
-        "pause_hover": true,
+        "pause_hover": false,
         "navUI": false,
         "dotUI": true,
         "dot_style": "outline",
