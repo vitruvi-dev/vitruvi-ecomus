@@ -247,7 +247,6 @@
         "accordion_item_RWCW8P",
         "accordion_item_jYUQVC"
       ],
-      "disabled": true,
       "custom_css": [
         "h5 {font-family: \"Heldane\";}"
       ],
@@ -271,16 +270,54 @@
           "settings": {
             "title": "{{ collection.metafields.custom_fields.menu_copy.value }}"
           }
+        },
+        "accordion_item_aTDtGA": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "accordion_item_Lgk9Wd": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "accordion_item_yKHpQ3": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "title_ajFWJH": {
+          "type": "title",
+          "settings": {
+            "title": ""
+          }
+        },
+        "title_TGnnLq": {
+          "type": "title",
+          "settings": {
+            "title": ""
+          }
         }
       },
       "block_order": [
-        "title_zC9Qyr"
+        "title_zC9Qyr",
+        "accordion_item_aTDtGA",
+        "accordion_item_Lgk9Wd",
+        "accordion_item_yKHpQ3",
+        "title_ajFWJH",
+        "title_TGnnLq"
       ],
       "settings": {
         "accordion_position": "start",
-        "accordion_icon": "1",
+        "accordion_icon": "2",
         "open_first": false,
-        "enable_link_list": false,
+        "enable_link_list": true,
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 85,

@@ -618,14 +618,14 @@
         "heading_TMtAb7": {
           "type": "heading",
           "settings": {
-            "heading": "Cloud Humidifiers by Vitruvi",
+            "heading": "",
             "heading_fs": "h4"
           }
         },
         "sub_heading_mP3y3G": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Lorem ipsum odor amet, consectetuer adipiscing elit. Sit ultricies luctus maecenas erat aptent arcu. Urna platea sagittis placerat iaculis proin feugiat pulvinar. Imperdiet vehicula commodo nisl nullam cras potenti hendrerit. Sapien tincidunt ultricies non imperdiet per elementum cursus massa suscipit. Sollicitudin auctor urna augue lorem maximus cras mi? Netus sed montes sodales tellus libero lectus per.",
+            "sub_heading": "",
             "sub_heading_fs": "base"
           }
         }
@@ -718,6 +718,7 @@
         },
         "other_content_Am73Jh": {
           "type": "other_content",
+          "disabled": true,
           "settings": {
             "heading": "Additional Resources",
             "content": "",
