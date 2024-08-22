@@ -165,7 +165,7 @@
       ],
       "settings": {
         "space_content_media": true,
-        "media_width": 50,
+        "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
