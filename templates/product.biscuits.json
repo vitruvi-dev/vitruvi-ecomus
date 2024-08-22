@@ -167,7 +167,7 @@
         "space_content_media": true,
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
+        "desktop_media_position": "right",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
         "use_select_varaint_change_media": true,
