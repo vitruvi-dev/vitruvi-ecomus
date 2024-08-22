@@ -17,13 +17,7 @@
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"\/collections\/back-to-school-savings\" title=\"Back to School Savings\">Back to School Savings: 20% Off Sitewide<\/a>"
-          }
-        },
-        "announcement_4dD7J8": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"\/collections\/back-to-school-savings\" title=\"Back to School Savings\">Free Golden Diffuser Blend on $100+ Orders<\/a>"
+            "text": "<a href=\"\/collections\/labor-day-sale\" title=\"Labor Day Deals\">Labor Day Sale: 25% Off Sitewide<\/a>"
           }
         },
         "announcement_RzCepp": {
@@ -36,7 +30,6 @@
       },
       "block_order": [
         "announcement_RqB4ka",
-        "announcement_4dD7J8",
         "announcement_RzCepp"
       ],
       "custom_css": [
