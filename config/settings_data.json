@@ -83,7 +83,7 @@
     "hidden_badges": false,
     "action_after_atc": "open_cart_drawer",
     "empty_cart_link": "shopify:\/\/collections\/shop-all",
-    "free_ship_pr": "gwp",
+    "free_ship_pr": "free-shipping",
     "gift_wrap_pr": "",
     "animations_reveal_on_scroll": false,
     "animations_hover_elements": "none",
@@ -412,12 +412,6 @@
           "utm_campaign": true,
           "utm_term": true,
           "ref": true
-        }
-      },
-      "5918445685253060206": {
-        "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-script-append\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
-        "disabled": true,
-        "settings": {
         }
       },
       "1530068250781986104": {
