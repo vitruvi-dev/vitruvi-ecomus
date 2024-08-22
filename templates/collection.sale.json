@@ -439,11 +439,13 @@
         "text_U8W96F"
       ],
       "custom_css": [
+        "h4 {font-weight: 200;}",
+        "h3 {font-family: \"Heldane\"; font-size: 24px;}",
         ".hdt-subheading {color: #ffffff; font-size: 14px;}"
       ],
       "settings": {
-        "heading": "Save on Sleep Bundles",
-        "label": "Set the stage for your best night's rest.",
+        "heading": "Diffuser Bundles",
+        "label": "Everything you need to enhance your air",
         "image": "shopify:\/\/shop_images\/ugc_1_helloarielchristine_glow-diffuser_white.jpg",
         "external_video_url": "",
         "banner_url": "",
