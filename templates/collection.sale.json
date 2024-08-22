@@ -349,6 +349,7 @@
         },
         "tab_item_chFyKc": {
           "type": "tab_item",
+          "disabled": true,
           "settings": {
             "title": "Diffuser Scents",
             "collection": "essential-oils-for-diffusers",
@@ -463,6 +464,7 @@
         },
         "tab_item_6NBgVj": {
           "type": "tab_item",
+          "disabled": true,
           "settings": {
             "title": "Filters & Accessories",
             "collection": "essential-oils-for-diffusers",
@@ -495,11 +497,11 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 3,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "view_all",
+        "pagination_type": "none",
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "",
@@ -596,6 +598,7 @@
         "banner_2_8KTJnH",
         "banner_2_Lqe8wE"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "boxed_fullwidth": false,
