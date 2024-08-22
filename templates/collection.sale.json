@@ -439,7 +439,8 @@
         "text_U8W96F"
       ],
       "custom_css": [
-        ".hdt-content-inner {color: #FFFFFF;}"
+        ".hdt-content_wrap {margin-bottom: -100px;}",
+        ".hdt-subheading {color: #ffffff; font-size: 14px;}"
       ],
       "settings": {
         "heading": "Save on Sleep Bundles",
@@ -463,10 +464,10 @@
         "color_scheme": "scheme-1",
         "navUI": false,
         "dotUI": true,
-        "content_position": "end-start",
-        "alignment": "left",
-        "content_position_mb": "center",
-        "alignment_mb": "right",
+        "content_position": "end-center",
+        "alignment": "center",
+        "content_position_mb": "end-start",
+        "alignment_mb": "center",
         "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
