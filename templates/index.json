@@ -224,7 +224,7 @@
         "text_ACcXwy": {
           "type": "text",
           "settings": {
-            "heading": "Summer Sale Ends Soon"
+            "heading": "Labor Day Sale Ends Soon"
           }
         },
         "button_k6gWgC": {
@@ -251,8 +251,8 @@
       "settings": {
         "full_width": true,
         "year": 2024,
-        "month": 7,
-        "day": 9,
+        "month": 9,
+        "day": 3,
         "hour": 0,
         "minute": 0,
         "effect_cd": "none",
