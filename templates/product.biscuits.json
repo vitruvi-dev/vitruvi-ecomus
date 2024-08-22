@@ -198,10 +198,10 @@
       "settings": {
         "heading_align": "start",
         "sec_heading": "",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Choose a different size<\/p>",
-        "subheading_size": "lg",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Other options<\/p>",
+        "subheading_size": "2xl",
         "heading_reverse": false,
         "btn_heading": false,
         "nav_heading": "disable",
@@ -332,6 +332,7 @@
     },
     "recently": {
       "type": "recently-products",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Recently Viewed",
