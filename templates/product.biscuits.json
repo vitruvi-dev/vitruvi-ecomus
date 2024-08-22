@@ -193,7 +193,7 @@
     "featured_collection_carousel_HdjECU": {
       "type": "featured-collection-carousel",
       "custom_css": [
-        ".hdt-badge__wrapp {display: none;}"
+        ".hdt-badge__wrapp,.hdt-product-btns,.hdt-price-wrapp {display: none;}"
       ],
       "settings": {
         "heading_align": "start",
