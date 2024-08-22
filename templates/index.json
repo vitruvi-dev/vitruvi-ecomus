@@ -333,12 +333,9 @@
         "heading_reverse": false,
         "heading_gap": 12,
         "sec_heading_spacing": 100,
-        "collection": "",
+        "collection": "best-sellers",
         "product_list": [
-          "cloud-humidifier",
-          "move-cordless-essential-oil-diffuser",
-          "stone-essential-oil-diffuser",
-          "signature-essential-oil-kit"
+
         ],
         "product_des": "10",
         "image_ratio": "square",
