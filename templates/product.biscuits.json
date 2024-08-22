@@ -73,17 +73,6 @@
           "settings": {
           }
         },
-        "ad820e37-dee5-41f3-9692-bf46d9664103": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": false,
-            "show_compare": false
-          }
-        },
         "inventory_ftnW9y": {
           "type": "inventory",
           "disabled": true,
@@ -105,6 +94,7 @@
         },
         "description_Fh49zX": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "des": "1",
             "short_des": "",
@@ -113,6 +103,7 @@
         },
         "8253e974-5acb-4076-9230-03b0f804dcdf": {
           "type": "back_instock",
+          "disabled": true,
           "settings": {
             "only_show_soldout": true
           }
@@ -125,9 +116,9 @@
             "input_type": "rectangle",
             "input_text_color": "#121212",
             "input_color": "#fff",
-            "display_shadow": false,
-            "display_selection_count": false,
-            "display_running_totals": false,
+            "display_shadow": true,
+            "display_selection_count": true,
+            "display_running_totals": true,
             "enable_product_links": false,
             "card_padding": 10,
             "grid_gap": 10,
@@ -144,6 +135,16 @@
             "custom_css": "#shopify-block-{{block.id}} {}",
             "custom_js": "document.addEventListener('DOMContentLoaded', function() { });"
           }
+        },
+        "ad820e37-dee5-41f3-9692-bf46d9664103": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
         }
       },
       "block_order": [
@@ -153,12 +154,12 @@
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "quantity_selector_t9eqn8",
-        "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "biscuits_bundles_biscuits_bundle_form_YkgUj3"
+        "biscuits_bundles_biscuits_bundle_form_YkgUj3",
+        "ad820e37-dee5-41f3-9692-bf46d9664103"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
