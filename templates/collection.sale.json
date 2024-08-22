@@ -438,6 +438,9 @@
       "block_order": [
         "text_U8W96F"
       ],
+      "custom_css": [
+        ".hdt-content-inner {color: #FFFFFF;}"
+      ],
       "settings": {
         "heading": "Save on Sleep Bundles",
         "label": "Set the stage for your best night's rest.",
