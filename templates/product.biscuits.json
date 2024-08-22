@@ -162,7 +162,7 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}"
+        ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}"
       ],
       "settings": {
         "space_content_media": true,
