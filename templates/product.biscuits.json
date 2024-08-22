@@ -167,7 +167,7 @@
       "settings": {
         "space_content_media": true,
         "media_width": 40,
-        "desktop_media_layout": "column",
+        "desktop_media_layout": "stacked",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
