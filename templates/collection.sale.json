@@ -442,7 +442,7 @@
         "h4 {font-weight: 200; font-size: 14px;}",
         "h3 {font-family: \"Heldane\"; font-size: 18px;}",
         ".hdt-subheading {color: #ffffff; font-size: 12px;}",
-        "@media screen and (min-width: 1024px) {.hdt-subheading {font-size: 14px;} h4 {font-size: 18px; } h3 {font-size: 28px; }}"
+        "@media screen and (min-width: 1024px) {.hdt-subheading {font-size: 14px; } h4 {font-size: 18px; } h3 {font-size: 28px; }}"
       ],
       "settings": {
         "heading": "Diffuser Bundles",
@@ -468,8 +468,8 @@
         "dotUI": true,
         "content_position": "end-center",
         "alignment": "center",
-        "content_position_mb": "end-center",
-        "alignment_mb": "center",
+        "content_position_mb": "start-center",
+        "alignment_mb": "left",
         "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
