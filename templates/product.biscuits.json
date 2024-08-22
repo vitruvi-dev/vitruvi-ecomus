@@ -168,7 +168,7 @@
         "space_content_media": true,
         "media_width": 40,
         "desktop_media_layout": "stacked",
-        "desktop_media_position": "left",
+        "desktop_media_position": "right",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
         "use_select_varaint_change_media": true,
@@ -193,11 +193,11 @@
     "featured_collection_carousel_HdjECU": {
       "type": "featured-collection-carousel",
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Best Seller",
+        "heading_align": "start",
+        "sec_heading": "",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Choose a different size<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "btn_heading": false,
@@ -206,10 +206,11 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-
+          "biscuits-bundle-product",
+          "biscuits-build-your-own-6-pack"
         ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
+        "product_des": "7",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
