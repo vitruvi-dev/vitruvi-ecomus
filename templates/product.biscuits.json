@@ -112,7 +112,7 @@
           "type": "shopify:\/\/apps\/biscuits-bundles\/blocks\/biscuits-bundle-form\/9e9ff1bd-2cba-468f-b59f-a1ff63f6efe9",
           "settings": {
             "text_color": "#121212",
-            "card_color": "#f7f8f6",
+            "card_color": "#deded9",
             "input_type": "rectangle",
             "input_text_color": "#474946",
             "input_color": "#f7f8f6",
