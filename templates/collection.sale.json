@@ -439,7 +439,6 @@
         "text_U8W96F"
       ],
       "custom_css": [
-        "@media screen and (min-width: 1024px) {.hdt-content_wrap {margin-bottom: -100px; margin-left: 15%; }}",
         ".hdt-subheading {color: #ffffff; font-size: 14px;}"
       ],
       "settings": {
@@ -465,8 +464,8 @@
         "navUI": false,
         "dotUI": true,
         "content_position": "end-center",
-        "alignment": "left",
-        "content_position_mb": "end-start",
+        "alignment": "center",
+        "content_position_mb": "end-center",
         "alignment_mb": "center",
         "padding_top": 0,
         "padding_bottom": 80,
