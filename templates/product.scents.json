@@ -112,6 +112,7 @@
         },
         "img_trust_Nj7Aj9": {
           "type": "img_trust",
+          "disabled": true,
           "settings": {
             "show_icon": true,
             "mess": "Free Golden Blend on $100+ Orders",
