@@ -104,6 +104,7 @@
         },
         "slide_base_kHzRA6": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Desktop-1_631ccfe4-6bc7-42c8-b3c5-3db858e24994.png",
             "image_mb": "shopify:\/\/shop_images\/Mobile-1_942a03f9-f4b8-475f-a590-81a8b64df331.png",
@@ -132,6 +133,7 @@
         },
         "742a3693-7d5d-4e92-914c-270e1d777d11": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/page_home_hero_homebodysale_image_desktop-min.jpg",
             "image_mb": "shopify:\/\/shop_images\/page_home_hero_homebodysale-labourday_image_mobile-v2.jpg",
