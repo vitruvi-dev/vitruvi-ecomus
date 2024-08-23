@@ -77,66 +77,8 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Desktop_849d06f7-9430-485e-82c5-f3104b790982.jpg",
-            "image_mb": "shopify:\/\/shop_images\/Mobile_c9dcdcb0-8f54-4e16-bd57-d12800589113.jpg",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-3",
-            "heading": "<p><strong>LABOR DAY SALE<\/strong><\/p><p>25% Off Sitewide<\/p><p><\/p>",
-            "heading_fs": "h1",
-            "heading_fw": "normal",
-            "sub_heading": "Elevate your space this season with our innovative humidifiers, elegant diffusers, and all-natural scents.",
-            "sub_heading_fs": "h6",
-            "sub_heading_fw": "normal",
-            "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/labor-day-sale",
-            "target": false,
-            "btn_size": "xl",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "none",
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "slide_base_kHzRA6": {
-          "type": "slide_base",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Desktop-1_631ccfe4-6bc7-42c8-b3c5-3db858e24994.png",
-            "image_mb": "shopify:\/\/shop_images\/Mobile-1_942a03f9-f4b8-475f-a590-81a8b64df331.png",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-3",
-            "heading": "<p><strong>LABOR DAY SALE<\/strong><\/p><p>25% Off Sitewide<\/p><p><\/p>",
-            "heading_fs": "h1",
-            "heading_fw": "normal",
-            "sub_heading": "Elevate your space this season with our innovative humidifiers, elegant diffusers, and all-natural scents.",
-            "sub_heading_fs": "h6",
-            "sub_heading_fw": "normal",
-            "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/labor-day-sale",
-            "target": false,
-            "btn_size": "xl",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "none",
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "742a3693-7d5d-4e92-914c-270e1d777d11": {
-          "type": "slide_base",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_hero_homebodysale_image_desktop-min.jpg",
-            "image_mb": "shopify:\/\/shop_images\/page_home_hero_homebodysale-labourday_image_mobile-v2.jpg",
+            "image": "shopify:\/\/shop_images\/page_home-hero_labor-day-sale-2024_image_desktop.jpg",
+            "image_mb": "shopify:\/\/shop_images\/page_home-hero_labor-day-sale-2024_image_mobile.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -162,9 +104,7 @@
         }
       },
       "block_order": [
-        "slide_base_fnDmKR",
-        "slide_base_kHzRA6",
-        "742a3693-7d5d-4e92-914c-270e1d777d11"
+        "slide_base_fnDmKR"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
