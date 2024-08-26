@@ -38,7 +38,7 @@
         "linked_products_CAxNzE": {
           "type": "linked_products",
           "settings": {
-            "option_name": "",
+            "option_name": "Size Options",
             "option_values": "",
             "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
             "linked_type": "image_with_title",
