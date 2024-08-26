@@ -144,6 +144,12 @@
             "show_wishlist": false,
             "show_compare": false
           }
+        },
+        "complimentary_products_3jGEtL": {
+          "type": "complimentary_products",
+          "settings": {
+            "text": "Pairs well with"
+          }
         }
       },
       "block_order": [
@@ -158,7 +164,8 @@
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "biscuits_bundles_biscuits_bundle_form_YkgUj3",
-        "ad820e37-dee5-41f3-9692-bf46d9664103"
+        "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "complimentary_products_3jGEtL"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
