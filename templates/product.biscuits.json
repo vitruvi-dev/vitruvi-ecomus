@@ -35,13 +35,13 @@
             "ani": "none"
           }
         },
-        "edac686e-a845-4ed7-9b50-51639a11cf56": {
-          "type": "price",
+        "3a222052-35a9-4684-a336-6a32a56eb638": {
+          "type": "title",
           "settings": {
           }
         },
-        "3a222052-35a9-4684-a336-6a32a56eb638": {
-          "type": "title",
+        "edac686e-a845-4ed7-9b50-51639a11cf56": {
+          "type": "price",
           "settings": {
           }
         },
@@ -108,8 +108,8 @@
       },
       "block_order": [
         "83296f29-170d-4d7b-9291-c9b59bb98b32",
-        "edac686e-a845-4ed7-9b50-51639a11cf56",
         "3a222052-35a9-4684-a336-6a32a56eb638",
+        "edac686e-a845-4ed7-9b50-51639a11cf56",
         "description_Fh49zX",
         "complimentary_products_3jGEtL",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
@@ -118,7 +118,8 @@
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
-        ".biscuits-bundle-step__number,.biscuits-bundle-step__title {font-size: 24px;}"
+        ".biscuits-bundle-step__number,.biscuits-bundle-step__title {font-size: 24px;}",
+        ".hdt-price__container {display: none;}"
       ],
       "settings": {
         "space_content_media": true,
