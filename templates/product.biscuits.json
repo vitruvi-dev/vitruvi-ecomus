@@ -208,10 +208,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
-        "product_list": [
-          "biscuits-bundle-product",
-          "biscuits-build-your-own-6-pack"
-        ],
+        "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
