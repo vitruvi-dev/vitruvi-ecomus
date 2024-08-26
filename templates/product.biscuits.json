@@ -166,10 +166,10 @@
       ],
       "settings": {
         "heading_align": "start",
-        "sec_heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
+        "sec_heading": "{{ product.metafields.ecomus.feature_2_heading.value }}",
         "heading_tag": "h3",
         "heading_size": "h5",
-        "sec_subheading": "<p>{{ product.metafields.ecomus.feature_1_subheading.value }}<\/p>",
+        "sec_subheading": "<p>{{ product.metafields.ecomus.feature_2_subheading.value }}<\/p>",
         "subheading_size": "2xl",
         "heading_reverse": false,
         "btn_heading": false,
