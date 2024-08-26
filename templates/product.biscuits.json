@@ -35,16 +35,6 @@
             "ani": "none"
           }
         },
-        "linked_products_CAxNzE": {
-          "type": "linked_products",
-          "settings": {
-            "option_name": "Size Options",
-            "option_values": "",
-            "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
-            "linked_type": "block",
-            "linked_size": "large"
-          }
-        },
         "3a222052-35a9-4684-a336-6a32a56eb638": {
           "type": "title",
           "settings": {
@@ -61,6 +51,16 @@
             "des": "1",
             "short_des": "",
             "length": 31
+          }
+        },
+        "linked_products_CAxNzE": {
+          "type": "linked_products",
+          "settings": {
+            "option_name": "Size Options",
+            "option_values": "",
+            "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
+            "linked_type": "image_with_title",
+            "linked_size": "large"
           }
         },
         "complimentary_products_3jGEtL": {
@@ -118,10 +118,10 @@
       },
       "block_order": [
         "83296f29-170d-4d7b-9291-c9b59bb98b32",
-        "linked_products_CAxNzE",
         "3a222052-35a9-4684-a336-6a32a56eb638",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "description_Fh49zX",
+        "linked_products_CAxNzE",
         "complimentary_products_3jGEtL",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "biscuits_bundles_biscuits_bundle_form_YkgUj3",
