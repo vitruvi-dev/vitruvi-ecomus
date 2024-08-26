@@ -104,6 +104,19 @@
             "show_wishlist": false,
             "show_compare": false
           }
+        },
+        "variant_picker_zGMHDW": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "no",
+            "enable_historystate": false,
+            "hide_sold_out": false,
+            "color_picker_type": "block",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
         }
       },
       "block_order": [
@@ -114,7 +127,8 @@
         "complimentary_products_3jGEtL",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "biscuits_bundles_biscuits_bundle_form_YkgUj3",
-        "ad820e37-dee5-41f3-9692-bf46d9664103"
+        "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "variant_picker_zGMHDW"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
