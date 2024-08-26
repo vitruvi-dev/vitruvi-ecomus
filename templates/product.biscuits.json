@@ -115,7 +115,7 @@
             "color_size": "small",
             "picker_type": "block",
             "size_chart_source": "page",
-            "size_chart_page": ""
+            "size_chart_page": "product-returns-default"
           }
         }
       },
