@@ -41,7 +41,7 @@
             "option_name": "Size Options",
             "option_values": "",
             "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
-            "linked_type": "image_with_title",
+            "linked_type": "block",
             "linked_size": "large"
           }
         },
