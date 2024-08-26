@@ -114,8 +114,9 @@
             "color_picker_type": "block",
             "color_size": "small",
             "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": "product-returns-default"
+            "size_chart_source": "image",
+            "size_chart_page": "product-returns-default",
+            "size_chart_image": "shopify:\/\/shop_images\/Mobile_c9dcdcb0-8f54-4e16-bd57-d12800589113.jpg"
           }
         }
       },
