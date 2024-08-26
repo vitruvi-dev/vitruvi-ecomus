@@ -57,7 +57,7 @@
           "type": "linked_products",
           "settings": {
             "option_name": "Size Options",
-            "option_values": "",
+            "option_values": "Lorem ipsum",
             "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
             "linked_type": "image_with_title",
             "linked_size": "large"
