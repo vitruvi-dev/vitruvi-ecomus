@@ -73,7 +73,7 @@
 
       {%- for item in product_list -%}
         {%- liquid
-        assign value = option_values[forloop.index0] | default: item.metafield.ecomus.feature_1_subheading
+        assign value = item.metafield.ecomus.feature_1_subheading
         assign color_downcase = value | downcase
         if product.id == item.id
           assign value_selected = value
