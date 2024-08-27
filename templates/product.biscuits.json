@@ -360,10 +360,10 @@
         ".hdt-product-btns {display: none;}"
       ],
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Best Seller",
+        "heading_align": "start",
+        "sec_heading": "Customers Also Loved",
         "heading_tag": "h2",
-        "heading_size": "h4",
+        "heading_size": "h5",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
