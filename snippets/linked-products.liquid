@@ -73,7 +73,7 @@
 
       {%- for item in product_list -%}
         {%- liquid
-        assign value = option_values[forloop.index0] | default: item.barcode
+        assign value = option_values[forloop.index0] | default: item.page_title
         assign color_downcase = value | downcase
         if product.id == item.id
           assign value_selected = value
