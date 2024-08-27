@@ -32,6 +32,31 @@
         "padding_rate": 75
       }
     },
+    "top_heading_JahMta": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_7t6FMz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Orders",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7t6FMz"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "main": {
       "type": "main-order",
       "settings": {
@@ -44,6 +69,7 @@
   },
   "order": [
     "heading",
+    "top_heading_JahMta",
     "main"
   ]
 }
