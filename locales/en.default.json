@@ -665,7 +665,7 @@
       "make_order": "Make your first order",
       "none": "You haven't placed any orders yet.",
       "hello_html": "Hello <strong>{{name}}<\/strong> (not <strong>{{name}}<\/strong>? <a href=\"{{link}}\">Log out<\/a>)",
-      "dashboard": "Dashboard",
+      "dashboard": "Orders",
       "wishlist": "Wishlist"
     },
     "account_fallback": "Account",
