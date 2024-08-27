@@ -56,7 +56,7 @@
         "linked_products_CAxNzE": {
           "type": "linked_products",
           "settings": {
-            "option_name": "Choose your bundle size",
+            "option_name": "Bundle Size",
             "option_values": "{{ product.metafields.ecomus.feature_1_heading.value }}",
             "product_list": "{{ product.metafields.ecomus[\"bundles_included-products\"].value }}",
             "linked_type": "image_with_title",
@@ -128,7 +128,7 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
+        "..hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price,.biscuits-bundle-step__number {display: none;}",
         ".biscuits-bundle-step__number,.biscuits-bundle-step__title {font-size: 24px;}",
         ".hdt-price__container {display: none;}",
         ".hdt-product-form_wrap-link {width: 9rem;}"
