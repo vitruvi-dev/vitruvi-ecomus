@@ -58,7 +58,7 @@
           "settings": {
             "option_name": "{{ product.metafields.ecomus.feature_1_heading.value }}",
             "option_values": "",
-            "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
+            "product_list": "{{ product.metafields.ecomus[\"bundles_included-products\"].value }}",
             "linked_type": "image_with_title",
             "linked_size": "large"
           }
