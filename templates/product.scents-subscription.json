@@ -69,11 +69,6 @@
           "settings": {
           }
         },
-        "appstle_subscription_appstle_subscription_product_page_widget_VmcAxD": {
-          "type": "shopify:\/\/apps\/appstle-subscription\/blocks\/appstle-subscription-product-page-widget\/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
-          "settings": {
-          }
-        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -136,7 +131,6 @@
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "quantity_selector_XCH8WV",
-        "appstle_subscription_appstle_subscription_product_page_widget_VmcAxD",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
         "countdown_timer_NCVUEc",
