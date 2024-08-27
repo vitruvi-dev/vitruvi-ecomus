@@ -203,9 +203,9 @@
     "related": {
       "type": "related-products",
       "settings": {
-        "heading_align": "center",
+        "heading_align": "start",
         "sec_heading": "Customers Also Loved",
-        "heading_tag": "h3",
+        "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "",
         "subheading_size": "lg",
