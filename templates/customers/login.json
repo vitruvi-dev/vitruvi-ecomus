@@ -48,7 +48,7 @@
           "type": "infos",
           "settings": {
             "title": "I'm new here",
-            "description": "Sign up for early Sale access plus tailored new arrivals, trends and promotions. To opt out, click unsubscribe in our emails.",
+            "description": "Get early access to new products and exclusive offers.",
             "btn_full": false,
             "btn_style": "link",
             "btn_fw": "semibold",
