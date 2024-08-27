@@ -756,6 +756,32 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
+    },
+    "accordion_4gR76U": {
+      "type": "accordion",
+      "blocks": {
+        "accordion_item_YaL98f": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "{{ product.metafields.custom_fields.colorfield_copy_2.value }}",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_YaL98f"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -771,6 +797,7 @@
     "sidebar",
     "recently",
     "top_heading_yFFdaa",
-    "accordion_KXXDfQ"
+    "accordion_KXXDfQ",
+    "accordion_4gR76U"
   ]
 }
