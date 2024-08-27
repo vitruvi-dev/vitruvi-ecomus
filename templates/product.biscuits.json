@@ -25,6 +25,7 @@
       "blocks": {
         "83296f29-170d-4d7b-9291-c9b59bb98b32": {
           "type": "badges",
+          "disabled": true,
           "settings": {
             "special": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
             "min": 10,
@@ -41,7 +42,6 @@
         },
         "edac686e-a845-4ed7-9b50-51639a11cf56": {
           "type": "price",
-          "disabled": true,
           "settings": {
           }
         },
