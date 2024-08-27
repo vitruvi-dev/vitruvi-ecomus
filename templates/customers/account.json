@@ -63,7 +63,7 @@
     "main": {
       "type": "main-account",
       "custom_css": [
-        ".appstle-subscription-manage-subscription-button-placeholder {display: none;}"
+        ".hide-subscription {display: none;}"
       ],
       "settings": {
         "color_scheme": "",
