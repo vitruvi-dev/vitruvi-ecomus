@@ -651,7 +651,7 @@
         "title_G9ebFD": {
           "type": "title",
           "settings": {
-            "title": "Humidifier Benefits"
+            "title": "{{ product.metafields.ecomus.seo_accordion_header_1.value }}"
           }
         },
         "accordion_item_tDQf3x": {
