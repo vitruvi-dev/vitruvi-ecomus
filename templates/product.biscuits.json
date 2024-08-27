@@ -58,7 +58,7 @@
           "type": "linked_products",
           "settings": {
             "option_name": "Choose your bundle size",
-            "option_values": "{{ product.metafields.ecomus.feature_1_heading.value }} \/ {{ product.metafields.ecomus.feature_1_subheading.value }}",
+            "option_values": "",
             "product_list": "{{ product.metafields.ecomus[\"bundles_included-products\"].value }}",
             "linked_type": "image_with_title",
             "linked_size": "large"
