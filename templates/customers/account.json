@@ -71,11 +71,108 @@
         "padding_bottom": 36,
         "padding_rate": 75
       }
+    },
+    "icon_box_yqdh4i": {
+      "type": "icon-box",
+      "blocks": {
+        "item_X4LA77": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box2",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Free Shipping",
+            "content": "<p>You will love at great low prices<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_WND989": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "payment",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Flexible Payment",
+            "content": "<p>Pay with Multiple Credit Cards<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_y3UaDq": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "return",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "14 Day Returns",
+            "content": "<p>Within 30 days for an exchange<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_dQpDRJ": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Premium Suport",
+            "content": "<p>Outstanding premium support<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_X4LA77",
+        "item_WND989",
+        "item_y3UaDq",
+        "item_dQpDRJ"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Shop Gram",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": false,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "top_heading_jMHi8G",
-    "main"
+    "main",
+    "icon_box_yqdh4i"
   ]
 }
