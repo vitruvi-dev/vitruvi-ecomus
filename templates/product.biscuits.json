@@ -159,6 +159,40 @@
         "padding_rate": 50
       }
     },
+    "related": {
+      "type": "related-products",
+      "custom_css": [
+        ".hdt-product-btns {display: none;}"
+      ],
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Customers Also Loved",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 50,
+        "limit": 10,
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "col_dk": "6",
+        "col_tb": "4",
+        "col_mb": "2",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 72,
+        "padding_rate": 75
+      }
+    },
     "tabs": {
       "type": "main-product-tabs",
       "blocks": {
@@ -198,40 +232,6 @@
         "padding_top": 30,
         "padding_bottom": 30,
         "padding_rate": 50
-      }
-    },
-    "related": {
-      "type": "related-products",
-      "custom_css": [
-        ".hdt-product-btns {display: none;}"
-      ],
-      "settings": {
-        "heading_align": "start",
-        "sec_heading": "Customers Also Loved",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 50,
-        "limit": 10,
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "col_dk": "6",
-        "col_tb": "4",
-        "col_mb": "2",
-        "navUI": true,
-        "nav_des": "default",
-        "nav_pos": "middle_in",
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 72,
-        "padding_rate": 75
       }
     },
     "171512128966062076": {
@@ -360,8 +360,8 @@
   "order": [
     "breacrumb",
     "main",
-    "tabs",
     "related",
+    "tabs",
     "171512128966062076",
     "recently",
     "sidebar"
