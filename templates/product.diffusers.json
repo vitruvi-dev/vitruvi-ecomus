@@ -125,18 +125,8 @@
         },
         "complimentary_products_Q3mxGT": {
           "type": "complimentary_products",
-          "disabled": true,
           "settings": {
             "text": "Pairs well with"
-          }
-        },
-        "bundle_product_hpGGYF": {
-          "type": "bundle_product",
-          "settings": {
-            "bundle_prs_inner": true,
-            "product_list": [
-              "build-your-own-diffuser-bundle"
-            ]
           }
         }
       },
@@ -153,8 +143,7 @@
         "description_Fh49zX",
         "img_trust_imFfw3",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "complimentary_products_Q3mxGT",
-        "bundle_product_hpGGYF"
+        "complimentary_products_Q3mxGT"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
