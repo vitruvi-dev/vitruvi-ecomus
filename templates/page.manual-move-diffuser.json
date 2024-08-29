@@ -252,19 +252,51 @@
             "content": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.content | metafield_tag }}"
           }
         },
+        "title_nMXM4n": {
+          "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_k6UGej": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_frEEka": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_3yVjtY": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_8eGiRE": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
         "accordion_item_c3Gt4j": {
           "type": "accordion_item",
           "source": "{{ page.metafields.custom.seo_accordion_2_item_5.value }}",
           "settings": {
             "title": "{{ page.metafields.custom.seo_accordion_2_item_5.value.heading_item.value }}",
             "content": "{{ page.metafields.custom.seo_accordion_2_item_5.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_k6UGej": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "",
-            "content": ""
           }
         }
       },
@@ -277,65 +309,12 @@
         "accordion_item_eaU4ar",
         "accordion_item_AyLWYw",
         "accordion_item_aKJgcL",
-        "accordion_item_c3Gt4j",
-        "accordion_item_k6UGej"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
-        "enable_link_list": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
-    "accordion_KWjBMV": {
-      "type": "accordion",
-      "blocks": {
-        "title_whtJPm": {
-          "type": "title",
-          "settings": {
-            "title": "TROUBLESHOOTING"
-          }
-        },
-        "accordion_item_bbtEx9": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Move Diffuser not misting?",
-            "content": "<p>There may be a few reasons why your diffuser isn’t misting properly. Here are some ways to troubleshoot the issue.\n\nFirst, give your diffuser a deep clean. As a part of a built-in feature to protect our diffusers, the unit won’t run if the ultrasonic plates are clogged with essential oils. Watch our video above for instructions on how to clean your diffuser.\n\nNext, make sure the water is filled to just below the line inside the reservoir. If there is too little or too much water in the reservoir, the diffuser won’t turn on.<\/p>"
-          }
-        },
-        "accordion_item_F8NEiU": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Move Diffuser not misting for the full 4-hour or 8-hour time cycle?",
-            "content": "<p>Ensure that the water is filled to just below the fill line to get a full time cycle. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run time by about 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com.<\/p>"
-          }
-        },
-        "accordion_item_xtjQza": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Move Diffuser not turning on?",
-            "content": "<p>First, check if your Move Diffuser is charged. Once your diffuser is fully charged, the four lights at the back will stop blinking.\n\nNext, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Move Diffuser lid is sitting completely flush on the base.<\/p>"
-          }
-        },
-        "accordion_item_a6MAaP": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Move Diffuser not charging?",
-            "content": "<p>Make sure you’re using the original power cord that came with your Move Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "title_whtJPm",
-        "accordion_item_bbtEx9",
-        "accordion_item_F8NEiU",
-        "accordion_item_xtjQza",
-        "accordion_item_a6MAaP"
+        "title_nMXM4n",
+        "accordion_item_k6UGej",
+        "accordion_item_frEEka",
+        "accordion_item_3yVjtY",
+        "accordion_item_8eGiRE",
+        "accordion_item_c3Gt4j"
       ],
       "settings": {
         "accordion_position": "start",
@@ -357,7 +336,6 @@
     "top_heading_pReQLa",
     "video_2_tj8Deh",
     "image_with_text_XfPHGe",
-    "accordion_V3FMja",
-    "accordion_KWjBMV"
+    "accordion_V3FMja"
   ]
 }
