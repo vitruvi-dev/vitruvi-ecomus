@@ -8,7 +8,7 @@
         {%- assign index = 0 -%}
         {%- for block in section.blocks -%}
           {%- if block.type == "title" -%}
-            <h5 id="{{ block.id }}" class="hdt-accordion-title hdt-h5 hdt-font-normal">{{ block.settings.title }}</h5>
+            <h2 id="{{ block.id }}" class="hdt-accordion-title hdt-h5 hdt-font-normal">{{ block.settings.title }}</h2>
           {%- else -%}
             {%- if block.settings.title != blank and block.settings.content != blank -%}
               <details class="hdt-accordion-item" aria-expanded="{% if forloop.first %} true {% else %} false {% endif %}" {% if index == 0 and section.settings.open_first %} open {% endif %}  is="hdt-accordion" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
