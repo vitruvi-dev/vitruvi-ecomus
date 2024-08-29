@@ -104,8 +104,8 @@
               <div  class="hdt-product-form_value is-type-color{% if color_white == color_downcase %} hdt-bg-color-white{% endif %}">
                 {{ item.featured_image | image_url: width: 400 | image_tag: widths: '100, 200, 400', loading: 'lazy' }}
               </div>
-              <div class="hdt-linked-product-title hdt-truncate hdt-text-sm hdt-s-text">{{  item.metafields.ecomus.feature_1_subheading }}</div>
               <div class="hdt-linked-product-title hdt-truncate hdt-text-sm hdt-font-semibold hdt-s-text">{{  item.metafields.ecomus.feature_1_heading }}</div>
+              <div class="hdt-linked-product-title hdt-truncate hdt-text-sm hdt-s-text">{{  item.metafields.ecomus.feature_1_subheading }}</div>
               <span class="hdt-form-color-name sr-only">{{  item.metafields.ecomus.feature_1_heading }}</span>
             </a>
           {%- endif -%}
