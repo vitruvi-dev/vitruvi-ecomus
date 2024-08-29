@@ -244,51 +244,105 @@
         },
         "accordion_item_9fAdcU": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value }}",
           "settings": {
-            "title": "What are the run times of the Stone Diffuser?",
-            "content": "<p>The Stone Diffuser has two run times: 4 hours and 8 hours. The 4-hour setting will run continuously. The 8-hour setting will run for 30 seconds and then turn off for 30 seconds, either until the water in the reservoir is low or the time period has ended. As part of an automatic safety feature, our diffusers turn off before the water reservoir is completely empty.\n\nTo turn off your diffuser, click the button for a third time.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
           }
         },
         "accordion_item_j4Bm9T": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value }}",
           "settings": {
-            "title": "What is the Stone Diffuser made of?",
-            "content": "<p>The outer cover of the Stone Diffuser is made from high-quality matte porcelain. The inner water reservoir is made from BPA-free plastic. Because the diffuser is ultrasonic and runs on vibrations instead of heat, there is no interaction between the water, plastic, and essential oils.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_r9agBQ": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
           "settings": {
-            "title": "Can the Stone Diffuser light be adjusted?",
-            "content": "<p>Yes. The Stone Diffuser has 4 light settings: on, dim, candlelight, and off. You can adjust the light settings by clicking the light button at the back of the diffuser. You can also press and hold the light button to turn off all the lights.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
           }
         },
         "accordion_item_hw6wtG": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
           "settings": {
-            "title": "How do I clean my Stone Diffuser?",
-            "content": "<p>To clean the inside of your Stone Diffuser, mix a tablespoon of white vinegar with water and let it sit in the reservoir for 30 minutes. Then rinse it out, and use a cotton swab to wipe the inside of the reservoir. This will clean out any residue left behind from the essential oils. We recommend giving your diffuser a deep clean every month.\n\nTo clean the cover of your Stone Diffuser, carefully place it in the sink with warm, soapy water and let it soak for about 10 minutes. Then rub out any visible marks with your fingers (make sure your hands are clean), rinse it, and let it air dry.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
           }
         },
         "accordion_item_dnXKxw": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
           "settings": {
-            "title": "Does the Stone Diffuser come with a warranty?",
-            "content": "<p>All Stone Diffusers come with a lifetime warranty. If your device has any mechanical or manufacturing defects, we would be happy to assist you.\nNote: Stone Diffusers with a DC power cord are not covered under warranty.\n\nPlease reach out to us at hello@vitruvi.com with your proof of purchase, information on the issue you’re experiencing, and the serial number (located on the bottom of your diffuser). We would be happy to support you and ensure you have a perfectly working product.\n\nPlease note that our lifetime device warranty does not cover personal damages. That said, if you need a replacement part, you’re able to purchase it here.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
           }
         },
         "accordion_item_dThqRA": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
           "settings": {
-            "title": "Can I diffuse essential oils around my pets?",
-            "content": "<p>Our pets are as unique as us. The first thing we suggest doing is checking with your vet—your animal may be more sensitive than others, so your vet will know best.\n\nStronger scents such as Lemon, Grapefruit, Peppermint, and Boost, should be used sparingly. If you would still like to diffuse one of these scents, I would suggest limiting the number of drops to approximately 1-5 drops.\n\nFrankincense, Lavender, and Cedarwood are great options to diffuse around animals. We also suggest turning your diffuser off when your animals are home alone, just in case they do become agitated by the scent.\n\nFor more information, visit our page here.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
           }
         },
         "accordion_item_M64rpw": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value }}",
           "settings": {
-            "title": "Which oils are safe for pregnancy and babies?",
-            "content": "<p>The best thing to do before using essential oils is to chat with your doctor.\n\nIn a diffuser, we recommend using small amounts of essential oils when pregnant (about 5 drops). When it comes to newborns, we recommend waiting 3 months before using essential oils. But your doctor will know best, as we all react differently.\nAlways opt for essential oils that are 100% pure, vegan, cruelty-free, and free from synthetic fragrance.\n\n\nThese are the products we recommend starting with once you’ve spoken to your doctor: Lavender, Bergamot, Grapefruit, Lemon, Frankincense, Cedarwood, Boost, Sleep.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.content | metafield_tag }}"
+          }
+        },
+        "title_be7XAV": {
+          "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_XRnGKb": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_3BEXLM": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_79ti3m": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_9qNMWK": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_QQ8biR": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_5.value.content | metafield_tag }}"
           }
         }
       },
@@ -300,64 +354,13 @@
         "accordion_item_hw6wtG",
         "accordion_item_dnXKxw",
         "accordion_item_dThqRA",
-        "accordion_item_M64rpw"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
-        "enable_link_list": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
-    "accordion_V3FMja": {
-      "type": "accordion",
-      "blocks": {
-        "title_EziF9c": {
-          "type": "title",
-          "settings": {
-            "title": "TROUBLESHOOTING"
-          }
-        },
-        "accordion_item_KFkmBh": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Stone Diffuser not misting?",
-            "content": "<p>There may be a few reasons why your diffuser isn’t misting properly. Here are some ways to troubleshoot the issue.\n\nFirst, give your diffuser a deep clean. As a part of a built-in feature to protect our diffusers, the unit won’t run if the ultrasonic plates are clogged with essential oils. Watch our video above for instructions on how to clean your diffuser.\n\nNext, make sure the water is filled to just below the line inside the reservoir. If there is too little or too much water in the reservoir, the diffuser won’t turn on.<\/p>"
-          }
-        },
-        "accordion_item_ecAAMM": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Stone Diffuser not misting for the full 4-hour or 8-hour time cycle?",
-            "content": "<p>In order for your diffuser to run for the full time cycle, ensure that the water is filled to just below the fill line. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run times by approximately 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com.<\/p>"
-          }
-        },
-        "accordion_item_4tmXAX": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Stone Diffuser not turning on?",
-            "content": "<p>Make sure you’re using the original power cord that came with your Stone Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source.\n\nNext, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Stone Diffuser cover is sitting completely flush on the base.<\/p>"
-          }
-        },
-        "accordion_item_m7DphA": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Does my Stone Diffuser come with a warranty?",
-            "content": "<p>Yes: the Stone Diffuser comes with a lifetime warranty. If your diffuser has any mechanical or manufacturing defects, we would be happy to assist you. Please get in touch with us at hello@vitruvi.com.\n\nPlease note that our lifetime device warranty does not cover personal damages. That said, if you need a replacement part, you’re able to purchase it here.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "title_EziF9c",
-        "accordion_item_KFkmBh",
-        "accordion_item_ecAAMM",
-        "accordion_item_4tmXAX",
-        "accordion_item_m7DphA"
+        "accordion_item_M64rpw",
+        "title_be7XAV",
+        "accordion_item_XRnGKb",
+        "accordion_item_3BEXLM",
+        "accordion_item_79ti3m",
+        "accordion_item_9qNMWK",
+        "accordion_item_QQ8biR"
       ],
       "settings": {
         "accordion_position": "start",
@@ -380,7 +383,6 @@
     "video_2_qcKXNa",
     "image_with_text_MreEGt",
     "image_with_text_tbWHUW",
-    "accordion_jUzj9J",
-    "accordion_V3FMja"
+    "accordion_jUzj9J"
   ]
 }
