@@ -556,7 +556,7 @@
         "title_HCTNEj": {
           "type": "title",
           "settings": {
-            "title": ""
+            "title": "{{ product.metafields.ecomus.seo_accordion_2_header.value }}"
           }
         },
         "accordion_item_LmTHEe": {
