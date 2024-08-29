@@ -201,9 +201,10 @@
         },
         "accordion_item_9fAdcU": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value }}",
           "settings": {
-            "title": "How do I change the Glow Diffuser time setting?",
-            "content": "<p>The Glow Diffuser has two time settings. The 4-hour setting runs continuously; the 8-hour setting runs intermittently, turning on for 30 seconds and then off for 30 seconds.<br\/><br\/>To select the 4-hour time setting, turn on the diffuser by clicking the button once.<br\/><br\/>To change to the 8-hour time setting, click the button for a second time. You will know that the time setting has been successfully changed when the light flashes.<br\/><br\/>To turn off your diffuser, click the button for a third time.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
           }
         },
         "accordion_item_j4Bm9T": {
@@ -264,44 +265,42 @@
         },
         "accordion_item_ap7kUC": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
           }
         },
         "accordion_item_9AkXmw": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_7MxNgj": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
           }
         },
         "accordion_item_9DM7kU": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_4.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_4.value.content | metafield_tag }}"
           }
         },
         "accordion_item_aq3N43": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_5.value }}",
           "settings": {
-            "title": "",
-            "content": ""
-          }
-        },
-        "accordion_item_9Vx9Jf": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_5.value.content | metafield_tag }}"
           }
         }
       },
@@ -320,65 +319,7 @@
         "accordion_item_9AkXmw",
         "accordion_item_7MxNgj",
         "accordion_item_9DM7kU",
-        "accordion_item_aq3N43",
-        "accordion_item_9Vx9Jf"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
-        "enable_link_list": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
-    "accordion_V3FMja": {
-      "type": "accordion",
-      "blocks": {
-        "title_EziF9c": {
-          "type": "title",
-          "settings": {
-            "title": "TROUBLESHOOTING"
-          }
-        },
-        "accordion_item_KFkmBh": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Glow Diffuser not misting?",
-            "content": "<p>There may be a few reasons why your diffuser isn’t misting properly. Here are some ways to troubleshoot the issue.<br\/><br\/>First, give your diffuser a deep clean. As a part of a built-in feature to protect our diffusers, the unit won’t run if the ultrasonic plates are clogged with essential oils. Watch our video above for instructions on how to clean your diffuser.<br\/><br\/>Next, make sure the water is filled to just below the line inside the reservoir. If there is too little or too much water in the reservoir, the diffuser won’t turn on.<\/p>"
-          }
-        },
-        "accordion_item_ecAAMM": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Glow Diffuser not misting for the full 4-hour or 8-hour time cycle?",
-            "content": "<p>In order for your diffuser to run for the full time cycle, ensure that the water is filled to just below the fill line. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run times by approximately 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com.<\/p>"
-          }
-        },
-        "accordion_item_4tmXAX": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Glow Diffuser not turning on?",
-            "content": "<p>Make sure you’re using the original power cord that came with your Glow Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source.\n\nNext, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Glow Diffuser cover is sitting completely flush on the base.<\/p>"
-          }
-        },
-        "accordion_item_m7DphA": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Does my Glow Diffuser come with a warranty?",
-            "content": "<p>Yes: the Glow Diffuser comes with a lifetime warranty. If your diffuser has any mechanical or manufacturing defects, we would be happy to assist you. Please get in touch with us at hello@vitruvi.com.\n\nPlease note that our lifetime device warranty does not cover personal damages. That said, if you need a replacement part, you’re able to purchase it here.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "title_EziF9c",
-        "accordion_item_KFkmBh",
-        "accordion_item_ecAAMM",
-        "accordion_item_4tmXAX",
-        "accordion_item_m7DphA"
+        "accordion_item_aq3N43"
       ],
       "settings": {
         "accordion_position": "start",
@@ -401,7 +342,6 @@
     "video_2_YYWjUK",
     "top_heading_Ln3Je6",
     "video_2_8EzxFr",
-    "accordion_jUzj9J",
-    "accordion_V3FMja"
+    "accordion_jUzj9J"
   ]
 }
