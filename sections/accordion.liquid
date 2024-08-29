@@ -14,7 +14,7 @@
               <details class="hdt-accordion-item" aria-expanded="{% if forloop.first %} true {% else %} false {% endif %}" {% if index == 0 and section.settings.open_first %} open {% endif %}  is="hdt-accordion" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                 {% if block.settings.title != blank %}
                   <summary class="hdt-flex hdt-justify-between hdt-align-center hdt-text-lg hdt-font-medium" >
-                    <h3><span itemprop="name">{{ block.settings.title }}</span></h3>
+                    <h3 class="hdt-text hdt-font-normal"><span itemprop="name">{{ block.settings.title }}</span></h3>
                     {%- if section.settings.accordion_icon == "1" -%} 
                       <svg class="hdt-accordion-icon" xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7" fill="none"><path d="M-2.40413e-07 5.5L5.5 -2.40413e-07L11 5.5L10.0237 6.47625L5.5 1.9525L0.976249 6.47625L-2.40413e-07 5.5Z" fill="currentColor"/></svg>
                     {%- else -%}
