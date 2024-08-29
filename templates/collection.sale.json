@@ -100,7 +100,6 @@
         },
         "countdown_LQEYWr": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
