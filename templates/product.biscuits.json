@@ -233,6 +233,183 @@
         "padding_rate": 75
       }
     },
+    "accordion_WDEpM3": {
+      "type": "accordion",
+      "blocks": {
+        "title_y8WA7N": {
+          "type": "title",
+          "source": "{{ product.metafields.ecomus.seo_accordion_1_header.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_tmwhfa": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_1_item_1.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_BTPLhq": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_1_item_2.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_XyYTpz": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_1_item_3.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_GDxDdk": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_1_item_4.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_KGDVyx": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_1_item_5.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
+          }
+        },
+        "title_HCTNEj": {
+          "type": "title",
+          "source": "{{ product.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_LmTHEe": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_2_item_1.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_BXMB4C": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_2_item_2.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_Jeynhw": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_2_item_3.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_NkXMVE": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_e76jcq": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_2_item_5.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
+          }
+        },
+        "title_LLk7rG": {
+          "type": "title",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_header.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_Rx4m8t": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_1.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_1.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_gxDQgA": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_2.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_2.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_34qymz": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_3.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_3.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_fpKbDh": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_4.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_4.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_zCPBHB": {
+          "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_5.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_5.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_5.value.content | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "title_y8WA7N",
+        "accordion_item_tmwhfa",
+        "accordion_item_BTPLhq",
+        "accordion_item_XyYTpz",
+        "accordion_item_GDxDdk",
+        "accordion_item_KGDVyx",
+        "title_HCTNEj",
+        "accordion_item_LmTHEe",
+        "accordion_item_BXMB4C",
+        "accordion_item_Jeynhw",
+        "accordion_item_NkXMVE",
+        "accordion_item_e76jcq",
+        "title_LLk7rG",
+        "accordion_item_Rx4m8t",
+        "accordion_item_gxDQgA",
+        "accordion_item_34qymz",
+        "accordion_item_fpKbDh",
+        "accordion_item_zCPBHB"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": true,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
     "171512128966062076": {
       "type": "apps",
       "blocks": {
@@ -361,6 +538,7 @@
     "main",
     "tabs",
     "related",
+    "accordion_WDEpM3",
     "171512128966062076",
     "recently",
     "sidebar"
