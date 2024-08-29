@@ -112,7 +112,7 @@
             "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
             "source": "1",
             "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
-            "wimg": 100,
+            "wimg": 600,
             "svg": "",
             "height": 30
           }
