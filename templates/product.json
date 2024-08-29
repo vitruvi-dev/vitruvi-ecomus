@@ -90,7 +90,7 @@
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
           "settings": {
-            "content": "Sale Ends Soon",
+            "content": "Labor Day Sale Ends Soon",
             "icon_svg": "clock",
             "ani": "none"
           }

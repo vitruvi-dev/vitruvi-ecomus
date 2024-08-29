@@ -86,7 +86,7 @@
           "type": "countdown_timer",
           "disabled": true,
           "settings": {
-            "content": "Sale Ends Soon",
+            "content": "Labor Day Sale Ends Soon",
             "icon_svg": "clock",
             "ani": "none"
           }
