@@ -121,7 +121,7 @@
           "disabled": true,
           "settings": {
             "show_icon": true,
-            "mess": "Free Golden Blend on $100+ Orders",
+            "mess": "<p>Free Golden Blend on $100+ Orders</p>",
             "source": "1",
             "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_golden_gallery_1_v2_image.png",
             "wimg": 100,
