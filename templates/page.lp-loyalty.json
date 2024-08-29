@@ -619,101 +619,131 @@
       "blocks": {
         "title_NUc3H7": {
           "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_header.value }}",
           "settings": {
-            "title": "Frequently asked questions"
-          }
-        },
-        "accordion_item_Rqg93b": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How do I join the Take Care Club?",
-            "content": "To create a free Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, select “Join Now” to become a member.\n\nNote: if you have an existing Vitruvi account, you don’t need to create a separate Take Care Club account; simply sign in with your Vitruvi login information through the Take Care Club panel."
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
           }
         },
         "accordion_item_JFE7iV": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value }}",
           "settings": {
-            "title": "How do I access my points and perks?",
-            "content": "To sign into your Take Care Club account, visit any page on our website and click on the rewards icon on the bottom left corner. Once the Take Care Club panel pops up, click “Sign In” to access your membership information."
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_Rqg93b": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_6VkiNg": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
           "settings": {
-            "title": "How do I redeem my points?",
-            "content": "Sign into your Take Care Club account through the rewards panel on the bottom left corner. Select “Ways To Redeem” to view all of your available rewards. To use your points, click “Redeem.”"
-          }
-        },
-        "accordion_item_6WKEch": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Can I redeem my points towards subscription orders?",
-            "content": "No, points cannot be redeemed towards subscription orders."
-          }
-        },
-        "accordion_item_zeaWgJ": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Will my points expire?",
-            "content": "Yes—points expire two years after the date they were earned. We will send you a reminder 30 days before your points expire."
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
           }
         },
         "accordion_item_kiXFNF": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
           "settings": {
-            "title": "Will my tier expire?",
-            "content": "No—you can move up in tiers, but not down. Once you’ve reached a higher tier, you will keep that status."
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_zeaWgJ": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
           }
         },
         "accordion_item_AY6bdX": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
           "settings": {
-            "title": "How do I input my birthday?",
-            "content": "To add your birthday, log into your Take Care Club account and head to the Ways to Earn Section. You can then select Edit Date next to Celebrate a Birthday. If your birthday is within the next 30 days, please reach out to us at hello@vitruvi.com to be manually awarded."
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
           }
         },
         "accordion_item_NrEfYm": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value }}",
           "settings": {
-            "title": "When are birthday points awarded?",
-            "content": "The points will be rewarded on your birthday!"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.content | metafield_tag }}"
+          }
+        },
+        "title_T8ETXz": {
+          "type": "title",
+          "disabled": true,
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
           }
         },
         "accordion_item_d7jPTL": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value }}",
           "settings": {
-            "title": "How does friend referral work?",
-            "content": "Make sure you’re signed in to your Take Care Club account. To grab your referral link, click the Rewards icon in the bottom left corner. Share your referral link with your friend; once they click into your referral link and enter their email address, they will receive a $10 off discount code. Then, once your friend places their first order, you will receive a $10 off discount code. Please note that friend referrals are only available for customers who have never made a purchase with us or shared their email with us before."
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
           }
         },
         "accordion_item_AKnQdE": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value }}",
           "settings": {
-            "title": "What happens to my earned points if I return my order?",
-            "content": "If you return an order, the points earned on that purchase will automatically be removed from your balance."
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_HhxnKY": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value }}",
           "settings": {
-            "title": "What happens to my redeemed points if I return my order?",
-            "content": "Any points that you redeemed on an order you now wish to return will not be automatically added back to your account. That said, we’d be happy to help you out with this; please reach out to us at hello@vitruvi.com for support."
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_6WKEch": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_xF4BfW": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_5.value.content | metafield_tag }}"
           }
         }
       },
       "block_order": [
         "title_NUc3H7",
-        "accordion_item_Rqg93b",
         "accordion_item_JFE7iV",
+        "accordion_item_Rqg93b",
         "accordion_item_6VkiNg",
-        "accordion_item_6WKEch",
-        "accordion_item_zeaWgJ",
         "accordion_item_kiXFNF",
+        "accordion_item_zeaWgJ",
         "accordion_item_AY6bdX",
         "accordion_item_NrEfYm",
+        "title_T8ETXz",
         "accordion_item_d7jPTL",
         "accordion_item_AKnQdE",
-        "accordion_item_HhxnKY"
+        "accordion_item_HhxnKY",
+        "accordion_item_6WKEch",
+        "accordion_item_xF4BfW"
       ],
       "settings": {
         "accordion_position": "start",
