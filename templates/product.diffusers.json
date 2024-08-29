@@ -106,7 +106,6 @@
         },
         "img_trust_imFfw3": {
           "type": "img_trust",
-          "disabled": true,
           "settings": {
             "show_icon": true,
             "mess": "Free Golden Blend on $100+ Orders",
@@ -122,12 +121,6 @@
           "settings": {
             "only_show_soldout": true
           }
-        },
-        "complimentary_products_Q3mxGT": {
-          "type": "complimentary_products",
-          "settings": {
-            "text": "Pairs well with"
-          }
         }
       },
       "block_order": [
@@ -142,8 +135,7 @@
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
         "img_trust_imFfw3",
-        "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "complimentary_products_Q3mxGT"
+        "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
