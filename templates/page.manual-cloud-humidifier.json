@@ -379,71 +379,6 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
-    },
-    "accordion_V3FMja": {
-      "type": "accordion",
-      "blocks": {
-        "title_EziF9c": {
-          "type": "title",
-          "settings": {
-            "title": "TROUBLESHOOTING"
-          }
-        },
-        "accordion_item_KFkmBh": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Cloud Humidifier leaking?",
-            "content": "<p>The Cloud Humidifier will leak if it is tilted or slanted. We recommend placing your humidifier on a flat, level surface to prevent leakage.\n\nAnother reason the humidifier is leaking could be due to water being poured directly into the base. If water is poured into the base and flows through the internal air vent, the device will leak. Always make sure that water is filled from the bucket instead of the base to prevent leaks.\n\nLastly, leakage may occur if the inner spring in the water bucket is stuck. You can locate the inner spring on the bottom of the water bucket. If this happens, gently use your fingers to loosen and free the spring. If you have any questions about this, reach out to us at hello@vitruvi.com to chat further.<\/p>"
-          }
-        },
-        "accordion_item_ecAAMM": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why does my Cloud Humidifier take a few seconds to turn on?",
-            "content": "<p>It is completely normal for the Cloud Humidifier to take a few seconds to turn on. Once the water bucket is filled and inserted into the base, it can take a few moments for the water in the bucket to flow into the base. Once the water is in the base, the humidifier will start to produce a cool mist.<\/p>"
-          }
-        },
-        "accordion_item_4tmXAX": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Cloud Humidifier not misting the full cycle?",
-            "content": "<p>There could be a few reasons why this is happening. If you select a time setting, the humidifier will auto-populate a mist level. If you then change the mist level, the humidifier will adjust its run time to accommodate that.\n\nAnother reason why your humidifier is not running the full cycle could be because there is not enough water in the bucket. In order for a full time cycle to run, the bucket must be filled to the fill line.<\/p>"
-          }
-        },
-        "accordion_item_m7DphA": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Cloud Humidifier not misting?",
-            "content": "<p>We suggest checking the amount of water in the water bucket. The Cloud Humidifier will not mist properly if it senses little to no water. Alternatively, if there is a small amount of water in the bucket, the humidifier may in fact be misting, but there just isn’t enough water to create a visual mist.\n\nIn addition, if you haven’t cleaned your humidifier recently, we recommend giving it a deep clean to remove mineral buildup that could be preventing mist from emitting. For instructions on how to clean your humidifier, watch our video above.<\/p>"
-          }
-        },
-        "accordion_item_eaU4ar": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Cloud Humidifier triggering “poor air quality” with my air quality monitor?",
-            "content": "<p>This usually happens in areas with hard water. If you live in an area with hard water, we highly recommend using distilled water with your humidifier, as it has all mineral contents removed. This will ensure you have the cleanest mist.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "title_EziF9c",
-        "accordion_item_KFkmBh",
-        "accordion_item_ecAAMM",
-        "accordion_item_4tmXAX",
-        "accordion_item_m7DphA",
-        "accordion_item_eaU4ar"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
-        "enable_link_list": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -456,7 +391,6 @@
     "video_2_3Ld94L",
     "top_heading_8cAYAz",
     "video_2_jndyyQ",
-    "accordion_jUzj9J",
-    "accordion_V3FMja"
+    "accordion_jUzj9J"
   ]
 }
