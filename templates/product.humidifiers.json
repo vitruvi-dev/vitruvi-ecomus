@@ -614,37 +614,42 @@
         },
         "accordion_item_Rx4m8t": {
           "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_1.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_1.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_1.value.content | metafield_tag }}"
           }
         },
         "accordion_item_gxDQgA": {
           "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_2.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_2.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_34qymz": {
           "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_3.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_3.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_3.value.content | metafield_tag }}"
           }
         },
         "accordion_item_fpKbDh": {
           "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_4.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_4.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_4.value.content | metafield_tag }}"
           }
         },
         "accordion_item_zCPBHB": {
           "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_item_5.value }}",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_item_5.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_3_item_5.value.content | metafield_tag }}"
           }
         }
       },
