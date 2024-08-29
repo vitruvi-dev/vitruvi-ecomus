@@ -336,6 +336,53 @@
             "title": "{{ page.metafields.custom.seo_accordion_2_item_5.value.heading_item.value }}",
             "content": "{{ page.metafields.custom.seo_accordion_2_item_5.value.content | metafield_tag }}"
           }
+        },
+        "title_MzH8gc": {
+          "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_3_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_3_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_bwhap7": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_3_item_1.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_3_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_3_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_HVJpDB": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_3_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.custom.seo_accordion_3_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_3_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_QDMyBJ": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_3_item_3.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_3_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_3_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_eURx7N": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_3_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_3_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_3_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_X6hiQJ": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_3_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_3_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_3_item_5.value.content | metafield_tag }}"
+          }
         }
       },
       "block_order": [
@@ -351,7 +398,13 @@
         "accordion_item_kRGifU",
         "accordion_item_Wgxegg",
         "accordion_item_qFKHeR",
-        "accordion_item_i8GqMJ"
+        "accordion_item_i8GqMJ",
+        "title_MzH8gc",
+        "accordion_item_bwhap7",
+        "accordion_item_HVJpDB",
+        "accordion_item_QDMyBJ",
+        "accordion_item_eURx7N",
+        "accordion_item_X6hiQJ"
       ],
       "settings": {
         "accordion_position": "start",
