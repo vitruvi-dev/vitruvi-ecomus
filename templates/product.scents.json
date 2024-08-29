@@ -65,6 +65,7 @@
         },
         "quantity_selector_XCH8WV": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
