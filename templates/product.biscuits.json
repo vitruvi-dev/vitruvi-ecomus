@@ -101,7 +101,7 @@
             "important_color": "#000000",
             "padding_top": 32,
             "padding_bottom": 32,
-            "custom_css": ".biscuits-bundle-step__number,\n.biscuits-bundle-step__title {\n  font-size: 24px;\n}",
+            "custom_css": ".biscuits-bundle-step__number,\n.biscuits-bundle-step__title {\n  font-size: 24px;\n}\n.biscuits-bundle-step__optional {\ndisplay: none;\n}",
             "custom_js": "document.addEventListener('DOMContentLoaded', function() { });"
           }
         },
