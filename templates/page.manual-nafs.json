@@ -47,50 +47,52 @@
       "blocks": {
         "title_mJyEFM": {
           "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_header.value }}",
           "settings": {
-            "title": "FREQUENTLY ASKED QUESTIONS"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
           }
         },
         "accordion_item_3nQz4H": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value }}",
           "settings": {
-            "title": "Where do your natural air freshener sprays ship?",
-            "content": "Our natural air freshener sprays can only be delivered via ground shipping, which means we’re only able to ship these orders within Canada and the United States (some exceptions do apply; see below). We do not offer expedited shipping for orders containing natural air freshener sprays.\n\nWe’re unable to ship natural air freshener sprays to Hawaii, Alaska, Puerto Rico, Nunavut, Northwest Territories, and air stage offices."
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
           }
         },
         "accordion_item_gqEC3D": {
           "type": "accordion_item",
           "settings": {
             "title": "How are your natural air freshener sprays different from others?",
-            "content": "Made with 100% pure essential oils, these sprays are the first in their category to offer the ease of a fine-mist experience without the harmful ingredients found in traditional home scenting products. Ours are free from volatile organic compounds (VOCs), synthetic fragrances, sulfates, parabens, phthalates, formaldehydes, and harmful propellants."
+            "content": "<p>Made with 100% pure essential oils, these sprays are the first in their category to offer the ease of a fine-mist experience without the harmful ingredients found in traditional home scenting products. Ours are free from volatile organic compounds (VOCs), synthetic fragrances, sulfates, parabens, phthalates, formaldehydes, and harmful propellants.<\/p>"
           }
         },
         "accordion_item_XTRVaA": {
           "type": "accordion_item",
           "settings": {
             "title": "Are natural air freshener sprays safe for pregnancy and children?",
-            "content": "Yes. That being said, we always recommend consulting your doctor before bringing any new scents around your little one."
+            "content": "<p>Yes. That being said, we always recommend consulting your doctor before bringing any new scents around your little one.<\/p>"
           }
         },
         "accordion_item_EUicMV": {
           "type": "accordion_item",
           "settings": {
             "title": "Are natural air freshener sprays safe for pets?",
-            "content": "Yes. That being said, we encourage you to consult with your veterinarian before introducing any new scents to your pet. We don’t recommend leaving your pet unsupervised within reach of any scents, including natural air freshener sprays."
+            "content": "<p>Yes. That being said, we encourage you to consult with your veterinarian before introducing any new scents to your pet. We don’t recommend leaving your pet unsupervised within reach of any scents, including natural air freshener sprays.<\/p>"
           }
         },
         "accordion_item_jWWDAC": {
           "type": "accordion_item",
           "settings": {
             "title": "Are your natural air freshener sprays harmful to the environment?",
-            "content": "Our natural air freshener sprays do not have volatile organic compounds (VOCs), which are a major contributor to a negative environmental impact. Our canisters are also 100% recyclable; we encourage you to responsibly recycle them when they’re done using them."
+            "content": "<p>Our natural air freshener sprays do not have volatile organic compounds (VOCs), which are a major contributor to a negative environmental impact. Our canisters are also 100% recyclable; we encourage you to responsibly recycle them when they’re done using them.<\/p>"
           }
         },
         "accordion_item_QVrxe9": {
           "type": "accordion_item",
           "settings": {
             "title": "What are VOCs and why are they bad for the environment?",
-            "content": "Volatile organic compounds (VOCs) are gasses that are created from certain processes and products, and are emitted into the air both inside and outside our homes. In terms of household products, they are found in everything from paint and varnishes to aerosols and deodorants. Concentrations of VOCs are often higher indoors, which is why these are a common group of compounds to look out for in your products.\n\nWhen exposed to high levels of VOCs, some of the short-term health effects can include headaches, eye and throat irritation, nausea, and dizziness; long-term effects can include central nervous system damage and cancer."
+            "content": "<p>Volatile organic compounds (VOCs) are gasses that are created from certain processes and products, and are emitted into the air both inside and outside our homes. In terms of household products, they are found in everything from paint and varnishes to aerosols and deodorants. Concentrations of VOCs are often higher indoors, which is why these are a common group of compounds to look out for in your products.<br\/><br\/>When exposed to high levels of VOCs, some of the short-term health effects can include headaches, eye and throat irritation, nausea, and dizziness; long-term effects can include central nervous system damage and cancer.<\/p>"
           }
         }
       },
