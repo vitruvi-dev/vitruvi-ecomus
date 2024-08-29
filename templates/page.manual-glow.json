@@ -209,51 +209,50 @@
         },
         "accordion_item_j4Bm9T": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value }}",
           "settings": {
-            "title": "How do I turn the Glow Diffuser light on and off?",
-            "content": "<p>When you turn on the Glow Diffuser, the light will automatically turn on. To turn off the light, click and hold the button for two seconds. To turn the light back on, click and hold the button for two seconds.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_r9agBQ": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
           "settings": {
-            "title": "How much water does the Glow Diffuser reservoir hold?",
-            "content": "<p>The Glow Diffuser holds 100 ml of water.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
           }
         },
         "accordion_item_hw6wtG": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
           "settings": {
-            "title": "What type of water should I use with the Glow Diffuser?",
-            "content": "<p>You can use both tap and distilled water with your diffuser. That said, if you live in an area with hard water, we recommend using distilled.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
           }
         },
         "accordion_item_66KyLm": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
           "settings": {
-            "title": "How do I clean the Glow Diffuser?",
-            "content": "<p>To clean the Glow Diffuser cover, hand-wash it under warm water with a soft brush and mild soap.<br\/><br\/>To deep clean your Glow Diffuser, fill the reservoir halfway with water and add with one tablespoon of white vinegar. Let the solution sit in the reservoir for 30 minutes, and then rinse it out and use a cotton swab to wipe it clean.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
           }
         },
         "accordion_item_dnXKxw": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
           "settings": {
-            "title": "Does the Glow Diffuser have an automatic safety feature?",
-            "content": "<p>Yes. The Glow Diffuser will automatically turn off once the time cycle is up or the water runs out. As part of this automatic safety feature, a little bit of water will always remain in the reservoir.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
           }
         },
         "accordion_item_dThqRA": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value }}",
           "settings": {
-            "title": "Can I diffuse essential oils around my pets?",
-            "content": "<p>Our pets are as unique as us. The first thing we suggest doing is checking with your vet—your animal may be more sensitive than others, so your vet will know best.<br\/><br\/>Stronger scents such as Lemon, Grapefruit, Peppermint, and Boost, should be used sparingly. If you would still like to diffuse one of these scents, I would suggest limiting the number of drops to approximately 1-5 drops.<br\/><br\/>Frankincense, Lavender, and Cedarwood are great options to diffuse around animals. We also suggest turning your diffuser off when your animals are home alone, just in case they do become agitated by the scent.<br\/><br\/>For more information, visit our page here.<\/p>"
-          }
-        },
-        "accordion_item_M64rpw": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Which oils are safe for pregnancy and babies?",
-            "content": "<p>The best thing to do before using essential oils is to chat with your doctor.<br\/><br\/>In a diffuser, we recommend using small amounts of essential oils when pregnant (about 5 drops). When it comes to newborns, we recommend waiting 3 months before using essential oils. But your doctor will know best, as we all react differently.<br\/>Always opt for essential oils that are 100% pure, vegan, cruelty-free, and free from synthetic fragrance.<br\/><br\/><br\/>These are the products we recommend starting with once you’ve spoken to your doctor: Lavender, Bergamot, Grapefruit, Lemon, Frankincense, Cedarwood, Boost, Sleep.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.content | metafield_tag }}"
           }
         },
         "title_RyVqzD": {
@@ -313,7 +312,6 @@
         "accordion_item_66KyLm",
         "accordion_item_dnXKxw",
         "accordion_item_dThqRA",
-        "accordion_item_M64rpw",
         "title_RyVqzD",
         "accordion_item_ap7kUC",
         "accordion_item_9AkXmw",
