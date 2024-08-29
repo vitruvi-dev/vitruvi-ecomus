@@ -517,40 +517,16 @@
             "title": "{{ product.metafields.ecomus.seo_accordion_1_header.value }}"
           }
         },
-        "accordion_item_NqMcaN": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
-          }
-        },
-        "accordion_item_bn8mzA": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
-          }
-        },
-        "accordion_item_8aiLVc": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
-          }
-        },
         "accordion_item_tmwhfa": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_item_1_subheader.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_1_item_1_text | metafield_tag }}"
           }
         }
       },
       "block_order": [
         "title_y8WA7N",
-        "accordion_item_NqMcaN",
-        "accordion_item_bn8mzA",
-        "accordion_item_8aiLVc",
         "accordion_item_tmwhfa"
       ],
       "settings": {
