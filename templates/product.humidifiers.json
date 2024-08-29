@@ -531,8 +531,8 @@
       ],
       "settings": {
         "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
+        "accordion_icon": "2",
+        "open_first": true,
         "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "",
