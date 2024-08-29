@@ -266,37 +266,89 @@
         },
         "accordion_item_r9agBQ": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
           "settings": {
-            "title": "Can I add essential oils to the Cloud Humidifier?",
-            "content": "<p>We do not recommend adding essential oils to your humidifier. If you’re looking to scent your home, we suggest taking a look at our essential oil diffusers here.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
           }
         },
         "accordion_item_hw6wtG": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
           "settings": {
-            "title": "How often should I replace my humidifier filter?",
-            "content": "<p>We recommend replacing your filter every 3 months. You can purchase more filters here.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
           }
         },
         "accordion_item_66KyLm": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
           "settings": {
-            "title": "What type of water should I use in my humidifier?",
-            "content": "<p>You can use tap, filtered or distilled water in your humidifier. That said, if you live in an area with hard water, we highly recommend using distilled water, which has all mineral contents removed. While filtered or tap water contains minerals that may affect the quality of the mist and result in faster mineral buildup.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
           }
         },
         "accordion_item_dnXKxw": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
           "settings": {
-            "title": "Why is there water in the base of my Cloud Humidifier?",
-            "content": "<p>This is completely normal. In order for the humidifier to create mist, water has to flow into the base. Once the water bucket is inserted into the base, the water locks will release and the water will flow out. Please note that water must flow through the base from the bucket—do not pour water directly into the base or leakage will occur<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
           }
         },
         "accordion_item_dThqRA": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value }}",
           "settings": {
-            "title": "Is there a warranty on my Cloud Humidifier?",
-            "content": "<p>Yes. All humidifiers come with a lifetime warranty. If you’re experiencing issues or have any further questions, reach out to us at hello@vitruvi.com.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.content | metafield_tag }}"
+          }
+        },
+        "title_4dPyYP": {
+          "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_LmwwAq": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_fxP38Q": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_XdNfRg": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_xg6Gja": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_EpHLPr": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.custom.seo_accordion_2_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.custom.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.custom.seo_accordion_2_item_5.value.content | metafield_tag }}"
           }
         }
       },
@@ -308,7 +360,13 @@
         "accordion_item_hw6wtG",
         "accordion_item_66KyLm",
         "accordion_item_dnXKxw",
-        "accordion_item_dThqRA"
+        "accordion_item_dThqRA",
+        "title_4dPyYP",
+        "accordion_item_LmwwAq",
+        "accordion_item_fxP38Q",
+        "accordion_item_XdNfRg",
+        "accordion_item_xg6Gja",
+        "accordion_item_EpHLPr"
       ],
       "settings": {
         "accordion_position": "start",
