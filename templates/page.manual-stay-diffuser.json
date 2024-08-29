@@ -323,18 +323,18 @@
         },
         "accordion_item_qFKHeR": {
           "type": "accordion_item",
-          "source": "{{ page.metafields.custom.seo_accordion_2_item_4.value }}",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value }}",
           "settings": {
-            "title": "{{ page.metafields.custom.seo_accordion_2_item_4.value.heading_item.value }}",
-            "content": "{{ page.metafields.custom.seo_accordion_2_item_4.value.content | metafield_tag }}"
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
           }
         },
         "accordion_item_i8GqMJ": {
           "type": "accordion_item",
-          "source": "{{ page.metafields.custom.seo_accordion_2_item_5.value }}",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value }}",
           "settings": {
-            "title": "{{ page.metafields.custom.seo_accordion_2_item_5.value.heading_item.value }}",
-            "content": "{{ page.metafields.custom.seo_accordion_2_item_5.value.content | metafield_tag }}"
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
           }
         },
         "title_MzH8gc": {
@@ -354,10 +354,10 @@
         },
         "accordion_item_HVJpDB": {
           "type": "accordion_item",
-          "source": "{{ page.metafields.custom.seo_accordion_3_item_2.value }}",
+          "source": "{{ page.metafields.ecomus.seo_accordion_3_item_2.value }}",
           "settings": {
-            "title": "{{ page.metafields.custom.seo_accordion_3_item_2.value.heading_item.value }}",
-            "content": "{{ page.metafields.custom.seo_accordion_3_item_2.value.content | metafield_tag }}"
+            "title": "{{ page.metafields.ecomus.seo_accordion_3_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_3_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_QDMyBJ": {
