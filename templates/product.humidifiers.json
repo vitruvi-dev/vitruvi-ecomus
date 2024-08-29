@@ -519,9 +519,10 @@
         },
         "accordion_item_tmwhfa": {
           "type": "accordion_item",
+          "source": "{{ product.metafields.custom.accordion_metaobject.value }}",
           "settings": {
-            "title": "{{ product.metafields.ecomus.seo_accordion_1_item_1_subheader.value }}",
-            "content": "{{ product.metafields.ecomus.seo_accordion_1_item_1_text | metafield_tag }}"
+            "title": "{{ product.metafields.custom.accordion_metaobject.value.subheader.value }}",
+            "content": "{{ product.metafields.custom.accordion_metaobject.value.text | metafield_tag }}"
           }
         }
       },
