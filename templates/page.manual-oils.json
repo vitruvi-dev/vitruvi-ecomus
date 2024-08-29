@@ -54,44 +54,50 @@
         },
         "accordion_item_66KyLm": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value }}",
           "settings": {
-            "title": "Are your essential oils 100% pure?",
-            "content": "<p>Yes. Our oils are 100% pure with absolutely no fillers, diluting oils, synthetic fragrances, or unnatural components of any kind.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
           }
         },
         "accordion_item_dnXKxw": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value }}",
           "settings": {
-            "title": "Where are your oils sourced from?",
-            "content": "<p>We source essential oils from countries around the world. We choose places that make the highest-quality products—so that we can bring the best essential oils from around the globe directly to you.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_dThqRA": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
           "settings": {
-            "title": "Can I diffuse essential oils around my pets?",
-            "content": "<p>Our pets are as unique as us. The first thing we suggest doing is checking with your vet—your animal may be more sensitive than others, so your vet will know best.\n\nStronger scents such as Lemon, Grapefruit, Peppermint, and Boost, should be used sparingly. If you would still like to diffuse one of these scents, I would suggest limiting the number of drops to approximately 1-5 drops.\n\nFrankincense, Lavender, and Cedarwood are great options to diffuse around animals. We also suggest turning your diffuser off when your animals are home alone, just in case they do become agitated by the scent.\n\nFor more information, visit our page here.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
           }
         },
         "accordion_item_M64rpw": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
           "settings": {
-            "title": "Which oils are safe for pregnancy and babies?",
-            "content": "<p>The best thing to do before using essential oils is to chat with your doctor.\n\nIn a diffuser, we recommend using small amounts of essential oils when pregnant (about 5 drops). When it comes to newborns, we recommend waiting 3 months before using essential oils. But your doctor will know best, as we all react differently.\nAlways opt for essential oils that are 100% pure, vegan, cruelty-free, and free from synthetic fragrance.\n\n\nThese are the products we recommend starting with once you’ve spoken to your doctor: Lavender, Bergamot, Grapefruit, Lemon, Frankincense, Cedarwood, Boost, Sleep.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
           }
         },
         "accordion_item_qWrhB4": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
           "settings": {
-            "title": "Is your packaging and bottles recyclable?",
-            "content": "<p>Yes. Our packaging is all 100% recyclable, reusable, or biodegradable, and our bottles are printed using plant-based ink.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
           }
         },
         "accordion_item_nahg8N": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
           "settings": {
-            "title": "Are your essential oils therapeutic grade?",
-            "content": "<p>Therapeutic grade is not an industry standard—it’s a trademarked term used to describe certain companies’ products. We prefer to speak about the quality of our products without buzzwords or marketing slogans.\n\nOur oils are 100% pure, and are free from fillers, diluting oils, synthetic fragrances, and unnatural components of any kind.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
           }
         }
       },
