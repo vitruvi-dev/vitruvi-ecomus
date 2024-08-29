@@ -62,37 +62,42 @@
         },
         "accordion_item_gqEC3D": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value }}",
           "settings": {
-            "title": "How are your natural air freshener sprays different from others?",
-            "content": "<p>Made with 100% pure essential oils, these sprays are the first in their category to offer the ease of a fine-mist experience without the harmful ingredients found in traditional home scenting products. Ours are free from volatile organic compounds (VOCs), synthetic fragrances, sulfates, parabens, phthalates, formaldehydes, and harmful propellants.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
           }
         },
         "accordion_item_XTRVaA": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
           "settings": {
-            "title": "Are natural air freshener sprays safe for pregnancy and children?",
-            "content": "<p>Yes. That being said, we always recommend consulting your doctor before bringing any new scents around your little one.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
           }
         },
         "accordion_item_EUicMV": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
           "settings": {
-            "title": "Are natural air freshener sprays safe for pets?",
-            "content": "<p>Yes. That being said, we encourage you to consult with your veterinarian before introducing any new scents to your pet. We don’t recommend leaving your pet unsupervised within reach of any scents, including natural air freshener sprays.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
           }
         },
         "accordion_item_jWWDAC": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
           "settings": {
-            "title": "Are your natural air freshener sprays harmful to the environment?",
-            "content": "<p>Our natural air freshener sprays do not have volatile organic compounds (VOCs), which are a major contributor to a negative environmental impact. Our canisters are also 100% recyclable; we encourage you to responsibly recycle them when they’re done using them.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
           }
         },
         "accordion_item_QVrxe9": {
           "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
           "settings": {
-            "title": "What are VOCs and why are they bad for the environment?",
-            "content": "<p>Volatile organic compounds (VOCs) are gasses that are created from certain processes and products, and are emitted into the air both inside and outside our homes. In terms of household products, they are found in everything from paint and varnishes to aerosols and deodorants. Concentrations of VOCs are often higher indoors, which is why these are a common group of compounds to look out for in your products.<br\/><br\/>When exposed to high levels of VOCs, some of the short-term health effects can include headaches, eye and throat irritation, nausea, and dizziness; long-term effects can include central nervous system damage and cancer.<\/p>"
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
           }
         }
       },
