@@ -513,8 +513,9 @@
       "blocks": {
         "title_y8WA7N": {
           "type": "title",
+          "source": "{{ product.metafields.ecomus.seo_accordion_1_header.value }}",
           "settings": {
-            "title": "{{ product.metafields.ecomus.seo_accordion_1_header.value }}"
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
           }
         },
         "accordion_item_tmwhfa": {
@@ -559,8 +560,9 @@
         },
         "title_HCTNEj": {
           "type": "title",
+          "source": "{{ product.metafields.ecomus.seo_accordion_2_header.value }}",
           "settings": {
-            "title": "{{ product.metafields.ecomus.seo_accordion_2_header.value }}"
+            "title": "{{ product.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
           }
         },
         "accordion_item_LmTHEe": {
@@ -605,8 +607,9 @@
         },
         "title_LLk7rG": {
           "type": "title",
+          "source": "{{ product.metafields.ecomus.seo_accordion_3_header.value }}",
           "settings": {
-            "title": ""
+            "title": "{{ product.metafields.ecomus.seo_accordion_3_header.value.accordion_item.value }}"
           }
         },
         "accordion_item_Rx4m8t": {
