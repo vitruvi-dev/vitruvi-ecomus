@@ -519,6 +519,48 @@
         },
         "accordion_item_tmwhfa": {
           "type": "accordion_item",
+          "source": "{{ product.metafields.ecomus.seo_accordion_1_item_1.value }}",
+          "settings": {
+            "title": "{{ product.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ product.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_BTPLhq": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "accordion_item_XyYTpz": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "accordion_item_GDxDdk": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "accordion_item_KGDVyx": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "title_HCTNEj": {
+          "type": "title",
+          "settings": {
+            "title": ""
+          }
+        },
+        "accordion_item_LmTHEe": {
+          "type": "accordion_item",
           "settings": {
             "title": "",
             "content": ""
@@ -527,7 +569,13 @@
       },
       "block_order": [
         "title_y8WA7N",
-        "accordion_item_tmwhfa"
+        "accordion_item_tmwhfa",
+        "accordion_item_BTPLhq",
+        "accordion_item_XyYTpz",
+        "accordion_item_GDxDdk",
+        "accordion_item_KGDVyx",
+        "title_HCTNEj",
+        "accordion_item_LmTHEe"
       ],
       "settings": {
         "accordion_position": "start",
