@@ -101,7 +101,7 @@
             "important_color": "#000000",
             "padding_top": 32,
             "padding_bottom": 32,
-            "custom_css": "#shopify-block-{{block.id}} {}",
+            "custom_css": ".biscuits-bundle-step__number,\n.biscuits-bundle-step__title {\n  font-size: 24px;\n}",
             "custom_js": "document.addEventListener('DOMContentLoaded', function() { });"
           }
         },
@@ -128,9 +128,7 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103"
       ],
       "custom_css": [
-        "..hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price,.biscuits-bundle-step__number {display: none;}",
-        ".biscuits-bundle-step__number,.biscuits-bundle-step__title {font-size: 24px;}",
-        ".hdt-price__container {display: none;}",
+        ".hdt-price__container,.hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
         ".hdt-product-form_wrap-link {width: 9rem;}"
       ],
       "settings": {
