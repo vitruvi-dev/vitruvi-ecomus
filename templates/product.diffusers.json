@@ -106,10 +106,12 @@
         },
         "img_trust_imFfw3": {
           "type": "img_trust",
+          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
             "show_icon": false,
-            "mess": "",
+            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
             "source": "1",
+            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
             "wimg": 100,
             "svg": "",
             "height": 30
