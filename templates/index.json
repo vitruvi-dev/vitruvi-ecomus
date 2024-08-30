@@ -398,8 +398,9 @@
       "blocks": {
         "heading_39Xz4R": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Bundle & Save",
+            "heading": "Build Your Own Bundle",
             "heading_fs": "h4"
           }
         },
@@ -428,7 +429,7 @@
         "button_gWYyqP"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_golden_gallery_5_v2_image.png",
+        "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -450,7 +451,7 @@
         "banner_3_fCLxQV": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
+            "image": "shopify:\/\/shop_images\/pdp_byob-scents-6_gallery_2_image.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -470,7 +471,7 @@
             "btn_style": "solid",
             "btn_fw": "normal",
             "btn_icon": "none",
-            "col_w": "6",
+            "col_w": "12",
             "row_count": 2,
             "content_position": "end-start",
             "alignment": "left",
@@ -484,6 +485,7 @@
         },
         "banner_3_w7qDNx": {
           "type": "banner_3",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/pdp_byob-diffuser-1_gallery_1_image_v2.jpg",
             "color_scheme": "",
@@ -522,10 +524,9 @@
         "banner_3_fCLxQV",
         "banner_3_w7qDNx"
       ],
-      "disabled": true,
       "settings": {
-        "row_height": 200,
-        "row_height_mb": 150,
+        "row_height": 250,
+        "row_height_mb": 250,
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
@@ -687,6 +688,7 @@
         "banner_3_BJ9Rqn",
         "banner_3_mNxb8k"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "boxed_fullwidth": false,
