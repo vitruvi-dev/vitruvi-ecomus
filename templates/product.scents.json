@@ -90,6 +90,7 @@
         },
         "countdown_timer_NCVUEc": {
           "type": "countdown_timer",
+          "disabled": true,
           "settings": {
             "content": "Labor Day Sale Ends Soon",
             "icon_svg": "clock",
@@ -112,14 +113,14 @@
         },
         "img_trust_Nj7Aj9": {
           "type": "img_trust",
-          "disabled": true,
+          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
-            "show_icon": true,
-            "mess": "Free Golden Blend on $100+ Orders",
+            "show_icon": false,
+            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
             "source": "1",
-            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_golden_gallery_1_v2_image.png",
-            "wimg": 100,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
             "height": 30
           }
         }

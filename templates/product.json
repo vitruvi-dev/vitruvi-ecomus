@@ -89,6 +89,7 @@
         },
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
+          "disabled": true,
           "settings": {
             "content": "Labor Day Sale Ends Soon",
             "icon_svg": "clock",
@@ -229,55 +230,6 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 72,
-        "padding_rate": 75
-      }
-    },
-    "171512128966062076": {
-      "type": "apps",
-      "blocks": {
-        "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "yotpo_product_reviews_ugc_reviews_dERaaf"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "recently": {
-      "type": "recently-products",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Recently Viewed",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 50,
-        "limit": 10,
-        "product_des": "10",
-        "image_ratio": "custom-pr",
-        "image_size": true,
-        "show_vendor": false,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "navUI": true,
-        "nav_des": "default",
-        "nav_pos": "middle_in",
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
@@ -455,6 +407,55 @@
         "color_scheme": "",
         "padding_top": 85,
         "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "171512128966062076": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_ugc_reviews_dERaaf": {
+          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_ugc_reviews_dERaaf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "recently": {
+      "type": "recently-products",
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Recently Viewed",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 50,
+        "limit": 10,
+        "product_des": "10",
+        "image_ratio": "custom-pr",
+        "image_size": true,
+        "show_vendor": false,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
