@@ -134,7 +134,7 @@
         "custom_liquid_fFGnfC": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"display: grid; grid-template-rows: auto auto; grid-template-columns: auto 1fr; gap: 10px; border: 1px solid #000; padding: 10px; box-sizing: border-box; overflow: auto;\">\n  <div style=\"grid-row: 1 \/ span 2; grid-column: 1\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/pdp_byob-diffuser-1_gallery_1_image_v2.jpg?v=1724970989\" style=\"max-height: 100px; width: auto; height: auto; display: block;\">\n  <\/div>\n  <div style=\"grid-row: 1; grid-column: 2\">\n    <h4 class=\"hdt-text-sm hdt-font-medium\">Shop smart and save up to 25% when you add diffuser blends to your favorite diffuser bundle.<\/h4>\n  <\/div>\n  <div style=\"grid-row: 2; grid-column: 2\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-outline hdt-font-normal\">\n      <span>GET STARTED<\/span>\n    <\/a>\n  <\/div>\n<\/div>"
+            "custom_liquid": "<div style=\"display: grid; grid-template-rows: auto auto; grid-template-columns: auto 1fr; gap: 10px 25px; border: 1px solid #000; padding: 10px; box-sizing: border-box; overflow: auto; margin-top: 100px;\">\n  <div style=\"grid-row: 1 \/ span 2; grid-column: 1\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/pdp_byob-diffuser-1_gallery_1_image_v2.jpg?v=1724970989\" style=\"max-height: 100px; width: auto; height: auto; display: block;\">\n  <\/div>\n  <div style=\"grid-row: 1; grid-column: 2\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\">Bundle & Save<\/h5>\n    <p>Save 15% or more when you bundle scents alongside your diffuser.<\/p>\n  <\/div>\n  <div style=\"grid-row: 2; grid-column: 2\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-outline hdt-font-normal\">\n      <span>GET STARTED<\/span>\n    <\/a>\n  <\/div>\n<\/div>"
           }
         }
       },
@@ -384,64 +384,6 @@
         "color_scheme": "scheme-1",
         "space": 60
       }
-    },
-    "hero_image_L4VqB9": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_Nrb33P": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ecomus theme shopify",
-            "heading_fs": "h6",
-            "heading_fw": "normal"
-          }
-        },
-        "text_GUpGrh": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
-            "adding_border": false
-          }
-        },
-        "button_7k7PTV": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Nrb33P",
-        "text_GUpGrh",
-        "button_7k7PTV"
-      ],
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -451,7 +393,6 @@
     "related",
     "171512128966062076",
     "recently",
-    "sidebar",
-    "hero_image_L4VqB9"
+    "sidebar"
   ]
 }
