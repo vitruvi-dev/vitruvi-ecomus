@@ -94,7 +94,7 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>Save 25% on innovative humidifiers, elegant diffusers, and all-natural scents.<\/p>",
+            "text": "<p>Save 25% on innovative humidifiers, elegant diffusers, and all-natural scents.<\/p><p><\/p>",
             "adding_border": false
           }
         },
@@ -114,12 +114,20 @@
             "mess_complete": "",
             "color_scheme": "scheme-9398d56e-f549-45a9-b621-617f6d9eeb60"
           }
+        },
+        "text_waDfxg": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Ends Sep 2 at midnight PST<\/em><\/p>",
+            "adding_border": false
+          }
         }
       },
       "block_order": [
         "heading_EWgKGd",
         "text_c9RHPY",
-        "countdown_LQEYWr"
+        "countdown_LQEYWr",
+        "text_waDfxg"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
