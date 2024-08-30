@@ -155,7 +155,7 @@
         "custom_liquid_fFGnfC"
       ],
       "custom_css": [
-        ".bundle-text {grid-column: 2;}"
+        "@media (min-width: 768px) {.bundle-text {grid-column: 1 \/ span 2; }}"
       ],
       "settings": {
         "space_content_media": true,
