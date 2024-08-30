@@ -113,13 +113,14 @@
         },
         "img_trust_by9E7L": {
           "type": "img_trust",
+          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
-            "show_icon": true,
-            "mess": "Guarantee Safe Checkout",
+            "show_icon": false,
+            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
             "source": "1",
-            "image": "shopify:\/\/shop_images\/Badge-allure.png",
-            "wimg": 350,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
             "height": 30
           }
         }
