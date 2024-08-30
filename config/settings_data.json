@@ -598,7 +598,8 @@
       ".hdt-main-product-quick-add .shopify-payment-button {display: none;}",
       ".hdt-product__trust-seal {display: flex; justify-content: center; align-items: center;}",
       "@media only screen and (min-width: 769px) {.hdt-product__trust-seal {display: flex; justify-content: start; align-items: center; }}",
-      ".hdt-product__trust-mess {max-width: 100%;}"
+      ".hdt-product__trust-mess {max-width: 100%;}",
+      ".hdt-sticky-atc__qty-selector {display: none;}"
     ]
   }
 }
