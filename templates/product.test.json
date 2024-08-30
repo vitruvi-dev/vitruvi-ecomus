@@ -113,7 +113,6 @@
         },
         "img_trust_by9E7L": {
           "type": "img_trust",
-          "disabled": true,
           "settings": {
             "show_icon": true,
             "mess": "Guarantee Safe Checkout",
