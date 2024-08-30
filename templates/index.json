@@ -132,58 +132,6 @@
         "padding_rate": 75
       }
     },
-    "image_with_text_yqNnyc": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_NNeLRY": {
-          "type": "heading",
-          "settings": {
-            "heading": "Free Gift",
-            "heading_fs": "h4"
-          }
-        },
-        "text_dU8TVd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Enjoy a free Golden Diffuser Blend on $100+ orders, while supplies last.<\/p><p>Golden is perfect for elevating your space with a calming scent that supports focus and relaxation.<\/p>"
-          }
-        },
-        "button_ramYgE": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/back-to-school-savings",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_NNeLRY",
-        "text_dU8TVd",
-        "button_ramYgE"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_golden_gallery_5_v2_image.png",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "left",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "left",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "25d95633-b21f-43fa-90ad-eef09163772b": {
       "type": "marquee",
       "blocks": {
@@ -263,6 +211,58 @@
         "color_scheme": "",
         "padding_top": 76,
         "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_yqNnyc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_NNeLRY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Gift",
+            "heading_fs": "h4"
+          }
+        },
+        "text_dU8TVd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy a free Golden Diffuser Blend on $100+ orders, while supplies last.<\/p><p>Golden is perfect for elevating your space with a calming scent that supports focus and relaxation.<\/p>"
+          }
+        },
+        "button_ramYgE": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP NOW",
+            "btn_link": "shopify:\/\/collections\/back-to-school-savings",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NNeLRY",
+        "text_dU8TVd",
+        "button_ramYgE"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_golden_gallery_5_v2_image.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -393,6 +393,57 @@
         "padding_rate": 75
       }
     },
+    "image_with_text_X4xYG4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_39Xz4R": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Gift",
+            "heading_fs": "h4"
+          }
+        },
+        "text_DJDPAf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy a free Golden Diffuser Blend on $100+ orders, while supplies last.<\/p><p>Golden is perfect for elevating your space with a calming scent that supports focus and relaxation.<\/p>"
+          }
+        },
+        "button_gWYyqP": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP NOW",
+            "btn_link": "shopify:\/\/collections\/back-to-school-savings",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_39Xz4R",
+        "text_DJDPAf",
+        "button_gWYyqP"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_golden_gallery_5_v2_image.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "banner_masonry_ENr4T9": {
       "type": "banner-masonry",
       "blocks": {
@@ -471,6 +522,7 @@
         "banner_3_fCLxQV",
         "banner_3_w7qDNx"
       ],
+      "disabled": true,
       "settings": {
         "row_height": 200,
         "row_height_mb": 150,
@@ -485,7 +537,7 @@
         "heading_3RXMV3": {
           "type": "heading",
           "settings": {
-            "heading": "Ecomus theme shopify",
+            "heading": "Build Your Own Bundle",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -515,16 +567,17 @@
         "text_9yXimz",
         "button_p4iJGJ"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 410,
         "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
+        "fixed_height_mb": 360,
         "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
-        "use_overlay": false,
+        "use_overlay": true,
         "use_bg_content": false,
         "content_position": "end-start",
         "content_align": "left",
@@ -532,7 +585,7 @@
         "content_align_mb": "left",
         "full_width": false,
         "boxed_fullwidth": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "padding_top": 36,
         "padding_bottom": 36,
         "padding_rate": 75
@@ -987,12 +1040,13 @@
   "order": [
     "video_GKb7jj",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
-    "image_with_text_yqNnyc",
     "25d95633-b21f-43fa-90ad-eef09163772b",
     "countdown_text_7Qr8m8",
+    "image_with_text_yqNnyc",
     "featured_collection_grid_6BDUmj",
     "d81e394c-3467-4709-a303-1d274f42da41",
     "top_heading_X4fhQJ",
+    "image_with_text_X4xYG4",
     "banner_masonry_ENr4T9",
     "hero_image_UzPAnE",
     "banner_BzP7q8",
