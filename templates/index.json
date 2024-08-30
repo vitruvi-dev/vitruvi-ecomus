@@ -450,19 +450,19 @@
     "hero_image_UzPAnE": {
       "type": "hero-image",
       "blocks": {
+        "text_9yXimz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
+            "adding_border": false
+          }
+        },
         "heading_3RXMV3": {
           "type": "heading",
           "settings": {
             "heading": "Build Your Own Bundle",
             "heading_fs": "h3",
             "heading_fw": "normal"
-          }
-        },
-        "text_9yXimz": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
-            "adding_border": false
           }
         },
         "button_p4iJGJ": {
@@ -479,8 +479,8 @@
         }
       },
       "block_order": [
-        "heading_3RXMV3",
         "text_9yXimz",
+        "heading_3RXMV3",
         "button_p4iJGJ"
       ],
       "settings": {
@@ -488,7 +488,7 @@
         "fixed_height": 500,
         "image_height_mb": "fixed",
         "fixed_height_mb": 360,
-        "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
+        "image": "shopify:\/\/shop_images\/category_diffuser-scents_shop-byob_image.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
