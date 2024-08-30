@@ -16,13 +16,13 @@
       "blocks": {
         "announcement_RqB4ka": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/labor-day-sale\" title=\"Labor Day Deals\">Labor Day Sale: 25% Off Sitewide<\/a>"
           }
         },
         "announcement_RzCepp": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
           }
