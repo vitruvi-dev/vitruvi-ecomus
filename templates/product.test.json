@@ -127,8 +127,8 @@
         "linked_products_gX3GK3": {
           "type": "linked_products",
           "settings": {
-            "option_name": "",
-            "option_values": "",
+            "option_name": "lorem",
+            "option_values": "ipsum",
             "product_list": [
               "build-your-own-diffuser-bundle"
             ],
