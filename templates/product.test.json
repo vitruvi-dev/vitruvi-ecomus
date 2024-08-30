@@ -157,7 +157,7 @@
       "custom_css": [
         ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
         ".byob-text, .byob-button {text-align: center;}",
-        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; } .byob-img, .byob-text, .byob-button {text-align: left; } .byob-src {padding: 0%; height: 100px; width: 100px }}"
+        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; } .byob-img, .byob-text, .byob-button {text-align: left; } .byob-src {padding: 0% 20% 0% 20%; }}"
       ],
       "settings": {
         "space_content_media": true,
