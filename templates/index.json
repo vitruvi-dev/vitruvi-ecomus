@@ -428,6 +428,7 @@
         "text_DJDPAf",
         "button_gWYyqP"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
         "style_image": "1",
@@ -445,88 +446,39 @@
         "padding_rate": 75
       }
     },
-    "banner_masonry_ENr4T9": {
-      "type": "banner-masonry",
+    "banner_tQ4i3f": {
+      "type": "banner",
       "blocks": {
-        "banner_3_fCLxQV": {
-          "type": "banner_3",
+        "banner_4_T3WbFz": {
+          "type": "banner_4",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pdp_byob-scents-6_gallery_2_image.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Build Your Own Scent Bundle",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
-            "target": false,
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "col_w": "12",
-            "row_count": 2,
-            "content_position": "end-start",
-            "alignment": "left",
-            "content_pd_y": 15,
-            "content_pd_x": 15,
-            "col_w_mb": "2",
-            "row_count_mb": 1,
-            "content_position_mb": "center",
-            "alignment_mb": "left"
-          }
-        },
-        "banner_3_w7qDNx": {
-          "type": "banner_3",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pdp_byob-diffuser-1_gallery_1_image_v2.jpg",
+            "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
             "color_scheme": "",
-            "banner_url": "",
+            "banner_url": "shopify:\/\/products\/apres-essential-oil-blend",
             "banner_target": false,
+            "heading": "Build Your Own",
             "sub_heading": "UP TO 30% OFF",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
-            "heading": "Summer Style Guide",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "col_w": "6",
-            "row_count": 2,
-            "content_position": "end-start",
             "alignment": "center",
-            "content_pd_y": 15,
-            "content_pd_x": 15,
-            "col_w_mb": "2",
-            "row_count_mb": 1,
-            "content_position_mb": "center",
             "alignment_mb": "center"
           }
         }
       },
       "block_order": [
-        "banner_3_fCLxQV",
-        "banner_3_w7qDNx"
+        "banner_4_T3WbFz"
       ],
       "settings": {
-        "row_height": 250,
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 500,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "2",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
         "row_height_mb": 250,
+        "space_item_mb": 15,
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
@@ -1049,7 +1001,7 @@
     "d81e394c-3467-4709-a303-1d274f42da41",
     "top_heading_X4fhQJ",
     "image_with_text_X4xYG4",
-    "banner_masonry_ENr4T9",
+    "banner_tQ4i3f",
     "hero_image_UzPAnE",
     "banner_BzP7q8",
     "282a0160-505d-43ff-b601-043a5a327bc2",
