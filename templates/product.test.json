@@ -118,12 +118,6 @@
             "text": "Pairs well with lorem ipsum"
           }
         },
-        "custom_liquid_fFGnfC": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__complimentary\">\n  <div class=\"hdt-product__complimentary-wrap\">\n    <h4 class=\"hdt-text-xl hdt-font-medium\">Bundle & Save<\/h3>\n    <p>Lorem ipsum dolar sit amet.<\/p>\n    <hr style='border: 1px solid #ccc; margin: 20px 0;'>\n    <ul class=\"hdt-product__complimentary-list hdt-ratio--adapt_image\">\n        {%- for product in product.metafields.ecomus.bundles_included-products.value -%}\n        <li class=\"hdt-product__complimentary-item\">\n          {%- render 'pr_loop_item', section_id: block.id, product: product, sizes: \"84px\", widths: \"84, 100, 180, 200\" -%}\n        <\/li>\n        {%- endfor -%}\n    <\/ul>\n    <a href='\/products\/build-your-own-diffuser-bundle' class='hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-outline hdt-font-normal'><span>SHOP TEST<\/span><\/a>\n  <\/div>\n<\/div>"
-          }
-        },
         "img_trust_by9E7L": {
           "type": "img_trust",
           "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
@@ -135,6 +129,12 @@
             "wimg": 600,
             "svg": "",
             "height": 30
+          }
+        },
+        "custom_liquid_fFGnfC": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__complimentary\" style='display: flex; justify-content: space-between; align-items: center; border: 1px solid #000; padding: 20px;'>\n  <div style = \"max-width: 30%;\">\n    <img style=\"max-width: 100%; max-height: 100px;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/pdp_byob-diffuser-1_gallery_1_image_v2.jpg?v=1724970989\">\n  <\/div>\n  <div>\n    <h4 class=\"hdt-text-xl hdt-font-medium\">Bundle & Save<\/h3>\n    <p>Lorem ipsum dolar sit amet.<\/p>\n    <a href=\"\/products\/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-outline hdt-font-normal\">\n      <span>GET STARTED<\/span>\n    <\/a>\n  <\/div>\n<\/div>"
           }
         }
       },
@@ -151,8 +151,8 @@
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "complimentary_products_JR7E8m",
-        "custom_liquid_fFGnfC",
-        "img_trust_by9E7L"
+        "img_trust_by9E7L",
+        "custom_liquid_fFGnfC"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
