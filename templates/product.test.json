@@ -126,9 +126,8 @@
         },
         "bundle_product_Cygcib": {
           "type": "bundle_product",
-          "disabled": true,
           "settings": {
-            "bundle_prs_inner": false,
+            "bundle_prs_inner": true,
             "product_list": [
               "build-your-own-diffuser-bundle"
             ]
