@@ -366,6 +366,7 @@
         "banner_3_aNt6pq": {
           "type": "banner_3",
           "settings": {
+            "image": "shopify:\/\/shop_images\/pdp_byob-diffuser-1_gallery_1_image_v2.jpg",
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
