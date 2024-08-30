@@ -155,7 +155,7 @@
         "custom_liquid_fFGnfC"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; } .byob-img {grid-column: 1; padding: 0%; } .byob-text {grid-column: 2; } .byob-button {grid-column: 3; }}"
+        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; } .byob-img {text-align: left; grid-column: 1; padding: 0%; } .byob-text {text-align: left; grid-column: 2; } .byob-button {text-align: left; grid-column: 3; }}"
       ],
       "settings": {
         "space_content_media": true,
