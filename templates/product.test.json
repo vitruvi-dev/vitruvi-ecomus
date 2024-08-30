@@ -133,7 +133,7 @@
         "custom_liquid_fFGnfC": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div>hi<\/div>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__complimentary\" data-type=\"{{ block.type }}\" {{ block.shopify_attributes }}>\n                <div class=\"hdt-product__complimentary-wrap\">\n                  <h3 class=\"hdt-text-2xl hdt-font-medium\">{{ block.settings.text }}<\/h3>\n                  <ul class=\"hdt-product__complimentary-list hdt-ratio--adapt_image\">\n                    {%- for product in product.metafields.ecomus.bundles_included-products.value -%}\n                    {% comment %}\n                    {%- for product in product.metafields.shopify--discovery--product_recommendation.complementary_products.value -%}\n                    {% endcomment %}\n                    <li class=\"hdt-product__complimentary-item\">\n                      {%- render 'pr_loop_item', section_id: block.id, product: product, sizes: \"84px\", widths: \"84, 100, 180, 200\" -%}\n                    <\/li>\n                  {%- endfor -%}\n                  <\/ul>\n                <\/div>\n              <\/div>"
           }
         }
       },
