@@ -396,6 +396,7 @@
         "banner_3_4MygCj": {
           "type": "banner_3",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
