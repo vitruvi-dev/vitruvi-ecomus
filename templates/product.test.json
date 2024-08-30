@@ -155,6 +155,7 @@
         "custom_liquid_fFGnfC"
       ],
       "custom_css": [
+        ".byob-img, .byob-text, .byob-button {justify-items: center;}",
         "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto grid-template-columns: 20% 50% 30%; } .byob-img {grid-column: 1; } .byob-text {grid-column: 2; } .byob-button {grid-column: 3; }}"
       ],
       "settings": {
