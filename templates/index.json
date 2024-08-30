@@ -450,19 +450,19 @@
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
-        "slide_label_WkfbTC": {
+        "slide_label_YpGJEd": {
           "type": "slide_label",
           "settings": {
             "image": "shopify:\/\/shop_images\/category_diffuser-scents_shop-byob_image.png",
             "url": "",
             "banner_target": false,
-            "color_scheme": "scheme-1",
-            "sub_heading": "Pick 4 or more of your favorite diffuser blends and save up to 20%",
-            "sub_heading_fs": "h6",
+            "color_scheme": "scheme-3",
+            "sub_heading": "Build Your Own Bundle",
+            "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Build Your Own Bundle",
-            "heading_fs": "h4",
+            "heading": "Pick 4 or more of your favorite diffuser blends and save up to 20%",
+            "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
             "btn_link": "shopify:\/\/pages\/about-us",
@@ -488,7 +488,11 @@
         }
       },
       "block_order": [
-        "slide_label_WkfbTC"
+        "slide_label_YpGJEd"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Founders Grotesk\";}",
+        "p {font-family: \"Heldane\";}"
       ],
       "settings": {
         "full_width": false,
