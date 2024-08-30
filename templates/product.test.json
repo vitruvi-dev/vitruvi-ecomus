@@ -196,6 +196,7 @@
         },
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1": {
           "type": "tab_add",
+          "disabled": true,
           "settings": {
             "title": "Additional Information"
           }
