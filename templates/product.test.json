@@ -134,7 +134,7 @@
         "custom_liquid_fFGnfC": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"byob-cta\" style=\"display: grid; gap: 25px; border: 1px solid #474946; padding: 25px; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\" style=\"text-align: center; padding: 0 35% 0 35%;\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/boost-byob-cta-v2.png?v=1725056018\" style=\"max-width: 100%; height: auto;\">\n  <\/div>\n  <div class=\"byob-text\" style=\"text-align: center;\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\">Bundle & Save<\/h5>\n    <p>Save 15% or more when you bundle scents alongside your diffuser.<\/p>\n  <\/div>\n  <div class=\"byob-button\" style=\"text-align: center;\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>GET STARTED<\/span>\n    <\/a>\n  <\/div>\n<\/div>"
+            "custom_liquid": "<div class=\"byob-cta\" style=\"display: grid; gap: 25px; border: 1px solid #474946; padding: 25px; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/boost-byob-cta-v2.png?v=1725056018\" style=\"max-width: 100%; height: auto;\">\n  <\/div>\n  <div class=\"byob-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\">Bundle & Save<\/h5>\n    <p>Save 15% or more when you bundle scents alongside your diffuser.<\/p>\n  <\/div>\n  <div class=\"byob-button\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>GET STARTED<\/span>\n    <\/a>\n  <\/div>\n<\/div>"
           }
         }
       },
@@ -155,7 +155,8 @@
         "custom_liquid_fFGnfC"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; } .byob-img {text-align: left; grid-column: 1; padding: 0%; } .byob-text {text-align: left; grid-column: 2; } .byob-button {text-align: left; grid-column: 3; }}"
+        ".byob-img,.byob-text,.byob-button {text-align: center;}",
+        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; } .byob-img, .byob-text, .byob-button {text-align: center; padding: 0%; }}"
       ],
       "settings": {
         "space_content_media": true,
