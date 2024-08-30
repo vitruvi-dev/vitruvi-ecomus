@@ -155,7 +155,8 @@
         "custom_liquid_fFGnfC"
       ],
       "custom_css": [
-        ".byob-img,.byob-text,.byob-button {text-align: center;}",
+        ".byob-img {padding: 0 35% 0 35%;}",
+        ".byob-text, .byob-button {text-align: center;}",
         "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; } .byob-img, .byob-text, .byob-button {text-align: center; padding: 0%; }}"
       ],
       "settings": {
