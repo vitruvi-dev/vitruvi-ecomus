@@ -259,7 +259,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
         "color_scheme": "",
-        "product_color_scheme": "",
+        "product_color_scheme": "scheme-1",
         "banner_url": "",
         "banner_target": false,
         "product_list": [
@@ -267,7 +267,7 @@
           "sleep-stone-diffuser-bundle",
           "best-sleep-diffuser-humidifier-bundle"
         ],
-        "product_des": "1",
+        "product_des": "10",
         "image_ratio": "adapt_image",
         "content_position": "center",
         "alignment": "center",
