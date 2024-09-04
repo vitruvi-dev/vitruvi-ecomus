@@ -372,31 +372,6 @@
             "alignment_mb": "left"
           }
         },
-        "banner_2_VerhJq": {
-          "type": "banner_2",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1_sahnndra_cloud-humidifier_oat.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "@sahnndra",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
-        },
         "banner_2_wafHjn": {
           "type": "banner_2",
           "settings": {
@@ -421,49 +396,21 @@
             "alignment": "left",
             "alignment_mb": "left"
           }
-        },
-        "banner_2_MHYnUx": {
-          "type": "banner_2",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_2_mariiismith_glow-diffuser_white.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "@mariiismith",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "heading_space": 15,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
-          }
         }
       },
       "block_order": [
         "banner_2_YMMzf7",
-        "banner_2_VerhJq",
-        "banner_2_wafHjn",
-        "banner_2_MHYnUx"
+        "banner_2_wafHjn"
       ],
       "settings": {
         "full_width": false,
         "boxed_fullwidth": false,
-        "col_dk": "3",
+        "col_dk": "2",
         "row_height": 250,
         "content_pd_y": 15,
         "content_pd_x": 15,
         "space_item": 30,
-        "col_tb": "3",
+        "col_tb": "2",
         "row_height_tb": 250,
         "space_item_tb": 15,
         "row_height_mb": 250,
