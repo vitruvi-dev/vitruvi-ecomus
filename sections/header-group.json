@@ -14,22 +14,22 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_RqB4ka": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"\/collections\/labor-day-sale\" title=\"Labor Day Deals\">Labor Day Sale: 25% Off Sitewide<\/a>"
-          }
-        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
             "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
           }
+        },
+        "announcement_RqB4ka": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Vitruvi Gift With Every Purchase"
+          }
         }
       },
       "block_order": [
-        "announcement_RqB4ka",
-        "announcement_RzCepp"
+        "announcement_RzCepp",
+        "announcement_RqB4ka"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
