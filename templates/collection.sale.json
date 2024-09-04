@@ -86,7 +86,7 @@
         "heading_EWgKGd": {
           "type": "heading",
           "settings": {
-            "heading": "Labor Day Sale",
+            "heading": "Stock-up & SAVE",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -100,6 +100,7 @@
         },
         "countdown_LQEYWr": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
@@ -138,7 +139,7 @@
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/page_home_hero_homebodysale-labourday_image_desktop-v2.jpg",
+        "image": "shopify:\/\/shop_images\/Desktop_3f668588-6539-4994-8057-26db0c76ac14.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
