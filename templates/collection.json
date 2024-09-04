@@ -75,16 +75,6 @@
     },
     "main": {
       "type": "main-collection",
-      "blocks": {
-        "filter_hmX3PQ": {
-          "type": "filter",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "filter_hmX3PQ"
-      ],
       "custom_css": [
 
       ],
