@@ -436,7 +436,7 @@
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/global_navigation-promo_sweet-ceremony_v4_image.jpg",
+            "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
             "url": "shopify:\/\/products\/build-your-own-scent-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -462,7 +462,7 @@
             "btn2_fw": "medium",
             "btn2_icon": "none",
             "content_bg": false,
-            "content_position": "center",
+            "content_position": "center-start",
             "alignment": "center",
             "hide_subtext_mb": false,
             "content_position_mb": "center",
