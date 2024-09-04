@@ -400,14 +400,23 @@
         "heading_eKKaia": {
           "type": "heading",
           "settings": {
-            "heading": "Bundle & Save Up to 25%",
+            "heading": "Build Your Own Bundle",
             "heading_fs": "h4"
+          }
+        },
+        "sub_heading_mpPhXE": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Bundle and save up to 25%.",
+            "sub_heading_fs": "base"
           }
         }
       },
       "block_order": [
-        "heading_eKKaia"
+        "heading_eKKaia",
+        "sub_heading_mpPhXE"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -429,11 +438,11 @@
             "url": "shopify:\/\/products\/build-your-own-scent-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "sub_heading": "Build Your Own Scent Bundle",
+            "sub_heading": "Bundle & Save On Scents",
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 25%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -462,14 +471,14 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
-            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "url": "shopify:\/\/products\/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "sub_heading": "Bundle & Save: Diffusers",
+            "sub_heading": "Bundle & Save on Diffusers",
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser blends and save up to 25%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 25%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
