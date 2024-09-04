@@ -55,11 +55,15 @@
       {%- else -%}
       <input type="hidden" name="quantity" value="{{ quantity_rule_min }}">
       {%- endif -%}
+      {%- if product.title contains 'Build' -%}
+        <span>test</span>
+      {%- else -%}
       <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
       <button type="submit" name="add" class="hdt-card-product__btn-ultra {{ class }}" is="hdt-btn-tooltip" placement="{{ placement | default: 'none' }}">
         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="currentColor"><use xlink:href="#hdt-icon-cart"></use></svg>
         <span {% unless disable_sr_only %}class="sr-only"{% endunless %}>{{ 'products.product.add_to_cart' | t }}</span>
       </button>
+      {%- endif -%}
     {%- endform -%}
   {%- endif -%}
 {%- else -%}
