@@ -75,6 +75,24 @@
     },
     "main": {
       "type": "main-collection",
+      "blocks": {
+        "featured_products_ymfxAc": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Sale products",
+            "collection": "",
+            "product_list": [
+              "build-your-own-scent-bundle"
+            ],
+            "products_count": 3,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        }
+      },
+      "block_order": [
+        "featured_products_ymfxAc"
+      ],
       "custom_css": [
 
       ],
