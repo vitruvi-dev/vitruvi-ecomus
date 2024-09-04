@@ -393,59 +393,6 @@
         "padding_rate": 75
       }
     },
-    "image_with_text_X4xYG4": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_39Xz4R": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Build Your Own Bundle",
-            "heading_fs": "h4"
-          }
-        },
-        "text_DJDPAf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Enjoy a free Golden Diffuser Blend on $100+ orders, while supplies last.<\/p><p>Golden is perfect for elevating your space with a calming scent that supports focus and relaxation.<\/p>"
-          }
-        },
-        "button_gWYyqP": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/back-to-school-savings",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_39Xz4R",
-        "text_DJDPAf",
-        "button_gWYyqP"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ugc_scents_bowl_thecurrentlovee.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "left",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "left",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
@@ -856,7 +803,6 @@
     "featured_collection_grid_6BDUmj",
     "d81e394c-3467-4709-a303-1d274f42da41",
     "top_heading_X4fhQJ",
-    "image_with_text_X4xYG4",
     "slideshow_bHhppE",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
