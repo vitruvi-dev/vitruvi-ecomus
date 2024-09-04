@@ -350,7 +350,7 @@
         "banner_2_YMMzf7": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "image": "shopify:\/\/shop_images\/category_diffuser-scents_shop-byob_image.png",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -368,8 +368,8 @@
             "btn_style": "solid",
             "btn_fw": "normal",
             "btn_icon": "none",
-            "alignment": "left",
-            "alignment_mb": "left"
+            "alignment": "center",
+            "alignment_mb": "center"
           }
         },
         "banner_2_wafHjn": {
