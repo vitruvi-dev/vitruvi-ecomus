@@ -78,6 +78,7 @@
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "custom_css": [
 
       ],
