@@ -112,7 +112,6 @@
     },
     "featured_collection_grid_yaaUxb": {
       "type": "featured-collection-grid",
-      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Essential Oil Diffusers",
@@ -152,7 +151,6 @@
     },
     "featured_collection_grid_Qak8RN": {
       "type": "featured-collection-grid",
-      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Diffuser Bundles",
