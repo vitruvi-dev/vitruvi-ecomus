@@ -21,6 +21,13 @@
             "text": "<a href=\"\/collections\/labor-day-sale\" title=\"Labor Day Deals\">Labor Day Sale: 25% Off Sitewide<\/a>"
           }
         },
+        "announcement_pdfiTt": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Wunderkind Example"
+          }
+        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
@@ -30,6 +37,7 @@
       },
       "block_order": [
         "announcement_RqB4ka",
+        "announcement_pdfiTt",
         "announcement_RzCepp"
       ],
       "custom_css": [
@@ -41,7 +49,7 @@
         "show_close_btn": true,
         "show_line_separator": false,
         "adding_border": false,
-        "au_time": 10,
+        "au_time": 5,
         "slider_pause_when_hover": true,
         "speed": 0.1,
         "direction": "rtl",
