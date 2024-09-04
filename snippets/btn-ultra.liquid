@@ -56,7 +56,11 @@
       <input type="hidden" name="quantity" value="{{ quantity_rule_min }}">
       {%- endif -%}
       {%- if product.title contains 'Build' -%}
-        <span>test</span>
+        <div>
+          <a href="{{ product_url }}" class="hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal">
+            <span>GET STARTED</span>
+          </a>
+        </div>
       {%- else -%}
       <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
       <button type="submit" name="add" class="hdt-card-product__btn-ultra {{ class }}" is="hdt-btn-tooltip" placement="{{ placement | default: 'none' }}">
