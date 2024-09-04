@@ -117,6 +117,12 @@
           "settings": {
             "only_show_soldout": true
           }
+        },
+        "custom_liquid_NMVphJ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -130,7 +136,8 @@
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
         "img_trust_ygqnBq",
-        "8253e974-5acb-4076-9230-03b0f804dcdf"
+        "8253e974-5acb-4076-9230-03b0f804dcdf",
+        "custom_liquid_NMVphJ"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
