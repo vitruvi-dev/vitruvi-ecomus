@@ -394,6 +394,31 @@
         "padding_rate": 75
       }
     },
+    "top_heading_xQUcEk": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_eKKaia": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bundle & Save Up to 25%",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eKKaia"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
@@ -404,7 +429,7 @@
             "url": "shopify:\/\/products\/build-your-own-scent-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "sub_heading": "Bundle & Save: Diffuser Scents",
+            "sub_heading": "Build Your Own Bundle: Scents",
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
@@ -944,6 +969,7 @@
     "featured_collection_grid_6BDUmj",
     "d81e394c-3467-4709-a303-1d274f42da41",
     "top_heading_X4fhQJ",
+    "top_heading_xQUcEk",
     "slideshow_bHhppE",
     "slideshow_3HDFeW",
     "282a0160-505d-43ff-b601-043a5a327bc2",
