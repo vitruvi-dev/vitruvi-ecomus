@@ -147,7 +147,6 @@
         "custom_liquid_ydB9QQ"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}",
         ".byob-cta {gap: 25px; padding: 25px;}",
         ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
         ".byob-text,.byob-button {text-align: center;}",
