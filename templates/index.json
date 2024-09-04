@@ -49,6 +49,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -76,15 +77,15 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home-hero_labor-day-sale-2024_image_desktop.jpg",
+            "image": "shopify:\/\/shop_images\/Desktop_3f668588-6539-4994-8057-26db0c76ac14.png",
             "image_mb": "shopify:\/\/shop_images\/page_home-hero_labor-day-sale-2024_image_mobile.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>LABOR DAY SALE<\/strong><\/p><p>25% Off Sitewide<\/p><p><\/p>",
+            "heading": "<p><strong>SEPTEMBER SPECIAL<\/strong><\/p><p>STOCK-UP & SAVE<\/p><p><\/p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Elevate your space this season with our innovative humidifiers, elegant diffusers, and all-natural scents.",
+            "sub_heading": "Refresh your space 🌟. Enjoy a free gift with every purchase. While supplies last.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP NOW",
@@ -105,7 +106,6 @@
       "block_order": [
         "slide_base_fnDmKR"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
