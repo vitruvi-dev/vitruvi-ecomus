@@ -226,16 +226,16 @@
     "banner_product_grid_Kkmag9": {
       "type": "banner-product-grid",
       "blocks": {
-        "heading_fKwTHK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Build Your Own Diffuser Bundle"
-          }
-        },
         "text_R3HTz7": {
           "type": "text",
           "settings": {
             "text": "UP TO 30% OFF"
+          }
+        },
+        "heading_fKwTHK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Build Your Own Diffuser Bundle"
           }
         },
         "button_ctKDLh": {
@@ -252,8 +252,8 @@
         }
       },
       "block_order": [
-        "heading_fKwTHK",
         "text_R3HTz7",
+        "heading_fKwTHK",
         "button_ctKDLh"
       ],
       "settings": {
