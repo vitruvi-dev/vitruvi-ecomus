@@ -140,6 +140,7 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
         "image": "shopify:\/\/shop_images\/Desktop_3a84280d-42e2-4513-a93b-e7c6d66ec062.png",
+        "image_mb": "shopify:\/\/shop_images\/collection_summer-sale_header-mobile.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
