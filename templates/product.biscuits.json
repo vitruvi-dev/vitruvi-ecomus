@@ -129,8 +129,7 @@
       ],
       "custom_css": [
         ".hdt-price__container,.hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
-        ".hdt-product-form_wrap-link {width: 9rem;}",
-        ".hdt-truncate {white-space: pre-wrap;}"
+        ".hdt-product-form_wrap-link {width: 9rem;}"
       ],
       "settings": {
         "space_content_media": true,
