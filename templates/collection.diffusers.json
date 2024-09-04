@@ -152,13 +152,12 @@
     },
     "featured_collection_grid_Qak8RN": {
       "type": "featured-collection-grid",
-      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Diffuser Bundles",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Pick from one of our curated diffuser bundles or build your own for the perfect scenting experience.<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -186,94 +185,6 @@
         "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 50,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_HTtpgE": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_7wRr7D": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bundle & Save on Diffusers",
-            "heading_fs": "h5"
-          }
-        },
-        "sub_heading_GpDMgr": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Pick from one of our curated diffuser bundles or build your own for the perfect scenting experience.",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "heading_7wRr7D",
-        "sub_heading_GpDMgr"
-      ],
-      "settings": {
-        "spacing_item": 18,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
-    "banner_product_grid_Kkmag9": {
-      "type": "banner-product-grid",
-      "blocks": {
-        "text_R3HTz7": {
-          "type": "text",
-          "settings": {
-            "text": "UP TO 30% OFF"
-          }
-        },
-        "heading_fKwTHK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Build Your Own Diffuser Bundle"
-          }
-        },
-        "button_ctKDLh": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "text_R3HTz7",
-        "heading_fKwTHK",
-        "button_ctKDLh"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
-        "color_scheme": "",
-        "product_color_scheme": "scheme-1",
-        "banner_url": "",
-        "banner_target": false,
-        "product_list": [
-          "starter-stone-diffuser-bundle",
-          "sleep-stone-diffuser-bundle",
-          "best-sleep-diffuser-humidifier-bundle"
-        ],
-        "product_des": "10",
-        "image_ratio": "adapt_image",
-        "content_position": "center",
-        "alignment": "center",
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 0,
         "padding_bottom": 50,
         "padding_rate": 75
       }
@@ -454,69 +365,6 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
-    },
-    "banner_product_carousel_ReaDHW": {
-      "type": "banner-product-carousel",
-      "blocks": {
-        "heading_FbPeWd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Summer Style Guide"
-          }
-        },
-        "text_yHPiry": {
-          "type": "text",
-          "settings": {
-            "text": "UP TO 30% OFF"
-          }
-        },
-        "button_GmKfQz": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_FbPeWd",
-        "text_yHPiry",
-        "button_GmKfQz"
-      ],
-      "settings": {
-        "heading": "SHOP THIS LOOK",
-        "label": "SPRING SALE 30% OFF",
-        "image": "shopify:\/\/shop_images\/Desktop_ad7b65b1-5f3d-42a7-9baf-6b900cba326e.png",
-        "external_video_url": "",
-        "banner_url": "",
-        "banner_target": false,
-        "image_height": "fixed",
-        "fixed_height": 680,
-        "image_height_mb": "adapt_image_first",
-        "fixed_height_mb": 300,
-        "collection": "",
-        "product_list": [
-
-        ],
-        "products_count": 4,
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "color_scheme": "",
-        "navUI": true,
-        "dotUI": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -525,9 +373,6 @@
     "main",
     "featured_collection_grid_yaaUxb",
     "featured_collection_grid_Qak8RN",
-    "top_heading_HTtpgE",
-    "banner_product_grid_Kkmag9",
-    "accordion_qkAGnW",
-    "banner_product_carousel_ReaDHW"
+    "accordion_qkAGnW"
   ]
 }
