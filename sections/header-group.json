@@ -16,7 +16,6 @@
       "blocks": {
         "announcement_RqB4ka": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/labor-day-sale\" title=\"Labor Day Deals\">Labor Day Sale: 25% Off Sitewide<\/a>"
           }
