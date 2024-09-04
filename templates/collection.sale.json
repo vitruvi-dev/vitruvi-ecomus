@@ -344,6 +344,40 @@
         "padding_rate": 75
       }
     },
+    "top_heading_Tx9Vfb": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_tWMefL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Build Your Own Bundle & Save",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_q7gURH": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe that timeless style never goes out of fashion. Our collection features classic pieces that are both stylish and versatile, perfect for building a wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tWMefL",
+        "sub_heading_q7gURH"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "banner_CbXbFz": {
       "type": "banner",
       "blocks": {
@@ -354,7 +388,7 @@
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
-            "heading": "Build Your Own Diffuser Bundle",
+            "heading": "Diffuser Scents Bundle",
             "heading_fs": "h5",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -1039,6 +1073,7 @@
     "hero_image_3w3ny6",
     "tabs_collections_grid_iTVjfe",
     "banner_MNTtak",
+    "top_heading_Tx9Vfb",
     "banner_CbXbFz",
     "tabs_collections_grid_q79MGA",
     "banner_product_carousel_hgp3p4",
