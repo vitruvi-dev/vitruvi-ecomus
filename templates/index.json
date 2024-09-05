@@ -79,7 +79,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/page_home-hero_grove-gwp_image_desktop.png",
             "image_mb": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_mobile.jpg",
-            "url": "",
+            "url": "shopify:\/\/collections\/shop-all",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p>STOCK-UP & SAVE<\/p><p><\/p>",
@@ -89,7 +89,7 @@
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/labor-day-sale",
+            "btn_link": "shopify:\/\/collections\/shop-all",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
