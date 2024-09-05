@@ -82,10 +82,10 @@
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>LABOR DAY SALE<\/strong><\/p><p>25% Off Sitewide<\/p><p><\/p>",
+            "heading": "<p>STOCK-UP & SAVE<\/p><p><\/p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Elevate your space this season with our innovative humidifiers, elegant diffusers, and all-natural scents.",
+            "sub_heading": "Refresh your space 🌟. Enjoy a free gift with every purchase. While supplies last.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP NOW",
@@ -129,40 +129,6 @@
         "dot_space": 57,
         "padding_top": 0,
         "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "25d95633-b21f-43fa-90ad-eef09163772b": {
-      "type": "marquee",
-      "blocks": {
-        "template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Spring Clearance Event: Save Up to 70%<\/p>",
-            "icon_svg": "delicious",
-            "custom_svg": "",
-            "icon_width": 18,
-            "icon_width_mb": 14
-          }
-        }
-      },
-      "block_order": [
-        "template--20958100226352__25d95633-b21f-43fa-90ad-eef09163772b-item-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "space_item": 48,
-        "speed": 0.1,
-        "direction": "rtl",
-        "marquee_pause_when_hover": true,
-        "text_fs": "h5",
-        "text_fw": "normal",
-        "text_uppercase": false,
-        "adding_border": true,
-        "icon_position_between": true,
-        "color_scheme": "scheme-5",
-        "padding_top": 31,
-        "padding_bottom": 31,
         "padding_rate": 75
       }
     },
@@ -868,7 +834,6 @@
   "order": [
     "video_GKb7jj",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
-    "25d95633-b21f-43fa-90ad-eef09163772b",
     "countdown_text_7Qr8m8",
     "image_with_text_yqNnyc",
     "featured_collection_grid_6BDUmj",
