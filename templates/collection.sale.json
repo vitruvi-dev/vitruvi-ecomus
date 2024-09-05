@@ -536,6 +536,7 @@
       "block_order": [
         "text_NcG8z7"
       ],
+      "disabled": true,
       "custom_css": [
         "h4 {font-weight: 200; font-size: 14px;}",
         "h3 {font-family: \"Heldane\"; font-size: 18px;}",
