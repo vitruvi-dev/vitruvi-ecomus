@@ -139,7 +139,7 @@
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/page_home_hero_homebodysale-labourday_image_desktop-v2.jpg",
+        "image": "shopify:\/\/shop_images\/collection_hero_grove-gwp_image_desktop.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -153,7 +153,57 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 80,
-        "padding_bottom": 0,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "banner_product_carousel_hgp3p4": {
+      "type": "banner-product-carousel",
+      "blocks": {
+        "text_U8W96F": {
+          "type": "text",
+          "settings": {
+            "text": "@helloarielchristine"
+          }
+        }
+      },
+      "block_order": [
+        "text_U8W96F"
+      ],
+      "custom_css": [
+        "h4 {font-weight: 200; font-size: 14px;}",
+        "h3 {font-family: \"Heldane\"; font-size: 18px;}",
+        ".hdt-subheading {color: #ffffff; font-size: 12px;}",
+        "@media screen and (min-width: 1024px) {.hdt-subheading {font-size: 14px; } h4 {font-size: 18px; } h3 {font-size: 28px; }}"
+      ],
+      "settings": {
+        "heading": "Diffuser Bundles",
+        "label": "Everything you need to elevate your space with scent.",
+        "image": "shopify:\/\/shop_images\/ugc_1_helloarielchristine_glow-diffuser_white.jpg",
+        "external_video_url": "",
+        "banner_url": "",
+        "banner_target": false,
+        "image_height": "fixed",
+        "fixed_height": 500,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 250,
+        "collection": "",
+        "product_list": [
+          "back-to-school-diffuser-bundle",
+          "starter-stone-diffuser-bundle"
+        ],
+        "products_count": 3,
+        "product_des": "10",
+        "image_ratio": "adapt_image",
+        "color_scheme": "scheme-1",
+        "navUI": false,
+        "dotUI": true,
+        "content_position": "start-center",
+        "alignment": "right",
+        "content_position_mb": "start-center",
+        "alignment_mb": "left",
+        "padding_top": 0,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -403,56 +453,6 @@
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "banner_product_carousel_hgp3p4": {
-      "type": "banner-product-carousel",
-      "blocks": {
-        "text_U8W96F": {
-          "type": "text",
-          "settings": {
-            "text": "@helloarielchristine"
-          }
-        }
-      },
-      "block_order": [
-        "text_U8W96F"
-      ],
-      "custom_css": [
-        "h4 {font-weight: 200; font-size: 14px;}",
-        "h3 {font-family: \"Heldane\"; font-size: 18px;}",
-        ".hdt-subheading {color: #ffffff; font-size: 12px;}",
-        "@media screen and (min-width: 1024px) {.hdt-subheading {font-size: 14px; } h4 {font-size: 18px; } h3 {font-size: 28px; }}"
-      ],
-      "settings": {
-        "heading": "Diffuser Bundles",
-        "label": "Everything you need to elevate your space with scent.",
-        "image": "shopify:\/\/shop_images\/ugc_1_helloarielchristine_glow-diffuser_white.jpg",
-        "external_video_url": "",
-        "banner_url": "",
-        "banner_target": false,
-        "image_height": "fixed",
-        "fixed_height": 500,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 250,
-        "collection": "",
-        "product_list": [
-          "back-to-school-diffuser-bundle",
-          "starter-stone-diffuser-bundle"
-        ],
-        "products_count": 3,
-        "product_des": "10",
-        "image_ratio": "adapt_image",
-        "color_scheme": "scheme-1",
-        "navUI": false,
-        "dotUI": true,
-        "content_position": "start-center",
-        "alignment": "right",
-        "content_position_mb": "start-center",
-        "alignment_mb": "left",
-        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -959,10 +959,10 @@
     "heading",
     "main",
     "hero_image_3w3ny6",
+    "banner_product_carousel_hgp3p4",
     "tabs_collections_grid_iTVjfe",
     "banner_MNTtak",
     "tabs_collections_grid_q79MGA",
-    "banner_product_carousel_hgp3p4",
     "tabs_collections_grid_iwng4g",
     "banner_product_carousel_WcGrVh",
     "banner_kG9KgW",
