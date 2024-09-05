@@ -86,7 +86,7 @@
         "heading_EWgKGd": {
           "type": "heading",
           "settings": {
-            "heading": "Stock-up & Save",
+            "heading": "Labor Day Sale",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -94,13 +94,12 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy a free Grove Diffuser Blend on $100+ orders, while supplies last.<\/p>",
+            "text": "<p>Save 25% on innovative humidifiers, elegant diffusers, and all-natural scents.<\/p><p><\/p>",
             "adding_border": false
           }
         },
         "countdown_LQEYWr": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
@@ -119,7 +118,7 @@
         "text_waDfxg": {
           "type": "text",
           "settings": {
-            "text": "<p><em>Ends September 15th at midnight PST<\/em><\/p>",
+            "text": "<p><em>Ends September 2nd at midnight PST<\/em><\/p>",
             "adding_border": false
           }
         }
@@ -139,8 +138,7 @@
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/Desktop_3a84280d-42e2-4513-a93b-e7c6d66ec062.png",
-        "image_mb": "shopify:\/\/shop_images\/collection_summer-sale_header-mobile.png",
+        "image": "shopify:\/\/shop_images\/page_home_hero_homebodysale-labourday_image_desktop-v2.jpg",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -179,7 +177,7 @@
         "h4 {font-family: \"Heldane\";}"
       ],
       "settings": {
-        "tabs_heading": "Best-Sellers",
+        "tabs_heading": "25% Off Best-Sellers",
         "heading_size": "h5",
         "heading_inline": true,
         "tabs_head_spacing": 30,
@@ -207,56 +205,6 @@
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "banner_product_carousel_8w4WwC": {
-      "type": "banner-product-carousel",
-      "blocks": {
-        "text_8rkHaf": {
-          "type": "text",
-          "settings": {
-            "text": "@helloarielchristine"
-          }
-        }
-      },
-      "block_order": [
-        "text_8rkHaf"
-      ],
-      "custom_css": [
-        "h4 {font-weight: 200; font-size: 14px;}",
-        "h3 {font-family: \"Heldane\"; font-size: 18px;}",
-        ".hdt-subheading {color: #ffffff; font-size: 12px;}",
-        "@media screen and (min-width: 1024px) {.hdt-subheading {font-size: 14px; } h4 {font-size: 18px; } h3 {font-size: 28px; }}"
-      ],
-      "settings": {
-        "heading": "Build Your Own Bundle & Save",
-        "label": "Everything you need to elevate your space with scent.",
-        "image": "shopify:\/\/shop_images\/ugc_1_helloarielchristine_glow-diffuser_white.jpg",
-        "external_video_url": "",
-        "banner_url": "",
-        "banner_target": false,
-        "image_height": "fixed",
-        "fixed_height": 500,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 250,
-        "collection": "",
-        "product_list": [
-          "build-your-own-diffuser-bundle",
-          "build-your-own-scent-bundle"
-        ],
-        "products_count": 3,
-        "product_des": "10",
-        "image_ratio": "adapt_image",
-        "color_scheme": "scheme-1",
-        "navUI": false,
-        "dotUI": true,
-        "content_position": "start-center",
-        "alignment": "right",
-        "content_position_mb": "start-center",
-        "alignment_mb": "left",
-        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -372,7 +320,6 @@
         "banner_2_ewAfhr",
         "banner_2_JJM6Xy"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
       ],
@@ -1012,7 +959,6 @@
     "main",
     "hero_image_3w3ny6",
     "tabs_collections_grid_iTVjfe",
-    "banner_product_carousel_8w4WwC",
     "banner_MNTtak",
     "tabs_collections_grid_q79MGA",
     "banner_product_carousel_hgp3p4",

@@ -123,6 +123,12 @@
             "svg": "",
             "height": 30
           }
+        },
+        "custom_liquid_ydB9QQ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.compare_at_price == blank %}\n  {% if product.type and product.type contains 'Kit' %}\n  <!-- Do nothing or add an alternative display for products with \"Kit\" in type -->\n{% else %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n      <div class=\"byob-img\">\n        <a href=\"\/products\/build-your-own-scent-bundle\">\n          <img class=\"byob-src\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/pdp_spring-scents-bundle_scents_gallery_1_cropped_image.png?v=1712687466\">\n        <\/a>\n      <\/div>\n      <div class=\"byob-text\">\n        <a href=\"\/products\/build-your-own-scent-bundle\">\n          <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%<\/h5>\n          <p>Bundle 4 or more of your favorite blends and essential oils.<\/p>\n        <\/a>\n      <\/div>\n      <div class=\"byob-button\">\n        <a href=\"\/products\/build-your-own-scent-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n          <span>BUILD BUNDLE<\/span>\n        <\/a>\n      <\/div>\n    <\/div>\n{% endif %}\n{% endif %}"
+          }
         }
       },
       "block_order": [
@@ -137,10 +143,14 @@
         "countdown_timer_NCVUEc",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "img_trust_Nj7Aj9"
+        "img_trust_Nj7Aj9",
+        "custom_liquid_ydB9QQ"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}"
+        ".byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button {text-align: center;}",
+        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-img, .byob-text, .byob-button {text-align: left; } .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
       ],
       "settings": {
         "space_content_media": true,
