@@ -49,6 +49,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -76,8 +77,8 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home-hero_labor-day-sale-2024_image_desktop.jpg",
-            "image_mb": "shopify:\/\/shop_images\/page_home-hero_labor-day-sale-2024_image_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/page_home-hero_grove-gwp_image_desktop.png",
+            "image_mb": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v2_mobile.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -105,7 +106,6 @@
       "block_order": [
         "slide_base_fnDmKR"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
