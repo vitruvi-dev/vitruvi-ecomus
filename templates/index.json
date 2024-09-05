@@ -200,7 +200,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/back-to-school-savings",
+            "btn_link": "shopify:\/\/collections\/september-stock-up",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
