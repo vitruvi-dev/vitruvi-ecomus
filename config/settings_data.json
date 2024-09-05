@@ -422,6 +422,12 @@
           "using_translated_handles": false,
           "custom_script_and_style": "<script><\/script>\n<style><\/style>"
         }
+      },
+      "12592085946906583873": {
+        "type": "shopify:\/\/apps\/wunderkind\/blocks\/tag\/40b05e3b-2403-4814-8fab-e17e57e8b1aa",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
