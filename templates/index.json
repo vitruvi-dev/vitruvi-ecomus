@@ -200,7 +200,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/september-stock-up",
+            "btn_link": "shopify:\/\/collections\/shop-all",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
