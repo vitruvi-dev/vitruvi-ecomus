@@ -521,7 +521,7 @@
         "fixed_height_mb": 300,
         "color_scheme": "scheme-1",
         "loop": false,
-        "auto_play": 0,
+        "auto_play": 5,
         "pause_hover": false,
         "navUI": false,
         "dotUI": false,
