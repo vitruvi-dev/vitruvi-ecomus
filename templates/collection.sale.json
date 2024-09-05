@@ -174,7 +174,8 @@
         "h4 {font-weight: 200; font-size: 14px;}",
         "h3 {font-family: \"Heldane\"; font-size: 18px;}",
         ".hdt-subheading {color: #ffffff; font-size: 12px;}",
-        "@media screen and (min-width: 1024px) {.hdt-subheading {font-size: 14px; } h4 {font-size: 18px; } h3 {font-size: 28px; }}"
+        "@media screen and (min-width: 1024px) {.hdt-subheading {font-size: 14px; } h4 {font-size: 18px; } h3 {font-size: 28px; }}",
+        ".hdt-badge__wrapp {display: none;}"
       ],
       "settings": {
         "heading": "Diffuser Bundles",
