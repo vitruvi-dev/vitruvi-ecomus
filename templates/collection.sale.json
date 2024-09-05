@@ -163,7 +163,7 @@
         "text_U8W96F": {
           "type": "text",
           "settings": {
-            "text": "@helloarielchristine"
+            "text": "@ciaocarito9"
           }
         }
       },
@@ -180,7 +180,7 @@
       "settings": {
         "heading": "Diffuser Bundles",
         "label": "Everything you need to elevate your space with scent.",
-        "image": "shopify:\/\/shop_images\/ugc_1_helloarielchristine_glow-diffuser_white.jpg",
+        "image": "shopify:\/\/shop_images\/ugc_scents_lavender_ciaocarito9.png",
         "external_video_url": "",
         "banner_url": "",
         "banner_target": false,
@@ -199,8 +199,8 @@
         "color_scheme": "scheme-1",
         "navUI": false,
         "dotUI": true,
-        "content_position": "start-center",
-        "alignment": "right",
+        "content_position": "end-center",
+        "alignment": "left",
         "content_position_mb": "start-center",
         "alignment_mb": "left",
         "padding_top": 0,
