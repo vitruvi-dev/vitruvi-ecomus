@@ -78,6 +78,7 @@
       "blocks": {
         "featured_products_QEKrdk": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "widget_heading": "Sale products",
             "collection": "",
@@ -91,6 +92,7 @@
         },
         "filter_pk7wPK": {
           "type": "filter",
+          "disabled": true,
           "settings": {
           }
         }
