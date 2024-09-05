@@ -58,7 +58,6 @@
       "block_order": [
         "sub_heading_BDHJAt"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
