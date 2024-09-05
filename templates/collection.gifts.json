@@ -298,22 +298,6 @@
     "price_tables_Kxrm86": {
       "type": "price_tables",
       "blocks": {
-        "package_Ke8f3Y": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "stone-diffuser-3-pack",
-            "show_vendor": false,
-            "label_cl": "#e2eef6",
-            "content": "Perfect as a housewarming gift to effortlessly scent every room with natural fragrances.",
-            "btn_label": "CUSTOMIZE BUNDLE",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        },
         "package_fMhgdp": {
           "type": "package",
           "settings": {
@@ -329,11 +313,27 @@
             "btn_fw": "semibold",
             "btn_icon": "none"
           }
+        },
+        "package_Ke8f3Y": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "build-your-own-diffuser-bundle",
+            "show_vendor": false,
+            "label_cl": "#e2eef6",
+            "content": "Perfect as a housewarming gift to effortlessly scent every room with natural fragrances.",
+            "btn_label": "CUSTOMIZE BUNDLE",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
         }
       },
       "block_order": [
-        "package_Ke8f3Y",
-        "package_fMhgdp"
+        "package_fMhgdp",
+        "package_Ke8f3Y"
       ],
       "custom_css": [
         "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}",
