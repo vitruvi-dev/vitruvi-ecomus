@@ -189,10 +189,9 @@
         },
         "buy_buttons_4tg4fA": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
@@ -259,8 +258,8 @@
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Diffusers & Scents",
+        "heading_align": "start",
+        "sec_heading": "Pair it with our best-selling scents",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Parturient himenaeos per erat sapien posuere quis. Neque gravida mi at sed interdum nisl velit habitant mus.<\/p>",
