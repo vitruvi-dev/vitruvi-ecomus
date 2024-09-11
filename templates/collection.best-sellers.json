@@ -9,6 +9,44 @@
 */
 {
   "sections": {
+    "video_inVGcL": {
+      "type": "video",
+      "blocks": {
+        "heading_hcQwLm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best Sellers"
+          }
+        },
+        "sub_heading_JQd8ER": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "To deliver peak potency, minus the waste"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hcQwLm",
+        "sub_heading_JQd8ER"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 460,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "video": "shopify:\/\/files\/videos\/page_about-us_header-video_2024-06.mp4",
+        "external_video_url": "",
+        "content_bg": false,
+        "color_scheme": "scheme-3",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "heading": {
       "type": "heading-collection",
       "blocks": {
@@ -355,6 +393,7 @@
     }
   },
   "order": [
+    "video_inVGcL",
     "heading",
     "main",
     "hero_image_pcbzgU",
