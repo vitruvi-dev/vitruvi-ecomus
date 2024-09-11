@@ -15,7 +15,7 @@
         "heading_hcQwLm": {
           "type": "heading",
           "settings": {
-            "heading": "Best Sellers"
+            "heading": "Best-Sellers"
           }
         },
         "sub_heading_JQd8ER": {
@@ -31,9 +31,9 @@
       ],
       "settings": {
         "image_height": "fixed",
-        "fixed_height": 460,
+        "fixed_height": 500,
         "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
+        "fixed_height_mb": 100,
         "video": "shopify:\/\/files\/videos\/page_about-us_header-video_2024-06.mp4",
         "external_video_url": "",
         "content_bg": false,
@@ -42,8 +42,8 @@
         "alignment": "center",
         "content_position_mb": "center",
         "alignment_mb": "center",
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -124,7 +124,7 @@
         "heading_ahC43H": {
           "type": "heading",
           "settings": {
-            "heading": "Sleep Essentials",
+            "heading": "Best-Sellers",
             "heading_fs": "h2",
             "heading_fw": "normal"
           }
@@ -146,7 +146,8 @@
         "fixed_height": 300,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/pdp_humidifier-sleep-bundle_feature_image.jpg",
+        "image": "shopify:\/\/shop_images\/collection_springsale2024_v3_hero.png",
+        "image_mb": "shopify:\/\/shop_images\/collection_springsale2024_mobile_v3_hero.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
