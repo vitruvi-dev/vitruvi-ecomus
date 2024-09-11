@@ -210,7 +210,7 @@
             "mess": "",
             "source": "1",
             "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
-            "wimg": 350,
+            "wimg": 600,
             "svg": "",
             "height": 30
           }
