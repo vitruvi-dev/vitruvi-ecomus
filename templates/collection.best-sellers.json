@@ -29,7 +29,6 @@
         "heading_hcQwLm",
         "sub_heading_JQd8ER"
       ],
-      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 500,
@@ -142,6 +141,7 @@
         "heading_ahC43H",
         "text_4FCzXF"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
