@@ -21,7 +21,7 @@
         "sub_heading_JQd8ER": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "To deliver peak potency, minus the waste"
+            "sub_heading": "Enhance your space and well-being with elegant diffusers, innovative humidifiers, and premium essential oil blends."
           }
         }
       },
@@ -29,6 +29,7 @@
         "heading_hcQwLm",
         "sub_heading_JQd8ER"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 500,
