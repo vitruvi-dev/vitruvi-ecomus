@@ -202,6 +202,12 @@
           "type": "view_products_details",
           "settings": {
           }
+        },
+        "custom_liquid_RY9fdP": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -209,7 +215,8 @@
         "price_C3Wc7C",
         "description_zDcy8L",
         "buy_buttons_4tg4fA",
-        "view_products_details_hYVnMr"
+        "view_products_details_hYVnMr",
+        "custom_liquid_RY9fdP"
       ],
       "settings": {
         "product": "stone-essential-oil-diffuser",
