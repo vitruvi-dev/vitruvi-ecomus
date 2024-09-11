@@ -166,6 +166,76 @@
         "padding_rate": 75
       }
     },
+    "featured_product_q3qnpt": {
+      "type": "featured-product",
+      "blocks": {
+        "title_7fhX9x": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_C3Wc7C": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_zDcy8L": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_4tg4fA": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_hYVnMr": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_7fhX9x",
+        "price_C3Wc7C",
+        "description_zDcy8L",
+        "buy_buttons_4tg4fA",
+        "view_products_details_hYVnMr"
+      ],
+      "settings": {
+        "product": "stone-essential-oil-diffuser",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
@@ -216,7 +286,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Diffuser Blends & Essential Oils for Sleep",
+        "sec_heading": "The Cloud Humidifier",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "<p>Experience deeper, more restful sleep with our expertly crafted essential oil blends, designed to transform your nighttime routine.<\/p>",
@@ -233,7 +303,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 3,
+        "products_count": 4,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
@@ -399,6 +469,7 @@
     "heading",
     "main",
     "hero_image_pcbzgU",
+    "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
