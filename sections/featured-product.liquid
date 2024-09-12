@@ -18,6 +18,7 @@
 -%}
 {%- style -%}#shopify-section-{{section.id}}{--pr-media-width:{{section.settings.media_width}}%;--section-pt:{{section.settings.padding_top}}px;--section-pb:{{section.settings.padding_bottom}}px;--section-prate:{{section.settings.padding_rate}}}{%- endstyle -%}
     <div class="hdt-main-product hdt-section-spacing hdt-s-gradient" color-scheme="{{ section.settings.color_scheme }}">
+      <a href="{{ product.url }}">
       <div class="hdt-container">
         <div class="hdt-row-flex hdt-flex-cols-1 md:hdt-flex-cols-2 hdt-desktop-media-position-{{ section.settings.desktop_media_position }}">
           {%- if product != empty -%}
@@ -388,6 +389,7 @@
           {%- endif -%}
         </div>
       </div>
+    </a>
     </div>
 
     {%- if has_form_atc != true and product != empty -%}
