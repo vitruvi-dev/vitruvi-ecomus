@@ -51,15 +51,15 @@
         "heading_ahC43H": {
           "type": "heading",
           "settings": {
-            "heading": "Best-Sellers",
-            "heading_fs": "h2",
+            "heading": "Safe, All-Natural Diffusers for Every Room",
+            "heading_fs": "h3",
             "heading_fw": "normal"
           }
         },
         "text_4FCzXF": {
           "type": "text",
           "settings": {
-            "text": "<p>Enhance your space and well-being with elegant diffusers, innovative humidifiers, and premium essential oil blends.<\/p>",
+            "text": "<p>Experience effortless, non-toxic scenting with diffusers that offer long run-times, easy maintenance, and a variety of essential oils for your wellness.<\/p>",
             "adding_border": false
           }
         }
@@ -68,7 +68,6 @@
         "heading_ahC43H",
         "text_4FCzXF"
       ],
-      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
@@ -89,7 +88,7 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 80,
-        "padding_bottom": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -113,6 +112,7 @@
         "heading_hcQwLm",
         "sub_heading_JQd8ER"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 400,
@@ -293,7 +293,7 @@
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
-        "heading_align": "start",
+        "heading_align": "center",
         "sec_heading": "Explore our full range of diffusers",
         "heading_tag": "h2",
         "heading_size": "h5",
@@ -302,8 +302,9 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "diffuser-bundles",
+        "collection": "",
         "product_list": [
+          "stone-essential-oil-diffuser",
           "move-cordless-essential-oil-diffuser",
           "glow-essential-oil-diffuser",
           "build-your-own-diffuser-bundle"
@@ -326,8 +327,47 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "video_iNydtt": {
+      "type": "video",
+      "blocks": {
+        "heading_BRaiLq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Safe, All-Natural Diffusers for Every Room"
+          }
+        },
+        "sub_heading_tTYhY8": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Experience effortless, non-toxic scenting with diffusers that offer long run-times, easy maintenance, and a variety of essential oils for your wellness."
+          }
+        }
+      },
+      "block_order": [
+        "heading_BRaiLq",
+        "sub_heading_tTYhY8"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 400,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "video": "shopify:\/\/files\/videos\/page_about-us_header-video_2024-06.mp4",
+        "external_video_url": "",
+        "content_bg": false,
+        "color_scheme": "scheme-3",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -604,6 +644,7 @@
     "main",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
+    "video_iNydtt",
     "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
