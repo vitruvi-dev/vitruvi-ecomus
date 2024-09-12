@@ -129,7 +129,7 @@
             "show_icon": false,
             "mess": "",
             "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
             "wimg": 600,
             "svg": "",
             "height": 30
