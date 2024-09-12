@@ -195,6 +195,12 @@
     "featured_product_q3qnpt": {
       "type": "featured-product",
       "blocks": {
+        "custom_liquid_JAapDA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h1 class=\"hdt-product__title hdt-font-normal\">The Best-Selling Stone Diffuser<\/h1>"
+          }
+        },
         "title_7fhX9x": {
           "type": "title",
           "settings": {
@@ -243,6 +249,7 @@
         }
       },
       "block_order": [
+        "custom_liquid_JAapDA",
         "title_7fhX9x",
         "price_C3Wc7C",
         "description_zDcy8L",
