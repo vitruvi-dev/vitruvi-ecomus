@@ -36,7 +36,6 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -68,6 +67,7 @@
         "heading_ahC43H",
         "text_4FCzXF"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
@@ -293,8 +293,8 @@
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Explore our full range of diffusers",
+        "heading_align": "start",
+        "sec_heading": "Pair it with our customer's favorite scents",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "<p>From compact designs to long-lasting run-times, find the perfect diffuser to suit your space and elevate your well-being with safe, all-natural scenting options.<\/p>",
