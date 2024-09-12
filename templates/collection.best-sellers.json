@@ -195,15 +195,26 @@
     "featured_product_q3qnpt": {
       "type": "featured-product",
       "blocks": {
+        "badges_KThUK3": {
+          "type": "badges",
+          "settings": {
+            "special": "Best-Seller",
+            "min": 10,
+            "max": 80,
+            "content": "Wunderkind + Rakuten tracking docs",
+            "icon_svg": "none",
+            "ani": "none"
+          }
+        },
         "custom_liquid_JAapDA": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\" data-shopify-editor-block=\"{&quot;id&quot;:&quot;title_7fhX9x&quot;,&quot;type&quot;:&quot;title&quot;}\">\n                      <a href=\"\/products\/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Best-Selling Stone Diffuser<\/h1><\/a>\n                    <\/div>"
           }
         },
         "title_7fhX9x": {
           "type": "title",
-          "disabled": true,
           "settings": {
           }
         },
@@ -262,6 +273,7 @@
         }
       },
       "block_order": [
+        "badges_KThUK3",
         "custom_liquid_JAapDA",
         "title_7fhX9x",
         "price_C3Wc7C",
