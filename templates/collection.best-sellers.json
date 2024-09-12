@@ -587,80 +587,6 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
-    },
-    "store_tabs_iGwGmV": {
-      "type": "store-tabs",
-      "blocks": {
-        "store_item_THTGBD": {
-          "type": "store_item",
-          "settings": {
-            "title": "Store name",
-            "heading": "",
-            "heading_fs": "h5",
-            "description": "",
-            "btn_label": "Get Directions",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "1"
-          }
-        },
-        "store_item_VLD7WX": {
-          "type": "store_item",
-          "settings": {
-            "title": "Store name",
-            "heading": "",
-            "heading_fs": "h5",
-            "description": "",
-            "btn_label": "Get Directions",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "1"
-          }
-        },
-        "store_item_zUkmQE": {
-          "type": "store_item",
-          "settings": {
-            "title": "Store name",
-            "heading": "",
-            "heading_fs": "h5",
-            "description": "",
-            "btn_label": "Get Directions",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "store_item_THTGBD",
-        "store_item_VLD7WX",
-        "store_item_zUkmQE"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -675,7 +601,6 @@
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
     "accordion_inline_tzAiHJ",
-    "collections_list_rcbPdc",
-    "store_tabs_iGwGmV"
+    "collections_list_rcbPdc"
   ]
 }
