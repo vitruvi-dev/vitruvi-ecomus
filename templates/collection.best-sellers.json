@@ -473,7 +473,7 @@
         "dot_align": "center",
         "dot_space": 40,
         "padding_top": 80,
-        "padding_bottom": 100,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -575,6 +575,7 @@
         "collection_item_K4HUcL",
         "collection_item_dYzPHV"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-collection-count {display: none;}"
       ],
