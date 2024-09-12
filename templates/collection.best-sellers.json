@@ -371,6 +371,53 @@
         "padding_rate": 75
       }
     },
+    "hero_image_FmJ4fq": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_bLHCeF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Safe, All-Natural Diffusers for Every Room",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_WUtNDy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Experience effortless, non-toxic scenting with diffusers that offer long run-times, easy maintenance, and a variety of essential oils for your wellness.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bLHCeF",
+        "text_WUtNDy"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 300,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/home_hero-image_2024-06_desktop.jpg",
+        "image_mb": "shopify:\/\/shop_images\/home_hero-image_2024-06_mobile.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": true,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_product_4PVpj9": {
       "type": "featured-product",
       "blocks": {
@@ -645,6 +692,7 @@
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
     "video_iNydtt",
+    "hero_image_FmJ4fq",
     "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
