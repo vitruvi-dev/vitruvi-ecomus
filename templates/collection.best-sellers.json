@@ -213,6 +213,18 @@
           "settings": {
           }
         },
+        "variant_picker_haywRK": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
         "description_zDcy8L": {
           "type": "description",
           "settings": {
@@ -253,6 +265,7 @@
         "custom_liquid_JAapDA",
         "title_7fhX9x",
         "price_C3Wc7C",
+        "variant_picker_haywRK",
         "description_zDcy8L",
         "buy_buttons_4tg4fA",
         "view_products_details_hYVnMr",
@@ -266,8 +279,7 @@
       ],
       "settings": {
         "product": "stone-essential-oil-diffuser",
-        "image": "shopify:\/\/shop_images\/pdp_stone-diffuser_front_white_gallery_1_v9_image_49991ce6-66b0-4bb2-8faf-7b14491cf2f6.png",
-        "media_width": 40,
+        "media_width": 50,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
