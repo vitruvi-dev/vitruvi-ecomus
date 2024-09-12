@@ -198,11 +198,12 @@
         "custom_liquid_JAapDA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<h1 class=\"hdt-product__title hdt-font-normal\">The Best-Selling Stone Diffuser<\/h1>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\" data-shopify-editor-block=\"{&quot;id&quot;:&quot;title_7fhX9x&quot;,&quot;type&quot;:&quot;title&quot;}\">\n                      <a href=\"\/products\/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Best-Selling Stone Diffuser<\/h1><\/a>\n                    <\/div>"
           }
         },
         "title_7fhX9x": {
           "type": "title",
+          "disabled": true,
           "settings": {
           }
         },
