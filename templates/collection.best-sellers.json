@@ -494,7 +494,9 @@
           "shop-all",
           "humidifiers",
           "essential-oil-diffusers",
-          "scents"
+          "scent-kits",
+          "essential-oil-blends",
+          "essential-oils"
         ],
         "text_transform": false,
         "other_link_label": "View all categories",
@@ -536,6 +538,7 @@
         "accordion_item_RCe7bx",
         "accordion_item_ErrFTF"
       ],
+      "disabled": true,
       "settings": {
         "top_heading": "FREQUENTLY ASKED QUESTIONS",
         "heading_tag": "h3",
