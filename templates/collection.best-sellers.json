@@ -45,6 +45,54 @@
         "padding_rate": 75
       }
     },
+    "hero_image_pcbzgU": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_ahC43H": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best-Sellers",
+            "heading_fs": "h2",
+            "heading_fw": "normal"
+          }
+        },
+        "text_4FCzXF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enhance your space and well-being with elegant diffusers, innovative humidifiers, and premium essential oil blends.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ahC43H",
+        "text_4FCzXF"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 300,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify:\/\/shop_images\/collection_springsale2024_v3_hero.png",
+        "image_mb": "shopify:\/\/shop_images\/collection_springsale2024_mobile_v3_hero.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": true,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 80,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
     "video_inVGcL": {
       "type": "video",
       "blocks": {
@@ -97,6 +145,7 @@
       "block_order": [
         "heading_tbkKi7"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
@@ -143,60 +192,11 @@
         "sidebar_size": "medium"
       }
     },
-    "hero_image_pcbzgU": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_ahC43H": {
-          "type": "heading",
-          "settings": {
-            "heading": "Best-Sellers",
-            "heading_fs": "h2",
-            "heading_fw": "normal"
-          }
-        },
-        "text_4FCzXF": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Enhance your space and well-being with elegant diffusers, innovative humidifiers, and premium essential oil blends.<\/p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_ahC43H",
-        "text_4FCzXF"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 300,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/collection_springsale2024_v3_hero.png",
-        "image_mb": "shopify:\/\/shop_images\/collection_springsale2024_mobile_v3_hero.png",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": true,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 80,
-        "padding_bottom": 100,
-        "padding_rate": 75
-      }
-    },
     "featured_product_q3qnpt": {
       "type": "featured-product",
       "blocks": {
         "title_7fhX9x": {
           "type": "title",
-          "disabled": true,
           "settings": {
           }
         },
@@ -286,7 +286,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Pair it with our best-selling scents",
+        "sec_heading": "Explore our full range of diffusers",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Parturient himenaeos per erat sapien posuere quis. Neque gravida mi at sed interdum nisl velit habitant mus.<\/p>",
@@ -590,10 +590,10 @@
   },
   "order": [
     "heading",
+    "hero_image_pcbzgU",
     "video_inVGcL",
     "top_heading_rBJ9xJ",
     "main",
-    "hero_image_pcbzgU",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
     "featured_product_4PVpj9",
