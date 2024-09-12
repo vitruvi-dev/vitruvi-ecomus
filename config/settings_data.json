@@ -589,7 +589,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".shopify-policy__container {font-family: \"Founders Grotesk\"; max-width: 80%;}",
+      ".shopify-policy__container {max-width: 80%;}",
+      ".shopify-policy__container h2 {font-family: \"Founders Grotesk\";}",
       ".yotpo-reviews-wrapper {display: none;}",
       ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}",
       ".hdt-mb-language_currencies {display: none;}",
