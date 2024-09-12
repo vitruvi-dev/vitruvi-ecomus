@@ -192,12 +192,10 @@
                     {%- assign description_excerpt = product.metafields.theme.description_excerpt | default: block.settings.short_des -%}
                     {%- if description_excerpt == blank and product.description == blank -%}{% continue %}{% endif -%}
                     <div class="hdt-product-info__item hdt-product__description hdt-rte" data-type="{{ block.type }}" {{ block.shopify_attributes }}>
-                      <a href="{{ product.url }}">
                       {%- if block.settings.des == '1' -%}{{- product.description -}}
                       {%- elsif description_excerpt != blank -%}{{- description_excerpt -}}
                       {%- else -%}<p>{{- product.description | strip_html | truncatewords: block.settings.length -}}</p>
                       {%- endif -%}
-                      </a>
                     </div>
                   {%- when 'extra_link' -%}
                     <div class="hdt-product-info__item hdt-product__extra-link{% if block.settings.show_share_btn %} hdt-share-buttons{% endif %}" data-type="{{ block.type }}" {{ block.shopify_attributes }}>
