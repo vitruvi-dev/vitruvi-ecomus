@@ -227,26 +227,20 @@
           "a2b9d1bd-89e6-4e78-be44-a308d6472156": {
             "type": "1",
             "settings": {
-              "heading": "Mix and Match",
+              "heading": "",
               "heading_size": "h4"
-            }
-          },
-          "ae2f8f42-c195-4bd9-99c3-d52095ce0902": {
-            "type": "2",
-            "settings": {
             }
           }
         },
         "block_order": [
-          "a2b9d1bd-89e6-4e78-be44-a308d6472156",
-          "ae2f8f42-c195-4bd9-99c3-d52095ce0902"
+          "a2b9d1bd-89e6-4e78-be44-a308d6472156"
         ],
         "settings": {
-          "image": "shopify:\/\/shop_images\/Mask_group_5.png",
-          "color_scheme": "scheme-2",
+          "color_scheme": "scheme-1",
           "spacing_hd": 5,
           "padding_top": 69,
-          "padding_bottom": 64
+          "padding_bottom": 64,
+          "padding_rate": 75
         }
       },
       "main-password-header": {
