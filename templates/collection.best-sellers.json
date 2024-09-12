@@ -215,6 +215,7 @@
         },
         "variant_picker_haywRK": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "pick_mode": "first_available",
             "hide_sold_out": false,
@@ -279,6 +280,7 @@
       ],
       "settings": {
         "product": "stone-essential-oil-diffuser",
+        "image": "shopify:\/\/shop_images\/pdp_stone-diffuser_front_white_gallery_1_v9_image.png",
         "media_width": 50,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
