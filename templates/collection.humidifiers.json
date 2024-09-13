@@ -49,6 +49,7 @@
       "blocks": {
         "sub_heading_BDHJAt": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "Get a Free Grove Diffuser Blend on $100+ Orders, While Supplies Last",
             "sub_heading_fs": "base"
