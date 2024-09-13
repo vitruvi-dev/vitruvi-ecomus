@@ -83,7 +83,7 @@
     "hidden_badges": false,
     "action_after_atc": "open_cart_drawer",
     "empty_cart_link": "shopify:\/\/collections\/best-sellers",
-    "free_ship_pr": "gwp",
+    "free_ship_pr": "free-shipping",
     "gift_wrap_pr": "",
     "animations_reveal_on_scroll": false,
     "animations_hover_elements": "none",
