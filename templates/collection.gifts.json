@@ -255,10 +255,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Best Sellers",
+        "sec_heading": "Customer-Favorite Gift Bundles",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
