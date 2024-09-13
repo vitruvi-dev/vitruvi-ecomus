@@ -72,6 +72,20 @@
         "padding_rate": 75
       }
     },
+    "custom_line_zAe7AX": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "main": {
       "type": "main-collection",
       "disabled": true,
@@ -194,8 +208,8 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -655,6 +669,7 @@
   "order": [
     "heading",
     "top_heading_LKRnyK",
+    "custom_line_zAe7AX",
     "main",
     "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
