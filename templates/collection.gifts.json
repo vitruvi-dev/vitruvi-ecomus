@@ -297,6 +297,7 @@
       "blocks": {
         "slide_label_YpGJEd": {
           "type": "slide_label",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
             "url": "shopify:\/\/products\/build-your-own-scent-bundle",
