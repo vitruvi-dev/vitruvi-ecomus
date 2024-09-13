@@ -263,9 +263,11 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "bundle-and-save",
+        "collection": "",
         "product_list": [
-
+          "starter-stone-diffuser-bundle",
+          "good-air-cloud-humidifier-bundle",
+          "best-sleep-diffuser-humidifier-bundle"
         ],
         "product_des": "1",
         "image_ratio": "adapt_image",
