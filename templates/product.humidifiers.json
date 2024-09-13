@@ -65,6 +65,7 @@
         },
         "quantity_selector_w49daP": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },

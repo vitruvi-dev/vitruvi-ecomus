@@ -65,6 +65,7 @@
         },
         "quantity_selector_t9eqn8": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
