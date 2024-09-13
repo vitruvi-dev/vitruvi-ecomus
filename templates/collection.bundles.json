@@ -207,43 +207,6 @@
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
-        "slide_label_YpGJEd": {
-          "type": "slide_label",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
-            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
-            "banner_target": false,
-            "color_scheme": "scheme-3",
-            "sub_heading": "Bundle & Save On Scents",
-            "sub_heading_fs": "h4",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 25%.",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "medium",
-            "btn2_icon": "none",
-            "content_bg": false,
-            "content_position": "center-start",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
@@ -251,7 +214,7 @@
             "url": "shopify:\/\/products\/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "sub_heading": "Build Your Own Gift Bundle",
+            "sub_heading": "Build Your Own Diffuser Bundle",
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
@@ -279,11 +242,47 @@
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
+        },
+        "slide_label_YpGJEd": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
+            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "Build Your Own Scent Bundle",
+            "sub_heading_fs": "h4",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 25%.",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "GET STARTED",
+            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
-        "slide_label_YpGJEd",
-        "slide_label_KFMjzR"
+        "slide_label_KFMjzR",
+        "slide_label_YpGJEd"
       ],
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
