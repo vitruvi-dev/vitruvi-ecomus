@@ -292,135 +292,109 @@
         "padding_rate": 75
       }
     },
-    "price_tables_Kxrm86": {
-      "type": "price_tables",
+    "slideshow_bHhppE": {
+      "type": "slideshow",
       "blocks": {
-        "package_Ke8f3Y": {
-          "type": "package",
+        "slide_label_YpGJEd": {
+          "type": "slide_label",
           "settings": {
-            "color_scheme": "",
-            "product": "build-your-own-diffuser-bundle",
-            "show_vendor": false,
-            "label_cl": "#e2eef6",
-            "content": "Perfect as a housewarming gift to effortlessly scent every room with natural fragrances.",
-            "btn_label": "CUSTOMIZE BUNDLE",
+            "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
+            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "Bundle & Save On Scents",
+            "sub_heading_fs": "h4",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 25%.",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "GET STARTED",
+            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
           }
         },
-        "package_fMhgdp": {
-          "type": "package",
+        "slide_label_KFMjzR": {
+          "type": "slide_label",
           "settings": {
-            "color_scheme": "",
-            "product": "starter-stone-diffuser-bundle",
-            "show_vendor": false,
-            "label_cl": "#e2eef6",
-            "content": "Perfect for those new to diffusing or looking to try something new.",
-            "btn_label": "CUSTOMIZE BUNDLE",
+            "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
+            "url": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "Bundle & Save on Diffusers",
+            "sub_heading_fs": "h4",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 25%.",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "GET STARTED",
+            "btn_link": "shopify:\/\/products\/build-your-own-diffuser-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
           }
         }
       },
       "block_order": [
-        "package_Ke8f3Y",
-        "package_fMhgdp"
+        "slide_label_YpGJEd",
+        "slide_label_KFMjzR"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}",
-        ".hdt-badge__wrapp {display: none;}"
+        "h2 {font-family: \"Founders Grotesk\";}",
+        "p {font-family: \"Heldane\";}"
       ],
       "settings": {
-        "top_heading": "Browse diffuser gift bundles",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "top_description": "",
-        "sec_heading_spacing": 30,
-        "enable_icon_check": false,
-        "content_pos": "start",
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "2",
-        "col_tb": "2",
-        "col_mb": "2",
+        "full_width": false,
+        "item_round": "rounded",
+        "image_height": "fixed",
+        "fixed_height": 600,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "color_scheme": "scheme-1",
+        "loop": false,
+        "auto_play": 5,
+        "pause_hover": false,
         "navUI": false,
         "dotUI": false,
-        "section_fullwidth": true,
-        "color_scheme": "",
-        "padding_top": 116,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "price_tables_DNiYn4": {
-      "type": "price_tables",
-      "blocks": {
-        "package_zPgPKw": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "good-air-cloud-humidifier-bundle",
-            "show_vendor": false,
-            "label_cl": "#e2eef6",
-            "content": "Perfect for beginners or those eager to experience the benefits of humidifying effortlessly.",
-            "btn_label": "CUSTOMIZE BUNDLE",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        },
-        "package_JjfJ4d": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "best-sleep-diffuser-humidifier-bundle",
-            "show_vendor": false,
-            "label_cl": "#e2eef6",
-            "content": "Includes all of our top aircare products for creating the perfect sleep environment.",
-            "btn_label": "CUSTOMIZE BUNDLE",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "package_zPgPKw",
-        "package_JjfJ4d"
-      ],
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-main-price-table {padding-left: 10%; padding-right: 10%; } .hdt-price-table-item {padding-left: 5%; padding-right: 5%; }}",
-        ".hdt-badge__wrapp {display: none;}"
-      ],
-      "settings": {
-        "top_heading": "Browse humidifier gift bundles",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "top_description": "",
-        "sec_heading_spacing": 30,
-        "enable_icon_check": false,
-        "content_pos": "start",
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "2",
-        "col_tb": "2",
-        "col_mb": "2",
-        "navUI": false,
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 116,
-        "padding_bottom": 50,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 40,
+        "padding_top": 100,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
@@ -502,8 +476,7 @@
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
     "featured_collection_grid_yRaTqb",
-    "price_tables_Kxrm86",
-    "price_tables_DNiYn4",
+    "slideshow_bHhppE",
     "heading",
     "main"
   ]
