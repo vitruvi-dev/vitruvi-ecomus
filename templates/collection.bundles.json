@@ -122,6 +122,47 @@
         "sidebar_size": "medium"
       }
     },
+    "featured_collection_grid_MH6UTf": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Humidifier Bundles for Healthier Air",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Save more with curated humidifier sets designed to enhance your air quality and wellness all year long.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "good-air-cloud-humidifier-bundle",
+          "sleep-cloud-humidifier-bundle",
+          "best-sleep-diffuser-humidifier-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_yaaUxb": {
       "type": "featured-collection-grid",
       "settings": {
@@ -416,47 +457,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_MH6UTf": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Humidifier Bundles for Healthier Air",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Save more with curated humidifier sets designed to enhance your air quality and wellness all year long.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "good-air-cloud-humidifier-bundle",
-          "sleep-cloud-humidifier-bundle",
-          "best-sleep-diffuser-humidifier-bundle"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "accordion_qkAGnW": {
       "type": "accordion",
       "blocks": {
@@ -640,11 +640,11 @@
     "top_heading_bkwELn",
     "custom_line_wPUBFN",
     "main",
+    "featured_collection_grid_MH6UTf",
     "featured_collection_grid_yaaUxb",
     "slideshow_bHhppE",
     "featured_collection_grid_Qak8RN",
     "slideshow_hDJEhQ",
-    "featured_collection_grid_MH6UTf",
     "accordion_qkAGnW"
   ]
 }
