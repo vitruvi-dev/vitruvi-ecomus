@@ -72,6 +72,7 @@
     },
     "ae721dda-d94a-4267-887e-55888f578a11": {
       "type": "cookies",
+      "disabled": true,
       "settings": {
         "show": "2",
         "hor-ver-layout": "hor",
