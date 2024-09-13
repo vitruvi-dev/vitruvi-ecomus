@@ -73,6 +73,20 @@
         "padding_rate": 75
       }
     },
+    "custom_line_wPUBFN": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "main": {
       "type": "main-collection",
       "disabled": true,
@@ -112,10 +126,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Cloud Humidifier Bundles",
+        "sec_heading": "Humidifier Bundles for Healthier Air",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Explore our curated humidifier bundles designed for perfectly cared-for air.<\/p>",
+        "sec_subheading": "<p>Save more with curated humidifier sets designed to enhance your air quality and wellness all year long.<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -144,8 +158,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -153,10 +167,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Diffuser Bundles",
+        "sec_heading": "Diffuser Bundles for Natural Scenting",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Pick from one of our curated diffuser bundles or build your own for the perfect scenting experience.<\/p>",
+        "sec_subheading": "<p>Save more with curated diffuser sets designed to elevate your space with all-natural scents and wellness benefits year-round.<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -185,8 +199,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -371,6 +385,7 @@
   "order": [
     "heading",
     "top_heading_bkwELn",
+    "custom_line_wPUBFN",
     "main",
     "featured_collection_grid_Qak8RN",
     "featured_collection_grid_yaaUxb",
