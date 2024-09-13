@@ -58,6 +58,7 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
