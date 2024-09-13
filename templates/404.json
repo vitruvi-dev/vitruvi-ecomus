@@ -19,7 +19,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Shop all",
-            "btn_link": "shopify:\/\/collections\/shop-all",
+            "btn_link": "shopify:\/\/collections\/best-sellers",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
