@@ -49,6 +49,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -81,7 +82,7 @@
             "url": "shopify:\/\/collections\/best-sellers",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p>STOCK-UP & SAVE<\/p><p><\/p>",
+            "heading": "<p><strong>UP TO 25% OFF SITEWIDE<\/strong><br\/>FALL SALE<\/p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Refresh your space 🌟. Enjoy a free gift with every purchase. While supplies last.",
@@ -276,6 +277,48 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-1",
         "padding_top": 0,
+        "padding_bottom": 76,
+        "padding_rate": 76
+      }
+    },
+    "featured_collection_grid_Kx43Gm": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Our Best-Sellers",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Premium, natural air care products that elevate your home.<\/p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 12,
+        "sec_heading_spacing": 100,
+        "collection": "",
+        "product_list": [
+          "cloud-humidifier",
+          "stone-essential-oil-diffuser",
+          "rest-essential-oil-kit",
+          "sleep-essential-oil-blend"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 80,
+        "btn_label": "Load more",
+        "btn_style": "outline",
+        "btn_fw": "semibold",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 76,
         "padding_bottom": 76,
         "padding_rate": 76
       }
@@ -840,6 +883,7 @@
     "countdown_text_7Qr8m8",
     "image_with_text_yqNnyc",
     "featured_collection_grid_6BDUmj",
+    "featured_collection_grid_Kx43Gm",
     "d81e394c-3467-4709-a303-1d274f42da41",
     "top_heading_X4fhQJ",
     "top_heading_xQUcEk",
