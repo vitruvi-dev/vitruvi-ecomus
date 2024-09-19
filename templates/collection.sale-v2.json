@@ -126,6 +126,7 @@
     },
     "custom_line_zAe7AX": {
       "type": "custom-line",
+      "disabled": true,
       "settings": {
         "line_style": "solid",
         "line_width": 100,
