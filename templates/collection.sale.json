@@ -78,6 +78,7 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
         "image": "shopify:\/\/shop_images\/collection-hero_fall-sale.png",
+        "image_mb": "shopify:\/\/shop_images\/collection-hero_fall-sale_mobile.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -325,7 +326,6 @@
         },
         "price_C3Wc7C": {
           "type": "price",
-          "disabled": true,
           "settings": {
           }
         },
