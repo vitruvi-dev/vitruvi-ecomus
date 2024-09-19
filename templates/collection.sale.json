@@ -178,13 +178,13 @@
       "blocks": {
         "custom_liquid_73itAq": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"\/products\/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier<\/h1><\/a>\n                    <\/div>"
           }
         },
         "title_B6AfNV": {
           "type": "title",
-          "disabled": true,
           "settings": {
           }
         },
@@ -196,9 +196,9 @@
         "description_Ly67FF": {
           "type": "description",
           "settings": {
-            "des": "1",
+            "des": "2",
             "short_des": "",
-            "length": 31
+            "length": 90
           }
         },
         "buy_buttons_NMNaGy": {
@@ -239,7 +239,7 @@
         "img_trust_769AGd"
       ],
       "settings": {
-        "product": "cloud-humidifier",
+        "product": "fall-humidifier-bundle",
         "image": "shopify:\/\/shop_images\/pdp_cloud-humidifier_white_gallery_1_image.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
