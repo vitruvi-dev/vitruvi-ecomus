@@ -101,14 +101,14 @@
         },
         "img_trust_ygqnBq": {
           "type": "img_trust",
-          "disabled": true,
+          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
             "show_icon": true,
-            "mess": "Free Golden Blend on $100+ Orders",
+            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
             "source": "1",
-            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_golden_gallery_1_v2_image.png",
+            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
             "wimg": 100,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "svg": "",
             "height": 100
           }
         },
