@@ -90,7 +90,7 @@
         "full_width": false,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
-        "padding_top": 80,
+        "padding_top": 100,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -126,7 +126,6 @@
     },
     "custom_line_zAe7AX": {
       "type": "custom-line",
-      "disabled": true,
       "settings": {
         "line_style": "solid",
         "line_width": 100,
@@ -197,7 +196,7 @@
         "description_Ly67FF": {
           "type": "description",
           "settings": {
-            "des": "1",
+            "des": "2",
             "short_des": "",
             "length": 31
           }
