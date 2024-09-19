@@ -176,17 +176,6 @@
     "featured_product_4PVpj9": {
       "type": "featured-product",
       "blocks": {
-        "badges_La7CMN": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
         "custom_liquid_73itAq": {
           "type": "custom_liquid",
           "settings": {
@@ -197,6 +186,18 @@
           "type": "title",
           "disabled": true,
           "settings": {
+          }
+        },
+        "badges_gMfrXa": {
+          "type": "badges",
+          "disabled": true,
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
           }
         },
         "price_3WTNYB": {
@@ -241,9 +242,9 @@
         }
       },
       "block_order": [
-        "badges_La7CMN",
         "custom_liquid_73itAq",
         "title_B6AfNV",
+        "badges_gMfrXa",
         "price_3WTNYB",
         "description_Ly67FF",
         "buy_buttons_NMNaGy",
@@ -251,7 +252,7 @@
         "img_trust_769AGd"
       ],
       "settings": {
-        "product": "cloud-humidifier",
+        "product": "best-sleep-diffuser-humidifier-bundle",
         "image": "shopify:\/\/shop_images\/pdp_cloud-humidifier_white_gallery_1_image.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
