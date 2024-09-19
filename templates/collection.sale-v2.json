@@ -278,10 +278,11 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
+          "cloud-humidifier",
           "humidifier-filters",
           "humidifier-sensor-hygrometer",
-          "good-air-cloud-humidifier-bundle",
-          "best-sleep-diffuser-humidifier-bundle"
+          "best-sleep-diffuser-humidifier-bundle",
+          "good-air-cloud-humidifier-bundle"
         ],
         "product_des": "10",
         "image_ratio": "square",
