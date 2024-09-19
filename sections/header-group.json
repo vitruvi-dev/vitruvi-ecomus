@@ -22,6 +22,7 @@
         },
         "announcement_RzCepp": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
           }
