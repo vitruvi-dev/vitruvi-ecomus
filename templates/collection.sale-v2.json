@@ -51,7 +51,7 @@
         "heading_CeLpaN": {
           "type": "heading",
           "settings": {
-            "heading": "Ecomus theme shopify",
+            "heading": "FALL SALE",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -67,6 +67,10 @@
       "block_order": [
         "heading_CeLpaN",
         "text_PLCVYg"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\";}",
+        ".hdt-countdown__item {border-radius: 0px;}"
       ],
       "settings": {
         "image_height": "fixed",
