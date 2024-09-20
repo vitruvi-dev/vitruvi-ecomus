@@ -327,7 +327,10 @@
         "sec_heading_spacing": 30,
         "collection": "scent-kits",
         "product_list": [
-
+          "fall-scents-bundle",
+          "refresh-essential-oil-kit",
+          "rest-essential-oil-kit",
+          "signature-essential-oil-kit"
         ],
         "product_des": "10",
         "image_ratio": "square",
