@@ -58,7 +58,6 @@
       "block_order": [
         "sub_heading_eFjHEL"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -136,6 +135,7 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
+          "fall-humidifier-bundle",
           "good-air-cloud-humidifier-bundle",
           "sleep-cloud-humidifier-bundle",
           "best-sleep-diffuser-humidifier-bundle"
@@ -177,6 +177,7 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
+          "fall-diffuser-bundle",
           "starter-stone-diffuser-bundle",
           "sleep-stone-diffuser-bundle",
           "best-sleep-diffuser-humidifier-bundle"
@@ -325,7 +326,10 @@
         "sec_heading_spacing": 30,
         "collection": "scent-kits",
         "product_list": [
-
+          "fall-scents-bundle",
+          "refresh-essential-oil-kit",
+          "rest-essential-oil-kit",
+          "signature-essential-oil-kit"
         ],
         "product_des": "10",
         "image_ratio": "square",
