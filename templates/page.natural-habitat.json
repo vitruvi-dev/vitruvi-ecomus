@@ -82,9 +82,9 @@
         "banner_1_7J8ynU": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_natural-habitat_article-1_2024-06.jpg",
+            "image": "shopify://shop_images/page_natural-habitat_article-1_2024-06.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "banner_url": "shopify://blogs/spaces/how-a-humidifier-can-help-you-sleep",
             "banner_target": false,
             "sub_heading": "More sleep: something we all want, need, and deserve.",
             "sub_heading_fs": "base",
@@ -96,7 +96,7 @@
             "heading_fw": "semibold",
             "heading_space": 15,
             "btn_label": "Read more",
-            "btn_link": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "btn_link": "shopify://blogs/spaces/how-a-humidifier-can-help-you-sleep",
             "target": false,
             "btn_style": "link",
             "btn_fw": "normal",
@@ -116,9 +116,9 @@
         "banner_1_c6GFkk": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_scent-note_peppermint_image.png",
+            "image": "shopify://shop_images/pdp_essential-oil-blend_scent-note_peppermint_image.png",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/blogs\/health-and-wellness\/which-essential-oils-are-antibacterial-and-antimicrobial",
+            "banner_url": "shopify://blogs/health-and-wellness/which-essential-oils-are-antibacterial-and-antimicrobial",
             "banner_target": false,
             "sub_heading": "These oils—which smell amazing—can be used for a myriad of cleaning and cleansing purposes.",
             "sub_heading_fs": "base",
@@ -130,7 +130,7 @@
             "heading_fw": "semibold",
             "heading_space": 15,
             "btn_label": "Read more",
-            "btn_link": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "btn_link": "shopify://blogs/spaces/how-a-humidifier-can-help-you-sleep",
             "target": false,
             "btn_style": "link",
             "btn_fw": "normal",
@@ -150,9 +150,9 @@
         "banner_1_XEPqtm": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_natural-habitat_article-3_2024-06.jpg",
+            "image": "shopify://shop_images/page_natural-habitat_article-3_2024-06.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/blogs\/spaces\/the-health-risks-of-burning-scented-candles",
+            "banner_url": "shopify://blogs/spaces/the-health-risks-of-burning-scented-candles",
             "banner_target": false,
             "sub_heading": "Burning candles can release harmful particulates, creating a need for a safer alternative.",
             "sub_heading_fs": "base",
@@ -164,7 +164,7 @@
             "heading_fw": "semibold",
             "heading_space": 15,
             "btn_label": "Read more",
-            "btn_link": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "btn_link": "shopify://blogs/spaces/how-a-humidifier-can-help-you-sleep",
             "target": false,
             "btn_style": "link",
             "btn_fw": "normal",
@@ -202,54 +202,54 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Bodies.png",
+            "image": "shopify://shop_images/Bodies.png",
             "title": "Bodies",
-            "collection_link": "shopify:\/\/blogs\/bodies"
+            "collection_link": "shopify://blogs/bodies"
           }
         },
         "collection_item_bRNJAP": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Spaces.png",
+            "image": "shopify://shop_images/Spaces.png",
             "title": "Spaces",
-            "collection_link": "shopify:\/\/blogs\/spaces"
+            "collection_link": "shopify://blogs/spaces"
           }
         },
         "collection_item_XePrca": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/World.png",
+            "image": "shopify://shop_images/World.png",
             "title": "World",
-            "collection_link": "shopify:\/\/blogs\/world"
+            "collection_link": "shopify://blogs/world"
           }
         },
         "collection_item_F7LPyP": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Health_and_Wellness_Mobile.jpg",
+            "image": "shopify://shop_images/Health_and_Wellness_Mobile.jpg",
             "title": "Health & Wellness",
-            "collection_link": "shopify:\/\/blogs\/health-and-wellness"
+            "collection_link": "shopify://blogs/health-and-wellness"
           }
         },
         "collection_item_QtyqBV": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Culture_Mobile.jpg",
+            "image": "shopify://shop_images/Culture_Mobile.jpg",
             "title": "Culture",
-            "collection_link": "shopify:\/\/blogs\/culture"
+            "collection_link": "shopify://blogs/culture"
           }
         },
         "collection_item_aGfx73": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Impact_and_Identity_Mobile.jpg",
+            "image": "shopify://shop_images/Impact_and_Identity_Mobile.jpg",
             "title": "Impact & Identity",
-            "collection_link": "shopify:\/\/blogs\/impact-and-identity"
+            "collection_link": "shopify://blogs/impact-and-identity"
           }
         }
       },
@@ -276,7 +276,7 @@
         "sec_heading": "Bodies",
         "heading_tag": "h3",
         "heading_size": "h5",
-        "sec_subheading": "<p>Latest<\/p>",
+        "sec_subheading": "<p>Latest</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "heading_gap": 5,
@@ -314,7 +314,7 @@
         "sec_heading": "Spaces",
         "heading_tag": "h3",
         "heading_size": "h5",
-        "sec_subheading": "<p>Latest<\/p>",
+        "sec_subheading": "<p>Latest</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "heading_gap": 5,
@@ -352,7 +352,7 @@
         "sec_heading": "Spaces",
         "heading_tag": "h3",
         "heading_size": "h5",
-        "sec_subheading": "<p>World<\/p>",
+        "sec_subheading": "<p>Latest</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "heading_gap": 5,
