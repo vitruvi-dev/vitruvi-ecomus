@@ -120,7 +120,9 @@
         ".hdt-article-img {max-height: 32.4rem;}",
         ".hdt-article-title a {line-height: 1.5;}",
         ".hdt-article-content {padding-left: 5%; padding-right: 5%;}",
-        "@media only screen and (min-width: 1024px) {.hdt-article-content, .hdt-article-image {padding-left: 15%; padding-right: 15%; }}"
+        "@media only screen and (min-width: 1024px) {.hdt-article-content, .hdt-article-image {padding-left: 15%; padding-right: 15%; }}",
+        "h2 {font-size: 28px; font-family: \"Founders Grotesk\"; font-weight: 300;}",
+        "h3 {font-size: 24px; font-family: \"Founders Grotesk\"; font-weight: 300;}"
       ],
       "settings": {
         "section_fullwidth": false,
