@@ -118,8 +118,7 @@
         ".hdt-article-category {text-transform: uppercase;}",
         ".hdt-article-image {max-height: 612px;}",
         ".hdt-article-img {max-height: 32.4rem;}",
-        ".hdt-article-title a {line-height: 1.5;}",
-        ".hdt-main-articles {margin-left: 30%; margin-right: 30%}"
+        ".hdt-article-title a {line-height: 1.5;}"
       ],
       "settings": {
         "section_fullwidth": false,
