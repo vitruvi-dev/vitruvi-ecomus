@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "heading-page": {
@@ -20,6 +29,7 @@
         "ad95c1a5-1776-432d-80af-57c647f901dc",
         "b9f31384-d28d-43c3-bab7-7f8793c58f8d"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "spacing_hd": 5,
@@ -28,11 +38,45 @@
         "padding_rate": 75
       }
     },
+    "top_heading_ffEYzY": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_hhaYeN": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ blog.title }}",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_kxyaGG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hhaYeN",
+        "sub_heading_kxyaGG"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d": {
       "type": "main-blog",
       "blocks": {
         "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-post-1": {
           "type": "post",
+          "disabled": true,
           "settings": {
             "title": "Recent Post",
             "color_recent_post": "",
@@ -45,6 +89,7 @@
         },
         "template--20958099865904__fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d-blog_cate-1": {
           "type": "blog_cate",
+          "disabled": true,
           "settings": {
             "title": "Explore Natural Habitat",
             "cat_link_list": "natural-habitat-blogs",
@@ -94,11 +139,11 @@
         "section_fullwidth": false,
         "article_des": "des_1",
         "limit": 9,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "hor_space": 30,
-        "ver_space": 37,
+        "col_dk": "2",
+        "col_tb": "2",
+        "col_mb": "1",
+        "hor_space": 60,
+        "ver_space": 60,
         "show_blog_title": "disable",
         "show_content": true,
         "show_tags": false,
@@ -106,11 +151,11 @@
         "show_comment": false,
         "show_readmore": true,
         "show_date": false,
-        "date": "%b %d",
+        "date": "date",
         "color_scheme": "scheme-1",
         "Content_align": "start",
-        "image_ratio": "-square",
-        "image_size": "cover",
+        "image_ratio": "-adapt_image",
+        "image_size": "contain",
         "pagination_type": "load_more",
         "paginate_pos": "center",
         "dis_pagination": 70,
@@ -127,6 +172,7 @@
   },
   "order": [
     "heading-page",
+    "top_heading_ffEYzY",
     "fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d"
   ]
 }
