@@ -49,15 +49,15 @@
         "heading_hbqVRw": {
           "type": "heading",
           "settings": {
-            "heading": "Natural Habitat",
-            "heading_fs": "h4"
+            "heading": "Natural Habitat Magazine",
+            "heading_fs": "h2"
           }
         },
         "sub_heading_zg8dQV": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "An exploration of what it means to be at home—in our bodies, in our spaces, and in our world.",
-            "sub_heading_fs": "base"
+            "sub_heading_fs": "lg"
           }
         }
       },
@@ -82,9 +82,9 @@
         "banner_1_7J8ynU": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_natural-habitat_article-1_2024-06.jpg",
+            "image": "shopify://shop_images/page_natural-habitat_article-1_2024-06.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "banner_url": "shopify://blogs/spaces/how-a-humidifier-can-help-you-sleep",
             "banner_target": false,
             "sub_heading": "More sleep: something we all want, need, and deserve.",
             "sub_heading_fs": "base",
@@ -96,7 +96,7 @@
             "heading_fw": "semibold",
             "heading_space": 15,
             "btn_label": "Read more",
-            "btn_link": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "btn_link": "shopify://blogs/spaces/how-a-humidifier-can-help-you-sleep",
             "target": false,
             "btn_style": "link",
             "btn_fw": "normal",
@@ -116,9 +116,9 @@
         "banner_1_c6GFkk": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_scent-note_peppermint_image.png",
+            "image": "shopify://shop_images/pdp_essential-oil-blend_scent-note_peppermint_image.png",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/blogs\/health-and-wellness\/which-essential-oils-are-antibacterial-and-antimicrobial",
+            "banner_url": "shopify://blogs/health-and-wellness/which-essential-oils-are-antibacterial-and-antimicrobial",
             "banner_target": false,
             "sub_heading": "These oils—which smell amazing—can be used for a myriad of cleaning and cleansing purposes.",
             "sub_heading_fs": "base",
@@ -130,7 +130,7 @@
             "heading_fw": "semibold",
             "heading_space": 15,
             "btn_label": "Read more",
-            "btn_link": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "btn_link": "shopify://blogs/spaces/how-a-humidifier-can-help-you-sleep",
             "target": false,
             "btn_style": "link",
             "btn_fw": "normal",
@@ -150,9 +150,9 @@
         "banner_1_XEPqtm": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_natural-habitat_article-3_2024-06.jpg",
+            "image": "shopify://shop_images/page_natural-habitat_article-3_2024-06.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/blogs\/spaces\/the-health-risks-of-burning-scented-candles",
+            "banner_url": "shopify://blogs/spaces/the-health-risks-of-burning-scented-candles",
             "banner_target": false,
             "sub_heading": "Burning candles can release harmful particulates, creating a need for a safer alternative.",
             "sub_heading_fs": "base",
@@ -164,7 +164,7 @@
             "heading_fw": "semibold",
             "heading_space": 15,
             "btn_label": "Read more",
-            "btn_link": "shopify:\/\/blogs\/spaces\/how-a-humidifier-can-help-you-sleep",
+            "btn_link": "shopify://blogs/spaces/how-a-humidifier-can-help-you-sleep",
             "target": false,
             "btn_style": "link",
             "btn_fw": "normal",
@@ -195,77 +195,41 @@
         "padding_rate": 75
       }
     },
-    "categories_section_zbcrTJ": {
-      "type": "categories-section",
-      "blocks": {
-        "collection_item_NWn7Jk": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Bodies.png",
-            "title": "Bodies",
-            "collection_link": "shopify:\/\/blogs\/bodies"
-          }
-        },
-        "collection_item_bRNJAP": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Spaces.png",
-            "title": "Spaces",
-            "collection_link": "shopify:\/\/blogs\/spaces"
-          }
-        },
-        "collection_item_XePrca": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/World.png",
-            "title": "World",
-            "collection_link": "shopify:\/\/blogs\/world"
-          }
-        },
-        "collection_item_F7LPyP": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Health_and_Wellness_Mobile.jpg",
-            "title": "Health & Wellness",
-            "collection_link": "shopify:\/\/blogs\/health-and-wellness"
-          }
-        },
-        "collection_item_QtyqBV": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Culture_Mobile.jpg",
-            "title": "Culture",
-            "collection_link": "shopify:\/\/blogs\/culture"
-          }
-        },
-        "collection_item_aGfx73": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/Impact_and_Identity_Mobile.jpg",
-            "title": "Impact & Identity",
-            "collection_link": "shopify:\/\/blogs\/impact-and-identity"
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_NWn7Jk",
-        "collection_item_bRNJAP",
-        "collection_item_XePrca",
-        "collection_item_F7LPyP",
-        "collection_item_QtyqBV",
-        "collection_item_aGfx73"
-      ],
+    "blog_ThEBHB": {
+      "type": "blog",
       "settings": {
+        "heading_align": "center",
+        "sec_heading": "News",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>What’s New in</p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "heading_gap": 5,
+        "sec_heading_spacing": 20,
+        "blog": "news",
+        "limit": 12,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "show_blog_title": "disable",
+        "show_content": true,
+        "show_tags": false,
+        "show_author": false,
+        "show_comment": false,
+        "show_readmore": true,
+        "show_date": false,
+        "date": "%b %d",
+        "navUI": false,
+        "dotUI": true,
+        "Content_align": "start",
+        "image_ratio": "-square",
+        "image_size": "cover",
+        "layout_des": "2",
+        "section_fullwidth": false,
         "color_scheme": "",
-        "style": "normal",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 30,
+        "padding_bottom": 30,
         "padding_rate": 75
       }
     },
@@ -275,8 +239,8 @@
         "heading_align": "center",
         "sec_heading": "Bodies",
         "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Latest<\/p>",
+        "heading_size": "h4",
+        "sec_subheading": "<p>What’s New in</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "heading_gap": 5,
@@ -313,8 +277,8 @@
         "heading_align": "center",
         "sec_heading": "Spaces",
         "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Latest<\/p>",
+        "heading_size": "h4",
+        "sec_subheading": "<p>What’s New in</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "heading_gap": 5,
@@ -349,10 +313,10 @@
       "type": "blog",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Spaces",
+        "sec_heading": "World",
         "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>World<\/p>",
+        "heading_size": "h4",
+        "sec_subheading": "<p>What’s New in</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "heading_gap": 5,
@@ -382,6 +346,126 @@
         "padding_bottom": 30,
         "padding_rate": 75
       }
+    },
+    "top_heading_je3dr7": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_yWD7rr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse by Topic",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_mHDgxq": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Explore stories and tips across categories like wellness, spaces, culture, and more to elevate every part of your day.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yWD7rr",
+        "sub_heading_mHDgxq"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "categories_section_zbcrTJ": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_WbBWRm": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_essential-oil-blend_boost_hover-state_image.png",
+            "title": "News",
+            "collection_link": "shopify://blogs/news"
+          }
+        },
+        "collection_item_NWn7Jk": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Bodies.png",
+            "title": "Bodies",
+            "collection_link": "shopify://blogs/bodies"
+          }
+        },
+        "collection_item_bRNJAP": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Spaces.png",
+            "title": "Spaces",
+            "collection_link": "shopify://blogs/spaces"
+          }
+        },
+        "collection_item_XePrca": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/World.png",
+            "title": "World",
+            "collection_link": "shopify://blogs/world"
+          }
+        },
+        "collection_item_F7LPyP": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Health_and_Wellness_Mobile.jpg",
+            "title": "Health & Wellness",
+            "collection_link": "shopify://blogs/health-and-wellness"
+          }
+        },
+        "collection_item_QtyqBV": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Culture_Mobile.jpg",
+            "title": "Culture",
+            "collection_link": "shopify://blogs/culture"
+          }
+        },
+        "collection_item_aGfx73": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Impact_and_Identity_Mobile.jpg",
+            "title": "Impact & Identity",
+            "collection_link": "shopify://blogs/impact-and-identity"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_WbBWRm",
+        "collection_item_NWn7Jk",
+        "collection_item_bRNJAP",
+        "collection_item_XePrca",
+        "collection_item_F7LPyP",
+        "collection_item_QtyqBV",
+        "collection_item_aGfx73"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "normal",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -389,9 +473,11 @@
     "main",
     "top_heading_EEMXf8",
     "banner_masonry_w8zbwP",
-    "categories_section_zbcrTJ",
+    "blog_ThEBHB",
     "blog_4YVhxw",
     "blog_jBitc7",
-    "blog_wtwp3T"
+    "blog_wtwp3T",
+    "top_heading_je3dr7",
+    "categories_section_zbcrTJ"
   ]
 }
