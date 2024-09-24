@@ -66,8 +66,8 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 70,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -164,8 +164,8 @@
         "sidebar_size": "medium",
         "heading_tag": "h2",
         "space": 50,
-        "padding_top": 36,
-        "padding_bottom": 74,
+        "padding_top": 80,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -197,8 +197,8 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -285,7 +285,7 @@
         "color_scheme": "",
         "style": "normal",
         "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     }
