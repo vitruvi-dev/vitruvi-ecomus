@@ -45,7 +45,7 @@
           "type": "heading",
           "settings": {
             "heading": "{{ blog.title }}",
-            "heading_fs": "h4"
+            "heading_fs": "h3"
           }
         },
         "sub_heading_kxyaGG": {
@@ -66,8 +66,8 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 70,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -138,7 +138,7 @@
       "settings": {
         "section_fullwidth": false,
         "article_des": "des_1",
-        "limit": 9,
+        "limit": 12,
         "col_dk": "2",
         "col_tb": "2",
         "col_mb": "1",
@@ -164,8 +164,128 @@
         "sidebar_size": "medium",
         "heading_tag": "h2",
         "space": 50,
-        "padding_top": 36,
-        "padding_bottom": 74,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_7dbXWV": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_ihDDMz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse By Topic",
+            "heading_fs": "h5"
+          }
+        },
+        "sub_heading_bPYcdn": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Explore stories and tips across categories like wellness, spaces, culture, and more to elevate every part of your day.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ihDDMz",
+        "sub_heading_bPYcdn"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "categories_section_zbcrTJ": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_WbBWRm": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_essential-oil-blend_boost_hover-state_image.png",
+            "title": "News",
+            "collection_link": "shopify://blogs/news"
+          }
+        },
+        "collection_item_NWn7Jk": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Bodies.png",
+            "title": "Bodies",
+            "collection_link": "shopify://blogs/bodies"
+          }
+        },
+        "collection_item_bRNJAP": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Spaces.png",
+            "title": "Spaces",
+            "collection_link": "shopify://blogs/spaces"
+          }
+        },
+        "collection_item_XePrca": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/World.png",
+            "title": "World",
+            "collection_link": "shopify://blogs/world"
+          }
+        },
+        "collection_item_F7LPyP": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Health_and_Wellness_Mobile.jpg",
+            "title": "Health & Wellness",
+            "collection_link": "shopify://blogs/health-and-wellness"
+          }
+        },
+        "collection_item_QtyqBV": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Culture_Mobile.jpg",
+            "title": "Culture",
+            "collection_link": "shopify://blogs/culture"
+          }
+        },
+        "collection_item_aGfx73": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Impact_and_Identity_Mobile.jpg",
+            "title": "Impact & Identity",
+            "collection_link": "shopify://blogs/impact-and-identity"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_WbBWRm",
+        "collection_item_NWn7Jk",
+        "collection_item_bRNJAP",
+        "collection_item_XePrca",
+        "collection_item_F7LPyP",
+        "collection_item_QtyqBV",
+        "collection_item_aGfx73"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "normal",
+        "padding_top": 40,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     }
@@ -173,6 +293,8 @@
   "order": [
     "heading-page",
     "top_heading_ffEYzY",
-    "fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d"
+    "fd08f6fa-eb87-4fc2-a7e0-3e5d41df907d",
+    "top_heading_7dbXWV",
+    "categories_section_zbcrTJ"
   ]
 }
