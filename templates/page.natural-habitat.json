@@ -49,8 +49,8 @@
         "heading_hbqVRw": {
           "type": "heading",
           "settings": {
-            "heading": "Natural Habitat",
-            "heading_fs": "h1"
+            "heading": "Natural Habitat Magazine",
+            "heading_fs": "h2"
           }
         },
         "sub_heading_zg8dQV": {
@@ -198,10 +198,10 @@
     "blog_ThEBHB": {
       "type": "blog",
       "settings": {
-        "heading_align": "start",
+        "heading_align": "center",
         "sec_heading": "News",
         "heading_tag": "h3",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "<p>What’s New in</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
@@ -236,10 +236,10 @@
     "blog_4YVhxw": {
       "type": "blog",
       "settings": {
-        "heading_align": "start",
+        "heading_align": "center",
         "sec_heading": "Bodies",
         "heading_tag": "h3",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "<p>What’s New in</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
@@ -274,10 +274,10 @@
     "blog_jBitc7": {
       "type": "blog",
       "settings": {
-        "heading_align": "start",
+        "heading_align": "center",
         "sec_heading": "Spaces",
         "heading_tag": "h3",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "<p>What’s New in</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
@@ -312,10 +312,10 @@
     "blog_wtwp3T": {
       "type": "blog",
       "settings": {
-        "heading_align": "start",
-        "sec_heading": "Spaces",
+        "heading_align": "center",
+        "sec_heading": "World",
         "heading_tag": "h3",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "<p>What’s New in</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
@@ -371,8 +371,8 @@
       ],
       "settings": {
         "spacing_item": 30,
-        "alignment": "left",
-        "alignment_mb": "left",
+        "alignment": "center",
+        "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
         "padding_top": 40,
