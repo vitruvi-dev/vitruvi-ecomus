@@ -50,14 +50,14 @@
           "type": "heading",
           "settings": {
             "heading": "Natural Habitat",
-            "heading_fs": "h4"
+            "heading_fs": "h1"
           }
         },
         "sub_heading_zg8dQV": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "An exploration of what it means to be at home—in our bodies, in our spaces, and in our world.",
-            "sub_heading_fs": "base"
+            "sub_heading_fs": "lg"
           }
         }
       },
@@ -195,9 +195,203 @@
         "padding_rate": 75
       }
     },
+    "blog_ThEBHB": {
+      "type": "blog",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "News",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>What’s New in</p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "heading_gap": 5,
+        "sec_heading_spacing": 20,
+        "blog": "news",
+        "limit": 12,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "show_blog_title": "disable",
+        "show_content": true,
+        "show_tags": false,
+        "show_author": false,
+        "show_comment": false,
+        "show_readmore": true,
+        "show_date": false,
+        "date": "%b %d",
+        "navUI": false,
+        "dotUI": true,
+        "Content_align": "start",
+        "image_ratio": "-square",
+        "image_size": "cover",
+        "layout_des": "2",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "blog_4YVhxw": {
+      "type": "blog",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Bodies",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>What’s New in</p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "heading_gap": 5,
+        "sec_heading_spacing": 20,
+        "blog": "bodies",
+        "limit": 12,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "show_blog_title": "disable",
+        "show_content": true,
+        "show_tags": false,
+        "show_author": false,
+        "show_comment": false,
+        "show_readmore": true,
+        "show_date": false,
+        "date": "%b %d",
+        "navUI": false,
+        "dotUI": true,
+        "Content_align": "start",
+        "image_ratio": "-square",
+        "image_size": "cover",
+        "layout_des": "2",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "blog_jBitc7": {
+      "type": "blog",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Spaces",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>What’s New in</p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "heading_gap": 5,
+        "sec_heading_spacing": 20,
+        "blog": "spaces",
+        "limit": 12,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "show_blog_title": "disable",
+        "show_content": true,
+        "show_tags": false,
+        "show_author": false,
+        "show_comment": false,
+        "show_readmore": true,
+        "show_date": false,
+        "date": "%b %d",
+        "navUI": false,
+        "dotUI": true,
+        "Content_align": "start",
+        "image_ratio": "-square",
+        "image_size": "cover",
+        "layout_des": "2",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "blog_wtwp3T": {
+      "type": "blog",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Spaces",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "sec_subheading": "<p>What’s New in</p>",
+        "subheading_size": "lg",
+        "heading_reverse": true,
+        "heading_gap": 5,
+        "sec_heading_spacing": 20,
+        "blog": "world",
+        "limit": 12,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "show_blog_title": "disable",
+        "show_content": true,
+        "show_tags": false,
+        "show_author": false,
+        "show_comment": false,
+        "show_readmore": true,
+        "show_date": false,
+        "date": "%b %d",
+        "navUI": false,
+        "dotUI": true,
+        "Content_align": "start",
+        "image_ratio": "-square",
+        "image_size": "cover",
+        "layout_des": "2",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_je3dr7": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_yWD7rr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse by Topic",
+            "heading_fs": "h5"
+          }
+        },
+        "sub_heading_mHDgxq": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Explore stories and tips across categories like wellness, spaces, culture, and more to elevate every part of your day.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yWD7rr",
+        "sub_heading_mHDgxq"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "left",
+        "alignment_mb": "left",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "categories_section_zbcrTJ": {
       "type": "categories-section",
       "blocks": {
+        "collection_item_WbBWRm": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_essential-oil-blend_boost_hover-state_image.png",
+            "title": "News",
+            "collection_link": "shopify://blogs/news"
+          }
+        },
         "collection_item_NWn7Jk": {
           "type": "collection_item",
           "settings": {
@@ -254,6 +448,7 @@
         }
       },
       "block_order": [
+        "collection_item_WbBWRm",
         "collection_item_NWn7Jk",
         "collection_item_bRNJAP",
         "collection_item_XePrca",
@@ -261,125 +456,14 @@
         "collection_item_QtyqBV",
         "collection_item_aGfx73"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "color_scheme": "",
         "style": "normal",
         "padding_top": 40,
         "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "blog_4YVhxw": {
-      "type": "blog",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Bodies",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Latest</p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "heading_gap": 5,
-        "sec_heading_spacing": 20,
-        "blog": "bodies",
-        "limit": 12,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "show_blog_title": "disable",
-        "show_content": true,
-        "show_tags": false,
-        "show_author": false,
-        "show_comment": false,
-        "show_readmore": true,
-        "show_date": false,
-        "date": "%b %d",
-        "navUI": false,
-        "dotUI": true,
-        "Content_align": "start",
-        "image_ratio": "-square",
-        "image_size": "cover",
-        "layout_des": "2",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
-    "blog_jBitc7": {
-      "type": "blog",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Spaces",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Latest</p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "heading_gap": 5,
-        "sec_heading_spacing": 20,
-        "blog": "spaces",
-        "limit": 12,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "show_blog_title": "disable",
-        "show_content": true,
-        "show_tags": false,
-        "show_author": false,
-        "show_comment": false,
-        "show_readmore": true,
-        "show_date": false,
-        "date": "%b %d",
-        "navUI": false,
-        "dotUI": true,
-        "Content_align": "start",
-        "image_ratio": "-square",
-        "image_size": "cover",
-        "layout_des": "2",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
-    "blog_wtwp3T": {
-      "type": "blog",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Spaces",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Latest</p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "heading_gap": 5,
-        "sec_heading_spacing": 20,
-        "blog": "world",
-        "limit": 12,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "show_blog_title": "disable",
-        "show_content": true,
-        "show_tags": false,
-        "show_author": false,
-        "show_comment": false,
-        "show_readmore": true,
-        "show_date": false,
-        "date": "%b %d",
-        "navUI": false,
-        "dotUI": true,
-        "Content_align": "start",
-        "image_ratio": "-square",
-        "image_size": "cover",
-        "layout_des": "2",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 30,
         "padding_rate": 75
       }
     }
@@ -389,9 +473,11 @@
     "main",
     "top_heading_EEMXf8",
     "banner_masonry_w8zbwP",
-    "categories_section_zbcrTJ",
+    "blog_ThEBHB",
     "blog_4YVhxw",
     "blog_jBitc7",
-    "blog_wtwp3T"
+    "blog_wtwp3T",
+    "top_heading_je3dr7",
+    "categories_section_zbcrTJ"
   ]
 }
