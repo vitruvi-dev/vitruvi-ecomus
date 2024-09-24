@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "heading-page": {
@@ -14,6 +23,12 @@
     "7cf53d2f-1d77-4fe9-80cc-7242596e17a1": {
       "type": "main-article",
       "blocks": {
+        "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-image-1": {
+          "type": "image",
+          "settings": {
+            "margin_bottom": 30
+          }
+        },
         "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-title-1": {
           "type": "title",
           "settings": {
@@ -24,12 +39,6 @@
             "show_date": true,
             "date": "%b %d",
             "content_align": "center",
-            "margin_bottom": 30
-          }
-        },
-        "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-image-1": {
-          "type": "image",
-          "settings": {
             "margin_bottom": 30
           }
         },
@@ -77,7 +86,7 @@
             "col_dk": "4",
             "col_tb": "3",
             "col_mb": "2",
-            "show_blog_title": "blog_tags",
+            "show_blog_title": "disable",
             "show_content": true,
             "show_tags": false,
             "show_author": false,
@@ -97,8 +106,8 @@
         }
       },
       "block_order": [
-        "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-title-1",
         "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-image-1",
+        "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-title-1",
         "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-article_content-1",
         "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-tags_social-1",
         "template--20958100783408__7cf53d2f-1d77-4fe9-80cc-7242596e17a1-navigation-1",
@@ -175,6 +184,7 @@
         "template--20958100783408__9c40764c-5483-4d0e-a687-93d6770b4cff-tags-1",
         "template--20958100783408__9c40764c-5483-4d0e-a687-93d6770b4cff-gallery-1"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 1150px) {.hdt-sidebar-post {margin-bottom: 4rem; } .hdt-widget-blog-category h5 {margin-bottom: 20px; } .hdt-sidebar-post h5 {margin-bottom: 3.1rem; } .hdt-widget-blog-tags {margin-bottom: 5rem; } .hdt-widget-gallery h5 {margin-bottom: 3.2rem; } .hdt-article-img {max-height: 8.8rem; }}",
         ".hdt-article-category {text-transform: uppercase;}",
