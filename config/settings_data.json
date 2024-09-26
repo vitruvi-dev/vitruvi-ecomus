@@ -28,7 +28,7 @@
     "library_font": "google",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
-    "embed_custom_font": "<link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin>\n<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Albert+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap\" rel=\"stylesheet\">",
+    "embed_custom_font": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap\" rel=\"stylesheet\">",
     "font_custom_heading": "'Founders Grotesk', sans-serif",
     "font_custom_body": "'Founders Grotesk', sans-serif",
     "bd_fweight": 200,
@@ -58,7 +58,7 @@
     "wis_atc_added": "2",
     "compare_mode": "0",
     "enable_compare_popup": true,
-    "placeholder_img": "shopify:\/\/shop_images\/vitruvi-logo_v-black.png",
+    "placeholder_img": "shopify://shop_images/vitruvi-logo_v-black.png",
     "use_url_collection_vendor": false,
     "show_secondary_image": false,
     "effect_secondary_image": "none",
@@ -82,17 +82,17 @@
     "remove_collection_url": true,
     "hidden_badges": false,
     "action_after_atc": "open_cart_drawer",
-    "empty_cart_link": "shopify:\/\/collections\/best-sellers",
+    "empty_cart_link": "shopify://collections/best-sellers",
     "free_ship_pr": "free-shipping",
     "gift_wrap_pr": "",
     "animations_reveal_on_scroll": false,
     "animations_hover_elements": "none",
     "social_facebook_link": "",
     "social_twitter_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/vitruvi\/",
+    "social_instagram_link": "https://www.instagram.com/vitruvi/",
     "social_youtube_link": "",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@vitruvi",
-    "social_pinterest_link": "https:\/\/www.pinterest.com\/vitruvi\/",
+    "social_tiktok_link": "https://www.tiktok.com/@vitruvi",
+    "social_pinterest_link": "https://www.pinterest.com/vitruvi/",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "social_snapchat_link": "",
@@ -109,8 +109,8 @@
     "currency_code_enabled": false,
     "round_currency": false,
     "auto_currency": false,
-    "favicon": "shopify:\/\/shop_images\/favicon_2024.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/vitruvi-logo_wordmark-black.png",
+    "favicon": "shopify://shop_images/favicon_2024.png",
+    "checkout_logo_image": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#f7f8f6",
@@ -207,7 +207,7 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
     "cart_type": "notification",
     "show_vendor": false,
@@ -246,7 +246,7 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/logo-black.svg",
+          "logo": "shopify://shop_images/logo-black.svg",
           "logo_width": 100,
           "color_scheme": ""
         }
@@ -305,40 +305,30 @@
 
     ],
     "blocks": {
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "14339172867238703359": {
-        "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews_tab\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-        "disabled": false,
-        "settings": {
-          "product": ""
-        }
-      },
-      "7570552984445421165": {
-        "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/settings\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "6174324309569838175": {
-        "type": "shopify:\/\/apps\/smile-io\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "10864971697205422121": {
-        "type": "shopify:\/\/apps\/gorgias-live-chat-helpdesk\/blocks\/gorgias\/a66db725-7b96-4e3f-916e-6c8e6f87aaaa",
+        "type": "shopify://apps/gorgias-live-chat-helpdesk/blocks/gorgias/a66db725-7b96-4e3f-916e-6c8e6f87aaaa",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "8746983209849429782": {
+        "type": "shopify://apps/dealeasy/blocks/app-embed/e47a8634-0496-480d-9e46-6f7fafd34b30",
+        "disabled": true,
+        "settings": {
+          "dealeasy_public_access_token": "819f9615f48602c8f4b77ae32da05611",
+          "using_translated_handles": false,
+          "custom_script_and_style": "<script></script>\n<style></style>"
+        }
+      },
+      "12592085946906583873": {
+        "type": "shopify://apps/wunderkind/blocks/tag/40b05e3b-2403-4814-8fab-e17e57e8b1aa",
         "disabled": true,
         "settings": {
         }
       },
       "15912215999290715800": {
-        "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-modal\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
-        "disabled": false,
+        "type": "shopify://apps/geolocation-orbe/blocks/app-embed-modal/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
+        "disabled": true,
         "settings": {
           "test_mode": false,
           "modal_closeButton": false,
@@ -362,12 +352,12 @@
           "style_colors_closeButton": "#474946",
           "style_colors_cta_text": "#f7f8f6",
           "style_colors_cta_button": "#474946",
-          "style_colors_text": "#000"
+          "style_colors_text": "#000000"
         }
       },
       "5858961087409699889": {
-        "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-footer-selector\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
-        "disabled": false,
+        "type": "shopify://apps/geolocation-orbe/blocks/app-embed-footer-selector/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
+        "disabled": true,
         "settings": {
           "footer_ui_type": "selector",
           "option_language": false,
@@ -390,9 +380,15 @@
           "block_alignement": "center"
         }
       },
+      "10436698916776057164": {
+        "type": "shopify://apps/appstle-subscription/blocks/appstle-subscription-helper/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
+        "disabled": true,
+        "settings": {
+        }
+      },
       "7079518687644006178": {
-        "type": "shopify:\/\/apps\/checkout-blocks\/blocks\/app-embed\/b0024ca5-9de8-4bf0-a92f-cd0783877ae2",
-        "disabled": false,
+        "type": "shopify://apps/checkout-blocks/blocks/app-embed/b0024ca5-9de8-4bf0-a92f-cd0783877ae2",
+        "disabled": true,
         "settings": {
           "utm_id": true,
           "utm_source": true,
@@ -402,25 +398,29 @@
           "ref": true
         }
       },
-      "10436698916776057164": {
-        "type": "shopify:\/\/apps\/appstle-subscription\/blocks\/appstle-subscription-helper\/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "12592085946906583873": {
-        "type": "shopify:\/\/apps\/wunderkind\/blocks\/tag\/40b05e3b-2403-4814-8fab-e17e57e8b1aa",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "8746983209849429782": {
-        "type": "shopify:\/\/apps\/dealeasy\/blocks\/app-embed\/e47a8634-0496-480d-9e46-6f7fafd34b30",
+      "6174324309569838175": {
+        "type": "shopify://apps/smile-io/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
         "disabled": true,
         "settings": {
-          "dealeasy_public_access_token": "819f9615f48602c8f4b77ae32da05611",
-          "using_translated_handles": false,
-          "custom_script_and_style": "<script><\/script>\n<style><\/style>"
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "7570552984445421165": {
+        "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/settings/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "14339172867238703359": {
+        "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews_tab/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+        "disabled": true,
+        "settings": {
+          "product": ""
         }
       }
     },
