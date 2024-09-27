@@ -185,7 +185,7 @@
           "type": "tab_html",
           "settings": {
             "title": "How to Use",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
             "page": ""
           }
         },
