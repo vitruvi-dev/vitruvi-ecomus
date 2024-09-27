@@ -232,57 +232,9 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_6BDUmj": {
-      "type": "featured-collection-grid",
-      "disabled": true,
-      "custom_css": [
-        ".hdt-collection-products {--spacing-y: 30px;}",
-        ".hdt-view-all-btn {letter-spacing: 0.1px;}",
-        "@media (min-width: 768px) {.hdt-collection-products {--spacing-y: 50px; }}",
-        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Best-Sellers",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 100,
-        "collection": "",
-        "product_list": [
-          "cloud-humidifier",
-          "move-cordless-essential-oil-diffuser",
-          "stone-essential-oil-diffuser",
-          "signature-essential-oil-kit"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 80,
-        "btn_label": "Load more",
-        "btn_style": "outline",
-        "btn_fw": "semibold",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 76,
-        "padding_rate": 76
-      }
-    },
     "featured_collection_grid_Kx43Gm": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Cozy Up Your Space",
@@ -881,10 +833,9 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "countdown_text_7Qr8m8",
     "image_with_text_yqNnyc",
-    "featured_collection_grid_6BDUmj",
     "featured_collection_grid_Kx43Gm",
-    "slideshow_bHhppE",
     "d81e394c-3467-4709-a303-1d274f42da41",
+    "slideshow_bHhppE",
     "top_heading_X4fhQJ",
     "top_heading_xQUcEk",
     "282a0160-505d-43ff-b601-043a5a327bc2",
