@@ -274,6 +274,54 @@
         "padding_rate": 76
       }
     },
+    "d81e394c-3467-4709-a303-1d274f42da41": {
+      "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-collection-products {--spacing-y: 30px;}",
+        ".hdt-view-all-btn {letter-spacing: 0.1px;}",
+        "@media (min-width: 768px) {.hdt-collection-products {--spacing-y: 50px; }}",
+        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Our Best-Sellers",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Premium, natural air care products that elevate your home.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 12,
+        "sec_heading_spacing": 100,
+        "collection": "",
+        "product_list": [
+          "cloud-humidifier",
+          "stone-essential-oil-diffuser",
+          "rest-essential-oil-kit",
+          "sleep-essential-oil-blend"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 80,
+        "btn_label": "Load more",
+        "btn_style": "outline",
+        "btn_fw": "semibold",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 76
+      }
+    },
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
@@ -377,122 +425,6 @@
         "dot_space": 40,
         "padding_top": 100,
         "padding_bottom": 100,
-        "padding_rate": 75
-      }
-    },
-    "d81e394c-3467-4709-a303-1d274f42da41": {
-      "type": "featured-collection-grid",
-      "custom_css": [
-        ".hdt-collection-products {--spacing-y: 30px;}",
-        ".hdt-view-all-btn {letter-spacing: 0.1px;}",
-        "@media (min-width: 768px) {.hdt-collection-products {--spacing-y: 50px; }}",
-        "@media (min-width: 1150px) {.hdt-collection-products {--spacing-y: 80px; }}"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Our Best-Sellers",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Premium, natural air care products that elevate your home.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 100,
-        "collection": "",
-        "product_list": [
-          "cloud-humidifier",
-          "stone-essential-oil-diffuser",
-          "rest-essential-oil-kit",
-          "sleep-essential-oil-blend"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 80,
-        "btn_label": "Load more",
-        "btn_style": "outline",
-        "btn_fw": "semibold",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 76,
-        "padding_bottom": 76,
-        "padding_rate": 76
-      }
-    },
-    "top_heading_X4fhQJ": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_kbYKYJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bundle & Save",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_FYdRHA": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Build your own bundle of X, Y, and Z, and save.",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "heading_kbYKYJ",
-        "sub_heading_FYdRHA"
-      ],
-      "disabled": true,
-      "settings": {
-        "spacing_item": 30,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_xQUcEk": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_eKKaia": {
-          "type": "heading",
-          "settings": {
-            "heading": "Build Your Own Bundle",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_mpPhXE": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Bundle and save up to 25%.",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eKKaia",
-        "sub_heading_mpPhXE"
-      ],
-      "disabled": true,
-      "settings": {
-        "spacing_item": 30,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -836,8 +768,6 @@
     "featured_collection_grid_Kx43Gm",
     "d81e394c-3467-4709-a303-1d274f42da41",
     "slideshow_bHhppE",
-    "top_heading_X4fhQJ",
-    "top_heading_xQUcEk",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
     "slideshow_zT9KVC",
