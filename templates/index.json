@@ -34,7 +34,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/best-sellers",
+            "btn_link": "shopify://collections/best-sellers",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -49,7 +49,6 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -58,7 +57,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "video": "shopify:\/\/files\/videos\/home_hero-video_2024-06.mp4",
+        "video": "shopify://files/videos/home_hero-video_2024-06.mp4",
         "external_video_url": "",
         "content_bg": false,
         "color_scheme": "scheme-3",
@@ -77,19 +76,19 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home-hero_fall-sale_image_desktop_v2.jpg",
-            "image_mb": "shopify:\/\/shop_images\/Mobile_a088be92-a3b3-481a-aa5e-dbcc54206a90.png",
-            "url": "shopify:\/\/collections\/fall-sale",
+            "image": "shopify://shop_images/page_home-hero_fall-sale_image_desktop_v2.jpg",
+            "image_mb": "shopify://shop_images/Mobile_a088be92-a3b3-481a-aa5e-dbcc54206a90.png",
+            "url": "shopify://collections/fall-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>UP TO 25% OFF SITEWIDE<\/strong><br\/>FALL SALE<\/p>",
+            "heading": "<p><strong>UP TO 25% OFF SITEWIDE</strong><br/>FALL SALE</p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Refresh your air with humidifiers, diffusers, and seasonal scents that create a cozy, all-natural home environment.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP SALE",
-            "btn_link": "shopify:\/\/collections\/fall-sale",
+            "btn_link": "shopify://collections/fall-sale",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -106,6 +105,7 @@
       "block_order": [
         "slide_base_fnDmKR"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
@@ -145,7 +145,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Shop Now",
-            "btn_link": "shopify:\/\/collections\/labor-day-sale",
+            "btn_link": "shopify://collections/labor-day-sale",
             "target": false,
             "btn_size": "base",
             "btn_style": "link",
@@ -193,14 +193,14 @@
         "text_dU8TVd": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy a free Grove Diffuser Blend on $100+ orders, while supplies last.<\/p><p>Grove brings a breath of fresh air to your home with its refreshing, woodsy aroma.<\/p>"
+            "text": "<p>Enjoy a free Grove Diffuser Blend on $100+ orders, while supplies last.</p><p>Grove brings a breath of fresh air to your home with its refreshing, woodsy aroma.</p>"
           }
         },
         "button_ramYgE": {
           "type": "button",
           "settings": {
             "btn_label": "SHOP NOW",
-            "btn_link": "shopify:\/\/collections\/best-sellers",
+            "btn_link": "shopify://collections/best-sellers",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -216,7 +216,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/pdp_essential-oil-blend_grove_gallery_4_image.png",
+        "image": "shopify://shop_images/pdp_essential-oil-blend_grove_gallery_4_image.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -288,7 +288,7 @@
         "sec_heading": "Cozy Up Your Space",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>Save 25% on fall bundles, including scents, long-lasting diffusers, and soothing humidifiers.<\/p>",
+        "sec_subheading": "<p>Save 25% on fall bundles, including scents, long-lasting diffusers, and soothing humidifiers.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 12,
@@ -328,8 +328,8 @@
         "slide_label_YpGJEd": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
-            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
+            "url": "shopify://products/build-your-own-scent-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Bundle & Save On Scents",
@@ -340,7 +340,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "btn_link": "shopify://products/build-your-own-scent-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -364,8 +364,8 @@
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
-            "url": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "image": "shopify://shop_images/page_home_hero_summersale2024_image_v1_desktop.jpg",
+            "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Bundle & Save on Diffusers",
@@ -376,7 +376,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -441,7 +441,7 @@
         "sec_heading": "Our Best-Sellers",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>Premium, natural air care products that elevate your home.<\/p>",
+        "sec_subheading": "<p>Premium, natural air care products that elevate your home.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 12,
@@ -551,7 +551,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "diffuser-blends",
-            "image": "shopify:\/\/shop_images\/home_explore_blends_2024-06.jpg",
+            "image": "shopify://shop_images/home_explore_blends_2024-06.jpg",
             "title": "Diffuser Blends",
             "collection_link": ""
           }
@@ -560,7 +560,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "essential-oils",
-            "image": "shopify:\/\/shop_images\/home_explore_oils_2024-08.png",
+            "image": "shopify://shop_images/home_explore_oils_2024-08.png",
             "title": "Essential Oils",
             "collection_link": ""
           }
@@ -569,7 +569,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "natural-air-freshener-sprays",
-            "image": "shopify:\/\/shop_images\/home_explore_sprays_2024-06.jpg",
+            "image": "shopify://shop_images/home_explore_sprays_2024-06.jpg",
             "title": "Air Freshener Sprays",
             "collection_link": ""
           }
@@ -579,7 +579,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify:\/\/collections\/scents"
+            "item_link": "shopify://collections/scents"
           }
         }
       },
@@ -597,7 +597,7 @@
         "sec_heading": "Explore",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>All-natural scents and aromas that transport you<\/p>",
+        "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "btn_heading_collection": false,
@@ -639,36 +639,36 @@
         "quote_EDf3LR": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_ad_2024-06.png",
+            "image": "shopify://shop_images/press-logo_ad_2024-06.png",
             "heading": "",
-            "content": "<p>“A perfect addition to your nightstand.”<\/p>",
+            "content": "<p>“A perfect addition to your nightstand.”</p>",
             "author": "Architectural Digest"
           }
         },
         "quote_BCQy7e": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_new-york-times_2024-06.png",
+            "image": "shopify://shop_images/press-logo_new-york-times_2024-06.png",
             "heading": "",
-            "content": "<p>\"We recommend the Vitruvi Stone Diffuser...the best choice if you want to run it while you’re sleeping\"<\/p>",
+            "content": "<p>\"We recommend the Vitruvi Stone Diffuser...the best choice if you want to run it while you’re sleeping\"</p>",
             "author": "The Wirecutter | New York Times"
           }
         },
         "quote_WyLKV4": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_esquire_2024-06.png",
+            "image": "shopify://shop_images/press-logo_esquire_2024-06.png",
             "heading": "",
-            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"<\/p>",
+            "content": "<p>\"Nothing else on the market can compete with the Vitruvi Stone Diffuser.\"</p>",
             "author": "Esquire"
           }
         },
         "quote_ThmjAB": {
           "type": "quote",
           "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_cnn_2024-06.png",
+            "image": "shopify://shop_images/press-logo_cnn_2024-06.png",
             "heading": "",
-            "content": "<p>“One of the most stylish humidifiers we’ve seen.”<\/p>",
+            "content": "<p>“One of the most stylish humidifiers we’ve seen.”</p>",
             "author": "CNN"
           }
         },
@@ -676,9 +676,9 @@
           "type": "quote",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_bhg_2024-06.png",
+            "image": "shopify://shop_images/press-logo_bhg_2024-06.png",
             "heading": "",
-            "content": "<p>“The best humidifier from a design standpoint.”<\/p>",
+            "content": "<p>“The best humidifier from a design standpoint.”</p>",
             "author": "Better Homes & Gardens"
           }
         },
@@ -686,9 +686,9 @@
           "type": "quote",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/press-logo_who-what-wear_2024-06.png",
+            "image": "shopify://shop_images/press-logo_who-what-wear_2024-06.png",
             "heading": "",
-            "content": "<p>“The world’s chicest diffuser.”<\/p>",
+            "content": "<p>“The world’s chicest diffuser.”</p>",
             "author": "Who What Wear"
           }
         }
@@ -706,7 +706,7 @@
         "sec_heading": "★★★★★",
         "heading_tag": "h3",
         "heading_size": "h5",
-        "sec_subheading": "<p>14,000+ 5 Star Reviews<\/p>",
+        "sec_subheading": "<p>14,000+ 5 Star Reviews</p>",
         "subheading_size": "2xl",
         "heading_reverse": false,
         "heading_gap": 14,
@@ -729,7 +729,7 @@
         "slide_label_tVa86N": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home_our-story_2024-06.jpg",
+            "image": "shopify://shop_images/home_our-story_2024-06.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -741,7 +741,7 @@
             "heading_fs": "h4",
             "heading_fw": "normal",
             "btn_label": "LEARN MORE",
-            "btn_link": "shopify:\/\/pages\/about-us",
+            "btn_link": "shopify://pages/about-us",
             "target": false,
             "btn_size": "base",
             "btn_style": "outline",
@@ -796,13 +796,13 @@
           "settings": {
             "icon_svg": "box",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_shipping_2024-06.svg",
+            "image": "shopify://shop_images/icons_shipping_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
             "open_link": false,
             "title": "Free Shipping Over $75",
-            "content": "<p>Delivered nationwide in 3-8 business days.<\/p>",
+            "content": "<p>Delivered nationwide in 3-8 business days.</p>",
             "adding_border": false
           }
         },
@@ -811,13 +811,13 @@
           "settings": {
             "icon_svg": "none",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_warranty_2024-06.svg",
+            "image": "shopify://shop_images/icons_warranty_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
             "title": "Lifetime Device Warranty",
-            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "content": "<p>Extended coverage to keep your air cared for even longer.</p>",
             "adding_border": false
           }
         },
@@ -826,13 +826,13 @@
           "settings": {
             "icon_svg": "return",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_returns_2024-06.svg",
+            "image": "shopify://shop_images/icons_returns_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
             "title": "No-Hassle Returns",
-            "content": "<p>Not delighted? We'll make it right.<\/p>",
+            "content": "<p>Not delighted? We'll make it right.</p>",
             "adding_border": false
           }
         }
