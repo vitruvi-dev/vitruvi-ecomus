@@ -193,8 +193,8 @@
           "type": "tab_html",
           "settings": {
             "title": "Shipping & Returns",
-            "content": "",
-            "page": "product-returns-default"
+            "content": "<p><em>Note: The Vitruvi and Nēmah products in this bundle ship separately.</em></p><p>We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help. Vitruvi Products can be exchanged or returned within 30 days of purchase. Vitruvi sale and discounted items are only available for exchange or return for store credit within 15 days of purchase.</p>",
+            "page": ""
           }
         },
         "tab_html_eeFthN": {
@@ -232,6 +232,23 @@
         "padding_rate": 50
       }
     },
+    "171512128966062076": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_ugc_reviews_dERaaf": {
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_ugc_reviews_dERaaf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "related": {
       "type": "related-products",
       "settings": {
@@ -261,23 +278,6 @@
         "padding_top": 60,
         "padding_bottom": 72,
         "padding_rate": 75
-      }
-    },
-    "171512128966062076": {
-      "type": "apps",
-      "blocks": {
-        "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "yotpo_product_reviews_ugc_reviews_dERaaf"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "accordion_WDEpM3": {
@@ -566,8 +566,8 @@
     "breacrumb",
     "main",
     "tabs",
-    "related",
     "171512128966062076",
+    "related",
     "accordion_WDEpM3",
     "recently",
     "sidebar"
