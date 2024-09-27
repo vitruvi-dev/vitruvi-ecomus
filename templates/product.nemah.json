@@ -126,7 +126,8 @@
         "8253e974-5acb-4076-9230-03b0f804dcdf"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}"
+        ".hdt-sticky-atc__qty-selector {display: none;}",
+        ".PromiseShell__ShopPromise-SmoothContainer {display: none;}"
       ],
       "settings": {
         "space_content_media": true,
@@ -180,6 +181,14 @@
             "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
           }
         },
+        "tab_html_AzNTFA": {
+          "type": "tab_html",
+          "settings": {
+            "title": "What's In The Set",
+            "content": "<ul><li>Vitruvi Cloud Humidifier:<br/>This sleek, minimalist humidifier creates a continuous, soothing mist that keeps the air perfectly balanced for baby’s sensitive skin and sound sleep.</li><li>Nēmah Nourishing Baby Wash + Shampoo:<br/>A gentle, nourishing formula that cleanses and hydrates your baby’s delicate skin and hair.</li><li>Nēmah Soothing Baby Lotion:<br/>A lightweight, soothing lotion that moisturizes and protects your baby’s delicate skin after bath time. </li></ul>",
+            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
+          }
+        },
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1": {
           "type": "tab_add",
           "settings": {
@@ -191,6 +200,7 @@
         "76effdab-2914-4a34-a303-417cde99ff0a",
         "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
         "tab_html_eeFthN",
+        "tab_html_AzNTFA",
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1"
       ],
       "settings": {
