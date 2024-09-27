@@ -94,7 +94,7 @@
         "text_4FCzXF": {
           "type": "text",
           "settings": {
-            "text": "<p>Set the stage for your best night's rest.<\/p>",
+            "text": "<p>Set the stage for your best night's rest.</p>",
             "adding_border": false
           }
         }
@@ -108,7 +108,7 @@
         "fixed_height": 300,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/pdp_humidifier-sleep-bundle_feature_image.jpg",
+        "image": "shopify://shop_images/pdp_humidifier-sleep-bundle_feature_image.jpg",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -133,21 +133,25 @@
         "sec_heading": "Diffuser & Humidifier Sleep Bundles",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Bundle and save with our diffuser and humidifier sets, designed to create a soothing and revitalizing home environment.<\/p>",
+        "sec_subheading": "<p>Bundle and save with our diffuser and humidifier sets, designed to create a soothing and revitalizing home environment.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "sleep-bundles",
         "product_list": [
-
+          "sleep-stone-diffuser-bundle",
+          "sleep-cloud-humidifier-bundle",
+          "best-sleep-diffuser-humidifier-bundle",
+          "stone-essential-oil-diffuser",
+          "cloud-humidifier"
         ],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 3,
+        "products_count": 6,
         "col_dk": "3",
         "col_tb": "3",
         "col_mb": "2",
@@ -172,7 +176,7 @@
         "sec_heading": "Diffuser Blends & Essential Oils for Sleep",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Experience deeper, more restful sleep with our expertly crafted essential oil blends, designed to transform your nighttime routine.<\/p>",
+        "sec_subheading": "<p>Experience deeper, more restful sleep with our expertly crafted essential oil blends, designed to transform your nighttime routine.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -283,18 +287,18 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
+            "image": "shopify://shop_images/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
             "title": "The Best Essential Oils for Sleep",
-            "collection_link": "shopify:\/\/blogs\/health-and-wellness\/the-best-essential-oils-for-sleep"
+            "collection_link": "shopify://blogs/health-and-wellness/the-best-essential-oils-for-sleep"
           }
         },
         "collection_item_dYzPHV": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/collection_sleep-humidifier-bedside.jpg",
+            "image": "shopify://shop_images/collection_sleep-humidifier-bedside.jpg",
             "title": "Transform Your Bedroom Into a Sleep Oasis",
-            "collection_link": "shopify:\/\/blogs\/spaces\/transform-your-bedroom-into-a-sleep-oasis"
+            "collection_link": "shopify://blogs/spaces/transform-your-bedroom-into-a-sleep-oasis"
           }
         }
       },
@@ -310,7 +314,7 @@
         "sec_heading": "Natural Habitat",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>RELATED STORIES FROM<\/p>",
+        "sec_subheading": "<p>RELATED STORIES FROM</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "btn_heading_collection": false,
