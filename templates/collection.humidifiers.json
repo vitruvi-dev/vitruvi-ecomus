@@ -49,6 +49,7 @@
       "blocks": {
         "sub_heading_BDHJAt": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "Fall Sale: Up to 25% off humidifiers, diffusers, and seasonal scents.",
             "sub_heading_fs": "base"
