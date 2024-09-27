@@ -92,7 +92,7 @@
           "stone-diffuser-power-cord",
           "stay-diffuser-power-cord"
         ],
-        "product_des": "1",
+        "product_des": "10",
         "image_ratio": "adapt_image",
         "image_size": true,
         "show_vendor": false,
@@ -134,7 +134,7 @@
           "humidifier-filters",
           "humidifier-sensor-hygrometer"
         ],
-        "product_des": "1",
+        "product_des": "10",
         "image_ratio": "adapt_image",
         "image_size": true,
         "show_vendor": false,
