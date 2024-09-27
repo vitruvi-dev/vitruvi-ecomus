@@ -176,8 +176,8 @@
         "tab_html_PgHWjK": {
           "type": "tab_html",
           "settings": {
-            "title": "Why They Work Together",
-            "content": "<p>Creating a calming bedtime routine is easier when you combine Nēmah’s bathtime duo (wash & lotion) with Vitruvi’s Cloud Humidifier. Together, they hydrate and soothe your baby’s skin while maintaining a comfortable atmosphere, helping your little one (and you!) settle down for a restful sleep.</p>",
+            "title": "Why They Work Better Together",
+            "content": "{{ product.metafields.ecomus.tabs_scent_ingredients | metafield_tag }}",
             "page": ""
           }
         },
@@ -199,6 +199,7 @@
         },
         "tab_html_eeFthN": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Warranty & Returns",
             "content": "",
@@ -207,6 +208,7 @@
         },
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1": {
           "type": "tab_add",
+          "disabled": true,
           "settings": {
             "title": "Additional Information"
           }
