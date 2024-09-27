@@ -40,7 +40,7 @@
           }
         },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
@@ -60,7 +60,7 @@
             "color_size": "medium",
             "picker_type": "block",
             "size_chart_source": "page",
-            "size_chart_page": "size-chart"
+            "size_chart_page": ""
           }
         },
         "quantity_selector_7mnwbU": {
@@ -127,7 +127,7 @@
         "custom_liquid_W7Hpet": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.compare_at_price == blank %}\n<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\">\n      <img class=\"byob-src\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/boost-byob-cta-v2.png?v=1725056018\">\n    <\/a>\n  <\/div>\n  <div class=\"byob-text\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\">\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%<\/h5>\n      <p>Bundle together your favorite blends and essential oils alongside your diffuser.<\/p>\n    <\/a>\n  <\/div>\n  <div class=\"byob-button\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>BUILD BUNDLE<\/span>\n    <\/a>\n  <\/div>\n<\/div>\n{% endif %}"
+            "custom_liquid": "{% if product.compare_at_price == blank %}\n<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <a href=\"/products/build-your-own-diffuser-bundle\">\n      <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/boost-byob-cta-v2.png?v=1725056018\">\n    </a>\n  </div>\n  <div class=\"byob-text\">\n    <a href=\"/products/build-your-own-diffuser-bundle\">\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%</h5>\n      <p>Bundle together your favorite blends and essential oils alongside your diffuser.</p>\n    </a>\n  </div>\n  <div class=\"byob-button\">\n    <a href=\"/products/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>BUILD BUNDLE</span>\n    </a>\n  </div>\n</div>\n{% endif %}"
           }
         }
       },
@@ -186,13 +186,13 @@
           "settings": {
             "icon_svg": "box2",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_shipping_2024-06.svg",
+            "image": "shopify://shop_images/icons_shipping_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/frequently-asked-questions",
+            "link": "shopify://pages/frequently-asked-questions",
             "open_link": false,
             "title": "Fast, Free Shipping",
-            "content": "<p>Delivered nationwide in 3-8 business days.<\/p>",
+            "content": "<p>Delivered nationwide in 3-8 business days.</p>",
             "adding_border": false
           }
         },
@@ -201,13 +201,13 @@
           "settings": {
             "icon_svg": "leaf2",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_warranty_2024-06.svg",
+            "image": "shopify://shop_images/icons_warranty_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/warranty",
+            "link": "shopify://pages/warranty",
             "open_link": true,
             "title": "Lifetime Device Warranty",
-            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "content": "<p>Extended coverage to keep your air cared for even longer.</p>",
             "adding_border": false
           }
         },
@@ -216,13 +216,13 @@
           "settings": {
             "icon_svg": "support",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_returns_2024-06.svg",
+            "image": "shopify://shop_images/icons_returns_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/returns-and-exchanges",
+            "link": "shopify://pages/returns-and-exchanges",
             "open_link": true,
             "title": "No-Hassle Returns",
-            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
+            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.</p>",
             "adding_border": false
           }
         }
@@ -547,7 +547,7 @@
           "type": "quote",
           "settings": {
             "heading": "The BEST diffuser I've ever owned!",
-            "content": "<p>I'm head over heels in love with Vitruvi diffusers. The colors are true to the image, they carry my scent blends far and wide, and they are so incredibly quiet. Vitruvi stands tall, head and shoulders above the rest. Highly recommend!<\/p>",
+            "content": "<p>I'm head over heels in love with Vitruvi diffusers. The colors are true to the image, they carry my scent blends far and wide, and they are so incredibly quiet. Vitruvi stands tall, head and shoulders above the rest. Highly recommend!</p>",
             "author": "Kristin P.<br>The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -557,7 +557,7 @@
           "type": "quote",
           "settings": {
             "heading": "It's Everything You'd Want in a Diffuser",
-            "content": "<p>I’ve only had the Move diffuser for a few weeks and I am in love (and so is my husband!). We really love the flexibility of the cordless diffuser. I have it in my home office in the morning, he takes it into his office in the afternoon, and then into our bedroom in the evening—it's truly all we need in one!<\/p>",
+            "content": "<p>I’ve only had the Move diffuser for a few weeks and I am in love (and so is my husband!). We really love the flexibility of the cordless diffuser. I have it in my home office in the morning, he takes it into his office in the afternoon, and then into our bedroom in the evening—it's truly all we need in one!</p>",
             "author": "Angel W.<br>The Move Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -567,7 +567,7 @@
           "type": "quote",
           "settings": {
             "heading": "Spend the money, you will not be disappointed",
-            "content": "<p>This is seriously the best diffuser I have owned! The stream of diffused oils is just so much stronger. It really delivers a true essential oil experience versus a watered-down mist. It is also very sleek and elegant, making it perfect for any environment. It’s expensive, but totally worth the money.<\/p>",
+            "content": "<p>This is seriously the best diffuser I have owned! The stream of diffused oils is just so much stronger. It really delivers a true essential oil experience versus a watered-down mist. It is also very sleek and elegant, making it perfect for any environment. It’s expensive, but totally worth the money.</p>",
             "author": "Crystal N.The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -577,7 +577,7 @@
           "type": "quote",
           "settings": {
             "heading": "In Love with my First Purchase from Vitruvi",
-            "content": "<p>It’s beautiful! I received it yesterday. Setting it up was a breeze. It filled my whole living room, dining area, and kitchen with scent. Wow, I can even smell it in the hallway. I’m so happy with my new diffuser. It’s a treat-yourself gift. Highly recommend getting one.<\/p>",
+            "content": "<p>It’s beautiful! I received it yesterday. Setting it up was a breeze. It filled my whole living room, dining area, and kitchen with scent. Wow, I can even smell it in the hallway. I’m so happy with my new diffuser. It’s a treat-yourself gift. Highly recommend getting one.</p>",
             "author": "Monica V.<br>The Stay Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -587,7 +587,7 @@
           "type": "quote",
           "settings": {
             "heading": "Easy to use, easy to display",
-            "content": "<p>This checked all the boxes! You can turn off the night light, and people keep complimenting how nice my home smells and how cute my 'sculpture' is. The color is beautiful and subtle—definitely getting some for gifts.<\/p>",
+            "content": "<p>This checked all the boxes! You can turn off the night light, and people keep complimenting how nice my home smells and how cute my 'sculpture' is. The color is beautiful and subtle—definitely getting some for gifts.</p>",
             "author": "Danielle R.The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -597,7 +597,7 @@
           "type": "quote",
           "settings": {
             "heading": "A Healthier Work at Home Space",
-            "content": "<p>Love my new Stone Vitruvi diffuser. It’s a sleek design, and the neutral colors blend seamlessly into my decor. The diffused oil has been a welcoming addition to the air in my workspace.<\/p>",
+            "content": "<p>Love my new Stone Vitruvi diffuser. It’s a sleek design, and the neutral colors blend seamlessly into my decor. The diffused oil has been a welcoming addition to the air in my workspace.</p>",
             "author": "Joan F.The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -607,7 +607,7 @@
           "type": "quote",
           "settings": {
             "heading": "Amazing Diffuser!",
-            "content": "<p>This diffuser is worth the investment! It is so calming in our bathroom, making it feel like a more luxurious spa space. We can smell the diffuser throughout three rooms in the house. I will be purchasing another one for our bedroom. I love this product!<\/p>",
+            "content": "<p>This diffuser is worth the investment! It is so calming in our bathroom, making it feel like a more luxurious spa space. We can smell the diffuser throughout three rooms in the house. I will be purchasing another one for our bedroom. I love this product!</p>",
             "author": "Desiree W.The Move Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -617,7 +617,7 @@
           "type": "quote",
           "settings": {
             "heading": "Quiet and powerful",
-            "content": "<p>Very attractive, minimal design. Runs quietly and works consistently to diffuse essential oils. We have a small apartment (~650 sq ft) and it easily fills the whole space! I like the matte texture of the cover, and the color is fun but neutral enough to go anywhere. &lt;3<\/p>",
+            "content": "<p>Very attractive, minimal design. Runs quietly and works consistently to diffuse essential oils. We have a small apartment (~650 sq ft) and it easily fills the whole space! I like the matte texture of the cover, and the color is fun but neutral enough to go anywhere. &lt;3</p>",
             "author": "Savannah A.<br>The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -639,7 +639,7 @@
         "top_heading": "Join over 100k homes happily scented by a Vitruvi diffuser",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "top_description": "<p>Aromatherapy Elevated, Thanks to Vitruvi <\/p>",
+        "top_description": "<p>Aromatherapy Elevated, Thanks to Vitruvi </p>",
         "subheading_size": "hdt-text-base",
         "show_rating": false,
         "rating": 5,
@@ -658,7 +658,7 @@
       "type": "apps",
       "blocks": {
         "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
