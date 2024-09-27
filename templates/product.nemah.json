@@ -181,6 +181,14 @@
             "page": ""
           }
         },
+        "tab_html_eHyKnz": {
+          "type": "tab_html",
+          "settings": {
+            "title": "How to Use",
+            "content": "<p>Begin with Nēmah’s Nourishing Baby Wash + Shampoo, gently massaging it into your baby’s skin and hair. Rinse thoroughly. Follow with Nēmah’s Soothing Baby Lotion, massaging it into your baby’s skin to keep it soft and nourished. Set up the Vitruvi Cloud Humidifier in your baby’s room, ensuring it runs throughout the night to create a soothing, mist-filled environment that supports healthy sleep. <em>Nighty-night!</em></p>",
+            "page": ""
+          }
+        },
         "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
           "type": "tab_html",
           "settings": {
@@ -208,6 +216,7 @@
         "76effdab-2914-4a34-a303-417cde99ff0a",
         "tab_html_AzNTFA",
         "tab_html_PgHWjK",
+        "tab_html_eHyKnz",
         "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
         "tab_html_eeFthN",
         "9866bb5f-03b7-4dc7-9387-4be849a0cbf1"
