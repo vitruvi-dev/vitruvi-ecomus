@@ -16,28 +16,29 @@
       "blocks": {
         "announcement_RqB4ka": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
-            "text": "<a href=\"\/collections\/fall-sale\" title=\"Fall Sale\">Fall Sale: Up to 25% Off Sitewide<\/a>"
-          }
-        },
-        "announcement_RzCepp": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75<\/a>"
+            "text": "<a href=\"/collections/fall-sale\" title=\"Fall Sale\">Fall Sale: Up to 25% Off Sitewide</a>"
           }
         },
         "announcement_7iU4bq": {
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "<a href=\"\/collections\/shop-all\" title=\"Shop All\">Free Gift on $100+ Orders, While Supplies Last<\/a>"
+            "text": "<a href=\"/collections/shop-all\" title=\"Shop All\">Free Gift on $100+ Orders, While Supplies Last</a>"
+          }
+        },
+        "announcement_RzCepp": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/shop-all\" title=\"Shop All\">Fast, Free Shipping on Orders Over $75</a>"
           }
         }
       },
       "block_order": [
         "announcement_RqB4ka",
-        "announcement_RzCepp",
-        "announcement_7iU4bq"
+        "announcement_7iU4bq",
+        "announcement_RzCepp"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
@@ -133,7 +134,7 @@
         "header_layout": "logo_left",
         "header_fullwidth": true,
         "header_height": 94,
-        "logo": "shopify:\/\/shop_images\/vitruvi-logo_wordmark-black.png",
+        "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
         "main_menu": "header_desktop_sale",
@@ -158,7 +159,7 @@
         "header_mobile_colors": "scheme-1",
         "note_mobile": "",
         "header_transparent": true,
-        "logo_transparent": "shopify:\/\/shop_images\/vitruvi-logo_wordmark-white.png",
+        "logo_transparent": "shopify://shop_images/vitruvi-logo_wordmark-white.png",
         "header_transparent_colors": "scheme-3",
         "sticky_type": "always",
         "sticky_glass": false
