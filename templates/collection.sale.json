@@ -51,7 +51,7 @@
         "text_mXyKqq": {
           "type": "text",
           "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "text": "",
             "adding_border": false
           }
         },
@@ -78,7 +78,8 @@
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px;}"
+        ".hdt-countdown__item {border-radius: 0px;}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
       ],
       "settings": {
         "image_height": "fixed",
