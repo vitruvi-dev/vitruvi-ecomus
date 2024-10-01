@@ -31,7 +31,6 @@
     if block.settings.show_dynamic_checkout and gift_card_recipient_feature_active == false
       assign show_dynamic_checkout = true
     endif
-    <div class="delivery-promise__promise-container"></div>
     assign check_against_inventory = true
     if selected_variant.inventory_management != 'shopify' or selected_variant.inventory_policy == 'continue'
       assign check_against_inventory = false
