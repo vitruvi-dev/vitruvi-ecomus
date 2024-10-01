@@ -56,17 +56,17 @@
             "heading_fw": "normal"
           }
         },
-        "text_PLCVYg": {
+        "text_LnzVHG": {
           "type": "text",
           "settings": {
-            "text": "<p>Save up to 25% on humidifiers, diffusers, and seasonal scents. Bring cozy comfort into your home.</p>",
+            "text": "<p>Shop Prime Day prices early and save 30% on best-selling diffusers, all-natural scents, and long-lasting humidifiers.</p>",
             "adding_border": false
           }
         }
       },
       "block_order": [
         "heading_CeLpaN",
-        "text_PLCVYg"
+        "text_LnzVHG"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
