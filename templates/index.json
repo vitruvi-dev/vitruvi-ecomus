@@ -108,7 +108,8 @@
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
+        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}",
+        ".hdt-btn {border-radius: 60px}"
       ],
       "settings": {
         "full_width": true,
