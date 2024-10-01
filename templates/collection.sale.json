@@ -395,8 +395,8 @@
         "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-img, .byob-text, .byob-button {text-align: left; } .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
       ],
       "settings": {
-        "product": "fall-diffuser-bundle",
-        "image": "shopify://shop_images/pdp_fall-stone-bundle_suede_gallery_1_image.png",
+        "product": "stone-essential-oil-diffuser",
+        "image": "shopify://shop_images/pdp_stone-diffuser_front_white_gallery_1_v9_image.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
