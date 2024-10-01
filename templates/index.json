@@ -79,7 +79,7 @@
           "settings": {
             "image": "shopify://shop_images/loremipsum.png",
             "image_mb": "shopify://shop_images/loremipsum.png",
-            "url": "shopify://collections/fall-sale",
+            "url": "shopify://collections/prime-holiday-deals",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p><strong>30% OFF SITEWIDE</strong><br/>PRIME HOLIDAY DEALS</p>",
@@ -89,7 +89,7 @@
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP SALE",
-            "btn_link": "shopify://collections/fall-sale",
+            "btn_link": "shopify://collections/prime-holiday-deals",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
