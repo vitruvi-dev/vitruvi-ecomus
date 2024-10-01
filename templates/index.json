@@ -49,6 +49,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -76,12 +77,12 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/page_home-hero_fall-sale_image_desktop_v2.jpg",
-            "image_mb": "shopify://shop_images/Mobile_a088be92-a3b3-481a-aa5e-dbcc54206a90.png",
+            "image": "shopify://shop_images/loremipsum.png",
+            "image_mb": "shopify://shop_images/loremipsum.png",
             "url": "shopify://collections/fall-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>UP TO 25% OFF SITEWIDE</strong><br/>FALL SALE</p>",
+            "heading": "<p><strong>30% OFF SITEWIDE</strong><br/>PRIME HOLIDAY DEALS</p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Refresh your air with humidifiers, diffusers, and seasonal scents that create a cozy, all-natural home environment.",
@@ -105,7 +106,6 @@
       "block_order": [
         "slide_base_fnDmKR"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
