@@ -77,15 +77,15 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/loremipsum.png",
-            "image_mb": "shopify://shop_images/loremipsum.png",
+            "image": "shopify://shop_images/Amazon-Prime-Desktop_-_Homepage.jpg",
+            "image_mb": "shopify://shop_images/Amazon-Prime-Mobile_-_Homepage.jpg",
             "url": "shopify://collections/prime-holiday-deals",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p><strong>30% OFF SITEWIDE</strong><br/>PRIME HOLIDAY DEALS</p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Shop Prime Day prices early and save 30% on best-selling diffusers, all-natural scents, and long-lasting humidifiers.<br><br>Set the mood for a calm, welcoming space so you can relax and enjoy the holiday season.",
+            "sub_heading": "Shop Prime Day prices early and save 30% on best-selling diffusers, all-natural scents, and long-lasting humidifiers.Set the mood for a calm, welcoming space so you can relax and enjoy the holiday season.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP SALE",
