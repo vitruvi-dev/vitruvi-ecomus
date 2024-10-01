@@ -178,7 +178,6 @@
             {%- when 'buy_buttons' -%}
               {%- assign has_form_atc = true -%}
               <div class="hdt-product-info__item hdt-product__buy-button" data-type="{{ block.type }}" {{ block.shopify_attributes }}>{%- render 'buy-buttons', product: product, block: block, product_form_id: product_form_id, use_variant: true, selected_variant: selected_variant, un_no_pick: un_no_pick -%}</div>
-              <div class="delivery-promise__promise-container"></div>
 
             {%- when 'linked_products' -%}
               {%- if block.settings.option_name != blank and block.settings.product_list != blank -%}
