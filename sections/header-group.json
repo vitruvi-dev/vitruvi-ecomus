@@ -16,9 +16,8 @@
       "blocks": {
         "announcement_RqB4ka": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "<a href=\"/collections/fall-sale\" title=\"Fall Sale\">Fall Sale: Up to 25% Off Sitewide</a>"
+            "text": "<a href=\"/collections/prime-holiday-deals\" title=\"Prime Holiday Deals\">Prime Holiday Deals: Up to 25% Off Sitewide</a>"
           }
         },
         "announcement_7iU4bq": {
