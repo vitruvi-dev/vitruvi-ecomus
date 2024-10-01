@@ -240,6 +240,9 @@
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
       ],
+      "custom_css": [
+        ".hdt-btn {border-radius: 60px;}"
+      ],
       "settings": {
         "product": "cloud-humidifier",
         "image": "shopify://shop_images/pdp_cloud-humidifier_white_gallery_1_image.png",
@@ -260,7 +263,7 @@
         "max_zoom_lightbox": 3,
         "navUI": false,
         "nav_des": "default",
-        "color_scheme": "",
+        "color_scheme": "scheme-a9064329-cb61-42b6-adc2-927e09c47b49",
         "padding_top": 80,
         "padding_bottom": 80,
         "padding_rate": 75
