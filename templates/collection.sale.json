@@ -59,7 +59,7 @@
         "text_PLCVYg": {
           "type": "text",
           "settings": {
-            "text": "<p>Save up to 25% on humidifiers, diffusers, and seasonal scents. Bring cozy comfort into your home.<\/p>",
+            "text": "<p>Save up to 25% on humidifiers, diffusers, and seasonal scents. Bring cozy comfort into your home.</p>",
             "adding_border": false
           }
         }
@@ -77,8 +77,8 @@
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/collection-hero_fall-sale.png",
-        "image_mb": "shopify:\/\/shop_images\/collection-hero_fall-sale_mobile.png",
+        "image": "shopify://shop_images/page_manual-main-blue_image_3.png",
+        "image_mb": "shopify://shop_images/page_manual-main-blue_image_3.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -90,7 +90,7 @@
         "content_align_mb": "center",
         "full_width": false,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "padding_top": 100,
         "padding_bottom": 0,
         "padding_rate": 75
@@ -182,7 +182,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"\/products\/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier<\/h1><\/a>\n                    <\/div>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
           }
         },
         "title_B6AfNV": {
@@ -242,7 +242,7 @@
       ],
       "settings": {
         "product": "fall-humidifier-bundle",
-        "image": "shopify:\/\/shop_images\/featured-product_fall-humidifier-bundle.png",
+        "image": "shopify://shop_images/featured-product_fall-humidifier-bundle.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
@@ -273,7 +273,7 @@
         "sec_heading": "Better Sleep, Better Air",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.<\/p>",
+        "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -316,7 +316,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"\/products\/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser<\/h1><\/a>\n                    <\/div>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
           }
         },
         "title_7fhX9x": {
@@ -396,7 +396,7 @@
       ],
       "settings": {
         "product": "fall-diffuser-bundle",
-        "image": "shopify:\/\/shop_images\/pdp_fall-stone-bundle_suede_gallery_1_image.png",
+        "image": "shopify://shop_images/pdp_fall-stone-bundle_suede_gallery_1_image.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
@@ -428,7 +428,7 @@
         "sec_heading": "All-Natural Scents, Better Living",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.<\/p>",
+        "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -474,7 +474,7 @@
         "sec_heading": "Cozy Scents for Fall",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Create a warm, inviting space with our seasonal scents that bring a touch of fall into your home. Our diffuser blends deliver captivating, all-natural aromas that last, seamlessly enhancing your decor.<\/p>",
+        "sec_subheading": "<p>Create a warm, inviting space with our seasonal scents that bring a touch of fall into your home. Our diffuser blends deliver captivating, all-natural aromas that last, seamlessly enhancing your decor.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -512,8 +512,8 @@
         "slide_label_YpGJEd": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
-            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
+            "url": "shopify://products/build-your-own-scent-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Bundle & Save On Scents",
@@ -524,7 +524,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "btn_link": "shopify://products/build-your-own-scent-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -548,8 +548,8 @@
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
-            "url": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "image": "shopify://shop_images/page_home_hero_summersale2024_image_v1_desktop.jpg",
+            "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Bundle & Save on Diffusers",
@@ -560,7 +560,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -694,18 +694,18 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
+            "image": "shopify://shop_images/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
             "title": "The Best Essential Oils for Sleep",
-            "collection_link": "shopify:\/\/blogs\/health-and-wellness\/the-best-essential-oils-for-sleep"
+            "collection_link": "shopify://blogs/health-and-wellness/the-best-essential-oils-for-sleep"
           }
         },
         "collection_item_dYzPHV": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/collection_sleep-humidifier-bedside.jpg",
+            "image": "shopify://shop_images/collection_sleep-humidifier-bedside.jpg",
             "title": "Transform Your Bedroom Into a Sleep Oasis",
-            "collection_link": "shopify:\/\/blogs\/spaces\/transform-your-bedroom-into-a-sleep-oasis"
+            "collection_link": "shopify://blogs/spaces/transform-your-bedroom-into-a-sleep-oasis"
           }
         }
       },
@@ -722,7 +722,7 @@
         "sec_heading": "Natural Habitat",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>RELATED STORIES FROM<\/p>",
+        "sec_subheading": "<p>RELATED STORIES FROM</p>",
         "subheading_size": "lg",
         "heading_reverse": true,
         "btn_heading_collection": false,
