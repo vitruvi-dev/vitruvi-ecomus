@@ -48,13 +48,6 @@
     "hero_image_N43MWn": {
       "type": "hero-image",
       "blocks": {
-        "text_mXyKqq": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>30% OFF SITEWIDE</strong></p><p><em>PRIME HOLIDAY DEALS</em></p>",
-            "adding_border": false
-          }
-        },
         "heading_CeLpaN": {
           "type": "heading",
           "settings": {
@@ -72,15 +65,12 @@
         }
       },
       "block_order": [
-        "text_mXyKqq",
         "heading_CeLpaN",
         "text_PLCVYg"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px;}",
-        "em {font-family: \"Kaftan\";}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 50%; font-weight: 200;}"
+        ".hdt-countdown__item {border-radius: 0px;}"
       ],
       "settings": {
         "image_height": "fixed",
