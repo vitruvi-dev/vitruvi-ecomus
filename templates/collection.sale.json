@@ -51,7 +51,7 @@
         "text_mXyKqq": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p><strong>30% OFF SITEWIDE</strong></p><p><em>PRIME HOLIDAY DEALS</em></p>",
             "adding_border": false
           }
         },
@@ -79,7 +79,8 @@
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         ".hdt-countdown__item {border-radius: 0px;}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
+        "em {font-family: \"Kaftan\";}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 50%; font-weight: 200;}"
       ],
       "settings": {
         "image_height": "fixed",
