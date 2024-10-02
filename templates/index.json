@@ -77,8 +77,8 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/Amazon-Prime-Desktop-Homepage-20-Overlay-Middle.jpg",
-            "image_mb": "shopify://shop_images/Amazon-Prime-Mobile-Homepage-20-Overlay-Middle_jpg.jpg",
+            "image": "shopify://shop_images/page_home_hero_prime-holiday-deals-2024_image_desktop.jpg",
+            "image_mb": "shopify://shop_images/page_home_hero_prime-holiday-deals-2024_image_mobile.jpg",
             "url": "shopify://collections/prime-holiday-deals",
             "banner_target": false,
             "color_scheme": "scheme-8b54878b-1f6e-4dcc-a236-0398efbda2f3",
@@ -109,7 +109,7 @@
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}",
-        ".hdt-btn {border-radius: 60px}"
+        ".hdt-btn {border-radius: 60px;}"
       ],
       "settings": {
         "full_width": true,
