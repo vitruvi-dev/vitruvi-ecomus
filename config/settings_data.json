@@ -15,7 +15,7 @@
     "color_text": "#474946",
     "color_accent": "#474946",
     "color_focus": "#e2eef6",
-    "badge_sale": "#ff0000",
+    "badge_sale": "#ab4e52",
     "badge_new": "#474946",
     "badge_soldout": "#e2eef6",
     "badge_preorder": "#e2eef6",
@@ -482,7 +482,7 @@
           "overlay": "#474946",
           "pr_text": "#000000",
           "price": "#474946",
-          "sale_price": "#ff0000",
+          "sale_price": "#ab4e52",
           "input_primary": "#ffffff",
           "input_secondary": "#474946"
         }
