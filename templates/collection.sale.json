@@ -59,14 +59,32 @@
         "text_LnzVHG": {
           "type": "text",
           "settings": {
-            "text": "<p>Shop Prime Day prices early and save 30% on best-selling diffusers, all-natural scents, and long-lasting humidifiers.</p>",
+            "text": "<p>Prime Day prices extended for a limited time.</p><p>Save 30% on best-selling diffusers, all-natural scents, and long-lasting humidifiers.</p>",
             "adding_border": false
+          }
+        },
+        "countdown_fi4PPC": {
+          "type": "countdown",
+          "settings": {
+            "title": "",
+            "year": 2024,
+            "month": 10,
+            "day": 14,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": "scheme-2"
           }
         }
       },
       "block_order": [
         "heading_CeLpaN",
-        "text_LnzVHG"
+        "text_LnzVHG",
+        "countdown_fi4PPC"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
