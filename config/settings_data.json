@@ -1,12 +1,12 @@
 /*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "purchase_code": "d73daf1c-7794-4014-a4fc-1b4c8797200b",
@@ -15,7 +15,7 @@
     "color_text": "#474946",
     "color_accent": "#474946",
     "color_focus": "#e2eef6",
-    "badge_sale": "#ab4e52",
+    "badge_sale": "#e2eef6",
     "badge_new": "#474946",
     "badge_soldout": "#e2eef6",
     "badge_preorder": "#e2eef6",
@@ -572,32 +572,12 @@
           "background": "#f7f8f6",
           "background_gradient": "",
           "background2": "#e2eef6",
-          "button": "#ff9900",
-          "button_label": "#000000",
-          "button_border": "#ff9900",
+          "button": "#f7f8f6",
+          "button_label": "#474946",
+          "button_border": "#474946",
           "secondary_button_label": "#474946",
           "line_border": "#474946",
-          "overlay": "#474946",
-          "pr_text": "#000000",
-          "price": "#474946",
-          "sale_price": "#ab4e52",
-          "input_primary": "#ffffff",
-          "input_secondary": "#474946"
-        }
-      },
-      "scheme-8b54878b-1f6e-4dcc-a236-0398efbda2f3": {
-        "settings": {
-          "text": "#ffffff",
-          "text2": "#ffffff",
-          "background": "#f7f8f6",
-          "background_gradient": "",
-          "background2": "#e2eef6",
-          "button": "#ff9900",
-          "button_label": "#000000",
-          "button_border": "#ff9900",
-          "secondary_button_label": "#474946",
-          "line_border": "#474946",
-          "overlay": "#474946",
+          "overlay": "#f7f8f6",
           "pr_text": "#000000",
           "price": "#474946",
           "sale_price": "#ab4e52",
