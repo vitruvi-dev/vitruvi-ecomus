@@ -49,6 +49,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -80,7 +81,7 @@
             "image_mb": "shopify://shop_images/page_home_hero_prime-holiday-deals-2024_image_mobile.jpg",
             "url": "shopify://collections/prime-holiday-deals",
             "banner_target": false,
-            "color_scheme": "scheme-8b54878b-1f6e-4dcc-a236-0398efbda2f3",
+            "color_scheme": "scheme-3",
             "heading": "<p><strong>30% OFF SITEWIDE</strong><br/>PRIME HOLIDAY DEALS</p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
@@ -105,11 +106,9 @@
       "block_order": [
         "slide_base_fnDmKR"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}",
-        ".hdt-btn {border-radius: 60px;}"
+        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
       ],
       "settings": {
         "full_width": true,
