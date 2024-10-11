@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breacrumb": {
@@ -40,7 +40,7 @@
           }
         },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
@@ -107,6 +107,7 @@
         },
         "8253e974-5acb-4076-9230-03b0f804dcdf": {
           "type": "back_instock",
+          "disabled": true,
           "settings": {
             "only_show_soldout": true
           }
@@ -176,13 +177,13 @@
           "settings": {
             "icon_svg": "box2",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_shipping_2024-06.svg",
+            "image": "shopify://shop_images/icons_shipping_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/frequently-asked-questions",
+            "link": "shopify://pages/frequently-asked-questions",
             "open_link": false,
             "title": "Fast, Free Shipping",
-            "content": "<p>Delivered nationwide in 3-8 business days.<\/p>",
+            "content": "<p>Delivered nationwide in 3-8 business days.</p>",
             "adding_border": false
           }
         },
@@ -191,13 +192,13 @@
           "settings": {
             "icon_svg": "leaf2",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_warranty_2024-06.svg",
+            "image": "shopify://shop_images/icons_warranty_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/warranty",
+            "link": "shopify://pages/warranty",
             "open_link": true,
             "title": "Lifetime Device Warranty",
-            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "content": "<p>Extended coverage to keep your air cared for even longer.</p>",
             "adding_border": false
           }
         },
@@ -206,13 +207,13 @@
           "settings": {
             "icon_svg": "support",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_returns_2024-06.svg",
+            "image": "shopify://shop_images/icons_returns_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/returns-and-exchanges",
+            "link": "shopify://pages/returns-and-exchanges",
             "open_link": true,
             "title": "No-Hassle Returns",
-            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
+            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.</p>",
             "adding_border": false
           }
         }
@@ -398,7 +399,7 @@
           "type": "quote",
           "settings": {
             "heading": "After using it for a week, my life was changed.",
-            "content": "<p>This humidifier is not only BEAUTIFUL, but it also serves a purpose that I think everyone will benefit from. I've noticed my hair becoming more hydrated, and I live in an extremely dry place! I'm still blown away that this humidifier has changed the game for me. I would highly recommend it if you want your life changed!<\/p>",
+            "content": "<p>This humidifier is not only BEAUTIFUL, but it also serves a purpose that I think everyone will benefit from. I've noticed my hair becoming more hydrated, and I live in an extremely dry place! I'm still blown away that this humidifier has changed the game for me. I would highly recommend it if you want your life changed!</p>",
             "author": "Annika P.",
             "enable_verify": true,
             "rating": 5
@@ -408,7 +409,7 @@
           "type": "quote",
           "settings": {
             "heading": "Life before Cloud? Don't remember it.",
-            "content": "<p>I never thought I could love a humidifier, but here I am — IN LOVE. We have our Cloud going at all times since we got it. It's beautiful and works so well. It's helped clear sniffles in our home during the cold November weather... I want one for every room.<\/p>",
+            "content": "<p>I never thought I could love a humidifier, but here I am — IN LOVE. We have our Cloud going at all times since we got it. It's beautiful and works so well. It's helped clear sniffles in our home during the cold November weather... I want one for every room.</p>",
             "author": "Alex D.",
             "enable_verify": true,
             "rating": 5
@@ -418,7 +419,7 @@
           "type": "quote",
           "settings": {
             "heading": "Elevating Home Comfort and Aesthetics",
-            "content": "<p>The Vitruvi Humidifier has completely transformed my living space and elevated my overall well-being.<\/p><p>Beyond its aesthetic appeal, the humidifier's performance is truly outstanding. It releases a fine mist that instantly refreshes the air, providing a more comfortable and soothing environment, especially during dry seasons.<\/p>",
+            "content": "<p>The Vitruvi Humidifier has completely transformed my living space and elevated my overall well-being.</p><p>Beyond its aesthetic appeal, the humidifier's performance is truly outstanding. It releases a fine mist that instantly refreshes the air, providing a more comfortable and soothing environment, especially during dry seasons.</p>",
             "author": "Olivier M.",
             "enable_verify": true,
             "rating": 5
@@ -428,7 +429,7 @@
           "type": "quote",
           "settings": {
             "heading": "I absolutely love this!",
-            "content": "<p>Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed. Mine was a gift, and I would gift this to anyone who is hard to buy for.<\/p>",
+            "content": "<p>Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed. Mine was a gift, and I would gift this to anyone who is hard to buy for.</p>",
             "author": "Teresa F.",
             "enable_verify": true,
             "rating": 5
@@ -438,7 +439,7 @@
           "type": "quote",
           "settings": {
             "heading": "Do not hesitate purchasing this unit!",
-            "content": "<p>My skin, hair and sleep quality has noticeably improved and am absolutely obsessed of staying consistent. It’s sleek, cute and visually appealing! How do you not purchase!?<\/p>",
+            "content": "<p>My skin, hair and sleep quality has noticeably improved and am absolutely obsessed of staying consistent. It’s sleek, cute and visually appealing! How do you not purchase!?</p>",
             "author": "Kaytee W.",
             "enable_verify": false,
             "rating": 5
@@ -460,7 +461,7 @@
         "top_heading": "Join over 10k Cloud customers sleeping better every night",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "top_description": "<p>Sweet Dreams, Thanks to Cloud<\/p>",
+        "top_description": "<p>Sweet Dreams, Thanks to Cloud</p>",
         "subheading_size": "hdt-text-base",
         "show_rating": false,
         "rating": 5,
@@ -479,7 +480,7 @@
       "type": "apps",
       "blocks": {
         "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
