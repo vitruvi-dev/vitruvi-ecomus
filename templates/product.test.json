@@ -107,6 +107,7 @@
         },
         "8253e974-5acb-4076-9230-03b0f804dcdf": {
           "type": "back_instock",
+          "disabled": true,
           "settings": {
             "only_show_soldout": true
           }
