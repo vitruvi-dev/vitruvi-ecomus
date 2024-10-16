@@ -3797,7 +3797,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
   padding: 0 1.4rem;
   /* border: 0.1rem solid rgb(var(--color-link)); */
   border-radius: var(--rounded-button)!important;
-  font-size: var(--text-sm);
+  font-size: var(--text-xs);
   font-weight: var(--font-medium);
   /* color: rgb(var(--color-link));
   background-color: transparent!important; */
