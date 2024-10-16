@@ -492,27 +492,22 @@
     },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
-      "disabled": true,
       "settings": {
         "heading_align": "start",
-        "sec_heading": "All-Natural Scents, Better Living",
+        "sec_heading": "Other diffuser options",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.</p>",
+        "sec_subheading": "<p>lorem ipsum dolar</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "lavender-essential-oil",
-          "eucalyptus-essential-oil",
-          "sleep-essential-oil-blend",
-          "boost-essential-oil-blend",
-          "pacific-essential-oil-blend",
-          "dusk-essential-oil-blend",
-          "signature-essential-oil-kit",
-          "rest-essential-oil-kit"
+          "stone-essential-oil-diffuser",
+          "glow-essential-oil-diffuser",
+          "move-cordless-essential-oil-diffuser",
+          "stay-large-essential-oil-diffuser"
         ],
         "product_des": "10",
         "image_ratio": "square",
