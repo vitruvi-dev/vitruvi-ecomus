@@ -77,7 +77,8 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/loremipsum.png",
+            "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
+            "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_mobile.jpg",
             "url": "shopify://collections/holiday-collection",
             "banner_target": false,
             "color_scheme": "scheme-3",
