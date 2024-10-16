@@ -61,12 +61,10 @@
       "blocks": {
         "mega_shop_7yUh8W": {
           "type": "mega_shop",
-          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "collection_list": [
-              "natural-air-freshener-single-sprays",
-              "accessories"
+
             ],
             "image_ratio": "square",
             "image_size": false,
@@ -78,7 +76,6 @@
         },
         "mega_shop_bUeJYD": {
           "type": "mega_shop",
-          "disabled": true,
           "settings": {
             "title": "Humidifiers",
             "collection_list": [
@@ -94,7 +91,6 @@
         },
         "mega_shop_mg3bKH": {
           "type": "mega_shop",
-          "disabled": true,
           "settings": {
             "title": "Scents",
             "collection_list": [
@@ -106,23 +102,6 @@
             "mega_position": "bottom",
             "mega_width": "custom",
             "mega_custom_width": 600
-          }
-        },
-        "mega_product_fkiTAj": {
-          "type": "mega_product",
-          "disabled": true,
-          "settings": {
-            "title": "Humidifiers",
-            "product_list_title": "BEST SELLER",
-            "product_list": [
-              "cloud-humidifier-holiday-bundle"
-            ],
-            "image_ratio": "square",
-            "image_size": true,
-            "mega_menu_colors": "",
-            "mega_position": "center_on_screen",
-            "mega_width": "custom",
-            "mega_custom_width": 800
           }
         },
         "mega_shop_xTkPbf": {
@@ -146,7 +125,6 @@
         "mega_shop_7yUh8W",
         "mega_shop_bUeJYD",
         "mega_shop_mg3bKH",
-        "mega_product_fkiTAj",
         "mega_shop_xTkPbf"
       ],
       "custom_css": [
