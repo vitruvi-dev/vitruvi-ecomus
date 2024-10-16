@@ -273,10 +273,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Better Sleep, Better Air",
+        "sec_heading": "Lorem ipsum dolar.",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.</p>",
+        "sec_subheading": "<p>Lorem ipsum dolar sit amet.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -313,6 +313,7 @@
     },
     "featured_collection_grid_EcUNwb": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Better Sleep, Better Air",
