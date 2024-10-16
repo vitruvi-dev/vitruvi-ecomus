@@ -64,7 +64,8 @@
           "settings": {
             "title": "Diffusers",
             "collection_list": [
-
+              "essential-oil-diffusers",
+              "essential-oils-for-diffusers"
             ],
             "image_ratio": "square",
             "image_size": false,
