@@ -283,6 +283,7 @@
     },
     "featured_collection_grid_3fPWh3": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Lorem ipsum dolar.",
@@ -293,7 +294,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "",
+        "collection": "holiday-scents",
         "product_list": [
           "sugar-spice-diffuser-blend",
           "forest-frost-diffuser-blend",
@@ -962,12 +963,12 @@
     "custom_line_zAe7AX",
     "main",
     "featured_product_4PVpj9",
+    "featured_collection_grid_zVFg6J",
     "featured_collection_grid_3fPWh3",
     "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
     "featured_product_dMjAEx",
-    "featured_collection_grid_zVFg6J",
     "slideshow_bHhppE",
     "collections_list_simple_kY6xMW",
     "accordion_inline_tzAiHJ",
