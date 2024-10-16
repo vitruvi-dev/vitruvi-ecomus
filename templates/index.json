@@ -77,8 +77,7 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/page_home_hero_prime-holiday-deals-2024_image_desktop.jpg",
-            "image_mb": "shopify://shop_images/page_home_hero_prime-holiday-deals-2024_image_mobile.jpg",
+            "image": "shopify://shop_images/loremipsum.png",
             "url": "shopify://collections/prime-holiday-deals",
             "banner_target": false,
             "color_scheme": "scheme-3",
