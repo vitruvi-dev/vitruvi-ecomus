@@ -3798,7 +3798,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
   /* border: 0.1rem solid rgb(var(--color-link)); */
   border-radius: var(--rounded-button)!important;
   font-size: var(--text-xs);
-  font-weight: var(--font-bold);
+  font-weight: var(--font-medium);
   /* color: rgb(var(--color-link));
   background-color: transparent!important; */
   color: rgb(var(--color-custom-badge-text));
