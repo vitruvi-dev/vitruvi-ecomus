@@ -370,6 +370,17 @@
     "featured_product_q3qnpt": {
       "type": "featured-product",
       "blocks": {
+        "badges_hDirB4": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
         "custom_liquid_JAapDA": {
           "type": "custom_liquid",
           "disabled": true,
@@ -437,6 +448,7 @@
         }
       },
       "block_order": [
+        "badges_hDirB4",
         "custom_liquid_JAapDA",
         "title_7fhX9x",
         "price_C3Wc7C",
