@@ -602,6 +602,48 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_grid_whnAX6": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Better Sleep, Better Air",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Stylish, functional, and crafted to elevate any space—Vitruvi diffusers are gifts that keep giving.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "cloud-humidifier",
+          "humidifier-filters",
+          "humidifier-sensor-hygrometer",
+          "best-sleep-diffuser-humidifier-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
@@ -880,6 +922,7 @@
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
     "featured_product_dMjAEx",
+    "featured_collection_grid_whnAX6",
     "slideshow_bHhppE",
     "collections_list_simple_kY6xMW",
     "accordion_inline_tzAiHJ",
