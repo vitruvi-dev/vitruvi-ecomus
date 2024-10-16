@@ -3795,7 +3795,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
 }
 .hdt-product__badges .hdt-badge {
   padding: 0 1.4rem;
-  border: 0.1rem solid rgb(var(--color-link));
+  /* border: 0.1rem solid rgb(var(--color-link)); */
   border-radius: var(--rounded-button)!important;
   font-size: var(--text-xs);
   font-weight: var(--font-bold);
