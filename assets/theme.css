@@ -1561,7 +1561,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
   padding: 0 6px;
   min-width: 40px;
   text-transform: capitalize;
-  font-size: var(--text-sm);
+  font-size: var(--text-xs);
   font-weight: var(--font-medium);
   text-align: center;
   line-height: 22px;
