@@ -59,7 +59,7 @@
         "text_LnzVHG": {
           "type": "text",
           "settings": {
-            "text": "<p>Prime Day prices extended for a limited time.</p><p>Save 30% on best-selling diffusers, all-natural scents, and long-lasting humidifiers.</p>",
+            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles. Perfect for creating special moments all season long.</p>",
             "adding_border": false
           }
         }
@@ -77,7 +77,7 @@
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image-1-blurred.jpg",
+        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
