@@ -114,11 +114,11 @@
             "product_list": [
               "cloud-humidifier-holiday-bundle"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "full",
+            "mega_position": "center_on_screen",
+            "mega_width": "custom",
             "mega_custom_width": 1200
           }
         },
