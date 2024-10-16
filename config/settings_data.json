@@ -51,7 +51,7 @@
     "badge_shape": "rectangle",
     "use_onsale_badge": true,
     "label_onsale_style": "percentage",
-    "use_new_badge": false,
+    "use_new_badge": true,
     "new_day_added": 14,
     "use_preorder_badge": false,
     "wishlist_mode": "0",
