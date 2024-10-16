@@ -3801,8 +3801,10 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
   font-weight: var(--font-medium);
   /* color: rgb(var(--color-link));
   background-color: transparent!important; */
-  color: rgb(var(--color-custom-badge-text));
-  background-color: rgb(var(--color-custom-badge-background));
+  background-color: var(--badge-color-primary);
+  color: var(--badge-color-secondary);
+  /* color: rgb(var(--color-custom-badge-text));
+  background-color: rgb(var(--color-custom-badge-background)); */
   min-width: unset;
   line-height: 2.9rem;
 }
