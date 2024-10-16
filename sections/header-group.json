@@ -64,7 +64,8 @@
           "settings": {
             "title": "Diffusers",
             "collection_list": [
-
+              "natural-air-freshener-single-sprays",
+              "accessories"
             ],
             "image_ratio": "square",
             "image_size": false,
