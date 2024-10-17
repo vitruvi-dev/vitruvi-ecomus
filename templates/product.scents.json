@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breacrumb": {
@@ -40,7 +40,7 @@
           }
         },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
@@ -128,7 +128,7 @@
         "custom_liquid_ydB9QQ": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.compare_at_price == blank %}\n  {% if product.type and product.type contains 'Kit' %}\n  <!-- Do nothing or add an alternative display for products with \"Kit\" in type -->\n{% else %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n      <div class=\"byob-img\">\n        <a href=\"\/products\/build-your-own-scent-bundle\">\n          <img class=\"byob-src\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/pdp_spring-scents-bundle_scents_gallery_1_cropped_image.png?v=1712687466\">\n        <\/a>\n      <\/div>\n      <div class=\"byob-text\">\n        <a href=\"\/products\/build-your-own-scent-bundle\">\n          <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%<\/h5>\n          <p>Bundle 4 or more of your favorite blends and essential oils.<\/p>\n        <\/a>\n      <\/div>\n      <div class=\"byob-button\">\n        <a href=\"\/products\/build-your-own-scent-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n          <span>BUILD BUNDLE<\/span>\n        <\/a>\n      <\/div>\n    <\/div>\n{% endif %}\n{% endif %}"
+            "custom_liquid": "{% if product.compare_at_price == blank %}\n  {% if product.type and product.type contains 'Kit' %}\n  <!-- Do nothing or add an alternative display for products with \"Kit\" in type -->\n{% else %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n      <div class=\"byob-img\">\n        <a href=\"/products/build-your-own-scent-bundle\">\n          <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_spring-scents-bundle_scents_gallery_1_cropped_image.png?v=1712687466\">\n        </a>\n      </div>\n      <div class=\"byob-text\">\n        <a href=\"/products/build-your-own-scent-bundle\">\n          <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%</h5>\n          <p>Bundle 4 or more of your favorite blends and essential oils.</p>\n        </a>\n      </div>\n      <div class=\"byob-button\">\n        <a href=\"/products/build-your-own-scent-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n          <span>BUILD BUNDLE</span>\n        </a>\n      </div>\n    </div>\n{% endif %}\n{% endif %}"
           }
         }
       },
@@ -187,7 +187,7 @@
           "settings": {
             "icon_svg": "leaf",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_drop_2024-06.svg",
+            "image": "shopify://shop_images/icons_drop_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
@@ -202,7 +202,7 @@
           "settings": {
             "icon_svg": "health",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_vial_2024-06.svg",
+            "image": "shopify://shop_images/icons_vial_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
@@ -217,7 +217,7 @@
           "settings": {
             "icon_svg": "health",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_heart_2024-06.svg",
+            "image": "shopify://shop_images/icons_heart_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
@@ -232,7 +232,7 @@
           "settings": {
             "icon_svg": "box",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_recycle_2024-08.svg",
+            "image": "shopify://shop_images/icons_recycle_2024-08.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
@@ -311,7 +311,7 @@
           "settings": {
             "title": "Shipping & Returns",
             "content": "",
-            "page": "product-returns-scents"
+            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
           }
         }
       },
@@ -402,7 +402,7 @@
       "type": "apps",
       "blocks": {
         "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
