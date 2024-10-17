@@ -47,9 +47,8 @@
       "blocks": {
         "sub_heading_zEA96H": {
           "type": "sub_heading",
-          "disabled": true,
           "settings": {
-            "sub_heading": "Prime Day prices extended: 30% off sitewide",
+            "sub_heading": "All orders ship free with code <b>FREESHIP</b>",
             "sub_heading_fs": "base"
           }
         }
