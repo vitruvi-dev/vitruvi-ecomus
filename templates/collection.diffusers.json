@@ -163,7 +163,10 @@
         "sec_heading_spacing": 30,
         "collection": "diffuser-bundles",
         "product_list": [
-
+          "stone-diffuser-holiday-bundle",
+          "starter-stone-diffuser-bundle",
+          "sleep-stone-diffuser-bundle",
+          "build-your-own-diffuser-bundle-3"
         ],
         "product_des": "10",
         "image_ratio": "square",
