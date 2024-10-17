@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -128,17 +128,17 @@
         "sec_heading": "Humidifier Bundles for Healthier Air",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Save more with curated humidifier sets designed to enhance your air quality and wellness all year long.<\/p>",
+        "sec_subheading": "<p>Save more with curated humidifier sets designed to enhance your air quality and wellness all year long.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "fall-humidifier-bundle",
+          "cloud-humidifier-holiday-bundle",
           "good-air-cloud-humidifier-bundle",
-          "sleep-cloud-humidifier-bundle",
-          "best-sleep-diffuser-humidifier-bundle"
+          "best-sleep-diffuser-humidifier-bundle",
+          "sleep-cloud-humidifier-bundle"
         ],
         "product_des": "10",
         "image_ratio": "square",
@@ -170,7 +170,7 @@
         "sec_heading": "Diffuser Bundles for Natural Scenting",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Save more with curated diffuser sets designed to elevate your space with all-natural scents and wellness benefits year-round.<\/p>",
+        "sec_subheading": "<p>Save more with curated diffuser sets designed to elevate your space with all-natural scents and wellness benefits year-round.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -211,8 +211,8 @@
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
-            "url": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "image": "shopify://shop_images/page_home_hero_summersale2024_image_v1_desktop.jpg",
+            "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Build Your Own Diffuser Bundle",
@@ -223,7 +223,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -248,8 +248,8 @@
           "type": "slide_label",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
-            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
+            "url": "shopify://products/build-your-own-scent-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Build Your Own Scent Bundle",
@@ -260,7 +260,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "btn_link": "shopify://products/build-your-own-scent-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -319,7 +319,7 @@
         "sec_heading": "Scent Kits for Pure, Natural Fragrance",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover curated essential oil kits designed to transform your space with natural, mood-enhancing scents for any occasion.<\/p>",
+        "sec_subheading": "<p>Discover curated essential oil kits designed to transform your space with natural, mood-enhancing scents for any occasion.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -361,8 +361,8 @@
           "type": "slide_label",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
-            "url": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "image": "shopify://shop_images/page_home_hero_summersale2024_image_v1_desktop.jpg",
+            "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Build Your Own Diffuser Bundle",
@@ -373,7 +373,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -397,8 +397,8 @@
         "slide_label_LAMXbx": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
-            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
+            "url": "shopify://products/build-your-own-scent-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Build Your Own Scent Bundle",
@@ -409,7 +409,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "btn_link": "shopify://products/build-your-own-scent-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
