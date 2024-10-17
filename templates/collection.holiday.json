@@ -59,7 +59,7 @@
         "text_LnzVHG": {
           "type": "text",
           "settings": {
-            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles. Perfect for creating special moments all season long.</p>",
+            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
             "adding_border": false
           }
         }
@@ -81,7 +81,7 @@
         "link_img": "",
         "target": false,
         "image_behavior": "none",
-        "use_overlay": false,
+        "use_overlay": true,
         "use_bg_content": false,
         "content_position": "center",
         "content_align": "center",
@@ -98,29 +98,36 @@
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
-        "sub_heading_wpqzpJ": {
-          "type": "sub_heading",
+        "heading_GanaQd": {
+          "type": "heading",
           "disabled": true,
           "settings": {
-            "sub_heading": "Get a Free Grove Diffuser Blend on $100+ Orders, While Supplies Last",
+            "heading": "Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.",
+            "heading_fs": "base"
+          }
+        },
+        "sub_heading_wpqzpJ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "All orders ship free with code <b>FREESHIP</b>",
             "sub_heading_fs": "base"
           }
         }
       },
       "block_order": [
+        "heading_GanaQd",
         "sub_heading_wpqzpJ"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
       "settings": {
-        "spacing_item": 0,
+        "spacing_item": 20,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -276,7 +283,7 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "scheme-1",
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -380,7 +387,7 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "scheme-1",
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -484,7 +491,7 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "scheme-1",
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -646,7 +653,7 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -805,7 +812,7 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
