@@ -38,7 +38,7 @@
         "announcement_eeYyAc": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">Use code <strong>FREESHIP</strong> at checkout for free shipping on your order</a>"
+            "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">All Orders Ship Free With Code <span style=\"text-decoration:underline\"><strong>FREESHIP</strong></span></a>"
           }
         }
       },
