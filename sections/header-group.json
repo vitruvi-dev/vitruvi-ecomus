@@ -127,15 +127,15 @@
             "title": "Diffusers",
             "product_list_title": "BEST SELLER",
             "product_list": [
-              "build-your-own-diffuser-bundle",
+              "stone-essential-oil-diffuser",
               "stone-diffuser-holiday-bundle"
             ],
             "image_ratio": "adapt_image",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "full",
-            "mega_custom_width": 1200
+            "mega_width": "custom",
+            "mega_custom_width": 900
           }
         }
       },
