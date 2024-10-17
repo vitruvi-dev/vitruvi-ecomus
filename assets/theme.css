@@ -5818,6 +5818,6 @@ country-filter {
   }
 }
 
-.hdt-navigation .hdt-badge__new, .hdt-navigation .hdt-badge__custom {
+.hdt-navigation .hdt-badge__wrapp {
   display: none;
 }
