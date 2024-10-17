@@ -5817,3 +5817,7 @@ country-filter {
     color: rgb(var(--color-foreground) / 0.8);
   }
 }
+
+.hdt-navigation .hdt-badge__new, .hdt-navigation .hdt-badge__custom {
+  display: none;
+}
