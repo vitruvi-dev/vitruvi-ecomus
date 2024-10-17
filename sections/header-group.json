@@ -30,15 +30,23 @@
         },
         "announcement_RzCepp": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
+          }
+        },
+        "announcement_eeYyAc": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">Use code <strong>FREESHIP</strong> at checkout for free shipping on your order</a>"
           }
         }
       },
       "block_order": [
         "announcement_RqB4ka",
         "announcement_7iU4bq",
-        "announcement_RzCepp"
+        "announcement_RzCepp",
+        "announcement_eeYyAc"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
