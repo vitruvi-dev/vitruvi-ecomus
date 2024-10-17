@@ -94,6 +94,7 @@
         },
         "mega_shop_bUeJYD": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Humidifiers",
             "collection_list": [
@@ -105,6 +106,23 @@
             "mega_position": "bottom",
             "mega_width": "custom",
             "mega_custom_width": 600
+          }
+        },
+        "mega_product_3Dp8aK": {
+          "type": "mega_product",
+          "settings": {
+            "title": "Humidifiers",
+            "product_list_title": "SPOTLIGHT",
+            "product_list": [
+              "cloud-humidifier",
+              "cloud-humidifier-holiday-bundle"
+            ],
+            "image_ratio": "adapt_image",
+            "image_size": true,
+            "mega_menu_colors": "",
+            "mega_position": "bottom",
+            "mega_width": "custom",
+            "mega_custom_width": 1000
           }
         },
         "mega_shop_mg3bKH": {
@@ -143,6 +161,7 @@
         "mega_shop_7yUh8W",
         "mega_product_k7LrJx",
         "mega_shop_bUeJYD",
+        "mega_product_3Dp8aK",
         "mega_shop_mg3bKH",
         "mega_shop_xTkPbf"
       ],
