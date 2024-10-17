@@ -61,6 +61,7 @@
       "blocks": {
         "mega_product_MpUUKp": {
           "type": "mega_product",
+          "disabled": true,
           "settings": {
             "title": "Holiday",
             "product_list_title": "HOLIDAY EXCLUSIVES",
