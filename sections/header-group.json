@@ -114,6 +114,7 @@
             "title": "Humidifiers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
+              "cloud-humidifier",
               "cloud-humidifier-holiday-bundle"
             ],
             "image_ratio": "adapt_image",
