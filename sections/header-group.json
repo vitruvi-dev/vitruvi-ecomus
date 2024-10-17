@@ -86,22 +86,6 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_7yUh8W": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Diffusers",
-            "collection_list": [
-
-            ],
-            "image_ratio": "square",
-            "image_size": false,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 600
-          }
-        },
         "mega_product_k7LrJx": {
           "type": "mega_product",
           "settings": {
@@ -119,11 +103,11 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_bUeJYD": {
+        "mega_shop_7yUh8W": {
           "type": "mega_shop",
           "disabled": true,
           "settings": {
-            "title": "Humidifiers",
+            "title": "Diffusers",
             "collection_list": [
 
             ],
@@ -152,11 +136,11 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_mg3bKH": {
+        "mega_shop_bUeJYD": {
           "type": "mega_shop",
           "disabled": true,
           "settings": {
-            "title": "Scents",
+            "title": "Humidifiers",
             "collection_list": [
 
             ],
@@ -178,12 +162,28 @@
               "sugar-spice-diffuser-blend",
               "forest-frost-diffuser-blend"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "full",
-            "mega_custom_width": 1200
+            "mega_width": "custom",
+            "mega_custom_width": 1000
+          }
+        },
+        "mega_shop_mg3bKH": {
+          "type": "mega_shop",
+          "disabled": true,
+          "settings": {
+            "title": "Scents",
+            "collection_list": [
+
+            ],
+            "image_ratio": "square",
+            "image_size": false,
+            "mega_menu_colors": "",
+            "mega_position": "bottom",
+            "mega_width": "custom",
+            "mega_custom_width": 600
           }
         },
         "mega_shop_xTkPbf": {
@@ -205,12 +205,12 @@
       },
       "block_order": [
         "mega_product_MpUUKp",
-        "mega_shop_7yUh8W",
         "mega_product_k7LrJx",
-        "mega_shop_bUeJYD",
+        "mega_shop_7yUh8W",
         "mega_product_3Dp8aK",
-        "mega_shop_mg3bKH",
+        "mega_shop_bUeJYD",
         "mega_product_iLwycz",
+        "mega_shop_mg3bKH",
         "mega_shop_xTkPbf"
       ],
       "custom_css": [
