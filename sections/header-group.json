@@ -86,30 +86,14 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_7yUh8W": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Diffusers",
-            "collection_list": [
-
-            ],
-            "image_ratio": "square",
-            "image_size": false,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 600
-          }
-        },
         "mega_product_k7LrJx": {
           "type": "mega_product",
           "settings": {
             "title": "Diffusers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "stone-essential-oil-diffuser",
-              "stone-diffuser-holiday-bundle"
+              "stone-diffuser-holiday-bundle",
+              "build-your-own-diffuser-bundle"
             ],
             "image_ratio": "adapt_image",
             "image_size": true,
@@ -119,11 +103,11 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_bUeJYD": {
+        "mega_shop_7yUh8W": {
           "type": "mega_shop",
           "disabled": true,
           "settings": {
-            "title": "Humidifiers",
+            "title": "Diffusers",
             "collection_list": [
 
             ],
@@ -152,8 +136,42 @@
             "mega_custom_width": 1000
           }
         },
+        "mega_shop_bUeJYD": {
+          "type": "mega_shop",
+          "disabled": true,
+          "settings": {
+            "title": "Humidifiers",
+            "collection_list": [
+
+            ],
+            "image_ratio": "square",
+            "image_size": false,
+            "mega_menu_colors": "",
+            "mega_position": "bottom",
+            "mega_width": "custom",
+            "mega_custom_width": 600
+          }
+        },
+        "mega_product_iLwycz": {
+          "type": "mega_product",
+          "settings": {
+            "title": "Scents",
+            "product_list_title": "SPOTLIGHT",
+            "product_list": [
+              "festive-favorites-essential-oil-kit",
+              "build-your-own-scent-bundle-8"
+            ],
+            "image_ratio": "square",
+            "image_size": true,
+            "mega_menu_colors": "",
+            "mega_position": "bottom",
+            "mega_width": "custom",
+            "mega_custom_width": 1000
+          }
+        },
         "mega_shop_mg3bKH": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Scents",
             "collection_list": [
@@ -186,10 +204,11 @@
       },
       "block_order": [
         "mega_product_MpUUKp",
-        "mega_shop_7yUh8W",
         "mega_product_k7LrJx",
-        "mega_shop_bUeJYD",
+        "mega_shop_7yUh8W",
         "mega_product_3Dp8aK",
+        "mega_shop_bUeJYD",
+        "mega_product_iLwycz",
         "mega_shop_mg3bKH",
         "mega_shop_xTkPbf"
       ],
