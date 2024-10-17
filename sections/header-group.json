@@ -92,8 +92,8 @@
             "title": "Diffusers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "stone-essential-oil-diffuser",
-              "stone-diffuser-holiday-bundle"
+              "stone-diffuser-holiday-bundle",
+              "build-your-own-diffuser-bundle"
             ],
             "image_ratio": "adapt_image",
             "image_size": true,
@@ -222,7 +222,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_holiday",
+        "main_menu": "",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
