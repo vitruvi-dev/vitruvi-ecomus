@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breacrumb": {
@@ -45,7 +45,7 @@
           }
         },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
@@ -64,7 +64,7 @@
           }
         },
         "appstle_subscription_appstle_subscription_product_page_widget_diCGNT": {
-          "type": "shopify:\/\/apps\/appstle-subscription\/blocks\/appstle-subscription-product-page-widget\/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
+          "type": "shopify://apps/appstle-subscription/blocks/appstle-subscription-product-page-widget/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
           "disabled": true,
           "settings": {
           }
@@ -134,14 +134,26 @@
         },
         "custom_liquid_fFGnfC": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\">\n      <img class=\"byob-src\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/boost-byob-cta-v2.png?v=1725056018\">\n    <\/a>\n  <\/div>\n  <div class=\"byob-text\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\">\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%<\/h5>\n      <p>Bundle together your favorite blends and essential oils alongside your diffuser.<\/p>\n    <\/a>\n  <\/div>\n  <div class=\"byob-button\">\n    <a href=\"\/products\/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>BUILD BUNDLE<\/span>\n    <\/a>\n  <\/div>\n<\/div>"
+            "custom_liquid": "<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <a href=\"/products/build-your-own-diffuser-bundle\">\n      <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/boost-byob-cta-v2.png?v=1725056018\">\n    </a>\n  </div>\n  <div class=\"byob-text\">\n    <a href=\"/products/build-your-own-diffuser-bundle\">\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%</h5>\n      <p>Bundle together your favorite blends and essential oils alongside your diffuser.</p>\n    </a>\n  </div>\n  <div class=\"byob-button\">\n    <a href=\"/products/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>BUILD BUNDLE</span>\n    </a>\n  </div>\n</div>"
           }
         },
         "custom_liquid_TWDYmG": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n    <div class=\"byob-img\">\n      <a href=\"\/products\/build-your-own-scent-bundle\">\n        <img class=\"byob-src\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/pdp_spring-scents-bundle_scents_gallery_1_cropped_image.png?v=1712687466\">\n      <\/a>\n    <\/div>\n    <div class=\"byob-text\">\n      <a href=\"\/products\/build-your-own-scent-bundle\">\n        <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%<\/h5>\n        <p>Bundle 4 or more  of your favorite blends and essential oils.<\/p>\n      <\/a>\n    <\/div>\n    <div class=\"byob-button\">\n      <a href=\"\/products\/build-your-own-scent-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n        <span>BUILD BUNDLE<\/span>\n      <\/a>\n    <\/div>\n  <\/div>"
+            "custom_liquid": "<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n    <div class=\"byob-img\">\n      <a href=\"/products/build-your-own-scent-bundle\">\n        <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_spring-scents-bundle_scents_gallery_1_cropped_image.png?v=1712687466\">\n      </a>\n    </div>\n    <div class=\"byob-text\">\n      <a href=\"/products/build-your-own-scent-bundle\">\n        <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%</h5>\n        <p>Bundle 4 or more  of your favorite blends and essential oils.</p>\n      </a>\n    </div>\n    <div class=\"byob-button\">\n      <a href=\"/products/build-your-own-scent-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n        <span>BUILD BUNDLE</span>\n      </a>\n    </div>\n  </div>"
+          }
+        },
+        "bundle_product_t9dTMT": {
+          "type": "bundle_product",
+          "settings": {
+            "bundle_prs_inner": true,
+            "product_list": [
+              "sugar-spice-diffuser-blend",
+              "forest-frost-diffuser-blend"
+            ]
           }
         }
       },
@@ -160,7 +172,8 @@
         "complimentary_products_JR7E8m",
         "img_trust_by9E7L",
         "custom_liquid_fFGnfC",
-        "custom_liquid_TWDYmG"
+        "custom_liquid_TWDYmG",
+        "bundle_product_t9dTMT"
       ],
       "custom_css": [
         ".byob-cta {gap: 25px; padding: 25px;}",
@@ -279,7 +292,7 @@
       "type": "apps",
       "blocks": {
         "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
