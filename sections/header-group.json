@@ -21,17 +21,17 @@
             "text": "<a href=\"/collections/prime-holiday-deals\" title=\"Prime Holiday Deals\">Prime Day Prices Extended: 30% Off Sitewide</a>"
           }
         },
+        "announcement_RzCepp": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
+          }
+        },
         "announcement_7iU4bq": {
           "type": "announcement",
           "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/shop-all\" title=\"Shop All\">Free Gift on $100+ Orders, While Supplies Last</a>"
-          }
-        },
-        "announcement_RzCepp": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
         },
         "announcement_eeYyAc": {
@@ -44,8 +44,8 @@
       },
       "block_order": [
         "announcement_RqB4ka",
-        "announcement_7iU4bq",
         "announcement_RzCepp",
+        "announcement_7iU4bq",
         "announcement_eeYyAc"
       ],
       "custom_css": [
