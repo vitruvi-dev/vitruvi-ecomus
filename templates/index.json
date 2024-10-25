@@ -97,18 +97,6 @@
             "adding_border": false
           }
         },
-        "button_Rmw4Ki": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP HOLIDAY",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
         "button_ztEptR": {
           "type": "button",
           "settings": {
@@ -120,14 +108,26 @@
             "btn_fw": "normal",
             "btn_icon": "1"
           }
+        },
+        "button_Rmw4Ki": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP HOLIDAY",
+            "btn_link": "shopify://collections/holiday-collection",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
         }
       },
       "block_order": [
         "heading_bi44nG",
         "heading_cGBdTQ",
         "text_R6wLAp",
-        "button_Rmw4Ki",
-        "button_ztEptR"
+        "button_ztEptR",
+        "button_Rmw4Ki"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
