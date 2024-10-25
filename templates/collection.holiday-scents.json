@@ -107,7 +107,8 @@
           }
         },
         "sub_heading_wpqzpJ": {
-          type": "sub_heading",
+          "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
             "sub_heading_fs": "base"
