@@ -59,6 +59,43 @@
         "padding_rate": 75
       }
     },
+    "top_heading_LKRnyK": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_GanaQd": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.",
+            "heading_fs": "base"
+          }
+        },
+        "sub_heading_wpqzpJ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "All orders ship free with code <b>FREESHIP</b>",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GanaQd",
+        "sub_heading_wpqzpJ"
+      ],
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 20,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "heading": {
       "type": "heading-collection",
       "blocks": {
@@ -416,43 +453,6 @@
         "color_scheme": "",
         "padding_top": 80,
         "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_LKRnyK": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_GanaQd": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.",
-            "heading_fs": "base"
-          }
-        },
-        "sub_heading_wpqzpJ": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "All orders ship free with code <b>FREESHIP</b>",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GanaQd",
-        "sub_heading_wpqzpJ"
-      ],
-      "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
-      ],
-      "settings": {
-        "spacing_item": 20,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -1230,14 +1230,14 @@
     }
   },
   "order": [
-    "hero_image_N43MWn",
     "heading",
+    "hero_image_N43MWn",
+    "top_heading_LKRnyK",
+    "custom_line_zAe7AX",
     "featured_product_dMjAEx",
     "featured_collection_grid_whnAX6",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
-    "top_heading_LKRnyK",
-    "custom_line_zAe7AX",
     "main",
     "featured_product_4PVpj9",
     "featured_product_hN73Ya",
