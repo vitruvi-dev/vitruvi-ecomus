@@ -9,6 +9,42 @@
  */
 {
   "sections": {
+    "heading": {
+      "type": "heading-collection",
+      "blocks": {
+        "breadcrumb_CM7qtX": {
+          "type": "breadcrumb",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "description_Ddhb9a": {
+          "type": "description",
+          "settings": {
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb_CM7qtX",
+        "9a1347b4-da62-490d-9fd4-427a03686ac2",
+        "description_Ddhb9a"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing_hd": 5,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 15,
+        "padding_rate": 75
+      }
+    },
     "hero_image_N43MWn": {
       "type": "hero-image",
       "blocks": {
@@ -72,8 +108,9 @@
         },
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
-            "sub_heading": "All orders ship free with code <b>FREESHIP</b>",
+            "sub_heading": "All orders ship free with code FREESHIP",
             "sub_heading_fs": "base"
           }
         }
@@ -96,39 +133,17 @@
         "padding_rate": 75
       }
     },
-    "heading": {
-      "type": "heading-collection",
-      "blocks": {
-        "breadcrumb_CM7qtX": {
-          "type": "breadcrumb",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
-          "type": "heading",
-          "settings": {
-            "heading": ""
-          }
-        },
-        "description_Ddhb9a": {
-          "type": "description",
-          "settings": {
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "breadcrumb_CM7qtX",
-        "9a1347b4-da62-490d-9fd4-427a03686ac2",
-        "description_Ddhb9a"
-      ],
-      "disabled": true,
+    "custom_line_zAe7AX": {
+      "type": "custom-line",
       "settings": {
-        "spacing_hd": 5,
-        "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 15,
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -452,20 +467,6 @@
         "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "custom_line_zAe7AX": {
-      "type": "custom-line",
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#f7f8f6",
-        "line_pos": "center",
-        "section_fullwidth": false,
-        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
