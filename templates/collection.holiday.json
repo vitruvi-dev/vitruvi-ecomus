@@ -98,16 +98,9 @@
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
-        "heading_GanaQd": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.",
-            "heading_fs": "base"
-          }
-        },
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
             "sub_heading_fs": "base"
@@ -115,7 +108,6 @@
         }
       },
       "block_order": [
-        "heading_GanaQd",
         "sub_heading_wpqzpJ"
       ],
       "custom_css": [
