@@ -62,11 +62,29 @@
             "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
             "adding_border": false
           }
+        },
+        "countdown_x7JFqW": {
+          "type": "countdown",
+          "settings": {
+            "title": "Hungry up ! Deals end in :",
+            "year": 2024,
+            "month": 11,
+            "day": 4,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": "scheme-3"
+          }
         }
       },
       "block_order": [
         "heading_CeLpaN",
-        "text_LnzVHG"
+        "text_LnzVHG",
+        "countdown_x7JFqW"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
