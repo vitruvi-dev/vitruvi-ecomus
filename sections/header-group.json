@@ -30,13 +30,13 @@
         },
         "announcement_RzCepp": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
         },
         "announcement_eeYyAc": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">All Orders Ship Free With Code <span style=\"text-decoration:underline\"><strong>FREESHIP</strong></span></a>"
           }
