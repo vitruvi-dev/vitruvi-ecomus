@@ -216,6 +216,14 @@
             "svg": "",
             "height": 30
           }
+        },
+        "countdown_timer_zBXYrW": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "HURRY UP! SALE ENDS IN:",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
         }
       },
       "block_order": [
@@ -227,7 +235,8 @@
         "description_Gm3MY8",
         "buy_buttons_LkxTgU",
         "view_products_details_rEVYk3",
-        "img_trust_pFrqPD"
+        "img_trust_pFrqPD",
+        "countdown_timer_zBXYrW"
       ],
       "settings": {
         "product": "holiday-essential-oil-kit",
