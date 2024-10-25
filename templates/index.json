@@ -74,11 +74,19 @@
     "hero_image_mbpfrU": {
       "type": "hero-image",
       "blocks": {
+        "heading_bi44nG": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW",
+            "heading_fs": "h5",
+            "heading_fw": "normal"
+          }
+        },
         "heading_cGBdTQ": {
           "type": "heading",
           "settings": {
-            "heading": "Ecomus theme shopify",
-            "heading_fs": "h3",
+            "heading": "HOLIDAY COLLECTION",
+            "heading_fs": "h1",
             "heading_fw": "normal"
           }
         },
@@ -103,6 +111,7 @@
         }
       },
       "block_order": [
+        "heading_bi44nG",
         "heading_cGBdTQ",
         "text_R6wLAp",
         "button_Rmw4Ki"
