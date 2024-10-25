@@ -71,6 +71,70 @@
         "padding_rate": 75
       }
     },
+    "hero_image_mbpfrU": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_cGBdTQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ecomus theme shopify",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_R6wLAp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "adding_border": false
+          }
+        },
+        "button_Rmw4Ki": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cGBdTQ",
+        "text_R6wLAp",
+        "button_Rmw4Ki"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\";}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}"
+      ],
+      "settings": {
+        "image_height": "full",
+        "fixed_height": 700,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
+        "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
       "type": "slideshow",
       "blocks": {
@@ -804,6 +868,7 @@
   },
   "order": [
     "video_GKb7jj",
+    "hero_image_mbpfrU",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "countdown_text_7Qr8m8",
     "image_with_text_yqNnyc",
