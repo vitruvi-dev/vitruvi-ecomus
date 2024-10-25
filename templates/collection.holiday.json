@@ -45,6 +45,56 @@
         "padding_rate": 75
       }
     },
+    "hero_image_N43MWn": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_CeLpaN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Early Black Friday",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_LnzVHG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CeLpaN",
+        "text_LnzVHG"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\";}",
+        ".hdt-countdown__item {border-radius: 0px;}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/loremipsum.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": true,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
@@ -201,56 +251,6 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_N43MWn": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_CeLpaN": {
-          "type": "heading",
-          "settings": {
-            "heading": "New ARRIVALS",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_LnzVHG": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_CeLpaN",
-        "text_LnzVHG"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px;}"
-      ],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 200,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": true,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 100,
-        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
