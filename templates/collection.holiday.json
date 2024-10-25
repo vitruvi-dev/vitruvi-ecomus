@@ -45,13 +45,172 @@
         "padding_rate": 75
       }
     },
+    "top_heading_LKRnyK": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_wpqzpJ": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_wpqzpJ"
+      ],
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 20,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_line_zAe7AX": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_QjnWUB": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_gHXVdA": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "custom_liquid_hVjHbE": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
+          }
+        },
+        "title_GraKxG": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_cnBVy6": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_gk83TF": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "description_Gm3MY8": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_LkxTgU": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_rEVYk3": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        },
+        "img_trust_pFrqPD": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_gHXVdA",
+        "custom_liquid_hVjHbE",
+        "title_GraKxG",
+        "price_cnBVy6",
+        "variant_picker_gk83TF",
+        "description_Gm3MY8",
+        "buy_buttons_LkxTgU",
+        "view_products_details_rEVYk3",
+        "img_trust_pFrqPD"
+      ],
+      "settings": {
+        "product": "holiday-essential-oil-kit",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "hero_image_N43MWn": {
       "type": "hero-image",
       "blocks": {
         "heading_CeLpaN": {
           "type": "heading",
           "settings": {
-            "heading": "HOLIDAY COLLECTION",
+            "heading": "New ARRIVALS",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -95,36 +254,53 @@
         "padding_rate": 75
       }
     },
-    "top_heading_LKRnyK": {
-      "type": "top-heading",
+    "hero_image_9yhiTT": {
+      "type": "hero-image",
       "blocks": {
-        "sub_heading_wpqzpJ": {
-          "type": "sub_heading",
-          "disabled": true,
+        "heading_BjFVKY": {
+          "type": "heading",
           "settings": {
-            "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
-            "sub_heading_fs": "base"
+            "heading": "New ARRIVALS",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_bhkaN3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
+            "adding_border": false
           }
         }
       },
       "block_order": [
-        "sub_heading_wpqzpJ"
-      ],
-      "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+        "heading_BjFVKY",
+        "text_bhkaN3"
       ],
       "settings": {
-        "spacing_item": 20,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": true,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 100,
         "padding_bottom": 0,
         "padding_rate": 75
       }
     },
-    "custom_line_zAe7AX": {
+    "custom_line_bfwN3P": {
       "type": "custom-line",
       "settings": {
         "line_style": "solid",
@@ -1226,6 +1402,9 @@
     "hero_image_N43MWn",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
+    "featured_product_QjnWUB",
+    "hero_image_9yhiTT",
+    "custom_line_bfwN3P",
     "featured_product_dMjAEx",
     "featured_collection_grid_whnAX6",
     "featured_product_q3qnpt",
