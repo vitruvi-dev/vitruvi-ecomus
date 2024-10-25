@@ -100,7 +100,19 @@
         "button_Rmw4Ki": {
           "type": "button",
           "settings": {
-            "btn_label": "Shop now",
+            "btn_label": "SHOP HOLIDAY",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "button_ztEptR": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP SALE",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
@@ -114,7 +126,8 @@
         "heading_bi44nG",
         "heading_cGBdTQ",
         "text_R6wLAp",
-        "button_Rmw4Ki"
+        "button_Rmw4Ki",
+        "button_ztEptR"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
