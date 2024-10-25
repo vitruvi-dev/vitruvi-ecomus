@@ -52,6 +52,7 @@
       "blocks": {
         "sub_heading_MrRjdm": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "All orders ship free with code <b>FREESHIP</b>",
             "sub_heading_fs": "base"
