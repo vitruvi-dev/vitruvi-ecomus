@@ -49,8 +49,9 @@
       "blocks": {
         "sub_heading_P6dMit": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
-            "sub_heading": "All orders ship free with code <b>FREESHIP</b>",
+            "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
             "sub_heading_fs": "base"
           }
         }
