@@ -9,6 +9,56 @@
  */
 {
   "sections": {
+    "hero_image_N43MWn": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_CeLpaN": {
+          "type": "heading",
+          "settings": {
+            "heading": "HOLIDAY COLLECTION",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_LnzVHG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CeLpaN",
+        "text_LnzVHG"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\";}",
+        ".hdt-countdown__item {border-radius: 0px;}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": true,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "heading": {
       "type": "heading-collection",
       "blocks": {
@@ -204,48 +254,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_j8DcaG": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "start",
-        "sec_heading": "The Perfect Gift for Any Decor",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Stylish, functional, and crafted to elevate any space—Vitruvi diffusers are gifts that keep giving.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "stone-essential-oil-diffuser",
-          "glow-essential-oil-diffuser",
-          "move-cordless-essential-oil-diffuser",
-          "stay-large-essential-oil-diffuser"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 50,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "featured_product_q3qnpt": {
       "type": "featured-product",
       "blocks": {
@@ -369,53 +377,45 @@
         "padding_rate": 75
       }
     },
-    "hero_image_N43MWn": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_CeLpaN": {
-          "type": "heading",
-          "settings": {
-            "heading": "HOLIDAY COLLECTION",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_LnzVHG": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_CeLpaN",
-        "text_LnzVHG"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px;}"
-      ],
+    "featured_collection_grid_j8DcaG": {
+      "type": "featured-collection-grid",
       "settings": {
-        "image_height": "fixed",
-        "fixed_height": 200,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": true,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
+        "heading_align": "start",
+        "sec_heading": "The Perfect Gift for Any Decor",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Stylish, functional, and crafted to elevate any space—Vitruvi diffusers are gifts that keep giving.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "stone-essential-oil-diffuser",
+          "glow-essential-oil-diffuser",
+          "move-cordless-essential-oil-diffuser",
+          "stay-large-essential-oil-diffuser"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 100,
-        "padding_bottom": 0,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -692,7 +692,6 @@
       ],
       "settings": {
         "product": "festive-scents-duo",
-        "image": "shopify://shop_images/Group1.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
@@ -1231,12 +1230,12 @@
     }
   },
   "order": [
+    "hero_image_N43MWn",
     "heading",
     "featured_product_dMjAEx",
     "featured_collection_grid_whnAX6",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
-    "hero_image_N43MWn",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
     "main",
