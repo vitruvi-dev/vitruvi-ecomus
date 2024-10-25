@@ -97,18 +97,6 @@
             "adding_border": false
           }
         },
-        "button_ztEptR": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP SALE",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
         "button_Rmw4Ki": {
           "type": "button",
           "settings": {
@@ -126,7 +114,6 @@
         "heading_bi44nG",
         "heading_cGBdTQ",
         "text_R6wLAp",
-        "button_ztEptR",
         "button_Rmw4Ki"
       ],
       "custom_css": [
