@@ -437,9 +437,12 @@
         "view_products_details_GEzQB7",
         "img_trust_a6jC9j"
       ],
+      "custom_css": [
+        ".button_custom {width: 100%;}"
+      ],
       "settings": {
         "product": "build-your-own-diffuser-bundle",
-        "image": "shopify://shop_images/ugc_scents_bowl_thecurrentlovee.jpg",
+        "image": "shopify://shop_images/pdp_byob-diffuser-bundle-gallery_2_image-6.jpg",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
