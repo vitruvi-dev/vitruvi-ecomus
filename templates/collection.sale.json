@@ -212,6 +212,17 @@
             "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
           }
         },
+        "badges_qYqANH": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
         "title_MfaEDn": {
           "type": "title",
           "settings": {
@@ -261,6 +272,7 @@
       },
       "block_order": [
         "custom_liquid_6MAfAi",
+        "badges_qYqANH",
         "title_MfaEDn",
         "price_mqJdTn",
         "description_dJqfXD",
