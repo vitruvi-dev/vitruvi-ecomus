@@ -289,10 +289,10 @@
         "img_trust_dJbGeM"
       ],
       "custom_css": [
-        ".button_custom {width: 100%}"
+        ".button_custom {width: 100%;}"
       ],
       "settings": {
-        "product": "build-your-own-scent-bundle",
+        "product": "build-your-own-scent-bundle-8",
         "image": "shopify://shop_images/ugc_scents_bowl_thecurrentlovee.jpg",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
