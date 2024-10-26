@@ -51,8 +51,8 @@
         "heading_9GcwLT": {
           "type": "heading",
           "settings": {
-            "heading": "Up to 40% OFF",
-            "heading_fs": "base",
+            "heading": "UP TO 40% OFF",
+            "heading_fs": "h5",
             "heading_fw": "normal"
           }
         },
@@ -97,6 +97,7 @@
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
+        ".hdt-h5 {font-family: \"Founders Grotesk\";}",
         ".hdt-countdown__item {border-radius: 0px;}"
       ],
       "settings": {
