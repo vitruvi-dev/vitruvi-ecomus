@@ -86,6 +86,7 @@
         "text_LnzVHG",
         "countdown_x7JFqW"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         ".hdt-countdown__item {border-radius: 0px;}"
