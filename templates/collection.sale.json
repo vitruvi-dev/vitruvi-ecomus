@@ -296,7 +296,7 @@
         "custom_liquid_rJWnWP": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n<button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\">\n          <span class=\"hdt-btn-atc_text\">GET STARTED</span><hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price><span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n            <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\"><circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle></svg>\n          </span>\n        </button>\n</a>"
+            "custom_liquid": "<a href=\"{{ product.url }}\">\n<button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\">\n          <span class=\"hdt-btn-atc_text\">GET STARTED</span><hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price><span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n            <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\"><circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle></svg>\n          </span>\n        </button>\n</a>"
           }
         },
         "view_products_details_aDGnTQ": {
