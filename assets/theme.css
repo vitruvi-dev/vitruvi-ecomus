@@ -557,13 +557,8 @@ header [data-header-bottom-height] {
 }
 #menu_mobile .hdt-menu-link-text .hdt_label_menu {
 	top: 5px;
+  left: 110%
   /* top: -12px; */
-}
-
-@media (max-width: 768px) {
-	.dir--ltr .hdt-menu-link-text .hdt_label_menu {
-		left: 110%;
-	}
 }
 
 .dir--ltr .hdt-menu-link-text .hdt_label_menu {
