@@ -592,7 +592,8 @@ header [data-header-bottom-height] {
   text-transform: none;
   z-index: 1;
   min-width: 26px;
-  max-width: 62px;
+  /* max-width: 62px; */
+  max-width: 124px;
   overflow: hidden;
   text-overflow: ellipsis;
   display: block;
