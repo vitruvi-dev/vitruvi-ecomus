@@ -560,14 +560,16 @@ header [data-header-bottom-height] {
   /* top: -12px; */
 }
 
-#menu_mobile .dir--ltr .hdt-menu-link-text .hdt_label_menu {
-	left: 110%;
+@media (max-width: 768px) {
+	.dir--ltr .hdt-menu-link-text .hdt_label_menu {
+		left: 110%;
+	}
 }
 
 .dir--ltr .hdt-menu-link-text .hdt_label_menu {
-	left: 90%;
-  /* left: 100%; */
+	left: 100%;
 }
+
 .dir--rtl .hdt-menu-link-text .hdt_label_menu {
 	right: 100%;
 }
