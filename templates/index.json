@@ -155,7 +155,7 @@
           "type": "slide_base",
           "settings": {
             "image": "shopify://shop_images/loremipsum.png",
-            "url": "",
+            "url": "shopify://collections/black-friday-deals",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p><strong>UP TO 40% OFF</strong><br/>EARLY BLACK FRIDAY DEALS</p>",
