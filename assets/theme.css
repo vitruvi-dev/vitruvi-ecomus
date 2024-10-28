@@ -556,10 +556,12 @@ header [data-header-bottom-height] {
 	pointer-events: none;
 }
 #menu_mobile .hdt-menu-link-text .hdt_label_menu {
-	top: -12px;
+	top: 5px;
+  /* top: -12px; */
 }
 .dir--ltr .hdt-menu-link-text .hdt_label_menu {
-	left: 100%;
+	left: 110%;
+  /* left: 100%; */
 }
 .dir--rtl .hdt-menu-link-text .hdt_label_menu {
 	right: 100%;
