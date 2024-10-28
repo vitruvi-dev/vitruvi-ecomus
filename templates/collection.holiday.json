@@ -143,20 +143,6 @@
         "padding_rate": 75
       }
     },
-    "custom_line_zAe7AX": {
-      "type": "custom-line",
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#f7f8f6",
-        "line_pos": "center",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "hero_image_9yhiTT": {
       "type": "hero-image",
       "blocks": {
@@ -202,7 +188,7 @@
         "full_width": false,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
-        "padding_top": 100,
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -1308,7 +1294,6 @@
     "heading",
     "hero_image_N43MWn",
     "top_heading_LKRnyK",
-    "custom_line_zAe7AX",
     "hero_image_9yhiTT",
     "custom_line_bfwN3P",
     "featured_product_dMjAEx",
