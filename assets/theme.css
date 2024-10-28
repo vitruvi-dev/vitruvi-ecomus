@@ -606,7 +606,11 @@ header [data-header-bottom-height] {
   background-color: rgb(var(--color-hot-badge-background));
   color: rgb(var(--color-hot-badge-text));
 }
-.hdt-menu-link-text .hdt_label_menu > span.hdt_label_sale {
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_sale,
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_savings,
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_deal,
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_offer,
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_save {
   background-color: rgb(var(--color-on-sale-badge-background));
   color: rgb(var(--color-on-sale-badge-text));
 }
