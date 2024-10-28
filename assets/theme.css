@@ -559,9 +559,13 @@ header [data-header-bottom-height] {
 	top: 5px;
   /* top: -12px; */
 }
-.dir--ltr .hdt-menu-link-text .hdt_label_menu {
+
+#menu_mobile .dir--ltr .hdt-menu-link-text .hdt_label_menu {
 	left: 110%;
-  /* left: 100%; */
+}
+
+.dir--ltr .hdt-menu-link-text .hdt_label_menu {
+	left: 100%;
 }
 .dir--rtl .hdt-menu-link-text .hdt_label_menu {
 	right: 100%;
