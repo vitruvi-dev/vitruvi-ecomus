@@ -51,7 +51,7 @@
         "heading_CeLpaN": {
           "type": "heading",
           "settings": {
-            "heading": "Holiday Flash Sale",
+            "heading": "HOLIDAY COLLECTION",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -62,38 +62,19 @@
             "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
             "adding_border": false
           }
-        },
-        "countdown_x7JFqW": {
-          "type": "countdown",
-          "settings": {
-            "title": "Hungry up ! Deals end in :",
-            "year": 2024,
-            "month": 11,
-            "day": 4,
-            "hour": 0,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": "",
-            "color_scheme": "scheme-3"
-          }
         }
       },
       "block_order": [
         "heading_CeLpaN",
-        "text_LnzVHG",
-        "countdown_x7JFqW"
+        "text_LnzVHG"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         ".hdt-countdown__item {border-radius: 0px;}"
       ],
       "settings": {
         "image_height": "fixed",
-        "fixed_height": 330,
+        "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
         "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
@@ -143,57 +124,7 @@
         "padding_rate": 75
       }
     },
-    "hero_image_9yhiTT": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_BjFVKY": {
-          "type": "heading",
-          "settings": {
-            "heading": "NEW ARRIVALS",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_bhkaN3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_BjFVKY",
-        "text_bhkaN3"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px;}"
-      ],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 250,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": true,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "custom_line_bfwN3P": {
+    "custom_line_zAe7AX": {
       "type": "custom-line",
       "settings": {
         "line_style": "solid",
@@ -1294,8 +1225,7 @@
     "heading",
     "hero_image_N43MWn",
     "top_heading_LKRnyK",
-    "hero_image_9yhiTT",
-    "custom_line_bfwN3P",
+    "custom_line_zAe7AX",
     "featured_product_dMjAEx",
     "featured_collection_grid_whnAX6",
     "featured_product_q3qnpt",
