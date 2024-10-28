@@ -158,10 +158,10 @@
             "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>NEW</strong><br/>EARLY BLACK FRIDAY DEALS</p>",
+            "heading": "<p><strong>UP TO 40% OFF</strong><br/>EARLY BLACK FRIDAY DEALS</p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Transform your space with our limited-edition holiday collection, featuring festive scents and beautifully crafted diffusers to make every moment feel special.",
+            "sub_heading": "Start gifting season with exclusive savings. Discover diffuser and scent bundles crafted to elevate any space—making this holiday truly special.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP HOLIDAY",
@@ -214,7 +214,7 @@
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
         ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}"
       ],
       "settings": {
