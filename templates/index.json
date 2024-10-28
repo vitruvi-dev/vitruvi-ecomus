@@ -155,7 +155,7 @@
           "type": "slide_base",
           "settings": {
             "image": "shopify://shop_images/loremipsum.png",
-            "url": "shopify://collections/holiday-collection",
+            "url": "",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p><strong>NEW</strong><br/>HOLIDAY COLLECTION</p>",
