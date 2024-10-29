@@ -240,13 +240,6 @@
     "featured_product_mwKb8Q": {
       "type": "featured-product",
       "blocks": {
-        "custom_liquid_6MAfAi": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
-          }
-        },
         "badges_qYqANH": {
           "type": "badges",
           "settings": {
@@ -320,7 +313,6 @@
         }
       },
       "block_order": [
-        "custom_liquid_6MAfAi",
         "badges_qYqANH",
         "title_MfaEDn",
         "custom_liquid_fDdAbD",
@@ -362,13 +354,6 @@
     "featured_product_ybanyx": {
       "type": "featured-product",
       "blocks": {
-        "custom_liquid_h8TNhy": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
-          }
-        },
         "badges_FLEwf7": {
           "type": "badges",
           "settings": {
@@ -388,7 +373,7 @@
         "custom_liquid_FtNFBm": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\"><div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n  <span style=\"font-size: var(--text-2xl);\">From</span>\n  <div class=\"hdt-price__container\"><div class=\"hdt-price__sale hdt-price__list\">\n      <hdt-compare-at-price class=\"hdt-compare-at-price\">\n        <span class=\"sr-only sr-only--inline\">Regular price</span>\n        <span class=\"hdt-money\"></span>\n      </hdt-compare-at-price>\n      <hdt-price class=\"hdt-price\">\n        <span class=\"sr-only sr-only--inline\">Sale price</span>\n        <span class=\"hdt-money\">$55</span>\n      </hdt-price>\n    </div>\n    \n  </div><hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\"><span percent=\"\">UP TO 40</span>% SAVINGS</hdt-badge></div></div>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\"><div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n  <span style=\"font-size: var(--text-2xl);\">From</span>\n  <div class=\"hdt-price__container\"><div class=\"hdt-price__sale hdt-price__list\">\n      <hdt-compare-at-price class=\"hdt-compare-at-price\">\n        <span class=\"sr-only sr-only--inline\">Regular price</span>\n        <span class=\"hdt-money\"></span>\n      </hdt-compare-at-price>\n      <hdt-price class=\"hdt-price\">\n        <span class=\"sr-only sr-only--inline\">Sale price</span>\n        <span class=\"hdt-money\">$55</span>\n      </hdt-price>\n    </div>\n    \n  </div><hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\"><span percent=\"\">SAVE UP TO 40%</span></hdt-badge></div></div>"
           }
         },
         "price_D9WQYU": {
@@ -442,7 +427,6 @@
         }
       },
       "block_order": [
-        "custom_liquid_h8TNhy",
         "badges_FLEwf7",
         "title_enYzUg",
         "custom_liquid_FtNFBm",
