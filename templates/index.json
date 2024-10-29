@@ -158,7 +158,7 @@
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
             "url": "shopify://collections/black-friday-deals",
             "banner_target": false,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-1",
             "heading": "<p><strong>UP TO 40% OFF</strong><br/>EARLY BLACK FRIDAY DEALS</p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
@@ -246,11 +246,12 @@
         "text_ACcXwy": {
           "type": "text",
           "settings": {
-            "heading": "Labor Day Sale Ends Soon"
+            "heading": "Only Available Until"
           }
         },
         "button_k6gWgC": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "btn_label": "Shop Now",
             "btn_link": "shopify://collections/labor-day-sale",
@@ -260,11 +261,18 @@
             "btn_fw": "normal",
             "btn_icon": "2"
           }
+        },
+        "text_2_HVAADq": {
+          "type": "text_2",
+          "settings": {
+            "sub_heading": "Limited-Tim"
+          }
         }
       },
       "block_order": [
         "text_ACcXwy",
-        "button_k6gWgC"
+        "button_k6gWgC",
+        "text_2_HVAADq"
       ],
       "disabled": true,
       "custom_css": [
@@ -273,8 +281,8 @@
       "settings": {
         "full_width": true,
         "year": 2024,
-        "month": 9,
-        "day": 3,
+        "month": 11,
+        "day": 5,
         "hour": 0,
         "minute": 0,
         "effect_cd": "none",
@@ -284,8 +292,136 @@
         "mess_complete": "",
         "color_scheme": "",
         "padding_top": 76,
-        "padding_bottom": 76,
+        "padding_bottom": 40,
         "padding_rate": 75
+      }
+    },
+    "collections_list_ntQ9dE": {
+      "type": "collections-list",
+      "blocks": {
+        "collection_item_QXdRwA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "diffuser-blends",
+            "image": "shopify://shop_images/home_explore_blends_2024-06.jpg",
+            "title": "Diffuser Blends",
+            "collection_link": ""
+          }
+        },
+        "collection_item_RJBn7K": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oils",
+            "image": "shopify://shop_images/home_explore_oils_2024-08.png",
+            "title": "Essential Oils",
+            "collection_link": ""
+          }
+        },
+        "collection_item_wfEYUY": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "natural-air-freshener-sprays",
+            "image": "shopify://shop_images/home_explore_sprays_2024-06.jpg",
+            "title": "Air Freshener Sprays",
+            "collection_link": ""
+          }
+        },
+        "view_all_DVpbAd": {
+          "type": "view_all",
+          "disabled": true,
+          "settings": {
+            "title": "Shop all scents",
+            "item_link": "shopify://collections/scents"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_QXdRwA",
+        "collection_item_RJBn7K",
+        "collection_item_wfEYUY",
+        "view_all_DVpbAd"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Explore",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 12,
+        "sec_heading_spacing": 50,
+        "collection_list": [
+
+        ],
+        "collection_des": "8",
+        "content_size": "2xl",
+        "content_weight": "normal",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "image_ratio": "asos",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "2",
+        "space_items": "20",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "simple",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "dots_pos": "ontop",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "boxed_content": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 75,
+        "padding_bottom": 90,
+        "padding_rate": 60
+      }
+    },
+    "featured_collection_grid_Xjz6q9": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 12,
+        "sec_heading_spacing": 100,
+        "collection": "",
+        "product_list": [
+          "stone-diffuser-holiday-bundle",
+          "festive-favorites-essential-oil-kit",
+          "sugar-spice-diffuser-blend",
+          "forest-frost-diffuser-blend"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 80,
+        "btn_label": "Load more",
+        "btn_style": "outline",
+        "btn_fw": "semibold",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 76,
+        "padding_rate": 76
       }
     },
     "image_with_text_yqNnyc": {
@@ -384,6 +520,7 @@
     },
     "d81e394c-3467-4709-a303-1d274f42da41": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "custom_css": [
         ".hdt-collection-products {--spacing-y: 30px;}",
         ".hdt-view-all-btn {letter-spacing: 0.1px;}",
@@ -915,6 +1052,8 @@
     "hero_image_mbpfrU",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "countdown_text_7Qr8m8",
+    "collections_list_ntQ9dE",
+    "featured_collection_grid_Xjz6q9",
     "image_with_text_yqNnyc",
     "featured_collection_grid_Kx43Gm",
     "d81e394c-3467-4709-a303-1d274f42da41",
