@@ -304,7 +304,7 @@
           "settings": {
             "collection": "diffuser-blends",
             "image": "shopify://shop_images/home_explore_blends_2024-06.jpg",
-            "title": "Diffuser Blends",
+            "title": "Up to 40% Off Scent Bundles",
             "collection_link": ""
           }
         },
@@ -313,16 +313,16 @@
           "settings": {
             "collection": "essential-oils",
             "image": "shopify://shop_images/home_explore_oils_2024-08.png",
-            "title": "Essential Oils",
+            "title": "Up to 40% Off Diffuser Bundles",
             "collection_link": ""
           }
         },
-        "collection_item_wfEYUY": {
+        "collection_item_CkNEzN": {
           "type": "collection_item",
           "settings": {
-            "collection": "natural-air-freshener-sprays",
-            "image": "shopify://shop_images/home_explore_sprays_2024-06.jpg",
-            "title": "Air Freshener Sprays",
+            "collection": "humidifiers",
+            "image": "shopify://shop_images/home_explore_oils_2024-08.png",
+            "title": "Up to 30% Off Diffuser Bundles",
             "collection_link": ""
           }
         },
@@ -338,7 +338,7 @@
       "block_order": [
         "collection_item_QXdRwA",
         "collection_item_RJBn7K",
-        "collection_item_wfEYUY",
+        "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
       "settings": {
