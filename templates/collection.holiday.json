@@ -257,6 +257,7 @@
     },
     "featured_collection_grid_whnAX6": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Better Sleep, Better Air",
@@ -422,6 +423,7 @@
     },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "The Perfect Gift for Any Decor",
