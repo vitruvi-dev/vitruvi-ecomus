@@ -200,6 +200,17 @@
     "featured_product_mwKb8Q": {
       "type": "featured-product",
       "blocks": {
+        "badges_fTd9xR": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
         "title_MfaEDn": {
           "type": "title",
           "settings": {
@@ -262,6 +273,7 @@
         }
       },
       "block_order": [
+        "badges_fTd9xR",
         "title_MfaEDn",
         "custom_liquid_fDdAbD",
         "price_mqJdTn",
@@ -275,7 +287,7 @@
         ".button_custom {width: 100%;}"
       ],
       "settings": {
-        "product": "build-your-own-scent-bundle-8",
+        "product": "build-your-own-scent-bundle",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
