@@ -109,7 +109,7 @@
         "countdown_fi4PPC": {
           "type": "countdown",
           "settings": {
-            "title": "Offer active for:",
+            "title": "",
             "year": 2024,
             "month": 11,
             "day": 3,
@@ -120,7 +120,7 @@
             "prepend_number": false,
             "hide_on_complete": false,
             "mess_complete": "",
-            "color_scheme": "scheme-1"
+            "color_scheme": "scheme-2"
           }
         }
       },
