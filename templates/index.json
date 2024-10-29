@@ -341,6 +341,9 @@
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
+      "custom_css": [
+        ".hdt-collection-content p {display: none;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Explore",
