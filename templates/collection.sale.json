@@ -225,6 +225,7 @@
         "sub_heading_T9tqLC",
         "heading_X9a8yn"
       ],
+      "disabled": true,
       "settings": {
         "spacing_item": 20,
         "alignment": "center",
@@ -265,7 +266,7 @@
         "custom_liquid_fDdAbD": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\"><div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n  <span style=\"font-size: var(--text-2xl);\">From</span>\n  <div class=\"hdt-price__container\"><div class=\"hdt-price__sale hdt-price__list\">\n      <hdt-compare-at-price class=\"hdt-compare-at-price\">\n        <span class=\"sr-only sr-only--inline\">Regular price</span>\n        <span class=\"hdt-money\"></span>\n      </hdt-compare-at-price>\n      <hdt-price class=\"hdt-price\">\n        <span class=\"sr-only sr-only--inline\">Sale price</span>\n        <span class=\"hdt-money\">$55</span>\n      </hdt-price>\n    </div>\n    \n  </div><hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\"><span percent=\"\">UP TO 40</span>% SAVINGS</hdt-badge></div></div>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\"><div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n  <span style=\"font-size: var(--text-2xl);\">From</span>\n  <div class=\"hdt-price__container\"><div class=\"hdt-price__sale hdt-price__list\">\n      <hdt-compare-at-price class=\"hdt-compare-at-price\">\n        <span class=\"sr-only sr-only--inline\">Regular price</span>\n        <span class=\"hdt-money\"></span>\n      </hdt-compare-at-price>\n      <hdt-price class=\"hdt-price\">\n        <span class=\"sr-only sr-only--inline\">Sale price</span>\n        <span class=\"hdt-money\">$55</span>\n      </hdt-price>\n    </div>\n    \n  </div><hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\"><span percent=\"\">SAVE UP TO 40%</span></hdt-badge></div></div>"
           }
         },
         "price_mqJdTn": {
