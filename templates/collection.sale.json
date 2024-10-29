@@ -83,14 +83,6 @@
     "hero_image_N43MWn": {
       "type": "hero-image",
       "blocks": {
-        "heading_9GcwLT": {
-          "type": "heading",
-          "settings": {
-            "heading": "UP TO 40% OFF BUNDLES",
-            "heading_fs": "h5",
-            "heading_fw": "normal"
-          }
-        },
         "heading_CeLpaN": {
           "type": "heading",
           "settings": {
@@ -125,7 +117,6 @@
         }
       },
       "block_order": [
-        "heading_9GcwLT",
         "heading_CeLpaN",
         "text_LnzVHG",
         "countdown_fi4PPC"
@@ -178,7 +169,6 @@
       "blocks": {
         "sub_heading_T9tqLC": {
           "type": "sub_heading",
-          "disabled": true,
           "settings": {
             "sub_heading": "UP TO 40% OFF",
             "sub_heading_fs": "base"
@@ -187,7 +177,7 @@
         "heading_X9a8yn": {
           "type": "heading",
           "settings": {
-            "heading": "Build Your Own Bundle",
+            "heading": "Personalized Gift Bundles",
             "heading_fs": "h4"
           }
         }
