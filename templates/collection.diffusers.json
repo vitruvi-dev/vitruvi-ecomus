@@ -192,6 +192,75 @@
         "padding_rate": 75
       }
     },
+    "featured_product_U4BGQY": {
+      "type": "featured-product",
+      "blocks": {
+        "title_agcLrB": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_QTQ3Jg": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_bRMktd": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_irk3D7": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_RaWLXz": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_agcLrB",
+        "price_QTQ3Jg",
+        "description_bRMktd",
+        "buy_buttons_irk3D7",
+        "view_products_details_RaWLXz"
+      ],
+      "settings": {
+        "product": "build-your-own-diffuser-bundle",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "accordion_qkAGnW": {
       "type": "accordion",
       "blocks": {
@@ -376,6 +445,7 @@
     "main",
     "featured_collection_grid_yaaUxb",
     "featured_collection_grid_Qak8RN",
+    "featured_product_U4BGQY",
     "accordion_qkAGnW"
   ]
 }
