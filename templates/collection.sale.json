@@ -519,6 +519,9 @@
     },
     "featured_collection_grid_ebipiG": {
       "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-sec-subheading {font-weight: 300;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Customer Favorite Diffuser Bundles",
