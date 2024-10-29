@@ -187,7 +187,7 @@
         "heading_X9a8yn": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Build Your Own Bundle",
             "heading_fs": "h4"
           }
         }
@@ -196,7 +196,6 @@
         "sub_heading_T9tqLC",
         "heading_X9a8yn"
       ],
-      "disabled": true,
       "settings": {
         "spacing_item": 20,
         "alignment": "center",
