@@ -253,11 +253,6 @@
             "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
           }
         },
-        "view_products_details_aDGnTQ": {
-          "type": "view_products_details",
-          "settings": {
-          }
-        },
         "img_trust_dJbGeM": {
           "type": "img_trust",
           "disabled": true,
@@ -280,7 +275,6 @@
         "description_dJqfXD",
         "buy_buttons_BwXnDA",
         "custom_liquid_rJWnWP",
-        "view_products_details_aDGnTQ",
         "img_trust_dJbGeM"
       ],
       "custom_css": [
@@ -367,11 +361,6 @@
             "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
           }
         },
-        "view_products_details_bmHNxY": {
-          "type": "view_products_details",
-          "settings": {
-          }
-        },
         "img_trust_T8QDDg": {
           "type": "img_trust",
           "disabled": true,
@@ -394,7 +383,6 @@
         "description_M7GQ7R",
         "buy_buttons_N8j6bP",
         "custom_liquid_WMUfhA",
-        "view_products_details_bmHNxY",
         "img_trust_T8QDDg"
       ],
       "settings": {
