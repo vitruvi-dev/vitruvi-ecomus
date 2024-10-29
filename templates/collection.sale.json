@@ -462,121 +462,6 @@
         "padding_rate": 75
       }
     },
-    "featured_product_zwc9KF": {
-      "type": "featured-product",
-      "blocks": {
-        "custom_liquid_YVdiTz": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
-          }
-        },
-        "badges_dW4kPE": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "title_HRKXAL": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "price_LGRDqE": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_rFUwCB": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 90
-          }
-        },
-        "buy_buttons_zgfQPf": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "custom_liquid_LwEEkx": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n<button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\">\n          <span class=\"hdt-btn-atc_text\">BUILD BUNDLE</span><hdt-qty-price class=\"hdt-qty-price\"><span> - </span><span class=\"hdt-money\">SAVE 40%</span></hdt-qty-price><span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n            <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\"><circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle></svg>\n          </span>\n        </button>\n</a>"
-          }
-        },
-        "view_products_details_GEzQB7": {
-          "type": "view_products_details",
-          "settings": {
-          }
-        },
-        "img_trust_a6jC9j": {
-          "type": "img_trust",
-          "disabled": true,
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
-        }
-      },
-      "block_order": [
-        "custom_liquid_YVdiTz",
-        "badges_dW4kPE",
-        "title_HRKXAL",
-        "price_LGRDqE",
-        "description_rFUwCB",
-        "buy_buttons_zgfQPf",
-        "custom_liquid_LwEEkx",
-        "view_products_details_GEzQB7",
-        "img_trust_a6jC9j"
-      ],
-      "custom_css": [
-        ".button_custom {width: 100%;}"
-      ],
-      "settings": {
-        "product": "build-your-own-diffuser-bundle",
-        "image": "shopify://shop_images/pdp_byob-diffuser-bundle-gallery_2_image-6.jpg",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "scheme-1",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "featured_product_4PVpj9": {
       "type": "featured-product",
       "blocks": {
@@ -1188,7 +1073,6 @@
     "top_heading_C4C6ha",
     "featured_product_mwKb8Q",
     "featured_product_ybanyx",
-    "featured_product_zwc9KF",
     "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
