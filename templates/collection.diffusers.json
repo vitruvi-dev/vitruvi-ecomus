@@ -114,6 +114,17 @@
     "featured_product_faXngx": {
       "type": "featured-product",
       "blocks": {
+        "badges_pbnXEq": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
         "title_aq9Hew": {
           "type": "title",
           "settings": {
@@ -146,14 +157,27 @@
           "type": "view_products_details",
           "settings": {
           }
+        },
+        "img_trust_NNM6wE": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": true,
+            "mess": "Guarantee Safe Checkout",
+            "source": "1",
+            "wimg": 350,
+            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "height": 30
+          }
         }
       },
       "block_order": [
+        "badges_pbnXEq",
         "title_aq9Hew",
         "price_rLGthp",
         "description_DUMmP6",
         "buy_buttons_fagEmm",
-        "view_products_details_pYeQq6"
+        "view_products_details_pYeQq6",
+        "img_trust_NNM6wE"
       ],
       "settings": {
         "product": "stone-essential-oil-diffuser",
