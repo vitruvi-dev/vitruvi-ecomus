@@ -299,21 +299,21 @@
     "collections_list_ntQ9dE": {
       "type": "collections-list",
       "blocks": {
+        "collection_item_RJBn7K": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oil-diffusers",
+            "image": "shopify://shop_images/home_explore_oils_2024-08.png",
+            "title": "Up to 40% Off Diffuser Bundles",
+            "collection_link": ""
+          }
+        },
         "collection_item_QXdRwA": {
           "type": "collection_item",
           "settings": {
             "collection": "diffuser-blends",
             "image": "shopify://shop_images/home_explore_blends_2024-06.jpg",
             "title": "Up to 40% Off Scent Bundles",
-            "collection_link": ""
-          }
-        },
-        "collection_item_RJBn7K": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "essential-oils",
-            "image": "shopify://shop_images/home_explore_oils_2024-08.png",
-            "title": "Up to 40% Off Diffuser Bundles",
             "collection_link": ""
           }
         },
@@ -336,8 +336,8 @@
         }
       },
       "block_order": [
-        "collection_item_QXdRwA",
         "collection_item_RJBn7K",
+        "collection_item_QXdRwA",
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
