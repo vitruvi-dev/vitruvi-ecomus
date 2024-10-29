@@ -114,12 +114,20 @@
             "mess_complete": "",
             "color_scheme": "scheme-2"
           }
+        },
+        "text_jN4hnq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On for a limited time.</p>",
+            "adding_border": false
+          }
         }
       },
       "block_order": [
         "heading_CeLpaN",
         "text_LnzVHG",
-        "countdown_fi4PPC"
+        "countdown_fi4PPC",
+        "text_jN4hnq"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
