@@ -195,14 +195,26 @@
     "featured_product_U4BGQY": {
       "type": "featured-product",
       "blocks": {
+        "badges_LpFVxF": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
         "title_agcLrB": {
           "type": "title",
           "settings": {
           }
         },
-        "price_QTQ3Jg": {
-          "type": "price",
+        "custom_liquid_iYeakk": {
+          "type": "custom_liquid",
           "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <span style=\"font-size: var(--text-2xl);\">From</span>\n    <div class=\"hdt-price__container\">\n      <div class=\"hdt-price__sale hdt-price__list\">\n        <hdt-compare-at-price class=\"hdt-compare-at-price\">\n          <span class=\"sr-only sr-only--inline\">Regular price</span>\n          <span class=\"hdt-money\"></span>\n        </hdt-compare-at-price>\n        <hdt-price class=\"hdt-price\">\n          <span class=\"sr-only sr-only--inline\">Sale price</span>\n          <span class=\"hdt-money\">\n            {% if request.host contains 'vitruvi.ca' %}\n              $80.49\n            {% else %}\n              $65.09\n            {% endif %}\n          </span>\n        </hdt-price>\n      </div>\n    </div>\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">SAVE UP TO 40%</span>\n    </hdt-badge>\n  </div>\n</div>"
           }
         },
         "description_bRMktd": {
@@ -212,29 +224,13 @@
             "short_des": "",
             "length": 31
           }
-        },
-        "buy_buttons_irk3D7": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "view_products_details_RaWLXz": {
-          "type": "view_products_details",
-          "settings": {
-          }
         }
       },
       "block_order": [
+        "badges_LpFVxF",
         "title_agcLrB",
-        "price_QTQ3Jg",
-        "description_bRMktd",
-        "buy_buttons_irk3D7",
-        "view_products_details_RaWLXz"
+        "custom_liquid_iYeakk",
+        "description_bRMktd"
       ],
       "settings": {
         "product": "build-your-own-diffuser-bundle",
