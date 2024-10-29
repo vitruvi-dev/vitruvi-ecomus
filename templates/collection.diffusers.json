@@ -161,11 +161,12 @@
         "img_trust_NNM6wE": {
           "type": "img_trust",
           "settings": {
-            "show_icon": true,
-            "mess": "Guarantee Safe Checkout",
+            "show_icon": false,
+            "mess": "",
             "source": "1",
-            "wimg": 350,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
             "height": 30
           }
         }
