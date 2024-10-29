@@ -208,6 +208,7 @@
       "blocks": {
         "sub_heading_T9tqLC": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "UP TO 40% OFF",
             "sub_heading_fs": "base"
@@ -216,7 +217,7 @@
         "heading_X9a8yn": {
           "type": "heading",
           "settings": {
-            "heading": "Build Your Own Bundles",
+            "heading": "Up to 40% Off Build Your Own Bundles",
             "heading_fs": "h4"
           }
         }
@@ -225,7 +226,6 @@
         "sub_heading_T9tqLC",
         "heading_X9a8yn"
       ],
-      "disabled": true,
       "settings": {
         "spacing_item": 20,
         "alignment": "center",
