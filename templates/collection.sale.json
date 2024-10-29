@@ -170,7 +170,7 @@
         "sub_heading_T9tqLC": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "UP TO 40% OFF",
+            "sub_heading": "UP TO 40% SAVINGS",
             "sub_heading_fs": "base"
           }
         },
@@ -527,7 +527,7 @@
         "sec_heading": "Best-Selling Diffuser Bundles",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>UP TO 30% OFF</p>",
+        "sec_subheading": "<p>UP TO 30% SAVINGS</p>",
         "subheading_size": "2xl",
         "heading_reverse": true,
         "heading_gap": 18,
@@ -572,7 +572,7 @@
         "sec_heading": "Top-Rated Humidifier Bundles",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>UP TO 30% OFF</p>",
+        "sec_subheading": "<p>UP TO 30% SAVINGS</p>",
         "subheading_size": "2xl",
         "heading_reverse": true,
         "heading_gap": 18,
@@ -590,6 +590,55 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_DzjVcA": {
+      "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-sec-subheading {font-weight: 300;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Curated Scenting Sets",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>UP TO 40% SAVINGS</p>",
+        "subheading_size": "2xl",
+        "heading_reverse": true,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "holiday-essential-oil-kit",
+          "festive-scents-duo",
+          "fall-scents-bundle",
+          "mystery-essential-oil-kit",
+          "fresh-air-essential-oil-kit",
+          "refresh-essential-oil-kit",
+          "rest-essential-oil-kit",
+          "essential-oil-kit"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
@@ -730,6 +779,7 @@
         "view_products_details_hYVnMr",
         "img_trust_888rTd"
       ],
+      "disabled": true,
       "custom_css": [
         ".byob-cta {gap: 25px; padding: 25px;}",
         ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
@@ -811,6 +861,7 @@
     },
     "featured_collection_grid_zVFg6J": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Cozy Scents for the Holidays",
@@ -1127,6 +1178,7 @@
     "featured_product_4PVpj9",
     "featured_collection_grid_ebipiG",
     "featured_collection_grid_yBTM6d",
+    "featured_collection_grid_DzjVcA",
     "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
