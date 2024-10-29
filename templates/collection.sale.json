@@ -93,8 +93,16 @@
         },
         "text_LnzVHG": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Choose a customer-favorite set or personalize your own for a beautifully scented, perfectly cared-for space—ideal for gifting.</p>",
+            "adding_border": false
+          }
+        },
+        "text_jN4hnq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On for a limited time.</p>",
             "adding_border": false
           }
         },
@@ -114,20 +122,13 @@
             "mess_complete": "",
             "color_scheme": "scheme-2"
           }
-        },
-        "text_jN4hnq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>On for a limited time.</p>",
-            "adding_border": false
-          }
         }
       },
       "block_order": [
         "heading_CeLpaN",
         "text_LnzVHG",
-        "countdown_fi4PPC",
-        "text_jN4hnq"
+        "text_jN4hnq",
+        "countdown_fi4PPC"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
