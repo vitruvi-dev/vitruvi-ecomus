@@ -564,6 +564,9 @@
     },
     "featured_collection_grid_yBTM6d": {
       "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-sec-subheading {font-weight: 300;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Award-Winning Humidifier Bundles",
