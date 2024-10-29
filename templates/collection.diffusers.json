@@ -208,7 +208,7 @@
         "description_bRMktd": {
           "type": "description",
           "settings": {
-            "des": "2",
+            "des": "1",
             "short_des": "",
             "length": 31
           }
@@ -238,6 +238,7 @@
       ],
       "settings": {
         "product": "build-your-own-diffuser-bundle",
+        "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
         "media_width": 50,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
