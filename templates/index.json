@@ -385,48 +385,6 @@
         "padding_rate": 60
       }
     },
-    "featured_collection_grid_Xjz6q9": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 100,
-        "collection": "",
-        "product_list": [
-          "stone-diffuser-holiday-bundle",
-          "festive-favorites-essential-oil-kit",
-          "sugar-spice-diffuser-blend",
-          "forest-frost-diffuser-blend"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 80,
-        "btn_label": "Load more",
-        "btn_style": "outline",
-        "btn_fw": "semibold",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 76,
-        "padding_rate": 76
-      }
-    },
     "image_with_text_yqNnyc": {
       "type": "image-with-text",
       "blocks": {
@@ -1056,7 +1014,6 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "countdown_text_7Qr8m8",
     "collections_list_ntQ9dE",
-    "featured_collection_grid_Xjz6q9",
     "image_with_text_yqNnyc",
     "featured_collection_grid_Kx43Gm",
     "d81e394c-3467-4709-a303-1d274f42da41",
