@@ -321,7 +321,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "humidifiers",
-            "image": "shopify://shop_images/home_explore_oils_2024-08.png",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
             "title": "Up to 30% off Humidifier Bundles",
             "collection_link": ""
           }
@@ -364,7 +364,7 @@
         "text_transform": false,
         "content_position": "center",
         "content_padding": 30,
-        "image_ratio": "asos",
+        "image_ratio": "square",
         "image_size": true,
         "col_dk": "3",
         "col_tb": "3",
