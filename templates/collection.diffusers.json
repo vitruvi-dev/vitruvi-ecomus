@@ -180,6 +180,7 @@
         "view_products_details_pYeQq6",
         "img_trust_NNM6wE"
       ],
+      "disabled": true,
       "settings": {
         "product": "stone-essential-oil-diffuser",
         "image": "shopify://shop_images/pdp_stone-diffuser_front_white_gallery_1_v9_image.png",
@@ -542,10 +543,10 @@
     "heading",
     "top_heading_3dbjfU",
     "main",
+    "featured_product_U4BGQY",
     "featured_product_faXngx",
     "featured_collection_grid_yaaUxb",
     "featured_collection_grid_Qak8RN",
-    "featured_product_U4BGQY",
     "accordion_qkAGnW"
   ]
 }
