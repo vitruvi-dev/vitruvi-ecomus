@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breacrumb": {
@@ -25,9 +25,8 @@
       "blocks": {
         "83296f29-170d-4d7b-9291-c9b59bb98b32": {
           "type": "badges",
-          "disabled": true,
           "settings": {
-            "special": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
+            "special": "",
             "min": 10,
             "max": 64,
             "content": "",
@@ -63,22 +62,8 @@
             "linked_size": "large"
           }
         },
-        "complimentary_products_3jGEtL": {
-          "type": "complimentary_products",
-          "disabled": true,
-          "settings": {
-            "text": "Size options"
-          }
-        },
-        "8253e974-5acb-4076-9230-03b0f804dcdf": {
-          "type": "back_instock",
-          "disabled": true,
-          "settings": {
-            "only_show_soldout": true
-          }
-        },
         "biscuits_bundles_biscuits_bundle_form_YkgUj3": {
-          "type": "shopify:\/\/apps\/biscuits-bundles\/blocks\/biscuits-bundle-form\/9e9ff1bd-2cba-468f-b59f-a1ff63f6efe9",
+          "type": "shopify://apps/biscuits-bundles/blocks/biscuits-bundle-form/9e9ff1bd-2cba-468f-b59f-a1ff63f6efe9",
           "settings": {
             "text_color": "#474946",
             "card_color": "#f7f8f6",
@@ -122,15 +107,13 @@
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "description_Fh49zX",
         "linked_products_CAxNzE",
-        "complimentary_products_3jGEtL",
-        "8253e974-5acb-4076-9230-03b0f804dcdf",
         "biscuits_bundles_biscuits_bundle_form_YkgUj3",
         "ad820e37-dee5-41f3-9692-bf46d9664103"
       ],
       "custom_css": [
         ".hdt-price__container,.hdt-sticky-atc__qty-selector,.hdt-sticky-atc__variant-price {display: none;}",
         ".hdt-product-form_wrap-link {width: 9rem;}",
-        ".hdt-linked-product-title.hdt-truncate {white-space: pre-wrap; }"
+        ".hdt-linked-product-title.hdt-truncate {white-space: pre-wrap;}"
       ],
       "settings": {
         "space_content_media": true,
@@ -209,7 +192,7 @@
         "sec_heading": "Need help deciding?",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover our expertly curated bundles and kits. These pre-selected sets make it easy to find the perfect combinations, so you can effortlessly create a beautifully scented space.<\/p>",
+        "sec_subheading": "<p>Discover our expertly curated bundles and kits. These pre-selected sets make it easy to find the perfect combinations, so you can effortlessly create a beautifully scented space.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -414,7 +397,7 @@
       "type": "apps",
       "blocks": {
         "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
