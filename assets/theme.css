@@ -556,11 +556,15 @@ header [data-header-bottom-height] {
 	pointer-events: none;
 }
 #menu_mobile .hdt-menu-link-text .hdt_label_menu {
-	top: -12px;
+	top: 5px;
+  left: 110%
+  /* top: -12px; */
 }
+
 .dir--ltr .hdt-menu-link-text .hdt_label_menu {
 	left: 100%;
 }
+
 .dir--rtl .hdt-menu-link-text .hdt_label_menu {
 	right: 100%;
 }
@@ -592,7 +596,8 @@ header [data-header-bottom-height] {
   text-transform: none;
   z-index: 1;
   min-width: 26px;
-  max-width: 62px;
+  /* max-width: 62px; */
+  max-width: 124px;
   overflow: hidden;
   text-overflow: ellipsis;
   display: block;
@@ -606,7 +611,11 @@ header [data-header-bottom-height] {
   background-color: rgb(var(--color-hot-badge-background));
   color: rgb(var(--color-hot-badge-text));
 }
-.hdt-menu-link-text .hdt_label_menu > span.hdt_label_sale {
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_sale,
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_savings,
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_deal,
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_offer,
+.hdt-menu-link-text .hdt_label_menu > span.hdt_label_save {
   background-color: rgb(var(--color-on-sale-badge-background));
   color: rgb(var(--color-on-sale-badge-text));
 }
