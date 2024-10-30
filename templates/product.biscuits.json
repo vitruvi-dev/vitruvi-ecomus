@@ -26,7 +26,7 @@
         "83296f29-170d-4d7b-9291-c9b59bb98b32": {
           "type": "badges",
           "settings": {
-            "special": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
+            "special": "",
             "min": 10,
             "max": 64,
             "content": "",
