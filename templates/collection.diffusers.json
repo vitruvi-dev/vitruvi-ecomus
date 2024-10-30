@@ -111,6 +111,175 @@
         "sidebar_size": "medium"
       }
     },
+    "featured_product_U4BGQY": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_LpFVxF": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_agcLrB": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "custom_liquid_iYeakk": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <span style=\"font-size: var(--text-2xl);\">From</span>\n    <div class=\"hdt-price__container\">\n      <div class=\"hdt-price__sale hdt-price__list\">\n        <hdt-compare-at-price class=\"hdt-compare-at-price\">\n          <span class=\"sr-only sr-only--inline\">Regular price</span>\n          <span class=\"hdt-money\"></span>\n        </hdt-compare-at-price>\n        <hdt-price class=\"hdt-price\">\n          <span class=\"sr-only sr-only--inline\">Sale price</span>\n          <span class=\"hdt-money\">\n            {% if request.host contains 'vitruvi.ca' %}\n              $75.74\n            {% else %}\n              $59.24\n            {% endif %}\n          </span>\n        </hdt-price>\n      </div>\n    </div>\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">SAVE UP TO 40%</span>\n    </hdt-badge>\n  </div>\n</div>"
+          }
+        },
+        "description_bRMktd": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "custom_liquid_PcgPmk": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"/products/build-your-own-diffuser-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
+          }
+        }
+      },
+      "block_order": [
+        "badges_LpFVxF",
+        "title_agcLrB",
+        "custom_liquid_iYeakk",
+        "description_bRMktd",
+        "custom_liquid_PcgPmk"
+      ],
+      "settings": {
+        "product": "build-your-own-diffuser-bundle",
+        "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_faXngx": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_pbnXEq": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_aq9Hew": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_rLGthp": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_DUMmP6": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_fagEmm": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_pYeQq6": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        },
+        "img_trust_NNM6wE": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_pbnXEq",
+        "title_aq9Hew",
+        "price_rLGthp",
+        "description_DUMmP6",
+        "buy_buttons_fagEmm",
+        "view_products_details_pYeQq6",
+        "img_trust_NNM6wE"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "stone-essential-oil-diffuser",
+        "image": "shopify://shop_images/pdp_stone-diffuser_front_white_gallery_1_v9_image.png",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_yaaUxb": {
       "type": "featured-collection-grid",
       "settings": {
@@ -164,10 +333,10 @@
         "sec_heading_spacing": 30,
         "collection": "diffuser-bundles",
         "product_list": [
+          "diffuser-gift-bundle",
           "stone-diffuser-holiday-bundle",
           "starter-stone-diffuser-bundle",
-          "sleep-stone-diffuser-bundle",
-          "build-your-own-diffuser-bundle-3"
+          "sleep-stone-diffuser-bundle"
         ],
         "product_des": "10",
         "image_ratio": "square",
@@ -374,6 +543,8 @@
     "heading",
     "top_heading_3dbjfU",
     "main",
+    "featured_product_U4BGQY",
+    "featured_product_faXngx",
     "featured_collection_grid_yaaUxb",
     "featured_collection_grid_Qak8RN",
     "accordion_qkAGnW"

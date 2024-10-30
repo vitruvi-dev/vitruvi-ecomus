@@ -169,22 +169,6 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_mg3bKH": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Scents",
-            "collection_list": [
-
-            ],
-            "image_ratio": "square",
-            "image_size": false,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 600
-          }
-        },
         "mega_shop_xTkPbf": {
           "type": "mega_shop",
           "disabled": true,
@@ -209,7 +193,6 @@
         "mega_product_3Dp8aK",
         "mega_shop_bUeJYD",
         "mega_product_iLwycz",
-        "mega_shop_mg3bKH",
         "mega_shop_xTkPbf"
       ],
       "custom_css": [
@@ -222,7 +205,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_holiday",
+        "main_menu": "header_desktop_sale",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
@@ -238,7 +221,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile_holiday",
+        "main_menu_mobile": "header_mobile_sale",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",

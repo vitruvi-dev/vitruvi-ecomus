@@ -1,14 +1,49 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 30,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
+      }
+    },
     "heading": {
       "type": "heading-collection",
       "blocks": {
@@ -51,15 +86,23 @@
         "heading_CeLpaN": {
           "type": "heading",
           "settings": {
-            "heading": "PRIME HOLIDAY DEALS",
+            "heading": "EARLY BLACK FRIDAY DEALS",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
         },
         "text_LnzVHG": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Prime Day prices extended for a limited time.</p><p>Save 30% on best-selling diffusers, all-natural scents, and long-lasting humidifiers.</p>",
+            "text": "<p>Choose a customer-favorite set or personalize your own for a beautifully scented, perfectly cared-for space—ideal for gifting.</p>",
+            "adding_border": false
+          }
+        },
+        "text_jN4hnq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On for a limited time.</p>",
             "adding_border": false
           }
         },
@@ -68,8 +111,8 @@
           "settings": {
             "title": "",
             "year": 2024,
-            "month": 10,
-            "day": 14,
+            "month": 11,
+            "day": 6,
             "hour": 0,
             "minute": 0,
             "effect_cd": "move_top",
@@ -84,23 +127,26 @@
       "block_order": [
         "heading_CeLpaN",
         "text_LnzVHG",
+        "text_jN4hnq",
         "countdown_fi4PPC"
       ],
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px;}"
+        ".hdt-h5 {font-family: \"Founders Grotesk\";}",
+        ".hdt-countdown__item {border-radius: 0px;}",
+        ".hdt-cd-heading {color: white;}"
       ],
       "settings": {
         "image_height": "fixed",
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify://shop_images/page_home_hero_prime-holiday-deals-2024_image_desktop.jpg",
-        "image_mb": "shopify://shop_images/page_collection_hero_prime-holiday-deals-2024_image_mobile.jpg",
+        "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop_a6d898de-4021-42ec-b25a-6f227942e3d0.png",
+        "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile_2.jpg",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
-        "use_overlay": false,
+        "use_overlay": true,
         "use_bg_content": false,
         "content_position": "center",
         "content_align": "center",
@@ -110,36 +156,6 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 100,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_LKRnyK": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_wpqzpJ": {
-          "type": "sub_heading",
-          "disabled": true,
-          "settings": {
-            "sub_heading": "Get a Free Grove Diffuser Blend on $100+ Orders, While Supplies Last",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_wpqzpJ"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
-      ],
-      "settings": {
-        "spacing_item": 0,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -158,39 +174,250 @@
         "padding_rate": 75
       }
     },
-    "main": {
-      "type": "main-collection",
-      "disabled": true,
-      "custom_css": [
-
+    "top_heading_C4C6ha": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_T9tqLC": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "UP TO 40% SAVINGS",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_X9a8yn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Personalized Gift Bundles",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_T9tqLC",
+        "heading_X9a8yn"
       ],
       "settings": {
-        "product_des": "10",
+        "spacing_item": 20,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_mwKb8Q": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_fTd9xR": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_MfaEDn": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "custom_liquid_fDdAbD": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <span style=\"font-size: var(--text-2xl);\">From</span>\n    <div class=\"hdt-price__container\">\n      <div class=\"hdt-price__sale hdt-price__list\">\n        <hdt-compare-at-price class=\"hdt-compare-at-price\">\n          <span class=\"sr-only sr-only--inline\">Regular price</span>\n          <span class=\"hdt-money\"></span>\n        </hdt-compare-at-price>\n        <hdt-price class=\"hdt-price\">\n          <span class=\"sr-only sr-only--inline\">Sale price</span>\n          <span class=\"hdt-money\">\n            {% if request.host contains 'vitruvi.ca' %}\n              $47.97\n            {% else %}\n              $41.97\n            {% endif %}\n          </span>\n        </hdt-price>\n      </div>\n    </div>\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">SAVE UP TO 40%</span>\n    </hdt-badge>\n  </div>\n</div>"
+          }
+        },
+        "price_mqJdTn": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "description_dJqfXD": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 90
+          }
+        },
+        "buy_buttons_BwXnDA": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "custom_liquid_rJWnWP": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
+          }
+        },
+        "img_trust_dJbGeM": {
+          "type": "img_trust",
+          "disabled": true,
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_fTd9xR",
+        "title_MfaEDn",
+        "custom_liquid_fDdAbD",
+        "price_mqJdTn",
+        "description_dJqfXD",
+        "buy_buttons_BwXnDA",
+        "custom_liquid_rJWnWP",
+        "img_trust_dJbGeM"
+      ],
+      "custom_css": [
+        ".button_custom {width: 100%;}"
+      ],
+      "settings": {
+        "product": "build-your-own-scent-bundle",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
         "image_ratio": "square",
         "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "infinite",
-        "paginate_pos": "center",
-        "dis_pagination": 60,
-        "enable_sorting": true,
-        "enable_filtering": true,
-        "enable_num_cols_selector": false,
-        "widget_heading": "Product Categories",
-        "cat_source": "2",
-        "cat_link_list": "footer_products",
-        "count": true,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
-        "padding_top": 30,
-        "padding_bottom": 70,
-        "padding_rate": 75,
-        "sidebar_position": "left",
-        "sidebar_size": "medium"
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "scheme-1",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_ybanyx": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_FLEwf7": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_enYzUg": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "custom_liquid_FtNFBm": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <span style=\"font-size: var(--text-2xl);\">From</span>\n    <div class=\"hdt-price__container\">\n      <div class=\"hdt-price__sale hdt-price__list\">\n        <hdt-compare-at-price class=\"hdt-compare-at-price\">\n          <span class=\"sr-only sr-only--inline\">Regular price</span>\n          <span class=\"hdt-money\"></span>\n        </hdt-compare-at-price>\n        <hdt-price class=\"hdt-price\">\n          <span class=\"sr-only sr-only--inline\">Sale price</span>\n          <span class=\"hdt-money\">\n            {% if request.host contains 'vitruvi.ca' %}\n              $75.74\n            {% else %}\n              $69.74\n            {% endif %}\n          </span>\n        </hdt-price>\n      </div>\n    </div>\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">SAVE UP TO 40%</span>\n    </hdt-badge>\n  </div>\n</div>"
+          }
+        },
+        "price_D9WQYU": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "description_M7GQ7R": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 90
+          }
+        },
+        "buy_buttons_N8j6bP": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "custom_liquid_WMUfhA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
+          }
+        },
+        "img_trust_T8QDDg": {
+          "type": "img_trust",
+          "disabled": true,
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_FLEwf7",
+        "title_enYzUg",
+        "custom_liquid_FtNFBm",
+        "price_D9WQYU",
+        "description_M7GQ7R",
+        "buy_buttons_N8j6bP",
+        "custom_liquid_WMUfhA",
+        "img_trust_T8QDDg"
+      ],
+      "settings": {
+        "product": "build-your-own-diffuser-bundle",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "scheme-1",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
       }
     },
     "featured_product_4PVpj9": {
@@ -258,6 +485,7 @@
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -287,8 +515,148 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_grid_ebipiG": {
+      "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-sec-subheading {font-weight: 300;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Best-Selling Diffuser Bundles",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>UP TO 30% SAVINGS</p>",
+        "subheading_size": "2xl",
+        "heading_reverse": true,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "diffuser-gift-bundle",
+          "stone-diffuser-holiday-bundle",
+          "sleep-stone-diffuser-bundle",
+          "starter-stone-diffuser-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_yBTM6d": {
+      "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-sec-subheading {font-weight: 300;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Top-Rated Humidifier Bundles",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>UP TO 30% SAVINGS</p>",
+        "subheading_size": "2xl",
+        "heading_reverse": true,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "best-sleep-diffuser-humidifier-bundle",
+          "cloud-humidifier-holiday-bundle",
+          "sleep-cloud-humidifier-bundle",
+          "good-air-cloud-humidifier-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_DzjVcA": {
+      "type": "featured-collection-grid",
+      "custom_css": [
+        ".hdt-sec-subheading {font-weight: 300;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Curated Scenting Sets",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>UP TO 40% SAVINGS</p>",
+        "subheading_size": "2xl",
+        "heading_reverse": true,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "holiday-essential-oil-kit",
+          "festive-scents-duo",
+          "fall-scents-bundle",
+          "mystery-essential-oil-kit",
+          "fresh-air-essential-oil-kit",
+          "refresh-essential-oil-kit",
+          "rest-essential-oil-kit",
+          "essential-oil-kit"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_EcUNwb": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Better Sleep, Better Air",
@@ -409,6 +777,7 @@
         "view_products_details_hYVnMr",
         "img_trust_888rTd"
       ],
+      "disabled": true,
       "custom_css": [
         ".byob-cta {gap: 25px; padding: 25px;}",
         ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
@@ -490,6 +859,7 @@
     },
     "featured_collection_grid_zVFg6J": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Cozy Scents for the Holidays",
@@ -541,7 +911,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 25%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -577,7 +947,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 25%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -607,6 +977,7 @@
         "slide_label_YpGJEd",
         "slide_label_KFMjzR"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
         "p {font-family: \"Heldane\";}"
@@ -795,12 +1166,17 @@
     }
   },
   "order": [
+    "main",
     "heading",
     "hero_image_N43MWn",
-    "top_heading_LKRnyK",
     "custom_line_zAe7AX",
-    "main",
+    "top_heading_C4C6ha",
+    "featured_product_mwKb8Q",
+    "featured_product_ybanyx",
     "featured_product_4PVpj9",
+    "featured_collection_grid_ebipiG",
+    "featured_collection_grid_yBTM6d",
+    "featured_collection_grid_DzjVcA",
     "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
