@@ -298,21 +298,21 @@
     "collections_list_ntQ9dE": {
       "type": "collections-list",
       "blocks": {
-        "collection_item_RJBn7K": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "essential-oil-diffusers",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
-            "title": "Up to 40% Off Diffuser Bundles",
-            "collection_link": ""
-          }
-        },
         "collection_item_QXdRwA": {
           "type": "collection_item",
           "settings": {
             "collection": "scents",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Up to 40% Off Scent Bundles",
+            "title": "25% Off Sitewide",
+            "collection_link": ""
+          }
+        },
+        "collection_item_RJBn7K": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oil-diffusers",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
+            "title": "Buy a Diffuser,<br>Get a Free Dusk Blend",
             "collection_link": ""
           }
         },
@@ -321,7 +321,7 @@
           "settings": {
             "collection": "humidifiers",
             "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
-            "title": "Up to 30% off Humidifier Bundles",
+            "title": "Buy a Humidifier,<br>Get Free Cleaning Tablets",
             "collection_link": ""
           }
         },
@@ -335,8 +335,8 @@
         }
       },
       "block_order": [
-        "collection_item_RJBn7K",
         "collection_item_QXdRwA",
+        "collection_item_RJBn7K",
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
@@ -382,58 +382,6 @@
         "padding_top": 75,
         "padding_bottom": 90,
         "padding_rate": 60
-      }
-    },
-    "image_with_text_yqNnyc": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_NNeLRY": {
-          "type": "heading",
-          "settings": {
-            "heading": "Free Gift",
-            "heading_fs": "h4"
-          }
-        },
-        "text_dU8TVd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Enjoy a free Grove Diffuser Blend on $100+ orders, while supplies last.</p><p>Grove brings a breath of fresh air to your home with its refreshing, woodsy aroma.</p>"
-          }
-        },
-        "button_ramYgE": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP NOW",
-            "btn_link": "shopify://collections/best-sellers",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_NNeLRY",
-        "text_dU8TVd",
-        "button_ramYgE"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/pdp_essential-oil-blend_grove_gallery_4_image.png",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "left",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
       }
     },
     "featured_collection_grid_Kx43Gm": {
@@ -1013,7 +961,6 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "countdown_text_7Qr8m8",
     "collections_list_ntQ9dE",
-    "image_with_text_yqNnyc",
     "featured_collection_grid_Kx43Gm",
     "d81e394c-3467-4709-a303-1d274f42da41",
     "featured_collection_grid_W6JYha",
