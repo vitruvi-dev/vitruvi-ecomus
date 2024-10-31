@@ -154,8 +154,7 @@
         "slide_base_fnDmKR": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
-            "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
+            "image": "shopify://shop_images/loremipsum.png",
             "url": "shopify://collections/black-friday-deals",
             "banner_target": false,
             "color_scheme": "scheme-3",
