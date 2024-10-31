@@ -23,6 +23,12 @@
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
+            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\">Free Gift: Dusk Blend With Any Diffuser Order</a>"
+          }
+        },
+        "announcement_iEwbQn": {
+          "type": "announcement",
+          "settings": {
             "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\">Free Gift: Dusk Blend with every Diffuser</a>"
           }
         },
@@ -44,6 +50,7 @@
       "block_order": [
         "announcement_RzCepp",
         "announcement_RqB4ka",
+        "announcement_iEwbQn",
         "announcement_7iU4bq",
         "announcement_eeYyAc"
       ],
