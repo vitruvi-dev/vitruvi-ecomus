@@ -91,9 +91,10 @@
           "settings": {
           }
         },
-        "price_xAHjR3": {
-          "type": "price",
+        "custom_liquid_AYaic6": {
+          "type": "custom_liquid",
           "settings": {
+            "custom_liquid": ""
           }
         },
         "description_ipUFrb": {
@@ -108,7 +109,7 @@
       "block_order": [
         "badges_X8kgEy",
         "title_6knfch",
-        "price_xAHjR3",
+        "custom_liquid_AYaic6",
         "description_ipUFrb"
       ],
       "settings": {
