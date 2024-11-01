@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.name_group.system",
   "type": "custom.system",
@@ -33,7 +33,7 @@
           "type": "agree",
           "disabled": true,
           "settings": {
-            "content": "I agree with the <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\"><strong>terms and conditions<\/strong><\/a>"
+            "content": "I agree with the <a href=\"/policies/terms-of-service\" title=\"Terms of Service\"><strong>terms and conditions</strong></a>"
           }
         },
         "54f7a627-75c8-4b50-8c43-45e4be386afb": {
@@ -48,6 +48,31 @@
             "btn_fw_checkout": "semibold",
             "btn_icon_checkout": "none"
           }
+        },
+        "giftnote_digital_gift_messages_button_BddEVY": {
+          "type": "shopify://apps/giftnote-digital-gift-messages/blocks/button/37eb4f2f-4979-41f3-a677-fa25a2a97659",
+          "settings": {
+            "add_label": "Add a gift message 🎁",
+            "edit_label": "Edit gift message 🎁",
+            "font_size": 16,
+            "font": "inter_n4",
+            "button_type": "button",
+            "background_color": "#ffffff",
+            "border_color": "#000000",
+            "font_color": "#000000",
+            "border_radius": 6,
+            "alignment": "center",
+            "height": 50,
+            "width": 250,
+            "full_width": true,
+            "breakpoint": 740,
+            "mobile_alignment": "center",
+            "mobile_height": 50,
+            "mobile_width": 250,
+            "mobile_full_width": false,
+            "exclusion_tags": "",
+            "custom_styles": ""
+          }
         }
       },
       "block_order": [
@@ -55,7 +80,8 @@
         "88e6ef7a-281c-45e7-b62c-b556ebd6f705",
         "f932f430-a2c4-4a2f-a3d6-d2f099407d44",
         "76bae518-3d87-4731-a9d4-2e41544da57b",
-        "54f7a627-75c8-4b50-8c43-45e4be386afb"
+        "54f7a627-75c8-4b50-8c43-45e4be386afb",
+        "giftnote_digital_gift_messages_button_BddEVY"
       ],
       "settings": {
         "color_scheme": "",
