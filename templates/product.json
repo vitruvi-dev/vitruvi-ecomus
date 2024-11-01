@@ -111,6 +111,31 @@
           "settings": {
             "only_show_soldout": true
           }
+        },
+        "giftnote_digital_gift_messages_button_gqq8QJ": {
+          "type": "shopify://apps/giftnote-digital-gift-messages/blocks/button/37eb4f2f-4979-41f3-a677-fa25a2a97659",
+          "settings": {
+            "add_label": "Add a gift message 🎁",
+            "edit_label": "Edit gift message 🎁",
+            "font_size": 16,
+            "font": "inter_n4",
+            "button_type": "button",
+            "background_color": "#ffffff",
+            "border_color": "#000000",
+            "font_color": "#000000",
+            "border_radius": 6,
+            "alignment": "center",
+            "height": 50,
+            "width": 250,
+            "full_width": true,
+            "breakpoint": 740,
+            "mobile_alignment": "center",
+            "mobile_height": 50,
+            "mobile_width": 250,
+            "mobile_full_width": false,
+            "exclusion_tags": "",
+            "custom_styles": ""
+          }
         }
       },
       "block_order": [
@@ -124,7 +149,8 @@
         "inventory_ftnW9y",
         "countdown_timer_pLgxfe",
         "description_Fh49zX",
-        "8253e974-5acb-4076-9230-03b0f804dcdf"
+        "8253e974-5acb-4076-9230-03b0f804dcdf",
+        "giftnote_digital_gift_messages_button_gqq8QJ"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
