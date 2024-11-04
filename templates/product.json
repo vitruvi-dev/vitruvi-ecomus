@@ -63,12 +63,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_t9eqn8": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -88,15 +82,6 @@
             "progress_bar_max": 50
           }
         },
-        "countdown_timer_pLgxfe": {
-          "type": "countdown_timer",
-          "disabled": true,
-          "settings": {
-            "content": "Labor Day Sale Ends Soon",
-            "icon_svg": "clock",
-            "ani": "none"
-          }
-        },
         "description_Fh49zX": {
           "type": "description",
           "settings": {
@@ -105,11 +90,16 @@
             "length": 31
           }
         },
-        "8253e974-5acb-4076-9230-03b0f804dcdf": {
-          "type": "back_instock",
-          "disabled": true,
+        "img_trust_6bXKGh": {
+          "type": "img_trust",
           "settings": {
-            "only_show_soldout": true
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 100
           }
         }
       },
@@ -119,12 +109,10 @@
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
-        "quantity_selector_t9eqn8",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
-        "countdown_timer_pLgxfe",
         "description_Fh49zX",
-        "8253e974-5acb-4076-9230-03b0f804dcdf"
+        "img_trust_6bXKGh"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
