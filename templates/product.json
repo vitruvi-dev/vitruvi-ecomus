@@ -156,7 +156,7 @@
         "tab_html_8nNyXa": {
           "type": "tab_html",
           "settings": {
-            "title": "Product Details & Specs",
+            "title": "Product Details",
             "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
             "page": ""
           }
