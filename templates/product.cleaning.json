@@ -529,6 +529,85 @@
         "color_scheme": "scheme-1",
         "space": 60
       }
+    },
+    "price_tables_pxiica": {
+      "type": "price_tables",
+      "blocks": {
+        "package_QRwxGA": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "cloud-humidifier",
+            "show_vendor": true,
+            "label_cl": "#FF3232",
+            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
+            "btn_label": "View details",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        },
+        "package_AXVCH8": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "stone-essential-oil-diffuser",
+            "show_vendor": true,
+            "label_cl": "#FF3232",
+            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
+            "btn_label": "View details",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        },
+        "package_DC8BGw": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "glow-essential-oil-diffuser",
+            "show_vendor": false,
+            "label_cl": "#FF3232",
+            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
+            "btn_label": "View details",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "package_QRwxGA",
+        "package_AXVCH8",
+        "package_DC8BGw"
+      ],
+      "settings": {
+        "top_heading": "Discovery all new items",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "top_description": "<p>Be the first to know when we launch.</p>",
+        "sec_heading_spacing": 30,
+        "enable_icon_check": true,
+        "content_pos": "start",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "navUI": false,
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -539,6 +618,7 @@
     "accordion_WDEpM3",
     "171512128966062076",
     "recently",
-    "sidebar"
+    "sidebar",
+    "price_tables_pxiica"
   ]
 }
