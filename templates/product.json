@@ -153,22 +153,6 @@
             "title": "Description"
           }
         },
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Shipping & Returns",
-            "content": "",
-            "page": "product-returns-default"
-          }
-        },
-        "tab_html_eeFthN": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Warranty & Returns",
-            "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
-          }
-        },
         "tab_html_8nNyXa": {
           "type": "tab_html",
           "settings": {
@@ -177,10 +161,12 @@
             "page": ""
           }
         },
-        "9866bb5f-03b7-4dc7-9387-4be849a0cbf1": {
-          "type": "tab_add",
+        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
+          "type": "tab_html",
           "settings": {
-            "title": "Additional Information"
+            "title": "Shipping & Returns",
+            "content": "",
+            "page": "product-returns-default"
           }
         },
         "tab_html_6HcXqi": {
@@ -194,10 +180,8 @@
       },
       "block_order": [
         "76effdab-2914-4a34-a303-417cde99ff0a",
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
-        "tab_html_eeFthN",
         "tab_html_8nNyXa",
-        "9866bb5f-03b7-4dc7-9387-4be849a0cbf1",
+        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
         "tab_html_6HcXqi"
       ],
       "settings": {
