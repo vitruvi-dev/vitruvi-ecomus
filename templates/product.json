@@ -186,7 +186,7 @@
         "tab_html_6HcXqi": {
           "type": "tab_html",
           "settings": {
-            "title": "How To",
+            "title": "How It Works",
             "content": "",
             "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
           }
