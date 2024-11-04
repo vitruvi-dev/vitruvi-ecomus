@@ -182,6 +182,14 @@
           "settings": {
             "title": "Additional Information"
           }
+        },
+        "tab_html_6HcXqi": {
+          "type": "tab_html",
+          "settings": {
+            "title": "How To",
+            "content": "",
+            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
+          }
         }
       },
       "block_order": [
@@ -189,7 +197,8 @@
         "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
         "tab_html_eeFthN",
         "tab_html_8nNyXa",
-        "9866bb5f-03b7-4dc7-9387-4be849a0cbf1"
+        "9866bb5f-03b7-4dc7-9387-4be849a0cbf1",
+        "tab_html_6HcXqi"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
