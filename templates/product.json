@@ -161,14 +161,6 @@
             "page": ""
           }
         },
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Shipping & Returns",
-            "content": "",
-            "page": "product-returns-default"
-          }
-        },
         "tab_html_6HcXqi": {
           "type": "tab_html",
           "settings": {
@@ -176,13 +168,21 @@
             "content": "",
             "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
           }
+        },
+        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Shipping & Returns",
+            "content": "",
+            "page": "product-returns-default"
+          }
         }
       },
       "block_order": [
         "76effdab-2914-4a34-a303-417cde99ff0a",
         "tab_html_8nNyXa",
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c",
-        "tab_html_6HcXqi"
+        "tab_html_6HcXqi",
+        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
