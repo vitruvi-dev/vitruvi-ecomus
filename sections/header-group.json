@@ -196,7 +196,7 @@
         "mega_shop_xTkPbf"
       ],
       "custom_css": [
-
+        "span.hdt_label_1 {display: none;}"
       ],
       "settings": {
         "header_layout": "logo_left",
