@@ -523,12 +523,51 @@
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
+        },
+        "slide_label_waeLWR": {
+          "type": "slide_label",
+          "source": "{{ localization.market.metafields.ecomus.byob_scents_slide.value }}",
+          "settings": {
+            "image": "{{ localization.market.metafields.ecomus.byob_scents_slide.value.image.value }}",
+            "image_mb": "{{ localization.market.metafields.ecomus.byob_scents_slide.value.image_mobile.value }}",
+            "url": "shopify://products/build-your-own-humidifier-bundle",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "{{ localization.market.metafields.ecomus.byob_scents_slide.value.heading.value }}",
+            "sub_heading_fs": "h4",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "{{ localization.market.metafields.ecomus.byob_scents_slide.value.subheading.value }}",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "{{ localization.market.metafields.ecomus.byob_scents_slide.value.button_label.value }}",
+            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
         "slide_label_YpGJEd",
         "slide_label_KFMjzR",
-        "slide_label_TYJw4i"
+        "slide_label_TYJw4i",
+        "slide_label_waeLWR"
       ],
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
