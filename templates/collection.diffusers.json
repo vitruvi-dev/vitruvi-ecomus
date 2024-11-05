@@ -157,6 +157,7 @@
         "description_bRMktd",
         "custom_liquid_PcgPmk"
       ],
+      "disabled": true,
       "settings": {
         "product": "build-your-own-diffuser-bundle",
         "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
