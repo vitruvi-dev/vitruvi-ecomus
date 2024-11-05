@@ -72,6 +72,76 @@
         "padding_rate": 75
       }
     },
+    "featured_product_VGMeRF": {
+      "type": "featured-product",
+      "blocks": {
+        "title_yGg8TE": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_RTreha": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_aX6reX": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_qD4QAB": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "view_products_details_Ct4bFc": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_yGg8TE",
+        "price_RTreha",
+        "description_aX6reX",
+        "buy_buttons_qD4QAB",
+        "view_products_details_Ct4bFc"
+      ],
+      "settings": {
+        "product": "cleaning-tablets",
+        "image": "shopify://shop_images/pdp_cleaning-tablets_gallery_1_image.png",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_yhXghL": {
       "type": "featured-collection-grid",
       "settings": {
@@ -372,6 +442,7 @@
   "order": [
     "heading",
     "top_heading_6VWCD4",
+    "featured_product_VGMeRF",
     "featured_collection_grid_yhXghL",
     "featured_collection_grid_UHYhFb",
     "main",
