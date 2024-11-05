@@ -99,7 +99,7 @@
         "description_aX6reX": {
           "type": "description",
           "settings": {
-            "des": "1",
+            "des": "2",
             "short_des": "",
             "length": 31
           }
@@ -131,7 +131,7 @@
       "settings": {
         "product": "cleaning-tablets",
         "image": "shopify://shop_images/pdp_cleaning-tablets_gallery_1_image.png",
-        "media_width": 50,
+        "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
@@ -160,7 +160,7 @@
         "heading_align": "center",
         "sec_heading": "For Vitruvi Humidifiers",
         "heading_tag": "h2",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
@@ -202,7 +202,7 @@
         "heading_align": "center",
         "sec_heading": "For Vitruvi Diffusers",
         "heading_tag": "h2",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
