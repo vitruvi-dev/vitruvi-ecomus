@@ -75,6 +75,17 @@
     "featured_product_VGMeRF": {
       "type": "featured-product",
       "blocks": {
+        "badges_B7J6x7": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
         "title_yGg8TE": {
           "type": "title",
           "settings": {
@@ -88,7 +99,7 @@
         "description_aX6reX": {
           "type": "description",
           "settings": {
-            "des": "2",
+            "des": "1",
             "short_des": "",
             "length": 31
           }
@@ -110,6 +121,7 @@
         }
       },
       "block_order": [
+        "badges_B7J6x7",
         "title_yGg8TE",
         "price_RTreha",
         "description_aX6reX",
