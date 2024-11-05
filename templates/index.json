@@ -394,7 +394,7 @@
         "label_TQxzjp": {
           "type": "label",
           "settings": {
-            "label": "NEW ARRIVAL",
+            "label": "NEW ARRIVALS",
             "label_fs": "base"
           }
         },
@@ -402,7 +402,7 @@
           "type": "heading",
           "settings": {
             "heading": "Cleaning Tablets",
-            "heading_fs": "h4"
+            "heading_fs": "h3"
           }
         },
         "text_dU8TVd": {
@@ -492,6 +492,7 @@
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-collection-content p {display: none;}"
       ],
