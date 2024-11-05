@@ -194,19 +194,19 @@
     "slideshow_hFrmrV": {
       "type": "slideshow",
       "blocks": {
-        "slide_base_7w7ftz": {
-          "type": "slide_base",
+        "slide_label_d3L9Wa": {
+          "type": "slide_label",
           "settings": {
-            "image": "shopify://shop_images/home_slideshow_byob-humidifier_v1.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "",
-            "heading": "<p>Multi-faceted Beauty</p><p></p>",
-            "heading_fs": "base",
-            "heading_fw": "normal",
             "sub_heading": "From casual to formal, we've got you covered",
             "sub_heading_fs": "base",
             "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Multi-faceted Beauty",
+            "heading_fs": "base",
+            "heading_fw": "normal",
             "btn_label": "Shop now",
             "btn_link": "",
             "target": false,
@@ -214,6 +214,14 @@
             "btn_style": "solid",
             "btn_fw": "normal",
             "btn_icon": "1",
+            "btn2_label": "Shop now",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "normal",
+            "btn2_icon": "1",
+            "content_bg": false,
             "content_position": "center",
             "alignment": "center",
             "hide_subtext_mb": false,
@@ -223,7 +231,7 @@
         }
       },
       "block_order": [
-        "slide_base_7w7ftz"
+        "slide_label_d3L9Wa"
       ],
       "settings": {
         "full_width": true,
