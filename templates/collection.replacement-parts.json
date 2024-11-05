@@ -161,9 +161,9 @@
         "sec_heading": "For Vitruvi Humidifiers",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Replacement Parts & Accessories</p>",
         "subheading_size": "lg",
-        "heading_reverse": false,
+        "heading_reverse": true,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
@@ -198,14 +198,17 @@
     },
     "featured_collection_grid_UHYhFb": {
       "type": "featured-collection-grid",
+      "custom_css": [
+
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "For Vitruvi Diffusers",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Replacement Parts & Accessories</p>",
         "subheading_size": "lg",
-        "heading_reverse": false,
+        "heading_reverse": true,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
