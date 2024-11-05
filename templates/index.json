@@ -299,17 +299,24 @@
     "image_with_text_yqNnyc": {
       "type": "image-with-text",
       "blocks": {
+        "label_TQxzjp": {
+          "type": "label",
+          "settings": {
+            "label": "NEW ARRIVAL",
+            "label_fs": "base"
+          }
+        },
         "heading_NNeLRY": {
           "type": "heading",
           "settings": {
-            "heading": "Free Gift",
+            "heading": "Cleaning Tablets",
             "heading_fs": "h4"
           }
         },
         "text_dU8TVd": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy a free Grove Diffuser Blend on $100+ orders, while supplies last.</p><p>Grove brings a breath of fresh air to your home with its refreshing, woodsy aroma.</p>"
+            "text": "<p>Keep your diffuser or humidifier in top shape. These non-toxic, fragrance-free tablets easily remove buildup and maintain scent purity, so you can enjoy cleaner air every day.</p>"
           }
         },
         "button_ramYgE": {
@@ -326,6 +333,7 @@
         }
       },
       "block_order": [
+        "label_TQxzjp",
         "heading_NNeLRY",
         "text_dU8TVd",
         "button_ramYgE"
