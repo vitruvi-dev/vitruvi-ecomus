@@ -75,6 +75,13 @@
     "featured_product_VGMeRF": {
       "type": "featured-product",
       "blocks": {
+        "custom_liquid_DMWT8y": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<p class=\"hdt-product__title hdt-font-normal\">Compatible With Diffusers & Humidifiers</p1>"
+          }
+        },
         "badges_B7J6x7": {
           "type": "badges",
           "settings": {
@@ -121,6 +128,7 @@
         }
       },
       "block_order": [
+        "custom_liquid_DMWT8y",
         "badges_B7J6x7",
         "title_yGg8TE",
         "price_RTreha",
