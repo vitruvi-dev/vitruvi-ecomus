@@ -50,7 +50,7 @@
         "sub_heading_P6dMit": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
+            "sub_heading": "All orders ship free with code FREESHIP",
             "sub_heading_fs": "base"
           }
         }

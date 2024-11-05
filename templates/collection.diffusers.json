@@ -53,7 +53,7 @@
         "sub_heading_MrRjdm": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
+            "sub_heading": "All orders ship free with code FREESHIP",
             "sub_heading_fs": "base"
           }
         }
