@@ -234,8 +234,12 @@
       "block_order": [
         "slide_label_d3L9Wa"
       ],
+      "custom_css": [
+        "h2 {font-family: \"Founders Grotesk\";}",
+        "p {font-family: \"Heldane\";}"
+      ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "item_round": "rounded",
         "image_height": "adapt_image",
         "fixed_height": 860,
