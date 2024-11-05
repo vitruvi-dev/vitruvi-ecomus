@@ -111,6 +111,7 @@
         "sub_heading_9Kp4Bj",
         "button_LNafRB"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -132,93 +133,15 @@
         "padding_rate": 75
       }
     },
-    "hero_image_mbpfrU": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_bi44nG": {
-          "type": "heading",
-          "settings": {
-            "heading": "NEW",
-            "heading_fs": "h5",
-            "heading_fw": "normal"
-          }
-        },
-        "heading_cGBdTQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "HOLIDAY COLLECTION",
-            "heading_fs": "h1",
-            "heading_fw": "normal"
-          }
-        },
-        "text_R6wLAp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Transform your space with our limited-edition holiday collection, featuring festive scents and beautifully crafted diffusers to make every moment feel special.</p>",
-            "adding_border": false
-          }
-        },
-        "button_Rmw4Ki": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP HOLIDAY",
-            "btn_link": "shopify://collections/holiday-collection",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_bi44nG",
-        "heading_cGBdTQ",
-        "text_R6wLAp",
-        "button_Rmw4Ki"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}",
-        ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
-        ".hdt-hero-image__text {font-size: 120%;}",
-        "@media only screen and (max-width: 768px) {.hdt-hero-image__text {font-size: 90%; line-height: 95%; }}"
-      ],
-      "settings": {
-        "image_height": "full",
-        "fixed_height": 700,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 450,
-        "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
-        "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 0,
-        "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
       "type": "slideshow",
       "blocks": {
         "slide_base_fnDmKR": {
           "type": "slide_base",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
-            "url": "shopify://collections/black-friday-deals",
+            "url": "shopify://collections/best-sellers",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p><strong>LIMITED-TIME OFFER</strong><br/>SHOP EARLY, SHIP FREE</p>",
@@ -327,6 +250,83 @@
         "dot_direction": "horizontal",
         "dot_align": "center",
         "dot_space": 57,
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_mbpfrU": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_bi44nG": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW",
+            "heading_fs": "h5",
+            "heading_fw": "normal"
+          }
+        },
+        "heading_cGBdTQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "HOLIDAY COLLECTION",
+            "heading_fs": "h1",
+            "heading_fw": "normal"
+          }
+        },
+        "text_R6wLAp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Transform your space with our limited-edition holiday collection, featuring festive scents and beautifully crafted diffusers to make every moment feel special.</p>",
+            "adding_border": false
+          }
+        },
+        "button_Rmw4Ki": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP HOLIDAY",
+            "btn_link": "shopify://collections/holiday-collection",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bi44nG",
+        "heading_cGBdTQ",
+        "text_R6wLAp",
+        "button_Rmw4Ki"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-family: \"Kaftan\";}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}",
+        ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        ".hdt-hero-image__text {font-size: 120%;}",
+        "@media only screen and (max-width: 768px) {.hdt-hero-image__text {font-size: 90%; line-height: 95%; }}"
+      ],
+      "settings": {
+        "image_height": "full",
+        "fixed_height": 700,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
+        "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
         "padding_top": 0,
         "padding_bottom": 60,
         "padding_rate": 75
@@ -1147,8 +1147,8 @@
   "order": [
     "video_GKb7jj",
     "video_kaFT9H",
-    "hero_image_mbpfrU",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "hero_image_mbpfrU",
     "countdown_text_7Qr8m8",
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",
