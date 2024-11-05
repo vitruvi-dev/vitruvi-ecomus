@@ -586,7 +586,7 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-humidifier_v1.jpg",
-            "url": "shopify://products/build-your-own-humidifier-bundle-diffuser",
+            "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Bundle & Save on Humidifiers",
@@ -597,7 +597,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
+            "btn_link": "shopify://products/build-your-own-humidifier-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
