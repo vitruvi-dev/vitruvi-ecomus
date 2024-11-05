@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -21,7 +21,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Replacement Parts & Accessories"
           }
         },
         "description_Ddhb9a": {
@@ -72,11 +72,11 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_UHYhFb": {
+    "featured_collection_grid_yhXghL": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "For Vitruvi Diffusers",
+        "sec_heading": "For Vitruvi Humidifiers",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "",
@@ -86,10 +86,10 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "stone-diffuser-ceramic-cover",
-          "move-diffuser-charging-kit",
-          "stone-diffuser-power-cord",
-          "stay-diffuser-power-cord"
+          "humidifier-filters",
+          "humidifier-sensor-hygrometer",
+          "humidifier-lid",
+          "humidifier-water-bucket"
         ],
         "product_des": "10",
         "image_ratio": "adapt_image",
@@ -114,11 +114,11 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_yhXghL": {
+    "featured_collection_grid_UHYhFb": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "For Vitruvi Humidifiers",
+        "sec_heading": "For Vitruvi Diffusers",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "",
@@ -128,10 +128,10 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "humidifier-water-bucket",
-          "humidifier-lid",
-          "humidifier-filters",
-          "humidifier-sensor-hygrometer"
+          "stone-diffuser-ceramic-cover",
+          "move-diffuser-charging-kit",
+          "stone-diffuser-power-cord",
+          "stay-diffuser-power-cord"
         ],
         "product_des": "10",
         "image_ratio": "adapt_image",
@@ -372,8 +372,8 @@
   "order": [
     "heading",
     "top_heading_6VWCD4",
-    "featured_collection_grid_UHYhFb",
     "featured_collection_grid_yhXghL",
+    "featured_collection_grid_UHYhFb",
     "main",
     "accordion_qkAGnW"
   ]
