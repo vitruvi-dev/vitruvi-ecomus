@@ -241,9 +241,9 @@
       "settings": {
         "full_width": false,
         "item_round": "rounded",
-        "image_height": "adapt_image",
+        "image_height": "full",
         "fixed_height": 860,
-        "image_height_mb": "adapt_image",
+        "image_height_mb": "fixed",
         "fixed_height_mb": 300,
         "color_scheme": "",
         "loop": false,
