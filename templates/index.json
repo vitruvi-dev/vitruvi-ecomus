@@ -71,6 +71,67 @@
         "padding_rate": 75
       }
     },
+    "video_kaFT9H": {
+      "type": "video",
+      "blocks": {
+        "label_bPxJjM": {
+          "type": "label",
+          "settings": {
+            "label": "LIMITED-TIME OFFER"
+          }
+        },
+        "heading_FckGqH": {
+          "type": "heading",
+          "settings": {
+            "heading": "SHOP EARLY, SHIP FREE"
+          }
+        },
+        "sub_heading_9Kp4Bj": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents."
+          }
+        },
+        "button_LNafRB": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP NOW",
+            "btn_link": "shopify://collections/best-sellers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "label_bPxJjM",
+        "heading_FckGqH",
+        "sub_heading_9Kp4Bj",
+        "button_LNafRB"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-family: \"Kaftan\";}"
+      ],
+      "settings": {
+        "image_height": "full",
+        "fixed_height": 860,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "video": "shopify://files/videos/home_hero-video_2024-06.mp4",
+        "external_video_url": "",
+        "content_bg": false,
+        "color_scheme": "scheme-3",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "hero_image_mbpfrU": {
       "type": "hero-image",
       "blocks": {
@@ -153,13 +214,14 @@
       "blocks": {
         "slide_base_fnDmKR": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
             "url": "shopify://collections/black-friday-deals",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>Free Shipping on All Orders with Code FREESHIP</strong><br/>FREE SHIPPING</p>",
+            "heading": "<p><strong>LIMITED-TIME OFFER</strong><br/>SHOP EARLY, SHIP FREE</p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Start gifting season with exclusive savings. Discover diffuser and scent bundles crafted to elevate any space—making this holiday truly special.",
@@ -1084,6 +1146,7 @@
   },
   "order": [
     "video_GKb7jj",
+    "video_kaFT9H",
     "hero_image_mbpfrU",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "countdown_text_7Qr8m8",
