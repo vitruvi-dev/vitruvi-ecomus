@@ -119,16 +119,19 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "humidifiers",
+        "collection": "",
         "product_list": [
-
+          "cloud-humidifier",
+          "humidifier-filters",
+          "cleaning-tablets",
+          "humidifier-sensor-hygrometer"
         ],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 3,
+        "products_count": 50,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
