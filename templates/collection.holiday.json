@@ -95,6 +95,39 @@
         "padding_rate": 75
       }
     },
+    "top_heading_39h494": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_YamPiM": {
+          "type": "heading",
+          "settings": {
+            "heading": "HOLIDAY COLLECTION",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_cwXbH7": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YamPiM",
+        "sub_heading_cwXbH7"
+      ],
+      "settings": {
+        "spacing_item": 20,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
@@ -1226,6 +1259,7 @@
   "order": [
     "heading",
     "hero_image_N43MWn",
+    "top_heading_39h494",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
     "featured_product_dMjAEx",
