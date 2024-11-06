@@ -169,11 +169,11 @@
         "slide_label_RUk7iC": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify://shop_images/home_slideshow_byob-humidifier_v1.jpg",
+            "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "sub_heading": "Build Your Own Humidifier Bundle",
+            "sub_heading": "Build Your Own<br>Humidifier Bundle",
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
@@ -280,7 +280,7 @@
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify://shop_images/page_home_hero_summersale2024_image_v1_desktop.jpg",
+            "image": "shopify://shop_images/home_slideshow_byob-diffuser_v2.jpg",
             "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
