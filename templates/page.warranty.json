@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "top_heading_gPrnkR": {
@@ -13,7 +22,7 @@
         "sub_heading_GBMBBF": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "We offer a lifetime warranty on all of our diffusers and humidifiers. If your device has any mechanical or manufacturing defects, we would be happy to assist you with an exchange for the same model and color.Note: Stone Diffusers with a DC power cord are not covered under warranty.",
+            "sub_heading": "We offer a lifetime warranty on all of our diffusers and humidifiers. If your device has any mechanical or manufacturing defects, we would be happy to assist you with an exchange for the same model and color.",
             "sub_heading_fs": "base"
           }
         }
@@ -29,6 +38,70 @@
         "fullwidth": false,
         "color_scheme": "",
         "padding_top": 40,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_9XCBp4": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_JHYcKz": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Any hardware residing outside of Canada or the US will be unable to be replaced by Vitruvi. Please contact the store you purchased from for assistance.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_JHYcKz"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 5,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_wYXJKr": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_r7Da46": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Note: Stone Diffusers with a DC power cord are not covered under warranty.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_r7Da46"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 5,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_line_fWiiNA": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
         "padding_bottom": 40,
         "padding_rate": 75
       }
@@ -64,14 +137,14 @@
           "type": "accordion_item",
           "settings": {
             "title": "What is covered under warranty?",
-            "content": "We offer a lifetime warranty on all of our diffusers and humidifiers. If your device has any mechanical or manufacturing defects, we would be happy to assist you with an exchange for the same model and color.\n\nPlease note that Stone Diffusers with a DC power cord are not covered under warranty. You must be the original owner of the item for it to be covered under warranty. The warranty includes devices purchased through our authorized retailers; however, it does not extend to devices purchased through unauthorized third-party sellers."
+            "content": "We offer a lifetime warranty on all of our diffusers and humidifiers. If your device has any mechanical or manufacturing defects, we would be happy to assist you with an exchange for the same model and color.\n\nAny hardware residing outside of Canada or the US will be unable to be replaced by Vitruvi. Please contact the store you purchased from for assistance.\n\nPlease note that Stone Diffusers with a DC power cord are not covered under warranty. You must be the original owner of the item for it to be covered under warranty. The warranty includes devices purchased through our authorized retailers; however, it does not extend to devices purchased through unauthorized third-party sellers."
           }
         },
         "accordion_item_miy8yp": {
           "type": "accordion_item",
           "settings": {
             "title": "What is not covered under warranty?",
-            "content": "Your device is not covered under the following circumstances:\n\nYou have a Stone Diffuser with a DC power cord.\nYour device was purchased through an unauthorized third-party reseller.\nYou have a misplaced or lost device.\nYour device has accidental damage, such as but not limited to: cracks, water damage, or any other damages outside of the intended use.\nYour device has cosmetic damage from failure to properly clean it, such as but not limited to: scratches, scuffs, stains, color changes, or any other changes to its appearance that occurred during normal usage and that do not affect the functionality.\nYour device has damage determined by us to be due to intentional abuse, modification, tampering, and\/or alteration beyond what could be considered normal handling and use.\nYou are looking to replace consumable items, such as humidifier filters and diffuser scents. These items are not covered under warranty."
+            "content": "Your device is not covered under the following circumstances:\n\nYou have a Stone Diffuser with a DC power cord.\nYour device was purchased through an unauthorized third-party reseller.\nYou have a misplaced or lost device.\nYour device has accidental damage, such as but not limited to: cracks, water damage, or any other damages outside of the intended use.\nYour device has cosmetic damage from failure to properly clean it, such as but not limited to: scratches, scuffs, stains, color changes, or any other changes to its appearance that occurred during normal usage and that do not affect the functionality.\nYour device has damage determined by us to be due to intentional abuse, modification, tampering, and/or alteration beyond what could be considered normal handling and use.\nYou are looking to replace consumable items, such as humidifier filters and diffuser scents. These items are not covered under warranty."
           }
         },
         "accordion_item_dWg3Kg": {
@@ -115,14 +188,14 @@
         "text_k8hUFk": {
           "type": "text",
           "settings": {
-            "text": "<p>Need a replacement part, such as a cord or cover?<\/p>"
+            "text": "<p>Need a replacement part, such as a cord or cover?</p>"
           }
         },
         "button_UCYznn": {
           "type": "button",
           "settings": {
             "btn_label": "FIND IT HERE",
-            "btn_link": "shopify:\/\/collections\/replacement-parts",
+            "btn_link": "shopify://collections/replacement-parts",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -137,7 +210,7 @@
         "button_UCYznn"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/page_warranty_replacement-parts_v2_image.jpg",
+        "image": "shopify://shop_images/page_warranty_replacement-parts_v2_image.jpg",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "",
@@ -156,6 +229,9 @@
   },
   "order": [
     "top_heading_gPrnkR",
+    "top_heading_9XCBp4",
+    "top_heading_wYXJKr",
+    "custom_line_fWiiNA",
     "main",
     "accordion_inline_9CmiBL",
     "image_with_text_BERaEq"

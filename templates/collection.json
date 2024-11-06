@@ -50,7 +50,7 @@
         "sub_heading_P6dMit": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
+            "sub_heading": "All orders ship free with code FREESHIP",
             "sub_heading_fs": "base"
           }
         }
@@ -119,6 +119,7 @@
         "description_ipUFrb",
         "custom_liquid_Ynr4NE"
       ],
+      "disabled": true,
       "settings": {
         "product": "build-your-own-scent-bundle",
         "media_width": 40,
@@ -176,6 +177,75 @@
         "padding_rate": 75,
         "sidebar_position": "left",
         "sidebar_size": "medium"
+      }
+    },
+    "slideshow_tUcbEP": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_label_9rLzGK": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
+            "url": "shopify://products/build-your-own-scent-bundle",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "Build Your Own Scent Bundle",
+            "sub_heading_fs": "h4",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 25%.",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "GET STARTED",
+            "btn_link": "shopify://products/build-your-own-scent-bundle",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_label_9rLzGK"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Founders Grotesk\";}",
+        "p {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "full_width": false,
+        "item_round": "rounded",
+        "image_height": "fixed",
+        "fixed_height": 600,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "color_scheme": "scheme-1",
+        "loop": false,
+        "auto_play": 5,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": false,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 40,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
       }
     },
     "accordion_qkAGnW": {
@@ -361,6 +431,7 @@
     "top_heading_6VWCD4",
     "featured_product_8cGCrR",
     "main",
+    "slideshow_tUcbEP",
     "accordion_qkAGnW"
   ]
 }

@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -21,7 +21,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Replacement Parts & Accessories"
           }
         },
         "description_Ddhb9a": {
@@ -50,7 +50,7 @@
         "sub_heading_P6dMit": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "{{ localization.market.metafields.ecomus[\"collection-offer\"].value }}",
+            "sub_heading": "All orders ship free with code FREESHIP",
             "sub_heading_fs": "base"
           }
         }
@@ -72,24 +72,114 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_UHYhFb": {
+    "featured_product_VGMeRF": {
+      "type": "featured-product",
+      "blocks": {
+        "custom_liquid_DMWT8y": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<p class=\"hdt-product__title hdt-font-normal\">Compatible With Diffusers & Humidifiers</p1>"
+          }
+        },
+        "badges_B7J6x7": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_yGg8TE": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_RTreha": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_aX6reX": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_qD4QAB": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "view_products_details_Ct4bFc": {
+          "type": "view_products_details",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "custom_liquid_DMWT8y",
+        "badges_B7J6x7",
+        "title_yGg8TE",
+        "price_RTreha",
+        "description_aX6reX",
+        "buy_buttons_qD4QAB",
+        "view_products_details_Ct4bFc"
+      ],
+      "settings": {
+        "product": "cleaning-tablets",
+        "image": "shopify://shop_images/pdp_cleaning-tablets_gallery_1_image.png",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_yhXghL": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "For Vitruvi Diffusers",
+        "sec_heading": "For Vitruvi Humidifiers",
         "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Replacement Parts & Accessories</p>",
         "subheading_size": "lg",
-        "heading_reverse": false,
+        "heading_reverse": true,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "stone-diffuser-ceramic-cover",
-          "move-diffuser-charging-kit",
-          "stone-diffuser-power-cord",
-          "stay-diffuser-power-cord"
+          "humidifier-filters",
+          "humidifier-sensor-hygrometer",
+          "humidifier-lid",
+          "humidifier-water-bucket"
         ],
         "product_des": "10",
         "image_ratio": "adapt_image",
@@ -114,24 +204,27 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_yhXghL": {
+    "featured_collection_grid_UHYhFb": {
       "type": "featured-collection-grid",
+      "custom_css": [
+
+      ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "For Vitruvi Humidifiers",
+        "sec_heading": "For Vitruvi Diffusers",
         "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Replacement Parts & Accessories</p>",
         "subheading_size": "lg",
-        "heading_reverse": false,
+        "heading_reverse": true,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "humidifier-water-bucket",
-          "humidifier-lid",
-          "humidifier-filters",
-          "humidifier-sensor-hygrometer"
+          "stone-diffuser-ceramic-cover",
+          "move-diffuser-charging-kit",
+          "stone-diffuser-power-cord",
+          "stay-diffuser-power-cord"
         ],
         "product_des": "10",
         "image_ratio": "adapt_image",
@@ -372,8 +465,9 @@
   "order": [
     "heading",
     "top_heading_6VWCD4",
-    "featured_collection_grid_UHYhFb",
+    "featured_product_VGMeRF",
     "featured_collection_grid_yhXghL",
+    "featured_collection_grid_UHYhFb",
     "main",
     "accordion_qkAGnW"
   ]

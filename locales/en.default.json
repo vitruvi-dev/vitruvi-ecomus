@@ -506,12 +506,10 @@
       "terms_and_conditions": "I agree with the terms and conditions.",
       "gift_wrap_html": "<span>Do you want a gift wrap?<\/span> Only <span class=\"hdt-font-semibold\">{{ money }}<\/span>",
       "free_shipping_bar": {
-        "intial_html": "<p>Fast, free shipping <span class=\"hdt-font-normal\">for all orders over<\/span> {{ money }}<\/p>",
-        "unreached_html": "<p><span class=\"hdt-font-normal\">Add<\/span> {{ money }} <span class=\"hdt-font-normal\"> more to your cart to enjoy<\/span> fast, free shipping<\/p>",
-        /* 
+        /* "intial_html": "<p>Fast, free shipping <span class=\"hdt-font-normal\">for all orders over<\/span> {{ money }}<\/p>",
+        "unreached_html": "<p><span class=\"hdt-font-normal\">Add<\/span> {{ money }} <span class=\"hdt-font-normal\"> more to your cart to enjoy<\/span> fast, free shipping<\/p>", */
         "intial_html": "<p><span class=\"hdt-font-normal\">All orders ship free with code </span>FREESHIP<\/p>",
         "unreached_html": "<p><span class=\"hdt-font-normal\">All orders ship free with code </span>FREESHIP<\/p>",
-        */
         "success": "You're getting fast, free shipping!"
       },
       "headings": {
