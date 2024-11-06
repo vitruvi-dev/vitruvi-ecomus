@@ -68,6 +68,7 @@
         "heading_CeLpaN",
         "text_LnzVHG"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         ".hdt-countdown__item {border-radius: 0px;}"
@@ -101,7 +102,7 @@
         "heading_YamPiM": {
           "type": "heading",
           "settings": {
-            "heading": "HOLIDAY COLLECTION",
+            "heading": "Holiday Collection",
             "heading_fs": "h4"
           }
         },
