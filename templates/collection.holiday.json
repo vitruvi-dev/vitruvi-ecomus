@@ -68,6 +68,7 @@
         "heading_CeLpaN",
         "text_LnzVHG"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         ".hdt-countdown__item {border-radius: 0px;}"
@@ -95,6 +96,39 @@
         "padding_rate": 75
       }
     },
+    "top_heading_39h494": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_YamPiM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Holiday Collection",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_cwXbH7": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YamPiM",
+        "sub_heading_cwXbH7"
+      ],
+      "settings": {
+        "spacing_item": 20,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 15,
+        "padding_rate": 75
+      }
+    },
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
@@ -118,7 +152,7 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 30,
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -970,7 +1004,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 25%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 30%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -1006,7 +1040,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 25%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 30%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -1226,6 +1260,7 @@
   "order": [
     "heading",
     "hero_image_N43MWn",
+    "top_heading_39h494",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
     "featured_product_dMjAEx",
