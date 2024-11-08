@@ -414,11 +414,11 @@
         "disabled": false,
         "settings": {}
       },
-      "18228966181090706294": {
-        "type": "shopify://apps/selleasy/blocks/app-embed/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+      "10605408327587305396": {
+        "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
         "disabled": false,
         "settings": {
-          "storefrontAccessToken": "837e6ab453ce432a1a537edf7b99a71f"
+          "version": "v3"
         }
       }
     },
