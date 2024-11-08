@@ -30,6 +30,7 @@
         },
         "announcement_eeYyAc": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">All Orders Ship Free With Code <span style=\"text-decoration:underline\"><strong>FREESHIP</strong></span></a>"
           }
@@ -37,7 +38,7 @@
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/bundle-and-save\" title=\"Bundle & Save\"><span style=\"text-decoration:underline\">Up to 30% Off Bundles</span></a>"
+            "text": "<a href=\"/collections/black-friday-early-access\" title=\"Black Friday Early Access\"><span style=\"text-decoration:underline\">Black Friday Early Access: 25% Sitewide + Free Gift</span></a>"
           }
         }
       },
@@ -107,9 +108,7 @@
           "disabled": true,
           "settings": {
             "title": "Diffusers",
-            "collection_list": [
-
-            ],
+            "collection_list": [],
             "image_ratio": "square",
             "image_size": false,
             "mega_menu_colors": "",
@@ -140,9 +139,7 @@
           "disabled": true,
           "settings": {
             "title": "Humidifiers",
-            "collection_list": [
-
-            ],
+            "collection_list": [],
             "image_ratio": "square",
             "image_size": false,
             "mega_menu_colors": "",
@@ -173,9 +170,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop All",
-            "collection_list": [
-
-            ],
+            "collection_list": [],
             "image_ratio": "square",
             "image_size": false,
             "mega_menu_colors": "",
