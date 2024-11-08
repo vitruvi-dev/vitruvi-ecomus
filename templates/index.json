@@ -138,6 +138,7 @@
       "blocks": {
         "slide_base_fnDmKR": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
@@ -166,7 +167,6 @@
         },
         "slide_base_b7CGHT": {
           "type": "slide_base",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
