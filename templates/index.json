@@ -169,6 +169,7 @@
           "type": "slide_base",
           "settings": {
             "image": "shopify://shop_images/Desktop_-_Homepage_598a11dd-18ca-482f-a38e-279fca568852.png",
+            "image_mb": "shopify://shop_images/Mobile_6f771eb2-b2cf-4886-886b-109465dd53b2.jpg",
             "url": "shopify://collections/black-friday-deals",
             "banner_target": false,
             "color_scheme": "scheme-3",
