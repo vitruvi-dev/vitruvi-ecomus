@@ -430,6 +430,7 @@
         "text_dU8TVd",
         "button_ramYgE"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/pdp_cleaning-tablets_gallery_5_image.jpg",
         "style_image": "1",
@@ -492,7 +493,6 @@
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-collection-content p {display: none;}"
       ],
