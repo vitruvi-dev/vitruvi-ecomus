@@ -387,7 +387,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "essential-oil-diffusers",
-            "image": "shopify://shop_images/page_home_grid_bf-early-acess_diffuser.jpg",
+            "image": "shopify://shop_images/page_home_grid_bf-early-acess_diffuser_v2.jpg",
             "title": "Buy a Diffuser,Get a Free Dusk Blend",
             "collection_link": ""
           }
@@ -396,7 +396,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "humidifiers",
-            "image": "shopify://shop_images/page_home_grid_bf-early-acess_humidifier.jpg",
+            "image": "shopify://shop_images/page_home_grid_bf-early-acess_humidifier_v2.jpg",
             "title": "Buy a Humidifier,Get Free Cleaning Tablets",
             "collection_link": ""
           }
