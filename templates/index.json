@@ -373,21 +373,21 @@
     "collections_list_ntQ9dE": {
       "type": "collections-list",
       "blocks": {
+        "collection_item_QXdRwA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "black-friday-early-access",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "25% Off Sitewide",
+            "collection_link": ""
+          }
+        },
         "collection_item_RJBn7K": {
           "type": "collection_item",
           "settings": {
             "collection": "essential-oil-diffusers",
             "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
             "title": "Up to 40% Off Diffuser Bundles",
-            "collection_link": ""
-          }
-        },
-        "collection_item_QXdRwA": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "scents",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Up to 40% Off Scent Bundles",
             "collection_link": ""
           }
         },
@@ -410,8 +410,8 @@
         }
       },
       "block_order": [
-        "collection_item_RJBn7K",
         "collection_item_QXdRwA",
+        "collection_item_RJBn7K",
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
