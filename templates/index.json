@@ -168,9 +168,9 @@
         "slide_base_b7CGHT": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/Desktop_-_Homepage_598a11dd-18ca-482f-a38e-279fca568852.png",
-            "image_mb": "shopify://shop_images/Mobile_6f771eb2-b2cf-4886-886b-109465dd53b2.jpg",
-            "url": "shopify://collections/black-friday-deals",
+            "image": "shopify://shop_images/page_home_hero_bf-early-access_image_desktop.png",
+            "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
+            "url": "shopify://collections/black-friday-early-access",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p><strong>25% OFF + GIFT WITH PURCHASE</strong><br/>BLACK FRIDAY EARLY ACCESS</p>",
@@ -180,7 +180,7 @@
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP DEALS",
-            "btn_link": "shopify://collections/black-friday-deals",
+            "btn_link": "shopify://collections/black-friday-early-access",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
