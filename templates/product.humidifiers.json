@@ -135,6 +135,12 @@
               "apres-essential-oil-blend"
             ]
           }
+        },
+        "complimentary_products_ALaHRU": {
+          "type": "complimentary_products",
+          "settings": {
+            "text": "Pairs well with"
+          }
         }
       },
       "block_order": [
@@ -151,7 +157,8 @@
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "custom_liquid_wkJHqU",
         "custom_liquid_QEPDwE",
-        "bundle_product_kXDxG6"
+        "bundle_product_kXDxG6",
+        "complimentary_products_ALaHRU"
       ],
       "custom_css": [
         ".byob-cta {gap: 25px; padding: 25px;}",
