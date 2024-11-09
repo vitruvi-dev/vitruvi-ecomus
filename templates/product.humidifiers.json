@@ -126,6 +126,15 @@
           "settings": {
             "custom_liquid": "<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div>\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 30%</h5>\n      <p>Boost your humidifier experience with essential add-ons and accessories.</p>\n  </div>\n</div>"
           }
+        },
+        "bundle_product_kXDxG6": {
+          "type": "bundle_product",
+          "settings": {
+            "bundle_prs_inner": true,
+            "product_list": [
+              "apres-essential-oil-blend"
+            ]
+          }
         }
       },
       "block_order": [
@@ -141,7 +150,8 @@
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "custom_liquid_wkJHqU",
-        "custom_liquid_QEPDwE"
+        "custom_liquid_QEPDwE",
+        "bundle_product_kXDxG6"
       ],
       "custom_css": [
         ".byob-cta {gap: 25px; padding: 25px;}",
