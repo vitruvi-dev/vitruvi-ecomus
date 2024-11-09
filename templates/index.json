@@ -625,7 +625,6 @@
       "blocks": {
         "slide_label_79zX79": {
           "type": "slide_label",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
@@ -698,7 +697,6 @@
         },
         "slide_label_KFMjzR": {
           "type": "slide_label",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4086.jpg",
             "url": "shopify://products/build-your-own-diffuser-bundle",
