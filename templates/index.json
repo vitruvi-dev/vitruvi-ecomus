@@ -700,6 +700,7 @@
           "type": "slide_label",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/IMG_4086.jpg",
             "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
