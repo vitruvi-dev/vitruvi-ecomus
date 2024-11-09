@@ -85,6 +85,20 @@
             "progress_bar_max": 50
           }
         },
+        "description_Fh49zX": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "custom_liquid_QEPDwE": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Free Gift</h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
+          }
+        },
         "img_trust_66mV4N": {
           "type": "img_trust",
           "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
@@ -96,15 +110,6 @@
             "wimg": 600,
             "svg": "",
             "height": 30
-          }
-        },
-        "description_Fh49zX": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
           }
         },
         "8253e974-5acb-4076-9230-03b0f804dcdf": {
@@ -120,12 +125,6 @@
           "settings": {
             "custom_liquid": "{% if product.compare_at_price == blank %}\n<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <a href=\"/products/build-your-own-diffuser-bundle\">\n      <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n    </a>\n  </div>\n  <div class=\"byob-text\">\n    <a href=\"/products/build-your-own-humidifier-bundle\">\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 30%</h5>\n      <p>Boost your humidifier experience with essential add-ons and accessories.</p>\n    </a>\n  </div>\n  <div class=\"byob-button\">\n    <a href=\"/products/build-your-own-humidifier-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>BUILD BUNDLE</span>\n    </a>\n  </div>\n</div>\n{% endif %}"
           }
-        },
-        "custom_liquid_QEPDwE": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n    </a>\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 30%</h5>\n    <p>Boost your humidifier experience with essential add-ons and accessories.</p>\n  </div>\n</div>"
-          }
         }
       },
       "block_order": [
@@ -137,11 +136,11 @@
         "quantity_selector_w49daP",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
-        "img_trust_66mV4N",
         "description_Fh49zX",
+        "custom_liquid_QEPDwE",
+        "img_trust_66mV4N",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "custom_liquid_wkJHqU",
-        "custom_liquid_QEPDwE"
+        "custom_liquid_wkJHqU"
       ],
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
@@ -172,55 +171,6 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 52,
-        "padding_rate": 50
-      }
-    },
-    "tabs": {
-      "type": "main-product-tabs",
-      "blocks": {
-        "tab_des_jmK8i3": {
-          "type": "tab_des",
-          "settings": {
-            "title": "Description"
-          }
-        },
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Features",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_FAnLrE": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Specs",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_eeFthN": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Warranty & Returns",
-            "content": "",
-            "page": "product-returns-humidifiers-diffusers"
-          }
-        }
-      },
-      "block_order": [
-        "tab_des_jmK8i3",
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
-        "tab_html_FAnLrE",
-        "tab_html_eeFthN"
-      ],
-      "settings": {
-        "tabs_design": "tab_vertical",
-        "enable_first_tab": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 30,
-        "padding_bottom": 30,
         "padding_rate": 50
       }
     },
@@ -306,6 +256,48 @@
         "padding_top": 60,
         "padding_bottom": 60,
         "padding_rate": 75
+      }
+    },
+    "tabs": {
+      "type": "main-product-tabs",
+      "blocks": {
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Features",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_FAnLrE": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Specs",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_eeFthN": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Warranty & Returns",
+            "content": "",
+            "page": "product-returns-humidifiers-diffusers"
+          }
+        }
+      },
+      "block_order": [
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
+        "tab_html_FAnLrE",
+        "tab_html_eeFthN"
+      ],
+      "settings": {
+        "tabs_design": "tab_vertical",
+        "enable_first_tab": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 50
       }
     },
     "video_width_text2_anqqEU": {
@@ -816,8 +808,8 @@
   "order": [
     "breacrumb",
     "main",
-    "tabs",
     "icon_box_xRGYey",
+    "tabs",
     "video_width_text2_anqqEU",
     "video_width_text2_gAFGz7",
     "testimonials_2_R9NQQF",
