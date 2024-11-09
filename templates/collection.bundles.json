@@ -278,7 +278,8 @@
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify://shop_images/pdp_stone-diffuser-bundle_feature_1_desktop_v2_image.png",
+            "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
+            "image_mb": "shopify://shop_images/pdp_essential-oil-blend_sugar-spice_gallery_4_image.jpg",
             "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
