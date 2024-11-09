@@ -625,6 +625,7 @@
       "blocks": {
         "slide_label_79zX79": {
           "type": "slide_label",
+          "disabled": true,
           "settings": {
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
@@ -696,6 +697,7 @@
         },
         "slide_label_KFMjzR": {
           "type": "slide_label",
+          "disabled": true,
           "settings": {
             "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
