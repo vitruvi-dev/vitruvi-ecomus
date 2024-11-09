@@ -36,8 +36,7 @@
         },
         "3a222052-35a9-4684-a336-6a32a56eb638": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
           "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
@@ -47,8 +46,7 @@
         },
         "edac686e-a845-4ed7-9b50-51639a11cf56": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "1248e930-5734-45b4-a1d6-a814910fdb63": {
           "type": "variant_picker",
@@ -66,8 +64,7 @@
         "quantity_selector_w49daP": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
@@ -90,10 +87,9 @@
         },
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
-          "disabled": true,
           "settings": {
             "content": "Labor Day Sale Ends Soon",
-            "icon_svg": "clock",
+            "icon_svg": "box",
             "ani": "none"
           }
         },
@@ -327,9 +323,7 @@
         "heading_Wzbctd",
         "sub_heading_jeJGRx"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "video_option": "1",
         "video_height": "adapt_image_first",
@@ -463,9 +457,7 @@
         "quote_PFq7cB",
         "quote_Mp3EXe"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "heading_align": "center",
         "top_heading": "Join over 10k Cloud customers sleeping better every night",
@@ -741,9 +733,7 @@
           "settings": {
             "widget_heading": "Sale products",
             "collection": "womens-fashion",
-            "product_list": [
-
-            ],
+            "product_list": [],
             "products_count": 3,
             "image_ratio": "adapt_image",
             "image_size": true
