@@ -117,16 +117,16 @@
             "only_show_soldout": true
           }
         },
-        "custom_liquid_NMVphJ": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{% unless product.title contains 'Humid' or product.title contains 'Scent' %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n    <div class=\"byob-img\">\n      <a href=\"/products/build-your-own-diffuser-bundle\">\n        <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_starter-bundle-terracotta_gallery_1_image_v6.png?v=1725487963\">\n      </a>\n    </div>\n    <div class=\"byob-text\">\n      <a href=\"/products/build-your-own-diffuser-bundle\">\n        <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Personalize Your Bundle</h5>\n        <p>Mix and match your favorite diffusers and scents to craft a unique bundle for your home.</p>\n      </a>\n    </div>\n    <div class=\"byob-button\">\n      <a href=\"/products/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n        <span>GET STARTED</span>\n      </a>\n    </div>\n  </div>\n{% endunless %}"
-          }
-        },
         "custom_liquid_3Xt8DR": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "{% if product.type == 'Cool-Mist Humidifier' or product.type == 'Humidifier Bundle' or product.type == 'Diffuser & Humidifier Bundle' %}\n<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Free Gift</h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>\n{% endif %}"
+          }
+        },
+        "custom_liquid_NMVphJ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% unless product.title contains 'Humid' or product.title contains 'Scent' %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n    <div class=\"byob-img\">\n      <a href=\"/products/build-your-own-diffuser-bundle\">\n        <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_starter-bundle-terracotta_gallery_1_image_v6.png?v=1725487963\">\n      </a>\n    </div>\n    <div class=\"byob-text\">\n      <a href=\"/products/build-your-own-diffuser-bundle\">\n        <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Personalize Your Bundle</h5>\n        <p>Mix and match your favorite diffusers and scents to craft a unique bundle for your home.</p>\n      </a>\n    </div>\n    <div class=\"byob-button\">\n      <a href=\"/products/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n        <span>GET STARTED</span>\n      </a>\n    </div>\n  </div>\n{% endunless %}"
           }
         }
       },
@@ -142,8 +142,8 @@
         "description_Fh49zX",
         "img_trust_ygqnBq",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "custom_liquid_NMVphJ",
-        "custom_liquid_3Xt8DR"
+        "custom_liquid_3Xt8DR",
+        "custom_liquid_NMVphJ"
       ],
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
