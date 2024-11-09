@@ -78,11 +78,18 @@
         },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 20,
             "show_inventory_quantity": false,
             "show_progress_bar": false,
             "progress_bar_max": 50
+          }
+        },
+        "custom_liquid_QEPDwE": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.type == 'Cool Mist Humidifier' or product.type == 'Humidifier Bundle' or product.type == 'Diffuser & Humidifier Bundle' %}\n<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Free Gift</h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>\n{% endif %}"
           }
         },
         "description_Fh49zX": {
@@ -91,12 +98,6 @@
             "des": "1",
             "short_des": "",
             "length": 31
-          }
-        },
-        "custom_liquid_QEPDwE": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{% if product.type == 'Cool Mist Humidifier' or product.type == 'Humidifier Bundle' or product.type == 'Diffuser & Humidifier Bundle' %}\n<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Free Gift</h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>\n{% endif %}"
           }
         },
         "img_trust_66mV4N": {
@@ -136,8 +137,8 @@
         "quantity_selector_w49daP",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
-        "description_Fh49zX",
         "custom_liquid_QEPDwE",
+        "description_Fh49zX",
         "img_trust_66mV4N",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "custom_liquid_wkJHqU"
