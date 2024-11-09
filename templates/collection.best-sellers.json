@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -89,9 +88,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -133,14 +130,12 @@
         "title_B6AfNV": {
           "type": "title",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price_3WTNYB": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description_Ly67FF": {
           "type": "description",
@@ -162,8 +157,7 @@
         },
         "view_products_details_dLcHK8": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_769AGd": {
           "type": "img_trust",
@@ -176,6 +170,12 @@
             "svg": "",
             "height": 30
           }
+        },
+        "custom_liquid_66GTNr": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.type == 'Cool Mist Humidifier' or product.type == 'Humidifier Bundle' or product.type == 'Diffuser & Humidifier Bundle' %}\n<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Free Gift</h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>\n{% endif %}"
+          }
         }
       },
       "block_order": [
@@ -185,7 +185,8 @@
         "description_Ly67FF",
         "buy_buttons_NMNaGy",
         "view_products_details_dLcHK8",
-        "img_trust_769AGd"
+        "img_trust_769AGd",
+        "custom_liquid_66GTNr"
       ],
       "settings": {
         "product": "cloud-humidifier",
@@ -267,14 +268,12 @@
         "title_7fhX9x": {
           "type": "title",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price_C3Wc7C": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker_haywRK": {
           "type": "variant_picker",
@@ -309,8 +308,7 @@
         },
         "view_products_details_hYVnMr": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_888rTd": {
           "type": "img_trust",
@@ -672,9 +670,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "4",
         "content_size": "4xl",
         "content_weight": "medium",
