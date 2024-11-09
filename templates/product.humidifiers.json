@@ -85,12 +85,17 @@
             "progress_bar_max": 50
           }
         },
-        "countdown_timer_pLgxfe": {
-          "type": "countdown_timer",
+        "img_trust_66mV4N": {
+          "type": "img_trust",
+          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
-            "content": "Labor Day Sale Ends Soon",
-            "icon_svg": "box",
-            "ani": "none"
+            "show_icon": false,
+            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
+            "source": "1",
+            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
           }
         },
         "description_Fh49zX": {
@@ -109,23 +114,17 @@
             "only_show_soldout": true
           }
         },
-        "img_trust_66mV4N": {
-          "type": "img_trust",
-          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
-          "settings": {
-            "show_icon": false,
-            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
-            "source": "1",
-            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
-        },
         "custom_liquid_wkJHqU": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% if product.compare_at_price == blank %}\n<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <a href=\"/products/build-your-own-diffuser-bundle\">\n      <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n    </a>\n  </div>\n  <div class=\"byob-text\">\n    <a href=\"/products/build-your-own-humidifier-bundle\">\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 30%</h5>\n      <p>Boost your humidifier experience with essential add-ons and accessories.</p>\n    </a>\n  </div>\n  <div class=\"byob-button\">\n    <a href=\"/products/build-your-own-humidifier-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>BUILD BUNDLE</span>\n    </a>\n  </div>\n</div>\n{% endif %}"
+          }
+        },
+        "custom_liquid_QEPDwE": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div>\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 30%</h5>\n      <p>Boost your humidifier experience with essential add-ons and accessories.</p>\n  </div>\n</div>"
           }
         }
       },
@@ -138,11 +137,11 @@
         "quantity_selector_w49daP",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
-        "countdown_timer_pLgxfe",
+        "img_trust_66mV4N",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "img_trust_66mV4N",
-        "custom_liquid_wkJHqU"
+        "custom_liquid_wkJHqU",
+        "custom_liquid_QEPDwE"
       ],
       "custom_css": [
         ".byob-cta {gap: 25px; padding: 25px;}",
