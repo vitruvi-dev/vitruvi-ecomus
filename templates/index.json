@@ -430,6 +430,7 @@
         "text_dU8TVd",
         "button_ramYgE"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/pdp_cleaning-tablets_gallery_5_image.jpg",
         "style_image": "1",
@@ -625,7 +626,6 @@
         "slide_label_79zX79": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -697,7 +697,6 @@
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify://shop_images/home_slideshow_byob-diffuser_v2.jpg",
             "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
