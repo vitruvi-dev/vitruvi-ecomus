@@ -12,9 +12,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -50,8 +48,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -130,6 +127,7 @@
         "text_jN4hnq",
         "countdown_fi4PPC"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Kaftan\";}",
         ".hdt-h5 {font-family: \"Founders Grotesk\";}",
@@ -156,6 +154,39 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_KjTFBD": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_VNU839": {
+          "type": "heading",
+          "settings": {
+            "heading": "Black Friday Early Access",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_iVD9H3": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "UP TO 40% SAVINGS",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VNU839",
+        "sub_heading_iVD9H3"
+      ],
+      "settings": {
+        "spacing_item": 20,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -223,8 +254,7 @@
         },
         "title_MfaEDn": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "custom_liquid_fDdAbD": {
           "type": "custom_liquid",
@@ -235,8 +265,7 @@
         "price_mqJdTn": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description_dJqfXD": {
           "type": "description",
@@ -331,8 +360,7 @@
         },
         "title_enYzUg": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "custom_liquid_FtNFBm": {
           "type": "custom_liquid",
@@ -343,8 +371,7 @@
         "price_D9WQYU": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description_M7GQ7R": {
           "type": "description",
@@ -432,13 +459,11 @@
         },
         "title_B6AfNV": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_3WTNYB": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_Ly67FF": {
           "type": "description",
@@ -460,8 +485,7 @@
         },
         "view_products_details_dLcHK8": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_769AGd": {
           "type": "img_trust",
@@ -486,9 +510,7 @@
         "img_trust_769AGd"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product": "cloud-humidifier",
         "image": "shopify://shop_images/pdp_cloud-humidifier_white_gallery_1_image.png",
@@ -710,13 +732,11 @@
         },
         "title_7fhX9x": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_C3Wc7C": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker_haywRK": {
           "type": "variant_picker",
@@ -751,8 +771,7 @@
         },
         "view_products_details_hYVnMr": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_888rTd": {
           "type": "img_trust",
@@ -871,9 +890,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "holiday-scents",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
@@ -1120,9 +1137,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "4",
         "content_size": "4xl",
         "content_weight": "medium",
@@ -1169,6 +1184,7 @@
     "main",
     "heading",
     "hero_image_N43MWn",
+    "top_heading_KjTFBD",
     "custom_line_zAe7AX",
     "top_heading_C4C6ha",
     "featured_product_mwKb8Q",
