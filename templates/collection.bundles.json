@@ -167,6 +167,7 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/page_home_hero_prime-holiday-deals-2024_image_desktop.jpg",
+            "image_mb": "shopify://shop_images/pdp_byob-humidifier_gallery_3_image_v1.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
