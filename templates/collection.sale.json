@@ -138,14 +138,6 @@
           "disabled": true,
           "settings": {}
         },
-        "description_Ly67FF": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
         "buy_buttons_NMNaGy": {
           "type": "buy_buttons",
           "settings": {
@@ -154,6 +146,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_Ly67FF": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
           }
         },
         "view_products_details_dLcHK8": {
@@ -177,8 +177,8 @@
         "custom_liquid_73itAq",
         "title_B6AfNV",
         "price_3WTNYB",
-        "description_Ly67FF",
         "buy_buttons_NMNaGy",
+        "description_Ly67FF",
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
       ],
