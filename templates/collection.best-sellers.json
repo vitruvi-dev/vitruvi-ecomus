@@ -484,7 +484,7 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
-            "image_mb": "shopify://shop_images/pdp_byob-humidifier-diffuser_gallery_4_image_v1.jpg",
+            "image_mb": "shopify://shop_images/byob-slide-humidifier-mobile.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
