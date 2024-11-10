@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -89,9 +88,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -170,10 +167,11 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
+            "image_mb": "shopify://shop_images/pdp_byob-humidifier_gallery_3_image_v1.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "sub_heading": "Build Your Own<br>Humidifier Bundle",
+            "sub_heading": "Build Your OwnHumidifier Bundle",
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
