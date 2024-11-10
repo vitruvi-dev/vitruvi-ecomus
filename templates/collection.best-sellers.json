@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -89,9 +88,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -133,14 +130,12 @@
         "title_B6AfNV": {
           "type": "title",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price_3WTNYB": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description_Ly67FF": {
           "type": "description",
@@ -162,8 +157,7 @@
         },
         "view_products_details_dLcHK8": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_769AGd": {
           "type": "img_trust",
@@ -267,14 +261,12 @@
         "title_7fhX9x": {
           "type": "title",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price_C3Wc7C": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker_haywRK": {
           "type": "variant_picker",
@@ -309,8 +301,7 @@
         },
         "view_products_details_hYVnMr": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_888rTd": {
           "type": "img_trust",
@@ -456,6 +447,7 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-diffuser_v2.jpg",
+            "image_mb": "shopify://shop_images/collection_summer-sale_header-mobile.png",
             "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -492,6 +484,7 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
+            "image_mb": "shopify://shop_images/pdp_byob-humidifier-diffuser_gallery_4_image_v1.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -672,9 +665,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "4",
         "content_size": "4xl",
         "content_weight": "medium",
