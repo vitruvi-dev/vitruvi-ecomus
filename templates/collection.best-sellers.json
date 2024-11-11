@@ -278,21 +278,7 @@
         },
         "price_C3Wc7C": {
           "type": "price",
-          "disabled": true,
           "settings": {}
-        },
-        "variant_picker_haywRK": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "pick_mode": "first_available",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
         },
         "custom_liquid_PkLhCb": {
           "type": "custom_liquid",
@@ -339,7 +325,6 @@
         "custom_liquid_JAapDA",
         "title_7fhX9x",
         "price_C3Wc7C",
-        "variant_picker_haywRK",
         "custom_liquid_PkLhCb",
         "buy_buttons_4tg4fA",
         "description_zDcy8L",
