@@ -68,6 +68,9 @@
         "heading_gp79NX",
         "text_RmVzgx"
       ],
+      "custom_css": [
+        "@media only screen and (min-width: 1024px) {.hdt-hero-image__text {max-width: 75%; }}"
+      ],
       "settings": {
         "image_height": "fixed",
         "fixed_height": 400,
@@ -79,8 +82,8 @@
         "image_behavior": "none",
         "use_overlay": false,
         "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
+        "content_position": "center-start",
+        "content_align": "left",
         "content_position_mb": "center",
         "content_align_mb": "center",
         "full_width": false,
