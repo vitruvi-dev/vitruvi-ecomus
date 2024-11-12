@@ -273,10 +273,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Savings on Other Vitruvi Essentials",
+        "sec_heading": "Savings on Vitruvi Bundles",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Choose from our expertly curated bundles of diffusers and humidifiers, thoughtfully crafted to elevate every moment.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
