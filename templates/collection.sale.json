@@ -87,7 +87,7 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 100,
-        "padding_bottom": 36,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -105,6 +105,7 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
