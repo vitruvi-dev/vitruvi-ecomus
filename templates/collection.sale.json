@@ -50,27 +50,33 @@
       "blocks": {
         "heading_gp79NX": {
           "type": "heading",
-          "settings": {Start Black Friday early with 25% off sitewide<br/>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.
+          "settings": {
             "heading": "Black Friday Early Access",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
         },
-        "text_RmVzgx": {
+        "text_TaVJHq": {
           "type": "text",
           "settings": {
-            "text": "<p>Unlock 25% off sitewide with exclusive early access. Every humidifier and diffuser order ships free <em>and</em> comes with a special free gift. Start your holiday shopping now—these deals won’t wait!</p>",
+            "text": "<p>Start Black Friday early with 25% off sitewide, plus a free gift with with every diffuser and humidifier order.</p>",
+            "adding_border": false
+          }
+        },
+        "text_bB9AwW": {
+          "type": "text",
+          "settings": {
+            "text": "",
             "adding_border": false
           }
         }
       },
       "block_order": [
         "heading_gp79NX",
-        "text_RmVzgx"
+        "text_TaVJHq",
+        "text_bB9AwW"
       ],
-      "custom_css": [
-        "@media only screen and (min-width: 1024px) {.hdt-hero-image__text {max-width: 75%; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "image_height": "fixed",
         "fixed_height": 400,
@@ -100,7 +106,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "All orders ship free with code FREESHIP",
+            "sub_heading": "Start Black Friday early with 25% off sitewide.<br>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
             "sub_heading_fs": "base"
           }
         }
@@ -118,7 +124,7 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 15,
         "padding_bottom": 0,
         "padding_rate": 75
       }
