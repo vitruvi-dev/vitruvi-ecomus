@@ -727,6 +727,7 @@
         "slide_label_KFMjzR",
         "slide_label_TYJw4i"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
         "p {font-family: \"Heldane\";}"
