@@ -51,7 +51,7 @@
         "heading_gp79NX": {
           "type": "heading",
           "settings": {
-            "heading": "Ecomus theme shopify",
+            "heading": "Black Friday Early Access",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -62,28 +62,15 @@
             "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
             "adding_border": false
           }
-        },
-        "button_WtAJ8D": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
         }
       },
       "block_order": [
         "heading_gp79NX",
-        "text_RmVzgx",
-        "button_WtAJ8D"
+        "text_RmVzgx"
       ],
       "settings": {
         "image_height": "fixed",
-        "fixed_height": 600,
+        "fixed_height": 300,
         "image_height_mb": "fixed",
         "fixed_height_mb": 300,
         "image": "shopify://shop_images/loremipsum.png",
@@ -98,7 +85,7 @@
         "content_align_mb": "center",
         "full_width": false,
         "boxed_fullwidth": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "padding_top": 100,
         "padding_bottom": 36,
         "padding_rate": 75
