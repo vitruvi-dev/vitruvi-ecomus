@@ -236,10 +236,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Save 25% on Diffusers",
+        "sec_heading": "Savings on Other Vitruvi Essentials",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover diffusers that blend beautifully with your decor, deliver captivating aromas, and provide natural, long-lasting fragrance. Enjoy a safer, effortless way to fill your space with inviting scents.</p>",
+        "sec_subheading": "",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
