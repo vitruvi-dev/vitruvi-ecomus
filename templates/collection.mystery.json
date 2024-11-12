@@ -235,11 +235,11 @@
     "featured_collection_grid_Kqfchz": {
       "type": "featured-collection-grid",
       "settings": {
-        "heading_align": "start",
+        "heading_align": "center",
         "sec_heading": "Savings on Other Vitruvi Essentials",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Explore our thoughtfully curated selection of air care essentials, each crafted to elevate your space and enhance every moment.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
