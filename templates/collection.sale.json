@@ -502,13 +502,13 @@
         },
         "custom_liquid_Pnrjd7": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
           }
         },
         "title_yJ76qa": {
           "type": "title",
-          "disabled": true,
           "settings": {}
         },
         "price_bhXYex": {
