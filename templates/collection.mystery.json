@@ -20,7 +20,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Your Mystery Offer"
           }
         },
         "description_Ddhb9a": {
@@ -36,7 +36,6 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -65,31 +64,6 @@
       ],
       "settings": {
         "spacing_item": 0,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_BPaBrw": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_aaHMqn": {
-          "type": "heading",
-          "settings": {
-            "heading": "Your Mystery Offer",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "heading_aaHMqn"
-      ],
-      "settings": {
-        "spacing_item": 30,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
@@ -344,7 +318,6 @@
   "order": [
     "heading",
     "top_heading_LKRnyK",
-    "top_heading_BPaBrw",
     "custom_line_zAe7AX",
     "main",
     "featured_product_q3qnpt",
