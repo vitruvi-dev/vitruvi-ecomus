@@ -19,6 +19,7 @@
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": ""
           }
@@ -143,6 +144,7 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
