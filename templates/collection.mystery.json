@@ -36,67 +36,11 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 15,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_3dNbDH": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_gp79NX": {
-          "type": "heading",
-          "settings": {
-            "heading": "Black Friday Early Access",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_TaVJHq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Start Black Friday early with 25% off sitewide, plus a free gift with with every diffuser and humidifier order.</p>",
-            "adding_border": false
-          }
-        },
-        "text_bB9AwW": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_gp79NX",
-        "text_TaVJHq",
-        "text_bB9AwW"
-      ],
-      "custom_css": [],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 400,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
-        "image": "shopify://shop_images/collections_hero_bfcm2023-earlyaccess_v2.png",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center-start",
-        "content_align": "left",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 100,
-        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -120,6 +64,39 @@
       ],
       "settings": {
         "spacing_item": 0,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_BPaBrw": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_aaHMqn": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are Ecomus",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_J3R9rD": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aaHMqn",
+        "sub_heading_J3R9rD"
+      ],
+      "settings": {
+        "spacing_item": 30,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
@@ -916,8 +893,8 @@
   },
   "order": [
     "heading",
-    "hero_image_3dNbDH",
     "top_heading_LKRnyK",
+    "top_heading_BPaBrw",
     "custom_line_zAe7AX",
     "main",
     "featured_product_4PVpj9",
