@@ -279,13 +279,8 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "stone-diffuser-holiday-bundle",
-          "move-cordless-essential-oil-diffuser",
-          "glow-essential-oil-diffuser",
-          "stay-large-essential-oil-diffuser"
-        ],
+        "collection": "sale",
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
