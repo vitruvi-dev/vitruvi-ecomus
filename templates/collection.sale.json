@@ -387,6 +387,48 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_grid_Kqfchz": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "All-Natural Scents, Better Living",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "stone-diffuser-holiday-bundle",
+          "move-cordless-essential-oil-diffuser",
+          "glow-essential-oil-diffuser",
+          "stay-large-essential-oil-diffuser"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
@@ -743,6 +785,7 @@
     "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
+    "featured_collection_grid_Kqfchz",
     "featured_collection_grid_j8DcaG",
     "slideshow_bHhppE",
     "collections_list_simple_kY6xMW",
