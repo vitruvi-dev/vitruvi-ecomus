@@ -154,119 +154,6 @@
         "sidebar_size": "medium"
       }
     },
-    "featured_product_4PVpj9": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_DjG7qy": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "custom_liquid_73itAq": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/cloud-humidifier\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
-          }
-        },
-        "title_B6AfNV": {
-          "type": "title",
-          "disabled": true,
-          "settings": {}
-        },
-        "price_3WTNYB": {
-          "type": "price",
-          "settings": {}
-        },
-        "buy_buttons_NMNaGy": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "custom_liquid_V86MGd": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($20 Value)\n      {% else %}\n        Free Gift ($25 Value)\n      {% endif %}\n    </h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
-          }
-        },
-        "description_Ly67FF": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "view_products_details_dLcHK8": {
-          "type": "view_products_details",
-          "settings": {}
-        },
-        "img_trust_769AGd": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
-        }
-      },
-      "block_order": [
-        "badges_DjG7qy",
-        "custom_liquid_73itAq",
-        "title_B6AfNV",
-        "price_3WTNYB",
-        "buy_buttons_NMNaGy",
-        "custom_liquid_V86MGd",
-        "description_Ly67FF",
-        "view_products_details_dLcHK8",
-        "img_trust_769AGd"
-      ],
-      "custom_css": [
-        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
-        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
-        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
-        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
-      ],
-      "settings": {
-        "product": "cloud-humidifier",
-        "image": "shopify://shop_images/pdp_cloud-humidifier_white_gallery_1_image.png",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_grid_EcUNwb": {
       "type": "featured-collection-grid",
       "settings": {
@@ -325,13 +212,13 @@
         },
         "custom_liquid_JAapDA": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
           }
         },
         "title_7fhX9x": {
           "type": "title",
-          "disabled": true,
           "settings": {}
         },
         "price_C3Wc7C": {
@@ -898,7 +785,6 @@
     "top_heading_BPaBrw",
     "custom_line_zAe7AX",
     "main",
-    "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
     "featured_collection_grid_Kqfchz",
