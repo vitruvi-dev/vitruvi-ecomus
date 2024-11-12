@@ -154,48 +154,6 @@
         "sidebar_size": "medium"
       }
     },
-    "featured_collection_grid_EcUNwb": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "start",
-        "sec_heading": "Save 25% on Humidifiers",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "humidifier-filters",
-          "humidifier-sensor-hygrometer",
-          "cleaning-tablets",
-          "best-sleep-diffuser-humidifier-bundle"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "featured_product_q3qnpt": {
       "type": "featured-product",
       "blocks": {
@@ -785,7 +743,6 @@
     "top_heading_BPaBrw",
     "custom_line_zAe7AX",
     "main",
-    "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
     "featured_collection_grid_Kqfchz",
     "featured_product_L794ER",
