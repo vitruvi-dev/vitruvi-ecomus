@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -26,6 +25,7 @@
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "description": ""
           }
@@ -36,9 +36,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "spacing_hd": 15,
         "color_scheme": "",
@@ -53,7 +51,7 @@
         "sub_heading_MrRjdm": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Start Black Friday early with 25% off sitewide<br/>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
+            "sub_heading": "Start Black Friday early with 25% off sitewide<br>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
             "sub_heading_fs": "base"
           }
         }
@@ -78,9 +76,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -126,8 +122,7 @@
         },
         "title_agcLrB": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "custom_liquid_iYeakk": {
           "type": "custom_liquid",
@@ -200,13 +195,11 @@
         },
         "title_aq9Hew": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_rLGthp": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_DUMmP6": {
           "type": "description",
@@ -228,8 +221,7 @@
         },
         "view_products_details_pYeQq6": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_NNM6wE": {
           "type": "img_trust",
@@ -293,9 +285,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "essential-oil-diffusers",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
