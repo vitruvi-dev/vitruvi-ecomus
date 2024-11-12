@@ -621,6 +621,7 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-diffuser_v2.jpg",
+            "image_mb": "shopify://shop_images/collection_summer-sale_header-mobile.png",
             "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
