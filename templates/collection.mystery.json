@@ -83,18 +83,10 @@
             "heading": "Your Mystery Offer",
             "heading_fs": "h4"
           }
-        },
-        "sub_heading_J3R9rD": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
-            "sub_heading_fs": "base"
-          }
         }
       },
       "block_order": [
-        "heading_aaHMqn",
-        "sub_heading_J3R9rD"
+        "heading_aaHMqn"
       ],
       "settings": {
         "spacing_item": 30,
