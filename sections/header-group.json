@@ -30,6 +30,7 @@
         },
         "announcement_eeYyAc": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">All Orders Ship Free With Code <span style=\"text-decoration:underline\"><strong>FREESHIP</strong></span></a>"
           }
@@ -37,7 +38,19 @@
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/bundle-and-save\" title=\"Bundle & Save\"><span style=\"text-decoration:underline\">Up to 30% Off Bundles</span></a>"
+            "text": "<a href=\"/collections/black-friday-early-access\" title=\"Black Friday Early Access\"><span style=\"text-decoration:underline\">Black Friday Early Access: 25% Sitewide</span></a>"
+          }
+        },
+        "announcement_MBNBrx": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\"><span style=\"text-decoration:underline\">FREE Dusk Blend With Diffusers</span></a>"
+          }
+        },
+        "announcement_rEbRYQ": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\"><span style=\"text-decoration:underline\">FREE Cleaning Tablets With Humidifiers</span></a>"
           }
         }
       },
@@ -45,7 +58,9 @@
         "announcement_RzCepp",
         "announcement_7iU4bq",
         "announcement_eeYyAc",
-        "announcement_RqB4ka"
+        "announcement_RqB4ka",
+        "announcement_MBNBrx",
+        "announcement_rEbRYQ"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
@@ -107,9 +122,7 @@
           "disabled": true,
           "settings": {
             "title": "Diffusers",
-            "collection_list": [
-
-            ],
+            "collection_list": [],
             "image_ratio": "square",
             "image_size": false,
             "mega_menu_colors": "",
@@ -124,7 +137,7 @@
             "title": "Humidifiers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "cleaning-tablets",
+              "cloud-humidifier",
               "build-your-own-humidifier-bundle"
             ],
             "image_ratio": "adapt_image",
@@ -140,9 +153,7 @@
           "disabled": true,
           "settings": {
             "title": "Humidifiers",
-            "collection_list": [
-
-            ],
+            "collection_list": [],
             "image_ratio": "square",
             "image_size": false,
             "mega_menu_colors": "",
@@ -173,9 +184,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop All",
-            "collection_list": [
-
-            ],
+            "collection_list": [],
             "image_ratio": "square",
             "image_size": false,
             "mega_menu_colors": "",
@@ -204,7 +213,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_freeship",
+        "main_menu": "header_desktop_sale",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
@@ -220,7 +229,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile_freeship",
+        "main_menu_mobile": "header_mobile_sale",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",

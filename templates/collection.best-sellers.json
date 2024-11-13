@@ -25,6 +25,7 @@
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "description": ""
           }
@@ -49,7 +50,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "All orders ship free with code FREESHIP",
+            "sub_heading": "Start Black Friday early with 25% off sitewide<br>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
             "sub_heading_fs": "base"
           }
         }
@@ -66,7 +67,7 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 15,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -134,15 +135,12 @@
         },
         "price_3WTNYB": {
           "type": "price",
-          "disabled": true,
           "settings": {}
         },
-        "description_Ly67FF": {
-          "type": "description",
+        "custom_liquid_66GTNr": {
+          "type": "custom_liquid",
           "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Free Early Access Gift</h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
           }
         },
         "buy_buttons_NMNaGy": {
@@ -153,6 +151,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_Ly67FF": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
           }
         },
         "view_products_details_dLcHK8": {
@@ -176,10 +182,17 @@
         "custom_liquid_73itAq",
         "title_B6AfNV",
         "price_3WTNYB",
-        "description_Ly67FF",
+        "custom_liquid_66GTNr",
         "buy_buttons_NMNaGy",
+        "description_Ly67FF",
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
+      ],
+      "custom_css": [
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
       ],
       "settings": {
         "product": "cloud-humidifier",
@@ -265,28 +278,12 @@
         },
         "price_C3Wc7C": {
           "type": "price",
-          "disabled": true,
           "settings": {}
         },
-        "variant_picker_haywRK": {
-          "type": "variant_picker",
-          "disabled": true,
+        "custom_liquid_PkLhCb": {
+          "type": "custom_liquid",
           "settings": {
-            "pick_mode": "first_available",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "description_zDcy8L": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Free Early Access Gift</h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
           }
         },
         "buy_buttons_4tg4fA": {
@@ -297,6 +294,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_zDcy8L": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
           }
         },
         "view_products_details_hYVnMr": {
@@ -320,17 +325,17 @@
         "custom_liquid_JAapDA",
         "title_7fhX9x",
         "price_C3Wc7C",
-        "variant_picker_haywRK",
-        "description_zDcy8L",
+        "custom_liquid_PkLhCb",
         "buy_buttons_4tg4fA",
+        "description_zDcy8L",
         "view_products_details_hYVnMr",
         "img_trust_888rTd"
       ],
       "custom_css": [
-        ".byob-cta {gap: 25px; padding: 25px;}",
-        ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
-        ".byob-text,.byob-button {text-align: center;}",
-        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-img, .byob-text, .byob-button {text-align: left; } .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
       ],
       "settings": {
         "product": "stone-essential-oil-diffuser",
@@ -418,7 +423,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 30%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -455,7 +460,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 30%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -484,7 +489,6 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
-            "image_mb": "shopify://shop_images/byob-slide-humidifier-mobile.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -492,7 +496,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick the humidifier and accessories that suit your space and save up to 30%.",
+            "heading": "Pick the humidifier and accessories that suit your space and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",

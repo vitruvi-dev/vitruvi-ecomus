@@ -15,17 +15,18 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": ""
           }
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "description": ""
           }
@@ -135,7 +136,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "All orders ship free with code FREESHIP",
+            "sub_heading": "Beat the Black Friday rush with 25% off sitewide<br>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
             "sub_heading_fs": "base"
           }
         }
@@ -143,6 +144,7 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -166,123 +168,6 @@
         "line_cl": "#f7f8f6",
         "line_pos": "center",
         "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_dMjAEx": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_qTUQke": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "custom_liquid_MaxRKX": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
-          }
-        },
-        "title_icLWTq": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "price_WMnKp7": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_Q6iwNU": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "pick_mode": "first_available",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "description_tRaDMq": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "buy_buttons_7QyWBF": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "view_products_details_8KXDwE": {
-          "type": "view_products_details",
-          "settings": {
-          }
-        },
-        "img_trust_mxLpQ4": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
-        }
-      },
-      "block_order": [
-        "badges_qTUQke",
-        "custom_liquid_MaxRKX",
-        "title_icLWTq",
-        "price_WMnKp7",
-        "variant_picker_Q6iwNU",
-        "description_tRaDMq",
-        "buy_buttons_7QyWBF",
-        "view_products_details_8KXDwE",
-        "img_trust_mxLpQ4"
-      ],
-      "settings": {
-        "product": "cloud-humidifier-holiday-bundle",
-        "image": "shopify://shop_images/pdp_humidifier-holiday-bundle_white_gallery_1_v2023_image_0587bd9d-835a-49f5-ba59-2579ec918a58.png",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
@@ -354,13 +239,11 @@
         },
         "title_7fhX9x": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_C3Wc7C": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker_haywRK": {
           "type": "variant_picker",
@@ -395,8 +278,7 @@
         },
         "view_products_details_hYVnMr": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_888rTd": {
           "type": "img_trust",
@@ -500,9 +382,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -555,13 +435,11 @@
         },
         "title_B6AfNV": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_3WTNYB": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_Ly67FF": {
           "type": "description",
@@ -583,8 +461,7 @@
         },
         "view_products_details_dLcHK8": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_769AGd": {
           "type": "img_trust",
@@ -610,9 +487,7 @@
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product": "festive-favorites-essential-oil-kit",
         "image": "shopify://shop_images/pdp_kit_festive_favorites_gallery_1_image.png",
@@ -662,13 +537,11 @@
         },
         "title_RRXMBW": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_UDez36": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_Tx9iDW": {
           "type": "description",
@@ -690,8 +563,7 @@
         },
         "view_products_details_ChBpbP": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_tRNdmQ": {
           "type": "img_trust",
@@ -766,13 +638,11 @@
         },
         "title_gzq4iU": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_zzm3jT": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_8bLnQX": {
           "type": "description",
@@ -794,8 +664,7 @@
         },
         "view_products_details_bjEp4K": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_wKUQVX": {
           "type": "img_trust",
@@ -847,6 +716,120 @@
         "padding_rate": 75
       }
     },
+    "featured_product_dMjAEx": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_qTUQke": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "custom_liquid_MaxRKX": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
+          }
+        },
+        "title_icLWTq": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_WMnKp7": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_Q6iwNU": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "description_tRaDMq": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_7QyWBF": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_8KXDwE": {
+          "type": "view_products_details",
+          "settings": {}
+        },
+        "img_trust_mxLpQ4": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_qTUQke",
+        "custom_liquid_MaxRKX",
+        "title_icLWTq",
+        "price_WMnKp7",
+        "variant_picker_Q6iwNU",
+        "description_tRaDMq",
+        "buy_buttons_7QyWBF",
+        "view_products_details_8KXDwE",
+        "img_trust_mxLpQ4"
+      ],
+      "settings": {
+        "product": "cloud-humidifier-holiday-bundle",
+        "image": "shopify://shop_images/pdp_humidifier-holiday-bundle_white_gallery_1_v2023_image_0587bd9d-835a-49f5-ba59-2579ec918a58.png",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "featured_product_yQFKnD": {
       "type": "featured-product",
       "blocks": {
@@ -870,13 +853,11 @@
         },
         "title_czUjCz": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_wnmgBD": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_anhdUB": {
           "type": "description",
@@ -898,8 +879,7 @@
         },
         "view_products_details_kVmdkg": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_xKYbJG": {
           "type": "img_trust",
@@ -964,9 +944,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "holiday-scents",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
@@ -1004,7 +982,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 30%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -1040,7 +1018,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 30%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -1212,9 +1190,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "4",
         "content_size": "4xl",
         "content_weight": "medium",
@@ -1263,7 +1239,6 @@
     "top_heading_39h494",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
-    "featured_product_dMjAEx",
     "featured_collection_grid_whnAX6",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
@@ -1273,6 +1248,7 @@
     "featured_product_g4Vmd9",
     "featured_product_yQFKnD",
     "featured_collection_grid_zVFg6J",
+    "featured_product_dMjAEx",
     "slideshow_bHhppE",
     "collections_list_simple_kY6xMW",
     "accordion_inline_tzAiHJ",
