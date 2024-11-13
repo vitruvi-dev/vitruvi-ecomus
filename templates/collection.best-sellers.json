@@ -25,6 +25,7 @@
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "description": ""
           }
@@ -49,7 +50,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Start Black Friday early with 25% off sitewide<br/>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
+            "sub_heading": "Start Black Friday early with 25% off sitewide<br>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
             "sub_heading_fs": "base"
           }
         }
@@ -66,7 +67,7 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 15,
         "padding_bottom": 0,
         "padding_rate": 75
       }
