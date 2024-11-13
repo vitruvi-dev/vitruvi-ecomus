@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breacrumb": {
@@ -36,19 +36,17 @@
         },
         "3a222052-35a9-4684-a336-6a32a56eb638": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
         },
         "edac686e-a845-4ed7-9b50-51639a11cf56": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "1248e930-5734-45b4-a1d6-a814910fdb63": {
           "type": "variant_picker",
@@ -75,6 +73,7 @@
         },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 20,
             "show_inventory_quantity": false,
@@ -82,13 +81,16 @@
             "progress_bar_max": 50
           }
         },
-        "countdown_timer_pLgxfe": {
-          "type": "countdown_timer",
-          "disabled": true,
+        "custom_liquid_3Xt8DR": {
+          "type": "custom_liquid",
           "settings": {
-            "content": "Labor Day Sale Ends Soon",
-            "icon_svg": "clock",
-            "ani": "none"
+            "custom_liquid": "{% if product.type == 'Cool-Mist Humidifier' or product.type == 'Humidifier Bundle' or product.type == 'Diffuser & Humidifier Bundle' %}\n<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Free Gift \n      {% if request.host contains 'vitruvi.com' %}\n        ($20 Value)\n      {% else %}\n        ($25 Value)\n      {% endif %}\n    </h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>\n{% endif %}"
+          }
+        },
+        "custom_liquid_bmN8tT": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.type == 'Essential Oil Diffuser' or product.type == 'Diffuser Bundle' %}\n<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/products/pdp_essential-oil-blend_dusk_gallery_1_v2_image.png?v=1719458615\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n    Free Gift\n      {% if request.host contains 'vitruvi.com' %}\n        ($28 Value)\n      {% else %}\n        ($30 Value)\n      {% endif %}\n    </h5>\n    <p>Dusk Diffuser Blend automatically added to every diffuser order, while supplies last.</p>\n  </div>\n</div>\n{% endif %}"
           }
         },
         "description_Fh49zX": {
@@ -122,7 +124,7 @@
         "custom_liquid_NMVphJ": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% unless product.title contains 'Humid' or product.title contains 'Scent' %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n    <div class=\"byob-img\">\n      <a href=\"\/products\/build-your-own-diffuser-bundle\">\n        <img class=\"byob-src\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2490\/3170\/files\/pdp_starter-bundle-terracotta_gallery_1_image_v6.png?v=1725487963\">\n      <\/a>\n    <\/div>\n    <div class=\"byob-text\">\n      <a href=\"\/products\/build-your-own-diffuser-bundle\">\n        <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Personalize Your Bundle<\/h5>\n        <p>Mix and match your favorite diffusers and scents to craft a unique bundle for your home.<\/p>\n      <\/a>\n    <\/div>\n    <div class=\"byob-button\">\n      <a href=\"\/products\/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n        <span>GET STARTED<\/span>\n      <\/a>\n    <\/div>\n  <\/div>\n{% endunless %}"
+            "custom_liquid": "{% unless product.title contains 'Humid' or product.title contains 'Scent' %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n    <div class=\"byob-img\">\n      <a href=\"/products/build-your-own-diffuser-bundle\">\n        <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_starter-bundle-terracotta_gallery_1_image_v6.png?v=1725487963\">\n      </a>\n    </div>\n    <div class=\"byob-text\">\n      <a href=\"/products/build-your-own-diffuser-bundle\">\n        <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Personalize Your Bundle</h5>\n        <p>Mix and match your favorite diffusers and scents to craft a unique bundle for your home.</p>\n      </a>\n    </div>\n    <div class=\"byob-button\">\n      <a href=\"/products/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n        <span>GET STARTED</span>\n      </a>\n    </div>\n  </div>\n{% endunless %}"
           }
         }
       },
@@ -134,17 +136,18 @@
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
-        "countdown_timer_pLgxfe",
+        "custom_liquid_3Xt8DR",
+        "custom_liquid_bmN8tT",
         "description_Fh49zX",
         "img_trust_ygqnBq",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "custom_liquid_NMVphJ"
       ],
       "custom_css": [
-        ".byob-cta {gap: 25px; padding: 25px;}",
-        ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
-        ".byob-text,.byob-button {text-align: center;}",
-        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-img, .byob-text, .byob-button {text-align: left; } .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
       ],
       "settings": {
         "space_content_media": true,
@@ -272,13 +275,13 @@
           "settings": {
             "icon_svg": "box2",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_shipping_2024-06.svg",
+            "image": "shopify://shop_images/icons_shipping_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/frequently-asked-questions",
+            "link": "shopify://pages/frequently-asked-questions",
             "open_link": false,
             "title": "Fast, Free Shipping",
-            "content": "<p>Delivered nationwide in 3-8 business days.<\/p>",
+            "content": "<p>Delivered nationwide in 3-8 business days.</p>",
             "adding_border": false
           }
         },
@@ -287,13 +290,13 @@
           "settings": {
             "icon_svg": "leaf2",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_warranty_2024-06.svg",
+            "image": "shopify://shop_images/icons_warranty_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/warranty",
+            "link": "shopify://pages/warranty",
             "open_link": true,
             "title": "Lifetime Device Warranty",
-            "content": "<p>Extended coverage to keep your air cared for even longer.<\/p>",
+            "content": "<p>Extended coverage to keep your air cared for even longer.</p>",
             "adding_border": false
           }
         },
@@ -302,13 +305,13 @@
           "settings": {
             "icon_svg": "support",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_returns_2024-06.svg",
+            "image": "shopify://shop_images/icons_returns_2024-06.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
-            "link": "shopify:\/\/pages\/returns-and-exchanges",
+            "link": "shopify://pages/returns-and-exchanges",
             "open_link": true,
             "title": "No-Hassle Returns",
-            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.<\/p>",
+            "content": "<p>Not delighted? We'll make it right. Try it out for 30 days.</p>",
             "adding_border": false
           }
         }
@@ -511,9 +514,7 @@
         "sub_heading_jeJGRx"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "video_option": "1",
         "video_height": "adapt_image_first",
@@ -594,7 +595,7 @@
           "type": "quote",
           "settings": {
             "heading": "The BEST diffuser I've ever owned!",
-            "content": "<p>I'm head over heels in love with Vitruvi diffusers. The colors are true to the image, they carry my scent blends far and wide, and they are so incredibly quiet. Vitruvi stands tall, head and shoulders above the rest. Highly recommend!<\/p>",
+            "content": "<p>I'm head over heels in love with Vitruvi diffusers. The colors are true to the image, they carry my scent blends far and wide, and they are so incredibly quiet. Vitruvi stands tall, head and shoulders above the rest. Highly recommend!</p>",
             "author": "Kristin P.<br>The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -604,7 +605,7 @@
           "type": "quote",
           "settings": {
             "heading": "It's Everything You'd Want in a Diffuser",
-            "content": "<p>I’ve only had the Move diffuser for a few weeks and I am in love (and so is my husband!). We really love the flexibility of the cordless diffuser. I have it in my home office in the morning, he takes it into his office in the afternoon, and then into our bedroom in the evening—it's truly all we need in one!<\/p>",
+            "content": "<p>I’ve only had the Move diffuser for a few weeks and I am in love (and so is my husband!). We really love the flexibility of the cordless diffuser. I have it in my home office in the morning, he takes it into his office in the afternoon, and then into our bedroom in the evening—it's truly all we need in one!</p>",
             "author": "Angel W.<br>The Move Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -614,7 +615,7 @@
           "type": "quote",
           "settings": {
             "heading": "Spend the money, you will not be disappointed",
-            "content": "<p>This is seriously the best diffuser I have owned! The stream of diffused oils is just so much stronger. It really delivers a true essential oil experience versus a watered-down mist. It is also very sleek and elegant, making it perfect for any environment. It’s expensive, but totally worth the money.<\/p>",
+            "content": "<p>This is seriously the best diffuser I have owned! The stream of diffused oils is just so much stronger. It really delivers a true essential oil experience versus a watered-down mist. It is also very sleek and elegant, making it perfect for any environment. It’s expensive, but totally worth the money.</p>",
             "author": "Crystal N.The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -624,7 +625,7 @@
           "type": "quote",
           "settings": {
             "heading": "In Love with my First Purchase from Vitruvi",
-            "content": "<p>It’s beautiful! I received it yesterday. Setting it up was a breeze. It filled my whole living room, dining area, and kitchen with scent. Wow, I can even smell it in the hallway. I’m so happy with my new diffuser. It’s a treat-yourself gift. Highly recommend getting one.<\/p>",
+            "content": "<p>It’s beautiful! I received it yesterday. Setting it up was a breeze. It filled my whole living room, dining area, and kitchen with scent. Wow, I can even smell it in the hallway. I’m so happy with my new diffuser. It’s a treat-yourself gift. Highly recommend getting one.</p>",
             "author": "Monica V.<br>The Stay Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -634,7 +635,7 @@
           "type": "quote",
           "settings": {
             "heading": "Easy to use, easy to display",
-            "content": "<p>This checked all the boxes! You can turn off the night light, and people keep complimenting how nice my home smells and how cute my 'sculpture' is. The color is beautiful and subtle—definitely getting some for gifts.<\/p>",
+            "content": "<p>This checked all the boxes! You can turn off the night light, and people keep complimenting how nice my home smells and how cute my 'sculpture' is. The color is beautiful and subtle—definitely getting some for gifts.</p>",
             "author": "Danielle R.The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -644,7 +645,7 @@
           "type": "quote",
           "settings": {
             "heading": "A Healthier Work at Home Space",
-            "content": "<p>Love my new Stone Vitruvi diffuser. It’s a sleek design, and the neutral colors blend seamlessly into my decor. The diffused oil has been a welcoming addition to the air in my workspace.<\/p>",
+            "content": "<p>Love my new Stone Vitruvi diffuser. It’s a sleek design, and the neutral colors blend seamlessly into my decor. The diffused oil has been a welcoming addition to the air in my workspace.</p>",
             "author": "Joan F.The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -654,7 +655,7 @@
           "type": "quote",
           "settings": {
             "heading": "Amazing Diffuser!",
-            "content": "<p>This diffuser is worth the investment! It is so calming in our bathroom, making it feel like a more luxurious spa space. We can smell the diffuser throughout three rooms in the house. I will be purchasing another one for our bedroom. I love this product!<\/p>",
+            "content": "<p>This diffuser is worth the investment! It is so calming in our bathroom, making it feel like a more luxurious spa space. We can smell the diffuser throughout three rooms in the house. I will be purchasing another one for our bedroom. I love this product!</p>",
             "author": "Desiree W.The Move Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -664,7 +665,7 @@
           "type": "quote",
           "settings": {
             "heading": "Quiet and powerful",
-            "content": "<p>Very attractive, minimal design. Runs quietly and works consistently to diffuse essential oils. We have a small apartment (~650 sq ft) and it easily fills the whole space! I like the matte texture of the cover, and the color is fun but neutral enough to go anywhere. &lt;3<\/p>",
+            "content": "<p>Very attractive, minimal design. Runs quietly and works consistently to diffuse essential oils. We have a small apartment (~650 sq ft) and it easily fills the whole space! I like the matte texture of the cover, and the color is fun but neutral enough to go anywhere. &lt;3</p>",
             "author": "Savannah A.<br>The Stone Diffuser",
             "enable_verify": true,
             "rating": 5
@@ -687,7 +688,7 @@
         "top_heading": "Join over 100k homes happily scented by a Vitruvi diffuser",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "top_description": "<p>Aromatherapy Elevated, Thanks to Vitruvi <\/p>",
+        "top_description": "<p>Aromatherapy Elevated, Thanks to Vitruvi </p>",
         "subheading_size": "hdt-text-base",
         "show_rating": false,
         "rating": 5,
@@ -706,7 +707,7 @@
       "type": "apps",
       "blocks": {
         "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
@@ -812,9 +813,7 @@
           "settings": {
             "widget_heading": "Sale products",
             "collection": "womens-fashion",
-            "product_list": [
-
-            ],
+            "product_list": [],
             "products_count": 3,
             "image_ratio": "adapt_image",
             "image_size": true

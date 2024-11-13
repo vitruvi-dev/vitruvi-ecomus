@@ -138,6 +138,7 @@
       "blocks": {
         "slide_base_fnDmKR": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
@@ -166,21 +167,20 @@
         },
         "slide_base_b7CGHT": {
           "type": "slide_base",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
-            "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
-            "url": "shopify://collections/black-friday-deals",
+            "image": "shopify://shop_images/page_home_hero_bf-early-access_image_desktop.png",
+            "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
+            "url": "shopify://collections/black-friday-early-access",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>UP TO 40% OFF</strong><br/>EARLY BLACK FRIDAY DEALS</p>",
+            "heading": "<p><strong>BLACK FRIDAY EARLY ACCESS</strong><br/>25% OFF SITEWIDE<br/></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Start gifting season with exclusive savings. Discover diffuser and scent bundles crafted to elevate any space—making this holiday truly special.",
+            "sub_heading": "Start gifting season with exclusive savings. Discover humidifiers, diffusers, and scents crafted to elevate any space—making this holiday truly special.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
-            "btn_label": "SHOP DEALS",
-            "btn_link": "shopify://collections/black-friday-deals",
+            "btn_label": "SHOP SALE",
+            "btn_link": "shopify://collections/black-friday-early-access",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -250,83 +250,6 @@
         "dot_direction": "horizontal",
         "dot_align": "center",
         "dot_space": 57,
-        "padding_top": 0,
-        "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_mbpfrU": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_bi44nG": {
-          "type": "heading",
-          "settings": {
-            "heading": "NEW",
-            "heading_fs": "h5",
-            "heading_fw": "normal"
-          }
-        },
-        "heading_cGBdTQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "HOLIDAY COLLECTION",
-            "heading_fs": "h1",
-            "heading_fw": "normal"
-          }
-        },
-        "text_R6wLAp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Transform your space with our limited-edition holiday collection, featuring festive scents and beautifully crafted diffusers to make every moment feel special.</p>",
-            "adding_border": false
-          }
-        },
-        "button_Rmw4Ki": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP HOLIDAY",
-            "btn_link": "shopify://collections/holiday-collection",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_bi44nG",
-        "heading_cGBdTQ",
-        "text_R6wLAp",
-        "button_Rmw4Ki"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 30%; font-weight: 200;}",
-        ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
-        ".hdt-hero-image__text {font-size: 120%;}",
-        "@media only screen and (max-width: 768px) {.hdt-hero-image__text {font-size: 90%; line-height: 95%; }}"
-      ],
-      "settings": {
-        "image_height": "full",
-        "fixed_height": 700,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 450,
-        "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
-        "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
         "padding_top": 0,
         "padding_bottom": 60,
         "padding_rate": 75
@@ -451,21 +374,21 @@
     "collections_list_ntQ9dE": {
       "type": "collections-list",
       "blocks": {
+        "collection_item_QXdRwA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "black-friday-early-access",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "25% Off Sitewide",
+            "collection_link": ""
+          }
+        },
         "collection_item_RJBn7K": {
           "type": "collection_item",
           "settings": {
             "collection": "essential-oil-diffusers",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
-            "title": "Up to 40% Off Diffuser Bundles",
-            "collection_link": ""
-          }
-        },
-        "collection_item_QXdRwA": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "scents",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Up to 40% Off Scent Bundles",
+            "image": "shopify://shop_images/page_home_grid_bf-early-acess_diffuser_v2.jpg",
+            "title": "Save 25% On A Diffuser,<br>Get a Free Dusk Blend",
             "collection_link": ""
           }
         },
@@ -473,8 +396,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "humidifiers",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
-            "title": "Up to 30% off Humidifier Bundles",
+            "image": "shopify://shop_images/page_home_grid_bf-early-acess_humidifier_v2.jpg",
+            "title": "Save 25% On A Humidifier,<br>Get Free Cleaning Tablets",
             "collection_link": ""
           }
         },
@@ -488,12 +411,11 @@
         }
       },
       "block_order": [
-        "collection_item_RJBn7K",
         "collection_item_QXdRwA",
+        "collection_item_RJBn7K",
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-collection-content p {display: none;}"
       ],
@@ -627,7 +549,6 @@
           "type": "slide_label",
           "settings": {
             "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
-            "image_mb": "shopify://shop_images/byob-slide-humidifier-mobile.jpg",
             "url": "shopify://products/build-your-own-humidifier-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -635,7 +556,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick the humidifier and accessories that suit your space and save up to 30%.",
+            "heading": "Pick the humidifier and accessories that suit your space and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -671,7 +592,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 30%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -708,7 +629,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 30%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -1095,7 +1016,6 @@
     "video_GKb7jj",
     "video_kaFT9H",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
-    "hero_image_mbpfrU",
     "countdown_text_7Qr8m8",
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",

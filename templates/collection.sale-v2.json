@@ -59,7 +59,7 @@
         "text_PLCVYg": {
           "type": "text",
           "settings": {
-            "text": "<p>Save up to 30% on humidifiers, diffusers, and seasonal scents. Bring cozy comfort into your home.<\/p>",
+            "text": "<p>Save up to 40% on humidifiers, diffusers, and seasonal scents. Bring cozy comfort into your home.<\/p>",
             "adding_border": false
           }
         }
@@ -101,7 +101,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "All orders ship free with code FREESHIP",
+            "sub_heading": "Start Black Friday early with 25% off sitewide<br/>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
             "sub_heading_fs": "base"
           }
         }
@@ -525,7 +525,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 30%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -561,7 +561,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 30%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
