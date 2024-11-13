@@ -9,6 +9,17 @@
  */
 {
   "sections": {
+    "custom_liquid_YHzULH": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<div class=\"klaviyo-form-XQPnzP\"></div>",
+        "color_scheme": "",
+        "padding_top": 52,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "heading": {
       "type": "heading-collection",
       "blocks": {
@@ -19,6 +30,7 @@
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": ""
           }
@@ -35,6 +47,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 15,
         "color_scheme": "",
@@ -43,119 +56,46 @@
         "padding_rate": 75
       }
     },
-    "custom_liquid_YHzULH": {
-      "type": "custom-liquid",
+    "featured_collection_grid_BwhCic": {
+      "type": "featured-collection-grid",
       "settings": {
-        "section_fullwidth": false,
-        "custom_liquid": "<div class=\"klaviyo-form-XQPnzP\"></div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_6VWCD4": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_P6dMit": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Start Black Friday early with 25% off sitewide<br>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_P6dMit"
-      ],
-      "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
-      ],
-      "settings": {
-        "spacing_item": 0,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_8cGCrR": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_X8kgEy": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "title_6knfch": {
-          "type": "title",
-          "settings": {}
-        },
-        "custom_liquid_AYaic6": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <span style=\"font-size: var(--text-2xl);\">From</span>\n    <div class=\"hdt-price__container\">\n      <div class=\"hdt-price__sale hdt-price__list\">\n        <hdt-compare-at-price class=\"hdt-compare-at-price\">\n          <span class=\"sr-only sr-only--inline\">Regular price</span>\n          <span class=\"hdt-money\"></span>\n        </hdt-compare-at-price>\n        <hdt-price class=\"hdt-price\">\n          <span class=\"sr-only sr-only--inline\">Sale price</span>\n          <span class=\"hdt-money\">\n            {% if request.host contains 'vitruvi.ca' %}\n              $47.97\n            {% else %}\n              $41.97\n            {% endif %}\n          </span>\n        </hdt-price>\n      </div>\n    </div>\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">SAVE UP TO 40%</span>\n    </hdt-badge>\n  </div>\n</div>"
-          }
-        },
-        "description_ipUFrb": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "custom_liquid_Ynr4NE": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
-          }
-        }
-      },
-      "block_order": [
-        "badges_X8kgEy",
-        "title_6knfch",
-        "custom_liquid_AYaic6",
-        "description_ipUFrb",
-        "custom_liquid_Ynr4NE"
-      ],
-      "disabled": true,
-      "settings": {
-        "product": "build-your-own-scent-bundle",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
+        "heading_align": "center",
+        "sec_heading": "Explore the full range of Vitruvi products for all your home wellness needs",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "shop-all",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
         "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 12,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "product_des": "10",
@@ -186,260 +126,26 @@
         "sidebar_size": "medium"
       }
     },
-    "slideshow_tUcbEP": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_label_9rLzGK": {
-          "type": "slide_label",
-          "settings": {
-            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
-            "url": "shopify://products/build-your-own-scent-bundle",
-            "banner_target": false,
-            "color_scheme": "scheme-3",
-            "sub_heading": "Build Your Own Scent Bundle",
-            "sub_heading_fs": "h4",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 35%.",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "GET STARTED",
-            "btn_link": "shopify://products/build-your-own-scent-bundle",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "medium",
-            "btn2_icon": "none",
-            "content_bg": false,
-            "content_position": "center-start",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_label_9rLzGK"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"Founders Grotesk\";}",
-        "p {font-family: \"Heldane\";}"
-      ],
+    "custom_line_UyDjGi": {
+      "type": "custom-line",
       "settings": {
-        "full_width": false,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 600,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
-        "color_scheme": "scheme-1",
-        "loop": false,
-        "auto_play": 5,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "accordion_qkAGnW": {
-      "type": "accordion",
-      "blocks": {
-        "title_dYRnJg": {
-          "type": "title",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_header.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
-          }
-        },
-        "accordion_item_JPTbXM": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_jFndrC": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_WTKRim": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_B6HXMh": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_bfz3KX": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
-          }
-        },
-        "title_NNbikj": {
-          "type": "title",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_header.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
-          }
-        },
-        "accordion_item_8FJKnq": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_mRwLkx": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_V7grJx": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_ji38nn": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_jNg37U": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
-          }
-        },
-        "title_pbm6aU": {
-          "type": "title",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_header.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_header.value.accordion_item.value }}"
-          }
-        },
-        "accordion_item_UgRYNi": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_XBccRN": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_mD3jjk": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_gccUVz": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_ANzwif": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value.content | metafield_tag }}"
-          }
-        }
-      },
-      "block_order": [
-        "title_dYRnJg",
-        "accordion_item_JPTbXM",
-        "accordion_item_jFndrC",
-        "accordion_item_WTKRim",
-        "accordion_item_B6HXMh",
-        "accordion_item_bfz3KX",
-        "title_NNbikj",
-        "accordion_item_8FJKnq",
-        "accordion_item_mRwLkx",
-        "accordion_item_V7grJx",
-        "accordion_item_ji38nn",
-        "accordion_item_jNg37U",
-        "title_pbm6aU",
-        "accordion_item_UgRYNi",
-        "accordion_item_XBccRN",
-        "accordion_item_mD3jjk",
-        "accordion_item_gccUVz",
-        "accordion_item_ANzwif"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "2",
-        "open_first": false,
-        "enable_link_list": false,
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
         "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
+        "padding_top": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     }
   },
   "order": [
-    "heading",
     "custom_liquid_YHzULH",
-    "top_heading_6VWCD4",
-    "featured_product_8cGCrR",
+    "heading",
+    "featured_collection_grid_BwhCic",
     "main",
-    "slideshow_tUcbEP",
-    "accordion_qkAGnW"
+    "custom_line_UyDjGi"
   ]
 }
