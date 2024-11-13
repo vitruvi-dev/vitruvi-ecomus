@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -109,7 +108,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Start Black Friday early with 25% off sitewide<br/>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
+            "sub_heading": "Start Black Friday early with 25% off sitewide<br>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
             "sub_heading_fs": "base"
           }
         }
@@ -118,6 +117,7 @@
         "heading_GanaQd",
         "sub_heading_wpqzpJ"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -149,9 +149,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -204,13 +202,11 @@
         },
         "title_gzq4iU": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_zzm3jT": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_8bLnQX": {
           "type": "description",
@@ -232,8 +228,7 @@
         },
         "view_products_details_bjEp4K": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_wKUQVX": {
           "type": "img_trust",
@@ -308,13 +303,11 @@
         },
         "title_JAyFAD": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_Tib3Ck": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_KCUfpg": {
           "type": "description",
@@ -336,8 +329,7 @@
         },
         "view_products_details_VMtHxe": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_RraVAM": {
           "type": "img_trust",
@@ -412,13 +404,11 @@
         },
         "title_fUpUKk": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_gzr64R": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_MhnLaH": {
           "type": "description",
@@ -440,8 +430,7 @@
         },
         "view_products_details_9nNDXQ": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_G8UYUr": {
           "type": "img_trust",
@@ -516,13 +505,11 @@
         },
         "title_czUjCz": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_wnmgBD": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_anhdUB": {
           "type": "description",
@@ -544,8 +531,7 @@
         },
         "view_products_details_kVmdkg": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         },
         "img_trust_xKYbJG": {
           "type": "img_trust",
@@ -610,9 +596,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "holiday-scents",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
@@ -859,9 +843,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "4",
         "content_size": "4xl",
         "content_weight": "medium",
