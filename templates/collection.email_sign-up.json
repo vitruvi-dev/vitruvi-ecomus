@@ -47,7 +47,7 @@
       "type": "custom-liquid",
       "settings": {
         "section_fullwidth": false,
-        "custom_liquid": "<div style=\"width: 100%; background-color: #E7E7E4; display: flex; justify-content: flex-start;\">\n    <div class=\"klaviyo-form-XQPnzP\" style=\"flex-shrink: 0;\"></div>\n</div>",
+        "custom_liquid": "<div class=\"klaviyo-form-XQPnzP\"></div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40,
