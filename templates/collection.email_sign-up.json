@@ -43,6 +43,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_YHzULH": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<div style=\"width: 80%; margin: 0 auto;\">\n<div class=\"klaviyo-form-XQPnzP\"></div>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "top_heading_6VWCD4": {
       "type": "top-heading",
       "blocks": {
@@ -418,17 +429,6 @@
         "color_scheme": "",
         "padding_top": 85,
         "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
-    "custom_liquid_YHzULH": {
-      "type": "custom-liquid",
-      "settings": {
-        "section_fullwidth": false,
-        "custom_liquid": "<div class=\"klaviyo-form-XQPnzP\"></div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     }
