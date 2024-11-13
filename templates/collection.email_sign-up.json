@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "settings": {
         "section_fullwidth": false,
-        "custom_liquid": "<div class=\"klaviyo-form-XQPnzP\"></div>",
+        "custom_liquid": "{% if request.host contains '.com' %}\n    <div class=\"klaviyo-form-XQPnzP\"></div>\n{% else %}\n    <div class=\"klaviyo-form-Wyr33A\"></div>\n{% endif %}",
         "color_scheme": "",
         "padding_top": 52,
         "padding_bottom": 0,
