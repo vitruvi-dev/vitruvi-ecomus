@@ -168,12 +168,11 @@
         "slide_base_b7CGHT": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/page_home_hero_bf-early-access_image_desktop.png",
-            "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
+            "image": "shopify://shop_images/loremipsum.png",
             "url": "shopify://collections/black-friday-early-access",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>BLACK FRIDAY EARLY ACCESS</strong><br/>25% OFF SITEWIDE<br/></p>",
+            "heading": "<p><strong>BLACK FRIDAY SALE</strong><br/>25% OFF SITEWIDE<br/></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Start gifting season with exclusive savings. Discover humidifiers, diffusers, and scents crafted to elevate any space—making this holiday truly special.",
