@@ -172,10 +172,10 @@
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>BLACK FRIDAY SALE</strong><br/>25% OFF SITEWIDE<br/></p>",
+            "heading": "<p><strong>UP TO 40% OFF SITEWIDE</strong><br/>BLACK FRIDAY SALE<br/></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Start gifting season with exclusive savings. Discover humidifiers, diffusers, and scents crafted to elevate any space—making this holiday truly special.",
+            "sub_heading": "Lorem ipsum dolar sit amet.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP SALE",
@@ -376,7 +376,7 @@
         "collection_item_QXdRwA": {
           "type": "collection_item",
           "settings": {
-            "collection": "black-friday-sale",
+            "collection": "black-friday-early-access",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
             "title": "25% Off Sitewide",
             "collection_link": ""
