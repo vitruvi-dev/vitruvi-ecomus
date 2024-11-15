@@ -71,6 +71,14 @@
             "show_compare": false
           }
         },
+        "countdown_timer_cgYAJG": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "AVAILABLE TODAY ONLY",
+            "icon_svg": "none",
+            "ani": "none"
+          }
+        },
         "inventory_ftnW9y": {
           "type": "inventory",
           "disabled": true,
@@ -137,6 +145,7 @@
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "countdown_timer_cgYAJG",
         "inventory_ftnW9y",
         "custom_liquid_3Xt8DR",
         "custom_liquid_bmN8tT",
