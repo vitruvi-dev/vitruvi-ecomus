@@ -201,9 +201,12 @@
                     endunless
                     assign metaobj_theme_countdown = shop.metaobjects.theme_countdown.values | first
                     assign theme_countdown = metaobj_theme_countdown.date_time.value
-                    assign product_countdown = theme_countdown| default: product.metafields.theme.countdown.value
-                    if product_countdown == blank
-                    continue
+                    assign product_countdown = product.metafields.theme.countdown.value
+                    if product_countdown == blank or product_countdown | date: '%s' < now
+                      assign product_countdown = theme_countdown
+                    endif
+                    if product_countdown == blank or product_countdown | date: '%s' < now
+                      continue
                     endif
                   -%}
 
