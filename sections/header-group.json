@@ -38,19 +38,7 @@
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\"><span style=\"text-decoration:underline\">Black Friday Early Access: 25% Sitewide</span></a>"
-          }
-        },
-        "announcement_MBNBrx": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\"><span style=\"text-decoration:underline\">FREE Dusk Blend With Diffusers</span></a>"
-          }
-        },
-        "announcement_rEbRYQ": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\"><span style=\"text-decoration:underline\">FREE Cleaning Tablets With Humidifiers</span></a>"
+            "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\"><span style=\"text-decoration:underline\">Black Friday Sale: Up to 40% Off Sitewide</span></a>"
           }
         }
       },
@@ -58,9 +46,7 @@
         "announcement_RzCepp",
         "announcement_7iU4bq",
         "announcement_eeYyAc",
-        "announcement_RqB4ka",
-        "announcement_MBNBrx",
-        "announcement_rEbRYQ"
+        "announcement_RqB4ka"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
