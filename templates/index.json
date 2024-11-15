@@ -228,7 +228,7 @@
         "slide_base_V9bYLq"
       ],
       "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
+        "em {font-family: \"Kaftan\";}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
         ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}"
       ],
