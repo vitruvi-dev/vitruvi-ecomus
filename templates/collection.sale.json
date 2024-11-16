@@ -100,6 +100,49 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_carousel_tQYEWW": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Best Seller",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
@@ -145,7 +188,6 @@
     },
     "main": {
       "type": "main-collection",
-      "disabled": true,
       "custom_css": [],
       "settings": {
         "product_des": "10",
@@ -257,6 +299,7 @@
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
       ],
+      "disabled": true,
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
         ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
@@ -917,6 +960,7 @@
   "order": [
     "heading",
     "hero_image_3dNbDH",
+    "featured_collection_carousel_tQYEWW",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
     "main",
