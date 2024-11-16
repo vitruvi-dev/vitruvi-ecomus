@@ -100,6 +100,43 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_grid_eF6zJd": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Humidifier Deals",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "archive-sale",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "featured_product_A3At8T": {
       "type": "featured-product",
       "blocks": {
@@ -1022,6 +1059,7 @@
   "order": [
     "heading",
     "hero_image_3dNbDH",
+    "featured_collection_grid_eF6zJd",
     "featured_product_A3At8T",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
