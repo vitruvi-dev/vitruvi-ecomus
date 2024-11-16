@@ -197,7 +197,7 @@
         "dotUI": false,
         "pagination_type": "view_all",
         "paginate_pos": "start",
-        "dis_pagination": 30,
+        "dis_pagination": 0,
         "btn_label": "View all",
         "btn_style": "link",
         "btn_fw": "normal",
