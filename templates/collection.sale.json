@@ -241,7 +241,7 @@
         "pagination_type": "view_all",
         "paginate_pos": "start",
         "dis_pagination": 30,
-        "btn_label": "View all",
+        "btn_label": "",
         "btn_style": "solid",
         "btn_fw": "normal",
         "section_fullwidth": false,
