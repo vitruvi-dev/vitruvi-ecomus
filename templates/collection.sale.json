@@ -219,7 +219,7 @@
         "subheading_size": "lg",
         "heading_reverse": false,
         "btn_heading": false,
-        "nav_heading": "disable",
+        "nav_heading": "outline",
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "scents",
