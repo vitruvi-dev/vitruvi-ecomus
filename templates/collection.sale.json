@@ -199,7 +199,7 @@
         "paginate_pos": "start",
         "dis_pagination": 30,
         "btn_label": "View all",
-        "btn_style": "solid",
+        "btn_style": "link",
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
