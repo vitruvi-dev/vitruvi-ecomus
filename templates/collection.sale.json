@@ -111,10 +111,25 @@
             "cat_link_list": "",
             "count": false
           }
+        },
+        "featured_products_JtePqy": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Sale products",
+            "collection": "",
+            "product_list": [
+              "apres-essential-oil-blend",
+              "bergamot-essential-oil"
+            ],
+            "products_count": 3,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
         }
       },
       "block_order": [
-        "categories_twQ9YU"
+        "categories_twQ9YU",
+        "featured_products_JtePqy"
       ],
       "custom_css": [],
       "settings": {
