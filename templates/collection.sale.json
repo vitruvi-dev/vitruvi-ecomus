@@ -137,109 +137,6 @@
         "padding_rate": 75
       }
     },
-    "featured_product_A3At8T": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_qynerc": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "custom_liquid_6qDM4E": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
-          }
-        },
-        "title_PncDiK": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_fgadQL": {
-          "type": "price",
-          "settings": {}
-        },
-        "buy_buttons_B7jUHi": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "countdown_timer_KmhKFW": {
-          "type": "countdown_timer",
-          "settings": {
-            "content": "AVAILABLE TODAY ONLY",
-            "icon_svg": "none",
-            "ani": "none"
-          }
-        },
-        "custom_liquid_UQmtyy": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/products/pdp_essential-oil-blend_dusk_gallery_1_v2_image.png?v=1719458615\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($28 Value)\n      {% else %}\n        Free Gift ($30 Value)\n      {% endif %}\n    </h5>\n    <p>Dusk Blend automatically added to every diffuser order, while supplies last.</p>\n  </div>\n</div>"
-          }
-        },
-        "description_HYFnc8": {
-          "type": "description",
-          "settings": {
-            "des": "2",
-            "short_des": "",
-            "length": 40
-          }
-        },
-        "view_products_details_TgPYUk": {
-          "type": "view_products_details",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "badges_qynerc",
-        "custom_liquid_6qDM4E",
-        "title_PncDiK",
-        "price_fgadQL",
-        "buy_buttons_B7jUHi",
-        "countdown_timer_KmhKFW",
-        "custom_liquid_UQmtyy",
-        "description_HYFnc8",
-        "view_products_details_TgPYUk"
-      ],
-      "settings": {
-        "product": "{{ localization.market.metafields.ecomus[\"featured-product\"].value }}",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
@@ -1060,7 +957,6 @@
     "heading",
     "hero_image_3dNbDH",
     "featured_collection_grid_eF6zJd",
-    "featured_product_A3At8T",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
     "main",
