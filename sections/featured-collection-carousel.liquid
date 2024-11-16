@@ -42,6 +42,20 @@
   {%- endif -%}
   <div class="hdt-container{%- if section.settings.section_fullwidth -%}-full{% endif %} hdt-container-heading">
     {%- render 'section-top-head', heading_mgb: 14, collection: collection -%}
+    
+
+    {%- if section.settings.product_list == blank %}
+      {%- if section.settings.pagination_type == "view_all" -%}
+        <div class="hdt-pagination-wrapp hdt-prs-footer hdt-pagination-{{ section.settings.pagination_type }} hdt-flex hdt-justify-{{ section.settings.paginate_pos }}" timeline hdt-reveal="slide-in"  style="--pagination-distance:{{ section.settings.dis_pagination }}px;">
+          <a class="hdt-view-all-btn hdt-btn hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-{{ section.settings.btn_style }} hdt-font-{{ section.settings.btn_fw }}" href="{{ section.settings.collection.url | default: routes.all_products_collection_url }}" hdt-reveal="slide-in" timeline>
+            {% assign view_all_df = 'general.pagination.view_all' | t %}
+            <span>{{ section.settings.btn_label | default: view_all_df | escape }}</span>
+          </a>
+        </div>
+      {%- endif -%} 
+    {% endif %}
+    
+
   </div>
   <div class="hdt-container{%- if section.settings.section_fullwidth -%}-full{% else %}{% if section.settings.half_item %}-full lg:hdt-ps-max {% endif %}{% endif %}">
     <hdt-slider id="Slider-{{ section.id }}" class="hdt-collection-products hdt-slider__products hdt-collection-has-pr{{ section.settings.product_des }} hdt-slider hdt-slider-parent hdt-pr-border_{{ section.settings.pr_border }} {% if section.settings.half_item %}hdt-slider-has-half_item{% endif %} hdt-slide-spacing-x hdt-relative {% if section.settings.navUI %} hdt-slider-has-nav hdt-nav-btns-{{ section.settings.nav_des }} hdt-nav-{{ section.settings.nav_pos }}{% endif %} {% if section.settings.dotUI %} hdt-slider-has-dots-dk{% endif %} hdt-slider__dots_outline hdt-ratio--{{ section.settings.image_ratio }} {% unless section.settings.image_size %} hdt-ratio--contain{% endunless %} lg:hdt-slides-{{ section.settings.col_dk }} md:hdt-slides-{{ section.settings.col_tb }} hdt-slides-{{ section.settings.col_mb }}" config='{ "id": "Slider-{{ section.id }}", "navUI": {{ navUI }}, "dotUI": true, "navUICenter": true }' >
@@ -198,16 +212,6 @@
       {%- render 'nav_slider', nav_des: section.settings.nav_des -%}
       <div hdt-slider-dots class="hdt-slider__dots hdt-flex hdt-align-center hdt-justify-center" aria-controls="Slider-{{ section.id }}"></div>
     </hdt-slider>
-    {%- if section.settings.product_list == blank %}
-      {%- if section.settings.pagination_type == "view_all" -%}
-        <div class="hdt-pagination-wrapp hdt-prs-footer hdt-pagination-{{ section.settings.pagination_type }} hdt-flex hdt-justify-{{ section.settings.paginate_pos }}" timeline hdt-reveal="slide-in"  style="--pagination-distance:{{ section.settings.dis_pagination }}px;">
-          <a class="hdt-view-all-btn hdt-btn hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-{{ section.settings.btn_style }} hdt-font-{{ section.settings.btn_fw }}" href="{{ section.settings.collection.url | default: routes.all_products_collection_url }}" hdt-reveal="slide-in" timeline>
-            {% assign view_all_df = 'general.pagination.view_all' | t %}
-            <span>{{ section.settings.btn_label | default: view_all_df | escape }}</span>
-          </a>
-        </div>
-      {%- endif -%} 
-    {% endif %}
   </div>
 </div>
 
