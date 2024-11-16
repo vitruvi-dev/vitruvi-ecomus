@@ -47,7 +47,7 @@
     {%- if section.settings.product_list == blank %}
       {%- if section.settings.pagination_type == "view_all" -%}
         <div class="hdt-pagination-wrapp hdt-prs-footer hdt-pagination-{{ section.settings.pagination_type }} hdt-flex hdt-justify-{{ section.settings.paginate_pos }}" timeline hdt-reveal="slide-in"  style="--pagination-distance:{{ section.settings.dis_pagination }}px;">
-          <a style="text-decoration: underline; margin-bottom: var(--section-head-spacing);" class="hdt-view-all-btn hdt-btn hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-font-{{ section.settings.btn_fw }}" href="{{ section.settings.collection.url | default: routes.all_products_collection_url }}" hdt-reveal="slide-in" timeline>
+          <a style="text-decoration: underline; margin-bottom: 30px;" class="hdt-view-all-btn hdt-btn hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-font-{{ section.settings.btn_fw }}" href="{{ section.settings.collection.url | default: routes.all_products_collection_url }}" hdt-reveal="slide-in" timeline>
             {% assign view_all_df = 'general.pagination.view_all' | t %}
             <span>{{ section.settings.btn_label | default: view_all_df | escape }}</span>
           </a>
