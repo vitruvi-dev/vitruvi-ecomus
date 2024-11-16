@@ -139,6 +139,14 @@
             "show_compare": false
           }
         },
+        "countdown_timer_KmhKFW": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "AVAILABLE TODAY ONLY",
+            "icon_svg": "none",
+            "ani": "none"
+          }
+        },
         "custom_liquid_UQmtyy": {
           "type": "custom_liquid",
           "disabled": true,
@@ -177,6 +185,7 @@
         "title_PncDiK",
         "price_fgadQL",
         "buy_buttons_B7jUHi",
+        "countdown_timer_KmhKFW",
         "custom_liquid_UQmtyy",
         "description_HYFnc8",
         "view_products_details_TgPYUk",
