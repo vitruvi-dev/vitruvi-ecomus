@@ -164,6 +164,9 @@
     },
     "featured_collection_carousel_tQYEWW": {
       "type": "featured-collection-carousel",
+      "custom_css": [
+        ".hdt-container-heading {display: flex;}"
+      ],
       "settings": {
         "heading_align": "start",
         "sec_heading": "Diffuser Deals",
