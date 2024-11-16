@@ -84,17 +84,7 @@
             {% endif %}
           </div>
         {% endif %}
-      </div>
-      {%- if section.settings.product_list == blank %}
-        {%- if section.settings.pagination_type == "view_all" -%}
-          <div class="hdt-pagination-wrapp hdt-align-start hdt-prs-footer hdt-pagination-{{ section.settings.pagination_type }} hdt-flex hdt-justify-{{ section.settings.paginate_pos }}" timeline hdt-reveal="slide-in">
-            <a style="text-decoration: underline;" class="hdt-view-all-btn hdt-btn hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-font-{{ section.settings.btn_fw }}" href="{{ section.settings.collection.url | default: routes.all_products_collection_url }}" hdt-reveal="slide-in" timeline>
-              {% assign view_all_df = 'general.pagination.view_all' | t %}
-              <span>{{ section.settings.btn_label | default: view_all_df | escape }}</span>
-            </a>
-          </div>
-        {%- endif -%} 
-      {% endif %}  
+      </div>  
     {% endif %}
     {%- if nav_position == "ontop_right" -%}
       <div class="hdt-top-nav hdt-flex hdt-align-center hdt-justify-end hdt-right-0 hdt-top-0 hdt-bottom-0 hdt-top-nav_{{ nav_des }} hdt-nav-btns-{{ nav_des }}">

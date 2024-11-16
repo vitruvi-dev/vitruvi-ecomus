@@ -198,6 +198,16 @@
       {%- render 'nav_slider', nav_des: section.settings.nav_des -%}
       <div hdt-slider-dots class="hdt-slider__dots hdt-flex hdt-align-center hdt-justify-center" aria-controls="Slider-{{ section.id }}"></div>
     </hdt-slider>
+    {%- if section.settings.product_list == blank %}
+      {%- if section.settings.pagination_type == "view_all" -%}
+        <div class="hdt-pagination-wrapp hdt-prs-footer hdt-pagination-{{ section.settings.pagination_type }} hdt-flex hdt-justify-{{ section.settings.paginate_pos }}" timeline hdt-reveal="slide-in"  style="--pagination-distance:{{ section.settings.dis_pagination }}px;">
+          <a class="hdt-view-all-btn hdt-btn hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-{{ section.settings.btn_style }} hdt-font-{{ section.settings.btn_fw }}" href="{{ section.settings.collection.url | default: routes.all_products_collection_url }}" hdt-reveal="slide-in" timeline>
+            {% assign view_all_df = 'general.pagination.view_all' | t %}
+            <span>{{ section.settings.btn_label | default: view_all_df | escape }}</span>
+          </a>
+        </div>
+      {%- endif -%} 
+    {% endif %}
   </div>
 </div>
 
