@@ -51,7 +51,7 @@
         "heading_gp79NX": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday Early Access",
+            "heading": "Black Friday Sale",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -82,7 +82,7 @@
         "fixed_height": 400,
         "image_height_mb": "fixed",
         "fixed_height_mb": 300,
-        "image": "shopify://shop_images/collections_hero_bfcm2023-earlyaccess_v2.png",
+        "image": "shopify://shop_images/loremipsum.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
