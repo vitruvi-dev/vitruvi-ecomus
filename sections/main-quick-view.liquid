@@ -201,27 +201,9 @@
                     endunless
                     assign metaobj_theme_countdown = shop.metaobjects.theme_countdown.values | first
                     assign theme_countdown = metaobj_theme_countdown.date_time.value
-                    assign product_countdown = product.metafields.theme.countdown.value
-                    
-                    # Convert dates to timestamps
-                    assign product_countdown_timestamp = product_countdown | date: '%s'
-                    assign theme_countdown_timestamp = theme_countdown | date: '%s'
-                    assign now_timestamp = now | date: '%s'
-                    
-                    # Check if product countdown is blank or in the past
+                    assign product_countdown = theme_countdown| default: product.metafields.theme.countdown.value
                     if product_countdown == blank
-                      assign product_countdown = theme_countdown
-                      assign product_countdown_timestamp = theme_countdown_timestamp
-                    endif
-                    
-                    if product_countdown_timestamp < now_timestamp
-                      assign product_countdown = theme_countdown
-                      assign product_countdown_timestamp = theme_countdown_timestamp
-                    endif
-                  
-                    # Final check: skip product if countdown is still invalid or in the past
-                    if product_countdown == blank or product_countdown_timestamp < now_timestamp
-                      continue
+                    continue
                     endif
                   -%}
 
