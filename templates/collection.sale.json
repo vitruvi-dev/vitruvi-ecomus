@@ -196,7 +196,7 @@
         "nav_pos": "middle_in",
         "dotUI": false,
         "pagination_type": "view_all",
-        "paginate_pos": "start",
+        "paginate_pos": "center",
         "dis_pagination": 0,
         "btn_label": "View all",
         "btn_style": "link",
