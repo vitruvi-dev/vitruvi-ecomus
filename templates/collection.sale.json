@@ -104,10 +104,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Humidifier Deals",
+        "sec_heading": "Deals of the Day",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.</p>",
+        "sec_subheading": "<p>Lorem ipsum dolar sit amet.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
