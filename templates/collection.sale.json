@@ -116,13 +116,13 @@
         },
         "custom_liquid_6qDM4E": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
           }
         },
         "title_PncDiK": {
           "type": "title",
-          "disabled": true,
           "settings": {}
         },
         "price_fgadQL": {
@@ -165,18 +165,6 @@
         "view_products_details_TgPYUk": {
           "type": "view_products_details",
           "settings": {}
-        },
-        "img_trust_jdghKi": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
         }
       },
       "block_order": [
@@ -188,8 +176,7 @@
         "countdown_timer_KmhKFW",
         "custom_liquid_UQmtyy",
         "description_HYFnc8",
-        "view_products_details_TgPYUk",
-        "img_trust_jdghKi"
+        "view_products_details_TgPYUk"
       ],
       "settings": {
         "product": "{{ localization.market.metafields.ecomus[\"featured-product\"].value }}",
