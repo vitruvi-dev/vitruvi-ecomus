@@ -168,7 +168,8 @@
         "slide_base_b7CGHT": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/loremipsum.png",
+            "image": "shopify://shop_images/page_home_hero_bfcm-2024_image_desktop_v1.png",
+            "image_mb": "shopify://shop_images/page_home_hero_bfcm-2024_image_mobile_v1.jpg",
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -185,8 +186,8 @@
             "btn_style": "solid",
             "btn_fw": "medium",
             "btn_icon": "none",
-            "content_position": "center",
-            "alignment": "center",
+            "content_position": "center-start",
+            "alignment": "left",
             "hide_subtext_mb": false,
             "content_position_mb": "center",
             "alignment_mb": "center"
