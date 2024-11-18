@@ -58,6 +58,7 @@
         },
         "text_TaVJHq": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Start Black Friday early with 25% off sitewide, plus a free gift with with every diffuser and humidifier order.</p>",
             "adding_border": false
@@ -66,7 +67,7 @@
         "countdown_6kkCB6": {
           "type": "countdown",
           "settings": {
-            "title": "Offer ends soon:",
+            "title": "25% off sitewide ends soon:",
             "year": 2024,
             "month": 11,
             "day": 19,
