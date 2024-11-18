@@ -113,8 +113,10 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "archive-sale",
-        "product_list": [],
+        "collection": "",
+        "product_list": [
+          "winter-wellness-diffuser-humidifier-bundle"
+        ],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
