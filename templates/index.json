@@ -417,6 +417,7 @@
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-collection-content p {display: none;}"
       ],
@@ -471,13 +472,8 @@
         "heading_reverse": false,
         "heading_gap": 12,
         "sec_heading_spacing": 100,
-        "collection": "",
-        "product_list": [
-          "cleaning-tablets",
-          "festive-favorites-essential-oil-kit",
-          "sugar-spice-diffuser-blend",
-          "forest-frost-diffuser-blend"
-        ],
+        "collection": "going-fast",
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
