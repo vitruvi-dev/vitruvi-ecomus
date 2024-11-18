@@ -63,20 +63,34 @@
             "adding_border": false
           }
         },
-        "text_bB9AwW": {
-          "type": "text",
+        "countdown_6kkCB6": {
+          "type": "countdown",
           "settings": {
-            "text": "",
-            "adding_border": false
+            "title": "Offer ends soon:",
+            "year": 2024,
+            "month": 11,
+            "day": 19,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": "scheme-2"
           }
         }
       },
       "block_order": [
         "heading_gp79NX",
         "text_TaVJHq",
-        "text_bB9AwW"
+        "countdown_6kkCB6"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".hdt-h5 {font-family: \"Founders Grotesk\";}",
+        ".hdt-countdown__item {border-radius: 0px;}",
+        ".hdt-cd-heading {color: white;}"
+      ],
       "settings": {
         "image_height": "fixed",
         "fixed_height": 400,
