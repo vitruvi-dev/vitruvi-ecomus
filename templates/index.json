@@ -231,7 +231,8 @@
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
-        ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}"
+        ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        "@media (max-width: 767px) {.hdt-content {margin-bottom: 100px; }}"
       ],
       "settings": {
         "full_width": true,
