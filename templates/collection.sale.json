@@ -228,6 +228,27 @@
           "type": "price",
           "settings": {}
         },
+        "variant_picker_xHtya8": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "inventory_pBHWDF": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
         "buy_buttons_NMNaGy": {
           "type": "buy_buttons",
           "settings": {
@@ -274,6 +295,8 @@
         "badges_DjG7qy",
         "title_B6AfNV",
         "price_3WTNYB",
+        "variant_picker_xHtya8",
+        "inventory_pBHWDF",
         "buy_buttons_NMNaGy",
         "custom_liquid_V86MGd",
         "description_Ly67FF",
@@ -288,7 +311,6 @@
       ],
       "settings": {
         "product": "cloud-humidifier",
-        "image": "shopify://shop_images/pdp_cloud-humidifier_white_gallery_1_image.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
