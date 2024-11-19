@@ -372,26 +372,20 @@
     "featured_product_7wyyLK": {
       "type": "featured-product",
       "blocks": {
+        "title_w4YaPr": {
+          "type": "title",
+          "settings": {}
+        },
         "custom_liquid_XRinyg": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 40% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
           }
         },
-        "title_w4YaPr": {
-          "type": "title",
-          "settings": {}
-        },
         "price_DLycgX": {
           "type": "price",
           "disabled": true,
           "settings": {}
-        },
-        "custom_liquid_3D4Pkf": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
-          }
         },
         "description_4xwWhF": {
           "type": "description",
@@ -400,17 +394,24 @@
             "short_des": "",
             "length": 31
           }
+        },
+        "custom_liquid_3D4Pkf": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
+          }
         }
       },
       "block_order": [
-        "custom_liquid_XRinyg",
         "title_w4YaPr",
+        "custom_liquid_XRinyg",
         "price_DLycgX",
-        "custom_liquid_3D4Pkf",
-        "description_4xwWhF"
+        "description_4xwWhF",
+        "custom_liquid_3D4Pkf"
       ],
       "settings": {
         "product": "build-your-own-diffuser-bundle",
+        "image": "shopify://shop_images/pdp_byob-diffuser-1_gallery_2_image_v2.jpg",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
