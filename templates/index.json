@@ -259,6 +259,17 @@
     "featured_product_ag9pBp": {
       "type": "featured-product",
       "blocks": {
+        "badges_9XMgBt": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
         "title_aYAJWK": {
           "type": "title",
           "settings": {}
@@ -291,6 +302,7 @@
         }
       },
       "block_order": [
+        "badges_9XMgBt",
         "title_aYAJWK",
         "price_GwFczk",
         "description_yCrjH3",
