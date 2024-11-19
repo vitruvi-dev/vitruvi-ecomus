@@ -258,12 +258,13 @@
             "size_chart_page": ""
           }
         },
-        "description_zDcy8L": {
-          "type": "description",
+        "inventory_qmfPJn": {
+          "type": "inventory",
           "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true,
+            "show_progress_bar": true,
+            "progress_bar_max": 50
           }
         },
         "buy_buttons_4tg4fA": {
@@ -274,6 +275,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_zDcy8L": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
           }
         },
         "view_products_details_hYVnMr": {
@@ -299,8 +308,9 @@
         "title_7fhX9x",
         "price_C3Wc7C",
         "variant_picker_haywRK",
-        "description_zDcy8L",
+        "inventory_qmfPJn",
         "buy_buttons_4tg4fA",
+        "description_zDcy8L",
         "view_products_details_hYVnMr",
         "img_trust_888rTd"
       ],
@@ -716,120 +726,6 @@
         "padding_rate": 75
       }
     },
-    "featured_product_dMjAEx": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_qTUQke": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "custom_liquid_MaxRKX": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
-          }
-        },
-        "title_icLWTq": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_WMnKp7": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_Q6iwNU": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "pick_mode": "first_available",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "description_tRaDMq": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "buy_buttons_7QyWBF": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "view_products_details_8KXDwE": {
-          "type": "view_products_details",
-          "settings": {}
-        },
-        "img_trust_mxLpQ4": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
-        }
-      },
-      "block_order": [
-        "badges_qTUQke",
-        "custom_liquid_MaxRKX",
-        "title_icLWTq",
-        "price_WMnKp7",
-        "variant_picker_Q6iwNU",
-        "description_tRaDMq",
-        "buy_buttons_7QyWBF",
-        "view_products_details_8KXDwE",
-        "img_trust_mxLpQ4"
-      ],
-      "settings": {
-        "product": "cloud-humidifier-holiday-bundle",
-        "image": "shopify://shop_images/pdp_humidifier-holiday-bundle_white_gallery_1_v2023_image_0587bd9d-835a-49f5-ba59-2579ec918a58.png",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "featured_product_yQFKnD": {
       "type": "featured-product",
       "blocks": {
@@ -964,6 +860,120 @@
         "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_dMjAEx": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_qTUQke": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "custom_liquid_MaxRKX": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
+          }
+        },
+        "title_icLWTq": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_WMnKp7": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_Q6iwNU": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "description_tRaDMq": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_7QyWBF": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_8KXDwE": {
+          "type": "view_products_details",
+          "settings": {}
+        },
+        "img_trust_mxLpQ4": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_qTUQke",
+        "custom_liquid_MaxRKX",
+        "title_icLWTq",
+        "price_WMnKp7",
+        "variant_picker_Q6iwNU",
+        "description_tRaDMq",
+        "buy_buttons_7QyWBF",
+        "view_products_details_8KXDwE",
+        "img_trust_mxLpQ4"
+      ],
+      "settings": {
+        "product": "cloud-humidifier-holiday-bundle",
+        "image": "shopify://shop_images/pdp_humidifier-holiday-bundle_white_gallery_1_v2023_image_0587bd9d-835a-49f5-ba59-2579ec918a58.png",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
