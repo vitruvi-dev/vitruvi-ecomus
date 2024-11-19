@@ -269,10 +269,10 @@
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>UP TO 40% OFF SITEWIDE</strong></p><p><em>BLACK FRIDAY SALE</em></p>",
+            "heading": "<p><em>BLACK<br/>FRIDAY<br/>SALE</em></p><p><strong>SAVE UP TO 40% OFF SITEWIDE</strong></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Our biggest sale of the year is here. Shop best-sellers at their best price for the holiday season.",
+            "sub_heading": "",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP BLACK FRIDAY",
@@ -294,9 +294,10 @@
         "slide_base_X9JycG"
       ],
       "custom_css": [
-        "em {font-family: \"Kaftan\"; font-style: normal;}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
+        "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 60%; font-weight: 200;}",
         ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        ".hdt-content {margin-bottom: 150px;}",
         "@media (max-width: 767px) {.hdt-content {margin-bottom: 200px; }}",
         ".hdt-btn {background-color: black; border: none;}"
       ],
