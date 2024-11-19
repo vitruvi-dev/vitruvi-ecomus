@@ -291,7 +291,7 @@
         "countdown_timer_pQGzE9": {
           "type": "countdown_timer",
           "settings": {
-            "content": "DEAL OF THE DAY ENDS IN",
+            "content": "DEAL OF THE DAY EXPIRES IN",
             "icon_svg": "clock",
             "ani": "none"
           }
