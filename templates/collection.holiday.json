@@ -262,9 +262,9 @@
         "description_zDcy8L": {
           "type": "description",
           "settings": {
-            "des": "1",
+            "des": "2",
             "short_des": "",
-            "length": 31
+            "length": 60
           }
         },
         "view_products_details_hYVnMr": {
@@ -422,9 +422,9 @@
         "description_Ly67FF": {
           "type": "description",
           "settings": {
-            "des": "1",
+            "des": "2",
             "short_des": "",
-            "length": 90
+            "length": 60
           }
         },
         "view_products_details_dLcHK8": {
