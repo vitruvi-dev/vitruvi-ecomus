@@ -53,6 +53,7 @@
     "label_onsale_style": "percentage",
     "use_new_badge": false,
     "new_day_added": 60,
+    "use_soldout_badge": false,
     "use_preorder_badge": false,
     "wishlist_mode": "0",
     "wis_atc_added": "2",
