@@ -282,7 +282,7 @@
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "none",
+        "pagination_type": "load_more",
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "View all",
