@@ -77,13 +77,6 @@
     "hero_image_3dNbDH": {
       "type": "hero-image",
       "blocks": {
-        "text_TaVJHq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>UP TO 40% OFF SITEWIDE</p>",
-            "adding_border": false
-          }
-        },
         "heading_gp79NX": {
           "type": "heading",
           "settings": {
@@ -91,14 +84,31 @@
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
+        },
+        "heading_VNYyGF": {
+          "type": "heading",
+          "settings": {
+            "heading": "<span class=\"save40sitewide\">UP TO 40% OFF SITEWIDE</span>",
+            "heading_fs": "h6",
+            "heading_fw": "normal"
+          }
+        },
+        "text_TaVJHq": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>UP TO 40% OFF SITEWIDE</p>",
+            "adding_border": false
+          }
         }
       },
       "block_order": [
-        "text_TaVJHq",
-        "heading_gp79NX"
+        "heading_gp79NX",
+        "heading_VNYyGF",
+        "text_TaVJHq"
       ],
       "custom_css": [
-        "p {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}"
+        "span {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}"
       ],
       "settings": {
         "image_height": "fixed",
