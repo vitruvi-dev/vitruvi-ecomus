@@ -5831,6 +5831,79 @@ country-filter {
   display: none;
 }
 
+/* additions */
+
+.metafield-rich_text_field h5 {
+  margin-block-start: 1em;
+  margin-block-end: 0.3em;
+  font-size: 120%;
+  font-weight: 400;
+  line-height: 150%;
+}
+.metafield-rich_text_field p {
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  line-height: 150%;
+}
+.metafield-rich_text_field ul {
+  margin-inline-start: 20px;
+  list-style: circle outside;
+}
+.shopify-policy__container {
+  max-width: 90%;
+}
+@media (min-width: 768px) {
+  .shopify-policy__container {
+    max-width: 60%;
+  }
+}
+.shopify-policy__container h3 {
+  font-family: "Founders Grotesk";
+  font-size: 18px;
+  margin-block-start: 2rem;
+}
+.shopify-policy__container h2 {
+  font-family: "Founders Grotesk";
+  font-size: 24px;
+  margin-block-start: 3rem;
+}
+.hdt-sticky-atc__qty-selector,
+.hdt-breadcrumb,
+.yotpo-reviews-wrapper,
+.hdt-mb-language_currencies,
+.hdt-badge__pre_order,
+.hdt-pr-style10 .hdt-size-list,
+.hdt-main-product-quick-add.shopify-payment-button {
+  display: none;
+}
+.hdt-product__title,
+.hdt-card-product__title,
+.hdt-collection-heading,
+h2 {
+  font-family: "Heldane";
+}
+.hdt-pr-style10 .hdt-card-product__wrapper {
+  background-color: transparent;
+}
+.hdt-product__trust-seal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media only screen and (min-width: 769px) {
+  .hdt-product__trust-seal {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+}
+.hdt-product__trust-mess {
+  max-width: 100%;
+}
+.hdt-coppy-right {
+  text-align: center;
+}
+
 .custom-featured-product {
   margin-left: 10%;
   margin-right: 10%
@@ -5842,4 +5915,3 @@ country-filter {
     margin-right: 5%
   }
 }
-
