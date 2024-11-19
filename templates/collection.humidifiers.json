@@ -200,7 +200,7 @@
       "settings": {
         "product": "cloud-humidifier",
         "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
