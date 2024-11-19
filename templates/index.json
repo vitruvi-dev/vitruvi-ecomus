@@ -404,6 +404,94 @@
         "padding_rate": 60
       }
     },
+    "featured_product_qiKp9y": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_kJRUFr": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_c9kfcj": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_XByFr3": {
+          "type": "price",
+          "settings": {}
+        },
+        "inventory_mBV8z3": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
+        "buy_buttons_e8qjhe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "description_zUhXNw": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "view_products_details_bAaGxi": {
+          "type": "view_products_details",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "badges_kJRUFr",
+        "title_c9kfcj",
+        "price_XByFr3",
+        "inventory_mBV8z3",
+        "buy_buttons_e8qjhe",
+        "description_zUhXNw",
+        "view_products_details_bAaGxi"
+      ],
+      "settings": {
+        "product": "winter-wellness-diffuser-humidifier-bundle",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_PV4GGr": {
       "type": "featured-collection-grid",
       "settings": {
@@ -973,6 +1061,7 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",
+    "featured_product_qiKp9y",
     "featured_collection_grid_PV4GGr",
     "featured_collection_grid_W6JYha",
     "slideshow_bHhppE",
