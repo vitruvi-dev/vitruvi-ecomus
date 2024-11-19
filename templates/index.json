@@ -256,6 +256,72 @@
         "padding_rate": 75
       }
     },
+    "featured_product_ag9pBp": {
+      "type": "featured-product",
+      "blocks": {
+        "title_aYAJWK": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_GwFczk": {
+          "type": "price",
+          "settings": {}
+        },
+        "description_yCrjH3": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_m46wck": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_Wf44Ti": {
+          "type": "view_products_details",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_aYAJWK",
+        "price_GwFczk",
+        "description_yCrjH3",
+        "buy_buttons_m46wck",
+        "view_products_details_Wf44Ti"
+      ],
+      "settings": {
+        "product": "{{ localization.market.metafields.ecomus[\"featured-product\"].value }}",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "countdown_text_7Qr8m8": {
       "type": "countdown_text",
       "blocks": {
@@ -970,78 +1036,13 @@
         "padding_bottom": 100,
         "padding_rate": 75
       }
-    },
-    "featured_product_ag9pBp": {
-      "type": "featured-product",
-      "blocks": {
-        "title_aYAJWK": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_GwFczk": {
-          "type": "price",
-          "settings": {}
-        },
-        "description_yCrjH3": {
-          "type": "description",
-          "settings": {
-            "des": "2",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "buy_buttons_m46wck": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "view_products_details_Wf44Ti": {
-          "type": "view_products_details",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "title_aYAJWK",
-        "price_GwFczk",
-        "description_yCrjH3",
-        "buy_buttons_m46wck",
-        "view_products_details_Wf44Ti"
-      ],
-      "settings": {
-        "product": "{{ localization.market.metafields.ecomus[\"featured-product\"].value }}",
-        "media_width": 50,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "video_GKb7jj",
     "video_kaFT9H",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "featured_product_ag9pBp",
     "countdown_text_7Qr8m8",
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",
@@ -1050,7 +1051,6 @@
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
     "slideshow_zT9KVC",
-    "cef9818d-d174-4a85-935f-31cd9035f495",
-    "featured_product_ag9pBp"
+    "cef9818d-d174-4a85-935f-31cd9035f495"
   ]
 }
