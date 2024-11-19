@@ -108,7 +108,8 @@
         "text_TaVJHq"
       ],
       "custom_css": [
-        "span {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}"
+        "span {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
+        "@media (max-width: 767px) {.hdt-hero-image__heading {font-size: 120%; } span {font-size: 70%; }}"
       ],
       "settings": {
         "image_height": "fixed",
