@@ -268,9 +268,7 @@
         "view_products_details_pYeQq6",
         "img_trust_NNM6wE"
       ],
-      "custom_css": [
-        ".hdt-main-product {margin-left: 10%; margin-right: 10%;}"
-      ],
+      "custom_css": [],
       "settings": {
         "product": "stone-essential-oil-diffuser",
         "image": "shopify://shop_images/pdp_stone-diffuser_front_white_gallery_1_v9_image.png",
