@@ -278,22 +278,30 @@
           "type": "price",
           "settings": {}
         },
+        "buy_buttons_m46wck": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "countdown_timer_pQGzE9": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "DEAL OF THE DAY ENDS IN",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
         "description_yCrjH3": {
           "type": "description",
           "settings": {
             "des": "2",
             "short_des": "",
             "length": 31
-          }
-        },
-        "buy_buttons_m46wck": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
           }
         },
         "view_products_details_Wf44Ti": {
@@ -305,8 +313,9 @@
         "badges_9XMgBt",
         "title_aYAJWK",
         "price_GwFczk",
-        "description_yCrjH3",
         "buy_buttons_m46wck",
+        "countdown_timer_pQGzE9",
+        "description_yCrjH3",
         "view_products_details_Wf44Ti"
       ],
       "settings": {
