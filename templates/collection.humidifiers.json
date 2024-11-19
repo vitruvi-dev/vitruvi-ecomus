@@ -121,6 +121,17 @@
     "featured_product_bXQc7z": {
       "type": "featured-product",
       "blocks": {
+        "badges_CpdEUy": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
         "title_pLthcz": {
           "type": "title",
           "settings": {}
@@ -128,6 +139,16 @@
         "price_XXRReG": {
           "type": "price",
           "settings": {}
+        },
+        "buy_buttons_VEzdyL": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
         },
         "description_NimrCk": {
           "type": "description",
@@ -137,30 +158,33 @@
             "length": 31
           }
         },
-        "buy_buttons_VEzdyL": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
         "view_products_details_VHeFNC": {
           "type": "view_products_details",
           "settings": {}
+        },
+        "img_trust_i3HRXm": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": true,
+            "mess": "Guarantee Safe Checkout",
+            "source": "1",
+            "wimg": 350,
+            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "height": 30
+          }
         }
       },
       "block_order": [
+        "badges_CpdEUy",
         "title_pLthcz",
         "price_XXRReG",
-        "description_NimrCk",
         "buy_buttons_VEzdyL",
-        "view_products_details_VHeFNC"
+        "description_NimrCk",
+        "view_products_details_VHeFNC",
+        "img_trust_i3HRXm"
       ],
       "settings": {
-        "product": "",
+        "product": "cloud-humidifier",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_bottom",
         "desktop_media_position": "left",
