@@ -165,12 +165,13 @@
         "img_trust_i3HRXm": {
           "type": "img_trust",
           "settings": {
-            "show_icon": true,
-            "mess": "Guarantee Safe Checkout",
+            "show_icon": false,
+            "mess": "",
             "source": "1",
-            "wimg": 350,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
-            "height": 30
+            "image": "{{ section.settings.product.metafields.ecomus.pdp_badge.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 100
           }
         }
       },
