@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "top_heading_pRXtHe": {
@@ -83,70 +83,70 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/page_faq_get-to-know-cloud_2024-06.jpg",
+            "image": "shopify://shop_images/page_faq_get-to-know-cloud_2024-06.jpg",
             "title": "Cloud Humidifier",
-            "collection_link": "shopify:\/\/pages\/get-to-know-the-cloud-humidifier"
+            "collection_link": "shopify://pages/get-to-know-the-cloud-humidifier"
           }
         },
         "collection_item_8jBfNx": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/page_faq_get-to-know-stone_2024-06.jpg",
+            "image": "shopify://shop_images/page_faq_get-to-know-stone_2024-06.jpg",
             "title": "Stone Diffuser",
-            "collection_link": "shopify:\/\/pages\/get-to-know-the-stone-diffuser"
+            "collection_link": "shopify://pages/get-to-know-the-stone-diffuser"
           }
         },
         "collection_item_MmqWxE": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/page_faq_get-to-know-move_2024-06.jpg",
+            "image": "shopify://shop_images/page_faq_get-to-know-move_2024-06.jpg",
             "title": "Move Diffuser",
-            "collection_link": "shopify:\/\/pages\/get-to-know-the-move-diffuser"
+            "collection_link": "shopify://pages/get-to-know-the-move-diffuser"
           }
         },
         "collection_item_PxdbJi": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/pdp_glow-difuser_feature_3_mobile_image.png",
+            "image": "shopify://shop_images/pdp_glow-difuser_feature_3_mobile_image.png",
             "title": "Glow Diffuser",
-            "collection_link": "shopify:\/\/pages\/get-to-know-the-glow-diffuser"
+            "collection_link": "shopify://pages/get-to-know-the-glow-diffuser"
           }
         },
         "collection_item_MeqH4q": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/page_faq_get-to-know-stay_2024-06.jpg",
+            "image": "shopify://shop_images/page_faq_get-to-know-stay_2024-06.jpg",
             "title": "Stay Diffuser",
-            "collection_link": "shopify:\/\/pages\/get-to-know-the-stay-diffuser"
+            "collection_link": "shopify://pages/get-to-know-the-stay-diffuser"
           }
         },
         "collection_item_wBNHVA": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/page_faq_get-to-know-diffuser-scents_2024-06.png",
+            "image": "shopify://shop_images/page_faq_get-to-know-diffuser-scents_2024-06.png",
             "title": "Diffuser Scents",
-            "collection_link": "shopify:\/\/pages\/get-to-know-our-essential-oils"
+            "collection_link": "shopify://pages/get-to-know-our-essential-oils"
           }
         },
         "collection_item_4WeQDG": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/page_faq_get-to-know-nafs_2024-06.jpg",
+            "image": "shopify://shop_images/page_faq_get-to-know-nafs_2024-06.jpg",
             "title": "Air Freshener Sprays",
-            "collection_link": "shopify:\/\/pages\/get-to-know-our-air-freshener-sprays"
+            "collection_link": "shopify://pages/get-to-know-our-air-freshener-sprays"
           }
         },
         "view_all_Vqf37p": {
           "type": "view_all",
           "settings": {
             "title": "Returns & Exchanges",
-            "item_link": "shopify:\/\/pages\/returns-and-exchanges"
+            "item_link": "shopify://pages/returns-and-exchanges"
           }
         }
       },
@@ -232,13 +232,21 @@
             "title": "How much is shipping?",
             "content": "Orders over $75 (before tax) ship free, with standard shipping, to Canada and the United States. Orders to Puerto Rico, Hawaii, and Alaska have a $30 shipping charge; this fee is waived on orders over $200."
           }
+        },
+        "accordion_item_CeBMkU": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Canada Post",
+            "content": "Please note that we are continuously monitoring the Canada Post strike, which started Friday November 15th and will communicate all relevant updates here.<br><br>If you previously placed a Vitruvi order that was shipped with Canada Post and it has not been delivered we are working to ensure your order is delivered as quickly as possible. All orders placed will be shipped with Canada Post until we receive further updates and we will continue to monitor the strike situation."
+          }
         }
       },
       "block_order": [
         "accordion_item_B8X6fi",
         "accordion_item_XPMc3R",
         "accordion_item_hYVatx",
-        "accordion_item_rbC9e3"
+        "accordion_item_rbC9e3",
+        "accordion_item_CeBMkU"
       ],
       "settings": {
         "top_heading": "SHIPPING",
@@ -260,7 +268,7 @@
           "type": "accordion_item",
           "settings": {
             "title": "What is your return policy?",
-            "content": "We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help.\n\nFull priced devices can be exchanged or returned within 30 days of purchase (devices include diffusers and humidifiers). Essential oils and natural air freshener sprays can be exchanged or returned within 15 days of purchase.\n\nDiscounted items are eligible for exchange or return for store credit within 15 days of purchase.\n\nItems purchased with a gift card are eligible for exchange or store credit. To return or exchange a natural air freshener spray or diffuser bundle, please reach out to our customer experience team at hello@vitruvi.com.\n\nIf you are located in the US, to start your return or exchange please visit our Returns Center here. https:\/\/vitruvi-us.loopreturns.com\/\nIf you are located in Canada, please email our team at hello@vitruvi.com to start your return or exchange."
+            "content": "We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help.\n\nFull priced devices can be exchanged or returned within 30 days of purchase (devices include diffusers and humidifiers). Essential oils and natural air freshener sprays can be exchanged or returned within 15 days of purchase.\n\nDiscounted items are eligible for exchange or return for store credit within 15 days of purchase.\n\nItems purchased with a gift card are eligible for exchange or store credit. To return or exchange a natural air freshener spray or diffuser bundle, please reach out to our customer experience team at hello@vitruvi.com.\n\nIf you are located in the US, to start your return or exchange please visit our Returns Center here. https://vitruvi-us.loopreturns.com/\nIf you are located in Canada, please email our team at hello@vitruvi.com to start your return or exchange."
           }
         },
         "accordion_item_mjgdAi": {
@@ -380,7 +388,7 @@
         "banner_3_dY6p3K": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/transparent.png",
+            "image": "shopify://shop_images/transparent.png",
             "color_scheme": "scheme-1",
             "banner_url": "",
             "banner_target": false,
@@ -395,7 +403,7 @@
             "desc": "Send us an email and we'll be happy to help.",
             "des_space": 28,
             "btn_label": "CONTACT US",
-            "btn_link": "shopify:\/\/pages\/contact-us",
+            "btn_link": "shopify://pages/contact-us",
             "target": false,
             "btn_style": "solid",
             "btn_fw": "normal",
