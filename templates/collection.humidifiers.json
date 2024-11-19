@@ -276,12 +276,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "humidifier-bundles",
-        "product_list": [
-          "cloud-humidifier-holiday-bundle",
-          "good-air-cloud-humidifier-bundle",
-          "sleep-cloud-humidifier-bundle",
-          "best-sleep-diffuser-humidifier-bundle"
-        ],
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
