@@ -756,9 +756,9 @@
         "description_anhdUB": {
           "type": "description",
           "settings": {
-            "des": "1",
+            "des": "2",
             "short_des": "",
-            "length": 90
+            "length": 60
           }
         },
         "view_products_details_kVmdkg": {
