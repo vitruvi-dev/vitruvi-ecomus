@@ -51,53 +51,31 @@
         "heading_gp79NX": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday Early Access",
+            "heading": "Black Friday Sale",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
         },
         "text_TaVJHq": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Start Black Friday early with 25% off sitewide, plus a free gift with with every diffuser and humidifier order.</p>",
+            "text": "<p>UP TO 40% OFF SITEWIDE</p>",
             "adding_border": false
-          }
-        },
-        "countdown_6kkCB6": {
-          "type": "countdown",
-          "settings": {
-            "title": "25% off sitewide ends soon:",
-            "year": 2024,
-            "month": 11,
-            "day": 19,
-            "hour": 0,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": "",
-            "color_scheme": "scheme-2"
           }
         }
       },
       "block_order": [
         "heading_gp79NX",
-        "text_TaVJHq",
-        "countdown_6kkCB6"
+        "text_TaVJHq"
       ],
-      "custom_css": [
-        ".hdt-h5 {font-family: \"Founders Grotesk\";}",
-        ".hdt-countdown__item {border-radius: 0px;}",
-        ".hdt-cd-heading {color: white;}"
-      ],
+      "custom_css": [],
       "settings": {
         "image_height": "fixed",
-        "fixed_height": 400,
+        "fixed_height": 200,
         "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
-        "image": "shopify://shop_images/collections_hero_bfcm2023-earlyaccess_v2.png",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/page_collection_hero_bfcm-2024_image_desktop_v1.jpg",
+        "image_mb": "shopify://shop_images/page_collection_hero_bfcm-2024_image_mobile_v1.jpg",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -191,6 +169,43 @@
         "sidebar_size": "medium"
       }
     },
+    "featured_collection_grid_eF6zJd": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Perfect Gifts, Unbeatable Savings",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Today only: Get 40% off with our exclusive Black Friday Daily Deal—perfect for gifting this holiday season!</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "black-friday-deals",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "featured_product_4PVpj9": {
       "type": "featured-product",
       "blocks": {
@@ -232,6 +247,7 @@
         },
         "custom_liquid_V86MGd": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($20 Value)\n      {% else %}\n        Free Gift ($25 Value)\n      {% endif %}\n    </h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
           }
@@ -308,7 +324,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Save 25% on Humidifiers",
+        "sec_heading": "Humidifier Deals",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.</p>",
@@ -387,6 +403,7 @@
         },
         "custom_liquid_QcGEbA": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/products/pdp_essential-oil-blend_dusk_gallery_1_v2_image.png?v=1719458615\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($28 Value)\n      {% else %}\n        Free Gift ($30 Value)\n      {% endif %}\n    </h5>\n    <p>Dusk Blend automatically added to every diffuser order, while supplies last.</p>\n  </div>\n</div>"
           }
@@ -935,6 +952,7 @@
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
     "main",
+    "featured_collection_grid_eF6zJd",
     "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
