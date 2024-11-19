@@ -140,6 +140,18 @@
           "type": "price",
           "settings": {}
         },
+        "variant_picker_RwY4Xy": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
         "buy_buttons_VEzdyL": {
           "type": "buy_buttons",
           "settings": {
@@ -179,6 +191,7 @@
         "badges_CpdEUy",
         "title_pLthcz",
         "price_XXRReG",
+        "variant_picker_RwY4Xy",
         "buy_buttons_VEzdyL",
         "description_NimrCk",
         "view_products_details_VHeFNC",
