@@ -25,7 +25,6 @@
         },
         "description_Ddhb9a": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "description": ""
           }
