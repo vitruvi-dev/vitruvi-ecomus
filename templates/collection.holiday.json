@@ -132,13 +132,6 @@
             "ani": "none"
           }
         },
-        "custom_liquid_JAapDA": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
-          }
-        },
         "title_7fhX9x": {
           "type": "title",
           "settings": {}
@@ -147,25 +140,13 @@
           "type": "price",
           "settings": {}
         },
-        "variant_picker_haywRK": {
-          "type": "variant_picker",
-          "disabled": true,
+        "inventory_RLkbyX": {
+          "type": "inventory",
           "settings": {
-            "pick_mode": "first_available",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "description_zDcy8L": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
+            "inventory_threshold": 50,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
           }
         },
         "buy_buttons_4tg4fA": {
@@ -178,33 +159,27 @@
             "show_compare": false
           }
         },
+        "description_zDcy8L": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 60
+          }
+        },
         "view_products_details_hYVnMr": {
           "type": "view_products_details",
           "settings": {}
-        },
-        "img_trust_888rTd": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
         }
       },
       "block_order": [
         "badges_hDirB4",
-        "custom_liquid_JAapDA",
         "title_7fhX9x",
         "price_C3Wc7C",
-        "variant_picker_haywRK",
-        "description_zDcy8L",
+        "inventory_RLkbyX",
         "buy_buttons_4tg4fA",
-        "view_products_details_hYVnMr",
-        "img_trust_888rTd"
+        "description_zDcy8L",
+        "view_products_details_hYVnMr"
       ],
       "custom_css": [
         ".byob-cta {gap: 25px; padding: 25px;}",
