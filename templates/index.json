@@ -189,7 +189,7 @@
             "content_position": "center",
             "alignment": "center",
             "hide_subtext_mb": false,
-            "content_position_mb": "center",
+            "content_position_mb": "start-center",
             "alignment_mb": "center"
           }
         },
