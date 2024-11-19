@@ -132,7 +132,7 @@
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 0,
-        "padding_bottom": 19,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -192,7 +192,7 @@
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "view_all",
+        "pagination_type": "none",
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "View all deals",
@@ -201,8 +201,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 0,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -315,8 +315,8 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 76,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -357,8 +357,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 76,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -948,8 +948,8 @@
   },
   "order": [
     "heading",
-    "hero_image_3dNbDH",
     "top_heading_LKRnyK",
+    "hero_image_3dNbDH",
     "custom_line_zAe7AX",
     "main",
     "featured_collection_grid_eF6zJd",
