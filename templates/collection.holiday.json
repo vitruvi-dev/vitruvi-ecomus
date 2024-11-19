@@ -46,55 +46,37 @@
         "padding_rate": 75
       }
     },
-    "hero_image_N43MWn": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_CeLpaN": {
-          "type": "heading",
-          "settings": {
-            "heading": "HOLIDAY COLLECTION",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_LnzVHG": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_CeLpaN",
-        "text_LnzVHG"
-      ],
+    "main": {
+      "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px;}"
-      ],
+      "custom_css": [],
       "settings": {
-        "image_height": "fixed",
-        "fixed_height": 200,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": true,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "padding_rate": 75
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 30,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
       }
     },
     "top_heading_39h494": {
@@ -258,12 +240,13 @@
             "size_chart_page": ""
           }
         },
-        "description_zDcy8L": {
-          "type": "description",
+        "inventory_qmfPJn": {
+          "type": "inventory",
           "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
           }
         },
         "buy_buttons_4tg4fA": {
@@ -274,6 +257,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_zDcy8L": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 60
           }
         },
         "view_products_details_hYVnMr": {
@@ -299,8 +290,9 @@
         "title_7fhX9x",
         "price_C3Wc7C",
         "variant_picker_haywRK",
-        "description_zDcy8L",
+        "inventory_qmfPJn",
         "buy_buttons_4tg4fA",
+        "description_zDcy8L",
         "view_products_details_hYVnMr",
         "img_trust_888rTd"
       ],
@@ -379,39 +371,6 @@
         "padding_rate": 75
       }
     },
-    "main": {
-      "type": "main-collection",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "infinite",
-        "paginate_pos": "center",
-        "dis_pagination": 60,
-        "enable_sorting": true,
-        "enable_filtering": true,
-        "enable_num_cols_selector": false,
-        "widget_heading": "Product Categories",
-        "cat_source": "2",
-        "cat_link_list": "footer_products",
-        "count": true,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
-        "padding_top": 30,
-        "padding_bottom": 70,
-        "padding_rate": 75,
-        "sidebar_position": "left",
-        "sidebar_size": "medium"
-      }
-    },
     "featured_product_4PVpj9": {
       "type": "featured-product",
       "blocks": {
@@ -441,12 +400,13 @@
           "type": "price",
           "settings": {}
         },
-        "description_Ly67FF": {
-          "type": "description",
+        "inventory_UJrHAH": {
+          "type": "inventory",
           "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 90
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 500
           }
         },
         "buy_buttons_NMNaGy": {
@@ -457,6 +417,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_Ly67FF": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 60
           }
         },
         "view_products_details_dLcHK8": {
@@ -482,8 +450,9 @@
         "custom_liquid_73itAq",
         "title_B6AfNV",
         "price_3WTNYB",
-        "description_Ly67FF",
+        "inventory_UJrHAH",
         "buy_buttons_NMNaGy",
+        "description_Ly67FF",
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
       ],
@@ -543,12 +512,13 @@
           "type": "price",
           "settings": {}
         },
-        "description_Tx9iDW": {
-          "type": "description",
+        "inventory_ABrYiQ": {
+          "type": "inventory",
           "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 90
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
           }
         },
         "buy_buttons_VAP7Nm": {
@@ -559,6 +529,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_Tx9iDW": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 60
           }
         },
         "view_products_details_ChBpbP": {
@@ -584,8 +562,9 @@
         "custom_liquid_W3mcDy",
         "title_RRXMBW",
         "price_UDez36",
-        "description_Tx9iDW",
+        "inventory_ABrYiQ",
         "buy_buttons_VAP7Nm",
+        "description_Tx9iDW",
         "view_products_details_ChBpbP",
         "img_trust_tRNdmQ"
       ],
@@ -644,12 +623,13 @@
           "type": "price",
           "settings": {}
         },
-        "description_8bLnQX": {
-          "type": "description",
+        "inventory_7eaT4L": {
+          "type": "inventory",
           "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 90
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
           }
         },
         "buy_buttons_JHHB7W": {
@@ -660,6 +640,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_8bLnQX": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 60
           }
         },
         "view_products_details_bjEp4K": {
@@ -685,8 +673,9 @@
         "custom_liquid_UXfeqW",
         "title_gzq4iU",
         "price_zzm3jT",
-        "description_8bLnQX",
+        "inventory_7eaT4L",
         "buy_buttons_JHHB7W",
+        "description_8bLnQX",
         "view_products_details_bjEp4K",
         "img_trust_wKUQVX"
       ],
@@ -712,6 +701,154 @@
         "nav_des": "default",
         "color_scheme": "scheme-1",
         "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_yQFKnD": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_KHeRTY": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "custom_liquid_apHqr3": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
+          }
+        },
+        "title_czUjCz": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_wnmgBD": {
+          "type": "price",
+          "settings": {}
+        },
+        "inventory_rXXXPB": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
+        "buy_buttons_eURxjp": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "description_anhdUB": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 60
+          }
+        },
+        "view_products_details_kVmdkg": {
+          "type": "view_products_details",
+          "settings": {}
+        },
+        "img_trust_xKYbJG": {
+          "type": "img_trust",
+          "disabled": true,
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_KHeRTY",
+        "custom_liquid_apHqr3",
+        "title_czUjCz",
+        "price_wnmgBD",
+        "inventory_rXXXPB",
+        "buy_buttons_eURxjp",
+        "description_anhdUB",
+        "view_products_details_kVmdkg",
+        "img_trust_xKYbJG"
+      ],
+      "settings": {
+        "product": "forest-frost-diffuser-blend",
+        "image": "shopify://shop_images/pdp_oil_15ml_front_forest-frost_gallery_1_image.png",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": true,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_zVFg6J": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Other Cozy Scents for the Holidays",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Create a warm, inviting atmosphere with our seasonal scents. Our scents offer long-lasting, all-natural aromas that seamlessly enhance your space and decor.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "holiday-scents",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -826,144 +963,6 @@
         "nav_des": "default",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_yQFKnD": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_KHeRTY": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "custom_liquid_apHqr3": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
-          }
-        },
-        "title_czUjCz": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_wnmgBD": {
-          "type": "price",
-          "settings": {}
-        },
-        "description_anhdUB": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 90
-          }
-        },
-        "buy_buttons_eURxjp": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "view_products_details_kVmdkg": {
-          "type": "view_products_details",
-          "settings": {}
-        },
-        "img_trust_xKYbJG": {
-          "type": "img_trust",
-          "disabled": true,
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
-        }
-      },
-      "block_order": [
-        "badges_KHeRTY",
-        "custom_liquid_apHqr3",
-        "title_czUjCz",
-        "price_wnmgBD",
-        "description_anhdUB",
-        "buy_buttons_eURxjp",
-        "view_products_details_kVmdkg",
-        "img_trust_xKYbJG"
-      ],
-      "settings": {
-        "product": "forest-frost-diffuser-blend",
-        "image": "shopify://shop_images/pdp_oil_15ml_front_forest-frost_gallery_1_image.png",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_zVFg6J": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "start",
-        "sec_heading": "Other Cozy Scents for the Holidays",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Create a warm, inviting atmosphere with our seasonal scents. Our scents offer long-lasting, all-natural aromas that seamlessly enhance your space and decor.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "holiday-scents",
-        "product_list": [],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "view_all",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -1235,14 +1234,13 @@
   },
   "order": [
     "heading",
-    "hero_image_N43MWn",
+    "main",
     "top_heading_39h494",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
     "featured_collection_grid_whnAX6",
     "featured_product_q3qnpt",
     "featured_collection_grid_j8DcaG",
-    "main",
     "featured_product_4PVpj9",
     "featured_product_hN73Ya",
     "featured_product_g4Vmd9",

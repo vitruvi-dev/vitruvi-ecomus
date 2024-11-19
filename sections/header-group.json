@@ -16,7 +16,6 @@
       "blocks": {
         "announcement_RzCepp": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
@@ -37,20 +36,9 @@
         },
         "announcement_RqB4ka": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
-            "text": "<a href=\"/collections/black-friday-early-access\" title=\"Black Friday Early Access\"><span style=\"text-decoration:underline\">Black Friday Early Access: 25% Sitewide</span></a>"
-          }
-        },
-        "announcement_MBNBrx": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\"><span style=\"text-decoration:underline\">FREE Dusk Blend With Diffusers</span></a>"
-          }
-        },
-        "announcement_rEbRYQ": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\"><span style=\"text-decoration:underline\">FREE Cleaning Tablets With Humidifiers</span></a>"
+            "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\"><span style=\"text-decoration:underline\">Black Friday Sale: Up to 40% Off Sitewide</span></a>"
           }
         }
       },
@@ -58,9 +46,7 @@
         "announcement_RzCepp",
         "announcement_7iU4bq",
         "announcement_eeYyAc",
-        "announcement_RqB4ka",
-        "announcement_MBNBrx",
-        "announcement_rEbRYQ"
+        "announcement_RqB4ka"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
@@ -213,7 +199,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_sale",
+        "main_menu": "header_desktop",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
@@ -229,7 +215,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile_sale",
+        "main_menu_mobile": "header_mobile",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",

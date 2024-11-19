@@ -13,8 +13,10 @@
 {%- assign effect_cd = effect | default: 'move_top' -%}
 <hdt-countdown class="hdt-flex hdt-flex-wrap hdt-flex-col hdt-items-center {{ class }}" config='{"month":"{{ countdown | date: '%m' | plus: 0 }}", "date":"{{ countdown | date: '%d, %Y %H:%M:%S' }}", "hideTimerOnComplete": true, "hasZero": true }'>
   <div class="hdt-countdown__inner hdt-flex hdt-align-center hdt-justify-center" aria-hidden="true">
+    {%- comment -%}
     <hdt-countdown-amount effect="{{ effect_cd }}" class="hdt-countdown__amount" data-days>00</hdt-countdown-amount>{{ 'products.countdown.day' | t }}
     <span>:</span>
+    {%- endcomment -%}
     <hdt-countdown-amount effect="{{ effect_cd }}" class="hdt-countdown__amount" data-hours>00</hdt-countdown-amount>{{ 'products.countdown.hr' | t }}
     <span>:</span>
     <hdt-countdown-amount effect="{{ effect_cd }}" class="hdt-countdown__amount" data-minutes>00</hdt-countdown-amount>{{ 'products.countdown.min' | t }}
