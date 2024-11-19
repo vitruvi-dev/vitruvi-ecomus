@@ -256,67 +256,12 @@
         "padding_rate": 75
       }
     },
-    "countdown_text_7Qr8m8": {
-      "type": "countdown_text",
-      "blocks": {
-        "text_ACcXwy": {
-          "type": "text",
-          "settings": {
-            "heading": "Only Available Until"
-          }
-        },
-        "button_k6gWgC": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "btn_label": "Shop Now",
-            "btn_link": "shopify://collections/labor-day-sale",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "2"
-          }
-        },
-        "text_2_HVAADq": {
-          "type": "text_2",
-          "settings": {
-            "sub_heading": "Limited-Tim"
-          }
-        }
-      },
-      "block_order": [
-        "text_ACcXwy",
-        "button_k6gWgC",
-        "text_2_HVAADq"
-      ],
-      "custom_css": [
-        "h4 {font-family: \"Heldane\";}"
-      ],
-      "settings": {
-        "full_width": true,
-        "year": 2024,
-        "month": 11,
-        "day": 23,
-        "hour": 0,
-        "minute": 0,
-        "effect_cd": "none",
-        "uppercase": false,
-        "prepend_number": false,
-        "hide_on_complete": true,
-        "mess_complete": "",
-        "color_scheme": "",
-        "padding_top": 76,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_grid_PV4GGr": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
+        "sec_heading": "Deals of the Day",
+        "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "",
         "subheading_size": "lg",
@@ -1012,10 +957,9 @@
     "video_GKb7jj",
     "video_kaFT9H",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
-    "countdown_text_7Qr8m8",
-    "featured_collection_grid_PV4GGr",
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",
+    "featured_collection_grid_PV4GGr",
     "featured_collection_grid_W6JYha",
     "slideshow_bHhppE",
     "282a0160-505d-43ff-b601-043a5a327bc2",
