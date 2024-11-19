@@ -40,13 +40,20 @@
           "settings": {
             "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\"><span style=\"text-decoration:underline\">Black Friday Sale: Up to 40% Off Sitewide</span></a>"
           }
+        },
+        "announcement_UYaNeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "{{ localization.market.metafields.ecomus.announcement_notice.value }}"
+          }
         }
       },
       "block_order": [
         "announcement_RzCepp",
         "announcement_7iU4bq",
         "announcement_eeYyAc",
-        "announcement_RqB4ka"
+        "announcement_RqB4ka",
+        "announcement_UYaNeX"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
