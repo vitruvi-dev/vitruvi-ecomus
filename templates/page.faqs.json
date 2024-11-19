@@ -168,6 +168,49 @@
         "padding_rate": 75
       }
     },
+    "accordion_inline_PENJHE": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_xjzbmp": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is your holiday return policy?",
+            "content": "As we know many of you will be shopping for holiday gifts early, items purchased from November 22 - December 13 are eligible for exchange or store credit until January 13, 2025.\n\nItems purchased after December 13th, are eligible for our regular return policy.  \n\nAll items purchased on sale are eligible for return for credit or exchange only. \n\nPlease visit our <u><a href=\"/returns\">self self serve returns page</a> </u>to begin, or email our team at hello@vitruvi.com."
+          }
+        },
+        "accordion_item_rhRprU": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is your return policy?",
+            "content": "We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help.\n\nFull priced devices can be exchanged or returned within 30 days of purchase (devices include diffusers and humidifiers). Essential oils and natural air freshener sprays can be exchanged or returned within 15 days of purchase.\n\nDiscounted items are eligible for exchange or return for store credit within 15 days of purchase.\n\nItems purchased with a gift card are eligible for exchange or store credit. To return or exchange a natural air freshener spray or diffuser bundle, please reach out to our customer experience team at hello@vitruvi.com.\n\nIf you are located in the US, to start your return or exchange please visit our Returns Center here. https://vitruvi-us.loopreturns.com/\nIf you are located in Canada, please email our team at hello@vitruvi.com to start your return or exchange."
+          }
+        },
+        "accordion_item_rkrbcq": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I return sale and discounted items?",
+            "content": "All devices and scents purchased during our sales are eligible for exchange or return for credit within 15 days of purchase. All Archive Sale merchandise is final sale."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_xjzbmp",
+        "accordion_item_rhRprU",
+        "accordion_item_rkrbcq"
+      ],
+      "settings": {
+        "top_heading": "BLACK FRIDAY + HOLIDAY RETURNS",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "accordion_icon": "2",
+        "open_first": true,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
     "top_heading_rVwG6A": {
       "type": "top-heading",
       "blocks": {
@@ -271,6 +314,13 @@
             "content": "We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help.\n\nFull priced devices can be exchanged or returned within 30 days of purchase (devices include diffusers and humidifiers). Essential oils and natural air freshener sprays can be exchanged or returned within 15 days of purchase.\n\nDiscounted items are eligible for exchange or return for store credit within 15 days of purchase.\n\nItems purchased with a gift card are eligible for exchange or store credit. To return or exchange a natural air freshener spray or diffuser bundle, please reach out to our customer experience team at hello@vitruvi.com.\n\nIf you are located in the US, to start your return or exchange please visit our Returns Center here. https://vitruvi-us.loopreturns.com/\nIf you are located in Canada, please email our team at hello@vitruvi.com to start your return or exchange."
           }
         },
+        "accordion_item_U4bBBq": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is your holiday return policy?",
+            "content": "We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help.\n\nFull priced devices can be exchanged or returned within 30 days of purchase (devices include diffusers and humidifiers). Essential oils and natural air freshener sprays can be exchanged or returned within 15 days of purchase.\n\nDiscounted items are eligible for exchange or return for store credit within 15 days of purchase.\n\nItems purchased with a gift card are eligible for exchange or store credit. To return or exchange a natural air freshener spray or diffuser bundle, please reach out to our customer experience team at hello@vitruvi.com.\n\nIf you are located in the US, to start your return or exchange please visit our Returns Center here. https://vitruvi-us.loopreturns.com/\nIf you are located in Canada, please email our team at hello@vitruvi.com to start your return or exchange."
+          }
+        },
         "accordion_item_mjgdAi": {
           "type": "accordion_item",
           "settings": {
@@ -281,6 +331,7 @@
       },
       "block_order": [
         "accordion_item_7gbLHF",
+        "accordion_item_U4bBBq",
         "accordion_item_mjgdAi"
       ],
       "settings": {
@@ -437,6 +488,7 @@
     "top_heading_pRXtHe",
     "top_heading_nBGwNX",
     "categories_section_NRfp3T",
+    "accordion_inline_PENJHE",
     "top_heading_rVwG6A",
     "accordion_inline_TYMAQf",
     "accordion_inline_edHGqX",
