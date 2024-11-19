@@ -246,10 +246,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "",
+        "sec_heading": "Essential Oil Diffusers",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "",
+        "sec_subheading": "<p>Lorem ipsum dolar.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
