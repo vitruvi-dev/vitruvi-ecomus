@@ -325,14 +325,14 @@
         "sec_heading_spacing": 30,
         "collection": "black-friday-deals",
         "product_list": [],
-        "product_des": "1",
+        "product_des": "10",
         "image_ratio": "adapt_image",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 8,
+        "products_count": 4,
         "col_dk": "4",
-        "col_tb": "3",
+        "col_tb": "4",
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
@@ -345,93 +345,6 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_ag9pBp": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_9XMgBt": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "title_aYAJWK": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_GwFczk": {
-          "type": "price",
-          "settings": {}
-        },
-        "buy_buttons_m46wck": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "countdown_timer_pQGzE9": {
-          "type": "countdown_timer",
-          "settings": {
-            "content": "DEAL OF THE DAY EXPIRES IN",
-            "icon_svg": "clock",
-            "ani": "none"
-          }
-        },
-        "description_yCrjH3": {
-          "type": "description",
-          "settings": {
-            "des": "2",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "view_products_details_Wf44Ti": {
-          "type": "view_products_details",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "badges_9XMgBt",
-        "title_aYAJWK",
-        "price_GwFczk",
-        "buy_buttons_m46wck",
-        "countdown_timer_pQGzE9",
-        "description_yCrjH3",
-        "view_products_details_Wf44Ti"
-      ],
-      "settings": {
-        "product": "{{ localization.market.metafields.ecomus[\"featured-product\"].value }}",
-        "media_width": 50,
-        "desktop_media_layout": "thumbnail_bottom",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "image_zoom": "zoom",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
         "padding_rate": 75
       }
     },
@@ -623,37 +536,6 @@
         "padding_top": 76,
         "padding_bottom": 76,
         "padding_rate": 76
-      }
-    },
-    "countdown_text_NkMph8": {
-      "type": "countdown_text",
-      "blocks": {
-        "text_78374W": {
-          "type": "text",
-          "settings": {
-            "heading": "One-Time Only"
-          }
-        }
-      },
-      "block_order": [
-        "text_78374W"
-      ],
-      "settings": {
-        "full_width": true,
-        "year": 2030,
-        "month": 4,
-        "day": 19,
-        "hour": 12,
-        "minute": 0,
-        "effect_cd": "move_top",
-        "uppercase": false,
-        "prepend_number": false,
-        "hide_on_complete": false,
-        "mess_complete": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
       }
     },
     "slideshow_bHhppE": {
@@ -1132,11 +1014,9 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "countdown_text_7Qr8m8",
     "featured_collection_grid_PV4GGr",
-    "featured_product_ag9pBp",
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",
     "featured_collection_grid_W6JYha",
-    "countdown_text_NkMph8",
     "slideshow_bHhppE",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
