@@ -199,7 +199,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_holiday",
+        "main_menu": "header_desktop",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
