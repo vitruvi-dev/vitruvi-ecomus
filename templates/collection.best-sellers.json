@@ -81,7 +81,7 @@
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 0,
-        "padding_bottom": 80,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -215,8 +215,8 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 0,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -257,8 +257,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 76,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -359,8 +359,8 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 76,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -405,8 +405,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 76,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -550,7 +550,7 @@
         "dot_align": "center",
         "dot_space": 40,
         "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_bottom": 75,
         "padding_rate": 75
       }
     },
@@ -580,8 +580,8 @@
         "other_link": "",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 150,
+        "padding_bottom": 150,
         "padding_rate": 75
       }
     },
