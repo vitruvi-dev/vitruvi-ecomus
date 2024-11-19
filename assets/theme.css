@@ -5830,3 +5830,16 @@ country-filter {
 .hdt-navigation .hdt-badge__wrapp, .hdt-navigation .hdt-price-wrapp, .hdt-navigation .hdt-product-btns {
   display: none;
 }
+
+.custom-featured-product {
+  margin-left: 10%;
+  margin-right: 10%
+}
+
+@media (max-width:767px){
+  .custom-featured-product {
+    margin-left: 5%;
+    margin-right: 5%
+  }
+}
+
