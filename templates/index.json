@@ -361,7 +361,6 @@
         "collection_item_CkNEzN",
         "view_all_DVpbAd"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-collection-content p {display: none;}"
       ],
@@ -406,6 +405,7 @@
     },
     "featured_collection_grid_PV4GGr": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Deals of the Day",
@@ -418,6 +418,45 @@
         "sec_heading_spacing": 30,
         "collection": "black-friday-deals",
         "product_list": [],
+        "product_des": "10",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_RR9VXW": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Deals of the Day",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Today only: Get 40% off with our exclusive Black Friday Daily Deal—perfect for gifting this holiday season!</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "festive-favorites-essential-oil-kit"
+        ],
         "product_des": "10",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -960,6 +999,7 @@
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",
     "featured_collection_grid_PV4GGr",
+    "featured_collection_grid_RR9VXW",
     "featured_collection_grid_W6JYha",
     "slideshow_bHhppE",
     "282a0160-505d-43ff-b601-043a5a327bc2",
