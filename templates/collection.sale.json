@@ -45,6 +45,35 @@
         "padding_rate": 75
       }
     },
+    "top_heading_LKRnyK": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_wpqzpJ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_wpqzpJ"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 0,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "hero_image_3dNbDH": {
       "type": "hero-image",
       "blocks": {
@@ -93,35 +122,6 @@
         "padding_rate": 75
       }
     },
-    "top_heading_LKRnyK": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_wpqzpJ": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_wpqzpJ"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
-      ],
-      "settings": {
-        "spacing_item": 0,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "custom_line_zAe7AX": {
       "type": "custom-line",
       "settings": {
@@ -132,7 +132,7 @@
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 0,
-        "padding_bottom": 50,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
@@ -220,15 +220,8 @@
             "ani": "none"
           }
         },
-        "custom_liquid_73itAq": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/cloud-humidifier\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Award-Winning Cloud Humidifier</h1></a>\n                    </div>"
-          }
-        },
         "title_B6AfNV": {
           "type": "title",
-          "disabled": true,
           "settings": {}
         },
         "price_3WTNYB": {
@@ -279,7 +272,6 @@
       },
       "block_order": [
         "badges_DjG7qy",
-        "custom_liquid_73itAq",
         "title_B6AfNV",
         "price_3WTNYB",
         "buy_buttons_NMNaGy",
@@ -376,15 +368,8 @@
             "ani": "none"
           }
         },
-        "custom_liquid_JAapDA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
-          }
-        },
         "title_7fhX9x": {
           "type": "title",
-          "disabled": true,
           "settings": {}
         },
         "price_C3Wc7C": {
@@ -435,7 +420,6 @@
       },
       "block_order": [
         "badges_mxGJVb",
-        "custom_liquid_JAapDA",
         "title_7fhX9x",
         "price_C3Wc7C",
         "buy_buttons_4tg4fA",
@@ -480,7 +464,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Save 25% on Diffusers",
+        "sec_heading": "Diffuser Deals",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "<p>Discover diffusers that blend beautifully with your decor, deliver captivating aromas, and provide natural, long-lasting fragrance. Enjoy a safer, effortless way to fill your space with inviting scents.</p>",
@@ -488,13 +472,8 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "stone-diffuser-holiday-bundle",
-          "move-cordless-essential-oil-diffuser",
-          "glow-essential-oil-diffuser",
-          "stay-large-essential-oil-diffuser"
-        ],
+        "collection": "essential-oil-diffusers",
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
@@ -609,7 +588,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Save 25% on Scents",
+        "sec_heading": "Scent Deals",
         "heading_tag": "h2",
         "heading_size": "h5",
         "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.</p>",
@@ -628,7 +607,7 @@
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "view_all",
+        "pagination_type": "load_more",
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "",
