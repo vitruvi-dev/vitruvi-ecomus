@@ -59,22 +59,14 @@
         "text_TaVJHq": {
           "type": "text",
           "settings": {
-            "text": "<p>Save 30% on all Diffusers, Humidifiers, & Scents</p><p>Save up to 40% off on Bundles & Accessories</p>",
-            "adding_border": false
-          }
-        },
-        "text_bB9AwW": {
-          "type": "text",
-          "settings": {
-            "text": "",
+            "text": "<p>UP TO 40% OFF SITEWIDE</p>",
             "adding_border": false
           }
         }
       },
       "block_order": [
         "heading_gp79NX",
-        "text_TaVJHq",
-        "text_bB9AwW"
+        "text_TaVJHq"
       ],
       "custom_css": [],
       "settings": {
