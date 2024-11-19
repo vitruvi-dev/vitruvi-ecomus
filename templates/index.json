@@ -138,6 +138,7 @@
       "blocks": {
         "slide_base_fnDmKR": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
@@ -195,14 +196,13 @@
         },
         "slide_base_V9bYLq": {
           "type": "slide_base",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
             "url": "shopify://collections/holiday-collection",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>NEW</strong><br/>HOLIDAY COLLECTION</p>",
+            "heading": "<p><strong>LIMITED TIME</strong><br/><em>HOLIDAY COLLECTION</em></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Transform your space with our limited-edition holiday collection, featuring festive scents and beautifully crafted diffusers to make every moment feel special.",
