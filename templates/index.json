@@ -445,17 +445,20 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Deals of the Day",
+        "sec_heading": "New Arrivals",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>Today only: Get 40% off with our exclusive Black Friday Daily Deal—perfect for gifting this holiday season!</p>",
+        "sec_subheading": "<p>Don’t wait—our holiday collection is selling fast. Festive scents and diffusers, perfect for gifting.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "festive-favorites-essential-oil-kit"
+          "festive-favorites-essential-oil-kit",
+          "forest-frost-diffuser-blend",
+          "sugar-spice-diffuser-blend",
+          "cleaning-tablets"
         ],
         "product_des": "10",
         "image_ratio": "adapt_image",
