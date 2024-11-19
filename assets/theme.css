@@ -3852,7 +3852,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
   flex-wrap: wrap;
 }
 .hdt-product__countdown-time {
-  font-size: var(--text-sm);
+  font-size: var(--text-xl);
   color: rgb(var(--color-accent));
 }
 .hdt-product__countdown-time hdt-countdown-amount {
