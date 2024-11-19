@@ -69,10 +69,10 @@
         "inventory_ftnW9y": {
           "type": "inventory",
           "settings": {
-            "inventory_threshold": 20,
+            "inventory_threshold": 30,
             "show_inventory_quantity": false,
             "show_progress_bar": false,
-            "progress_bar_max": 50
+            "progress_bar_max": 100
           }
         },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
