@@ -512,12 +512,13 @@
           "type": "price",
           "settings": {}
         },
-        "description_Tx9iDW": {
-          "type": "description",
+        "inventory_ABrYiQ": {
+          "type": "inventory",
           "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 90
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
           }
         },
         "buy_buttons_VAP7Nm": {
@@ -528,6 +529,14 @@
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
+          }
+        },
+        "description_Tx9iDW": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 90
           }
         },
         "view_products_details_ChBpbP": {
@@ -553,8 +562,9 @@
         "custom_liquid_W3mcDy",
         "title_RRXMBW",
         "price_UDez36",
-        "description_Tx9iDW",
+        "inventory_ABrYiQ",
         "buy_buttons_VAP7Nm",
+        "description_Tx9iDW",
         "view_products_details_ChBpbP",
         "img_trust_tRNdmQ"
       ],
