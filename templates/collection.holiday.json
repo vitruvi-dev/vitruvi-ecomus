@@ -406,7 +406,7 @@
             "inventory_threshold": 100,
             "show_inventory_quantity": true,
             "show_progress_bar": false,
-            "progress_bar_max": 50
+            "progress_bar_max": 500
           }
         },
         "buy_buttons_NMNaGy": {
