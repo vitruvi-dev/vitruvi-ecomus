@@ -377,11 +377,11 @@
         "line_style": "solid",
         "line_width": 100,
         "line_height": 1,
-        "line_cl": "#474946",
+        "line_cl": "#f7f8f6",
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
