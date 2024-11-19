@@ -495,7 +495,7 @@
         "countdown_timer_RfYQKW": {
           "type": "countdown_timer",
           "settings": {
-            "content": "HURRY UP! SALE ENDS IN:",
+            "content": "AVAILABLE TODAY ONLY",
             "icon_svg": "clock",
             "ani": "none"
           }
