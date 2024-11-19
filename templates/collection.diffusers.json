@@ -386,10 +386,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Diffuser Bundles",
+        "sec_heading": "{{ section.settings.collection.title }}",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Pick from one of our curated diffuser bundles or build your own for the perfect scenting experience.</p>",
+        "sec_subheading": "<p>{{ section.settings.collection.description }}</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
