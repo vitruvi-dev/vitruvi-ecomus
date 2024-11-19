@@ -43,20 +43,6 @@
         "padding_rate": 75
       }
     },
-    "custom_line_rDwQR6": {
-      "type": "custom-line",
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#f7f8f6",
-        "line_pos": "center",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
@@ -85,7 +71,7 @@
         "padding_rate": 75
       }
     },
-    "custom_line_zAe7AX": {
+    "custom_line_rDwQR6": {
       "type": "custom-line",
       "settings": {
         "line_style": "solid",
@@ -95,51 +81,41 @@
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 0,
-        "padding_bottom": 80,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_whnAX6": {
-      "type": "featured-collection-grid",
+    "main": {
+      "type": "main-collection",
       "disabled": true,
+      "custom_css": [],
       "settings": {
-        "heading_align": "start",
-        "sec_heading": "Better Sleep, Better Air",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "cloud-humidifier",
-          "humidifier-filters",
-          "humidifier-sensor-hygrometer",
-          "best-sleep-diffuser-humidifier-bundle"
-        ],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 50,
+        "products_count": 4,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "none",
+        "pagination_type": "infinite",
         "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
         "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 30,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
       }
     },
     "featured_product_q3qnpt": {
@@ -238,7 +214,6 @@
       ],
       "settings": {
         "product": "stone-diffuser-holiday-bundle",
-        "image": "shopify://shop_images/pdp_bundle_stone_festivefavorites_gallery_1_image.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
@@ -258,84 +233,8 @@
         "nav_des": "default",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 80,
+        "padding_bottom": 76,
         "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_j8DcaG": {
-      "type": "featured-collection-grid",
-      "disabled": true,
-      "settings": {
-        "heading_align": "start",
-        "sec_heading": "The Perfect Gift for Any Decor",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Stylish, functional, and crafted to elevate any space—Vitruvi diffusers are gifts that keep giving.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "stone-essential-oil-diffuser",
-          "glow-essential-oil-diffuser",
-          "move-cordless-essential-oil-diffuser",
-          "stay-large-essential-oil-diffuser"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 50,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "main": {
-      "type": "main-collection",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "infinite",
-        "paginate_pos": "center",
-        "dis_pagination": 60,
-        "enable_sorting": true,
-        "enable_filtering": true,
-        "enable_num_cols_selector": false,
-        "widget_heading": "Product Categories",
-        "cat_source": "2",
-        "cat_link_list": "footer_products",
-        "count": true,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
-        "padding_top": 30,
-        "padding_bottom": 70,
-        "padding_rate": 75,
-        "sidebar_position": "left",
-        "sidebar_size": "medium"
       }
     },
     "featured_product_4PVpj9": {
@@ -416,7 +315,6 @@
       "custom_css": [],
       "settings": {
         "product": "festive-favorites-essential-oil-kit",
-        "image": "shopify://shop_images/pdp_kit_festive_favorites_gallery_1_image.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
@@ -436,7 +334,7 @@
         "nav_des": "default",
         "color_scheme": "scheme-1",
         "padding_top": 0,
-        "padding_bottom": 80,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -537,7 +435,7 @@
         "nav_des": "default",
         "color_scheme": "scheme-1",
         "padding_top": 0,
-        "padding_bottom": 80,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -638,7 +536,7 @@
         "nav_des": "default",
         "color_scheme": "scheme-1",
         "padding_top": 0,
-        "padding_bottom": 80,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -775,8 +673,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 76,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -889,7 +787,7 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 76,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -1036,11 +934,8 @@
     "heading",
     "top_heading_LKRnyK",
     "custom_line_rDwQR6",
-    "custom_line_zAe7AX",
-    "featured_collection_grid_whnAX6",
-    "featured_product_q3qnpt",
-    "featured_collection_grid_j8DcaG",
     "main",
+    "featured_product_q3qnpt",
     "featured_product_4PVpj9",
     "featured_product_hN73Ya",
     "featured_product_g4Vmd9",
