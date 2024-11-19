@@ -109,7 +109,7 @@
       ],
       "custom_css": [
         "span {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
-        "@media (max-width: 767px) {.hdt-hero-image__heading {font-size: 120%; } span {font-size: 70%; }}"
+        "@media (max-width: 767px) {.save40sitewide {font-size: 80%; }}"
       ],
       "settings": {
         "image_height": "fixed",
