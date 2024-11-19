@@ -38,7 +38,7 @@
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
-        "padding_top": 5,
+        "padding_top": 15,
         "padding_bottom": 5,
         "padding_rate": 75
       }
@@ -66,8 +66,22 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "scheme-1",
-        "padding_top": 15,
+        "padding_top": 5,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_line_Tijyyn": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -439,6 +453,7 @@
   "order": [
     "heading",
     "top_heading_jyzzfA",
+    "custom_line_Tijyyn",
     "main",
     "featured_collection_grid_yaaUxb",
     "featured_collection_grid_Qak8RN",
