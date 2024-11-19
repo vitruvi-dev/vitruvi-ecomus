@@ -295,7 +295,8 @@
       ],
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 50%; font-weight: 200; background-color: #eac661; color: black; padding: 5px; border-radius: 5px;}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 50%; font-weight: 200; }",
+        ".hdt-btn {background-color: #eac661; color: black;}",
         "h2 {padding-bottom: 25px;}",
         ".hdt-content {margin-bottom: 150px;}",
         "@media (max-width: 767px) {.hdt-content {margin-bottom: 200px; }}"
