@@ -299,7 +299,7 @@
         ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
         ".hdt-content {margin-bottom: 150px;}",
         "@media (max-width: 767px) {.hdt-content {margin-bottom: 200px; }}",
-        ".hdt-btn {background-color: #eac661; color: black; border: none; font-weight: 400}"
+        ".hdt-btn {background-color: #eac661; color: black; border: none;}"
       ],
       "settings": {
         "full_width": true,
