@@ -96,7 +96,7 @@
         "media_width": 50,
         "desktop_media_position": "left",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": false,
         "enable_video_looping": false,
         "image_ratio": "adapt_image",

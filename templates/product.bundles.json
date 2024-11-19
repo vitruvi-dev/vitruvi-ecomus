@@ -157,7 +157,7 @@
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": true,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": true,
         "enable_video_looping": true,
         "enable_thumb_efect": false,
