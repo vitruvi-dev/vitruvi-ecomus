@@ -19,14 +19,12 @@
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": ""
           }
         },
         "description_Ddhb9a": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "description": ""
           }
@@ -37,93 +35,8 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
         "spacing_hd": 5,
-        "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 15,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_N43MWn": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_CeLpaN": {
-          "type": "heading",
-          "settings": {
-            "heading": "HOLIDAY COLLECTION",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_LnzVHG": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.</p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_CeLpaN",
-        "text_LnzVHG"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
-        ".hdt-countdown__item {border-radius: 0px;}"
-      ],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 200,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/pdp_forest-frost_smells-like_image.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": true,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_39h494": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_YamPiM": {
-          "type": "heading",
-          "settings": {
-            "heading": "Holiday Collection",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_cwXbH7": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Elevate your space with our limited-edition holiday collection, featuring exclusive new holiday scents and festive bundles.",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "heading_YamPiM",
-        "sub_heading_cwXbH7"
-      ],
-      "settings": {
-        "spacing_item": 20,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 15,
@@ -136,7 +49,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Beat the Black Friday rush with 25% off sitewide<br>Plus, get free shipping and a free gift ($20+ value) with every diffuser and humidifier order.",
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -144,7 +57,6 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -716,120 +628,6 @@
         "padding_rate": 75
       }
     },
-    "featured_product_dMjAEx": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_qTUQke": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "custom_liquid_MaxRKX": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
-          }
-        },
-        "title_icLWTq": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_WMnKp7": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_Q6iwNU": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "pick_mode": "first_available",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "description_tRaDMq": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "buy_buttons_7QyWBF": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "view_products_details_8KXDwE": {
-          "type": "view_products_details",
-          "settings": {}
-        },
-        "img_trust_mxLpQ4": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
-        }
-      },
-      "block_order": [
-        "badges_qTUQke",
-        "custom_liquid_MaxRKX",
-        "title_icLWTq",
-        "price_WMnKp7",
-        "variant_picker_Q6iwNU",
-        "description_tRaDMq",
-        "buy_buttons_7QyWBF",
-        "view_products_details_8KXDwE",
-        "img_trust_mxLpQ4"
-      ],
-      "settings": {
-        "product": "cloud-humidifier-holiday-bundle",
-        "image": "shopify://shop_images/pdp_humidifier-holiday-bundle_white_gallery_1_v2023_image_0587bd9d-835a-49f5-ba59-2579ec918a58.png",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": false,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "featured_product_yQFKnD": {
       "type": "featured-product",
       "blocks": {
@@ -964,6 +762,120 @@
         "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_dMjAEx": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_qTUQke": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "custom_liquid_MaxRKX": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
+          }
+        },
+        "title_icLWTq": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_WMnKp7": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_Q6iwNU": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "description_tRaDMq": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "buy_buttons_7QyWBF": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "view_products_details_8KXDwE": {
+          "type": "view_products_details",
+          "settings": {}
+        },
+        "img_trust_mxLpQ4": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_qTUQke",
+        "custom_liquid_MaxRKX",
+        "title_icLWTq",
+        "price_WMnKp7",
+        "variant_picker_Q6iwNU",
+        "description_tRaDMq",
+        "buy_buttons_7QyWBF",
+        "view_products_details_8KXDwE",
+        "img_trust_mxLpQ4"
+      ],
+      "settings": {
+        "product": "cloud-humidifier-holiday-bundle",
+        "image": "shopify://shop_images/pdp_humidifier-holiday-bundle_white_gallery_1_v2023_image_0587bd9d-835a-49f5-ba59-2579ec918a58.png",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -1235,8 +1147,6 @@
   },
   "order": [
     "heading",
-    "hero_image_N43MWn",
-    "top_heading_39h494",
     "top_heading_LKRnyK",
     "custom_line_zAe7AX",
     "featured_collection_grid_whnAX6",
