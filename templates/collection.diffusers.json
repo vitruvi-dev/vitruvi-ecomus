@@ -124,7 +124,6 @@
       "blocks": {
         "badges_pbnXEq": {
           "type": "badges",
-          "disabled": true,
           "settings": {
             "special": "",
             "min": 10,
