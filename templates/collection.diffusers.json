@@ -207,8 +207,15 @@
             "ani": "none"
           }
         },
+        "custom_liquid_qArwr9": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
+          }
+        },
         "title_aq9Hew": {
           "type": "title",
+          "disabled": true,
           "settings": {}
         },
         "price_rLGthp": {
@@ -261,6 +268,7 @@
       },
       "block_order": [
         "badges_pbnXEq",
+        "custom_liquid_qArwr9",
         "title_aq9Hew",
         "price_rLGthp",
         "inventory_8MYeMe",
