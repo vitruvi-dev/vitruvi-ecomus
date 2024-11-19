@@ -492,6 +492,14 @@
           "type": "price",
           "settings": {}
         },
+        "countdown_timer_RfYQKW": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "HURRY UP! SALE ENDS IN:",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
         "inventory_mBV8z3": {
           "type": "inventory",
           "settings": {
@@ -528,6 +536,7 @@
         "badges_kJRUFr",
         "title_c9kfcj",
         "price_XByFr3",
+        "countdown_timer_RfYQKW",
         "inventory_mBV8z3",
         "buy_buttons_e8qjhe",
         "description_zUhXNw",
