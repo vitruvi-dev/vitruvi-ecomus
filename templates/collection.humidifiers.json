@@ -373,9 +373,11 @@
           "type": "title",
           "settings": {}
         },
-        "price_fi3TbR": {
-          "type": "price",
-          "settings": {}
+        "custom_liquid_CaXNgR": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         },
         "buy_buttons_R8rhbx": {
           "type": "buy_buttons",
@@ -402,7 +404,7 @@
       },
       "block_order": [
         "title_yDejEP",
-        "price_fi3TbR",
+        "custom_liquid_CaXNgR",
         "buy_buttons_R8rhbx",
         "description_jUGCPy",
         "view_products_details_eVUc8T"
