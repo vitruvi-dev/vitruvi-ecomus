@@ -264,7 +264,7 @@
         "slide_base_X9JycG": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_dc5448c4-90f6-45f0-8206-7ce5f3d3da9d.jpg",
+            "image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_compresspng.com_a9cce104-6dc2-49de-b0bd-6d2304ac252c.jpg",
             "image_mb": "shopify://shop_images/Mobile_-_Homepage_-_Export_3x_compresspng.com_5475043c-5147-4d1d-9f04-71cf2de5bdc0.jpg",
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
@@ -308,7 +308,7 @@
         "fixed_height": 700,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "loop": true,
         "auto_play": 10,
         "pause_hover": false,

@@ -216,7 +216,7 @@
         "active_link": true,
         "spacing_nav": 32,
         "open_event": "hover",
-        "header_menu_colors": "",
+        "header_menu_colors": "scheme-1",
         "enabled_user": true,
         "enabled_compare": false,
         "enabled_wishlist": false,
