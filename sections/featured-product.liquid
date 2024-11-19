@@ -140,10 +140,12 @@
                           <div class="hdt-product__countdown-time hdt-font-semibold">
                             <div class="hdt-product__countdown-inner hdt-relative hdt-flex hdt-flex-wrap hdt-items-center hdt-justify-center" aria-hidden="true">
                               <div class="hdt-product__countdown-inner hdt-relative hdt-flex hdt-flex-wrap hdt-items-center hdt-justify-center" aria-hidden="true">
+                                {% comment %}
                                 <div class="hdt-product__countdown-item">
                                   <hdt-countdown-amount effect="move_top" data-days>00</hdt-countdown-amount>
                                   <hdt-countdown-text singular="{{ 'sections.countdown_timmer.day' | t }}" class="hdt-grid">{{ 'sections.countdown_timmer.day_plural' | t }}</hdt-countdown-text>
                                 </div><span>:</span>
+                                {% endcomment %}
                                 <div class="hdt-product__countdown-item">
                                   <hdt-countdown-amount effect="move_top" data-hours>00</hdt-countdown-amount>
                                   <hdt-countdown-text singular="{{ 'sections.countdown_timmer.hr' | t }}" class="hdt-grid">{{ 'sections.countdown_timmer.hr_plural' | t }}</hdt-countdown-text>
