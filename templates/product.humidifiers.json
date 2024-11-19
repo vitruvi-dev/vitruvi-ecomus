@@ -66,6 +66,15 @@
           "disabled": true,
           "settings": {}
         },
+        "inventory_ftnW9y": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 100,
+            "show_inventory_quantity": false,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -76,18 +85,9 @@
             "show_compare": false
           }
         },
-        "inventory_ftnW9y": {
-          "type": "inventory",
-          "disabled": true,
-          "settings": {
-            "inventory_threshold": 20,
-            "show_inventory_quantity": false,
-            "show_progress_bar": false,
-            "progress_bar_max": 50
-          }
-        },
         "custom_liquid_QEPDwE": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($20 Value)\n      {% else %}\n        Free Gift ($25 Value)\n      {% endif %}\n    </h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
           }
@@ -135,8 +135,8 @@
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "quantity_selector_w49daP",
-        "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
+        "ad820e37-dee5-41f3-9692-bf46d9664103",
         "custom_liquid_QEPDwE",
         "description_Fh49zX",
         "img_trust_66mV4N",

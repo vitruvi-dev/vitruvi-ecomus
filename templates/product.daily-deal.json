@@ -61,6 +61,23 @@
             "size_chart_page": "size-chart"
           }
         },
+        "countdown_timer_cgYAJG": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "AVAILABLE TODAY ONLY",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
+        "inventory_ftnW9y": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 100
+          }
+        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -69,24 +86,6 @@
             "show_price_variant": false,
             "show_wishlist": false,
             "show_compare": false
-          }
-        },
-        "countdown_timer_cgYAJG": {
-          "type": "countdown_timer",
-          "settings": {
-            "content": "AVAILABLE TODAY ONLY",
-            "icon_svg": "none",
-            "ani": "none"
-          }
-        },
-        "inventory_ftnW9y": {
-          "type": "inventory",
-          "disabled": true,
-          "settings": {
-            "inventory_threshold": 20,
-            "show_inventory_quantity": false,
-            "show_progress_bar": false,
-            "progress_bar_max": 50
           }
         },
         "custom_liquid_3Xt8DR": {
@@ -133,6 +132,7 @@
         },
         "custom_liquid_NMVphJ": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% unless product.title contains 'Humid' or product.title contains 'Scent' %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n    <div class=\"byob-img\">\n      <a href=\"/products/build-your-own-diffuser-bundle\">\n        <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_starter-bundle-terracotta_gallery_1_image_v6.png?v=1725487963\">\n      </a>\n    </div>\n    <div class=\"byob-text\">\n      <a href=\"/products/build-your-own-diffuser-bundle\">\n        <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Personalize Your Bundle</h5>\n        <p>Mix and match your favorite diffusers and scents to craft a unique bundle for your home.</p>\n      </a>\n    </div>\n    <div class=\"byob-button\">\n      <a href=\"/products/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n        <span>GET STARTED</span>\n      </a>\n    </div>\n  </div>\n{% endunless %}"
           }
@@ -144,9 +144,9 @@
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
-        "ad820e37-dee5-41f3-9692-bf46d9664103",
         "countdown_timer_cgYAJG",
         "inventory_ftnW9y",
+        "ad820e37-dee5-41f3-9692-bf46d9664103",
         "custom_liquid_3Xt8DR",
         "custom_liquid_bmN8tT",
         "description_Fh49zX",

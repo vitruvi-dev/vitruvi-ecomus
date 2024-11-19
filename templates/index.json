@@ -145,10 +145,10 @@
             "url": "shopify://collections/best-sellers",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>LIMITED-TIME OFFER</strong><br/>SHOP EARLY, SHIP FREE</p>",
+            "heading": "<p><strong>LIMITED-TIME OFFER</strong><br/><em>SHOP EARLY, SHIP FREE</em></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Start checking off your list with ease. Shop early and enjoy free shipping on all orders with code: <b>FREESHIP</b>.",
+            "sub_heading": "Start checking off your list with ease. Shop early and enjoy free shipping on all orders with code: FREESHIP.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP NOW",
@@ -167,20 +167,21 @@
         },
         "slide_base_b7CGHT": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/page_home_hero_bf-early-access_image_desktop.png",
-            "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
-            "url": "shopify://collections/black-friday-early-access",
+            "image": "shopify://shop_images/page_home_hero_bfcm-2024_image_desktop_v1.png",
+            "image_mb": "shopify://shop_images/page_home_hero_bfcm-2024_image_mobile_v1.jpg",
+            "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>BLACK FRIDAY EARLY ACCESS</strong><br/>25% OFF SITEWIDE<br/></p>",
+            "heading": "<p><strong>UP TO 40% OFF SITEWIDE</strong></p><p><em>BLACK FRIDAY SALE</em></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Start gifting season with exclusive savings. Discover humidifiers, diffusers, and scents crafted to elevate any space—making this holiday truly special.",
+            "sub_heading": "Our biggest sale of the year is here. Shop best-sellers at their best price for the holiday season.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP SALE",
-            "btn_link": "shopify://collections/black-friday-early-access",
+            "btn_link": "shopify://collections/black-friday-sale",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -195,20 +196,19 @@
         },
         "slide_base_V9bYLq": {
           "type": "slide_base",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
             "url": "shopify://collections/holiday-collection",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>NEW</strong><br/>HOLIDAY COLLECTION</p>",
+            "heading": "<p><strong>LAST CHANCE</strong><br/><em>HOLIDAY COLLECTION</em></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "Transform your space with our limited-edition holiday collection, featuring festive scents and beautifully crafted diffusers to make every moment feel special.",
+            "sub_heading": "Don’t wait—our holiday collection is selling fast. Festive scents and diffusers, perfect for gifting.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
-            "btn_label": "SHOP HOLIDAY",
+            "btn_label": "SHOP NOW",
             "btn_link": "shopify://collections/holiday-collection",
             "target": false,
             "btn_size": "xl",
@@ -229,9 +229,10 @@
         "slide_base_V9bYLq"
       ],
       "custom_css": [
-        "h2 {font-family: \"Kaftan\";}",
+        "em {font-family: \"Kaftan\"; font-style: normal;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
-        ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}"
+        ".hdt-h5 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        "@media (max-width: 767px) {.hdt-content {margin-bottom: 200px; }}"
       ],
       "settings": {
         "full_width": true,
@@ -252,62 +253,6 @@
         "dot_space": 57,
         "padding_top": 0,
         "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "countdown_text_7Qr8m8": {
-      "type": "countdown_text",
-      "blocks": {
-        "text_ACcXwy": {
-          "type": "text",
-          "settings": {
-            "heading": "Only Available Until"
-          }
-        },
-        "button_k6gWgC": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "btn_label": "Shop Now",
-            "btn_link": "shopify://collections/labor-day-sale",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "2"
-          }
-        },
-        "text_2_HVAADq": {
-          "type": "text_2",
-          "settings": {
-            "sub_heading": "Limited-Tim"
-          }
-        }
-      },
-      "block_order": [
-        "text_ACcXwy",
-        "button_k6gWgC",
-        "text_2_HVAADq"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h4 {font-family: \"Heldane\";}"
-      ],
-      "settings": {
-        "full_width": true,
-        "year": 2024,
-        "month": 11,
-        "day": 5,
-        "hour": 0,
-        "minute": 0,
-        "effect_cd": "none",
-        "uppercase": false,
-        "prepend_number": false,
-        "hide_on_complete": true,
-        "mess_complete": "",
-        "color_scheme": "",
-        "padding_top": 76,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -377,9 +322,9 @@
         "collection_item_QXdRwA": {
           "type": "collection_item",
           "settings": {
-            "collection": "black-friday-early-access",
+            "collection": "scents",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "25% Off Sitewide",
+            "title": "Up to 35% off<br>Scent Kits & Bundles",
             "collection_link": ""
           }
         },
@@ -387,8 +332,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "essential-oil-diffusers",
-            "image": "shopify://shop_images/page_home_grid_bf-early-acess_diffuser_v2.jpg",
-            "title": "Save 25% On A Diffuser,<br>Get a Free Dusk Blend",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
+            "title": "Up to 35% off<br>Diffuser Bundles",
             "collection_link": ""
           }
         },
@@ -396,8 +341,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "humidifiers",
-            "image": "shopify://shop_images/page_home_grid_bf-early-acess_humidifier_v2.jpg",
-            "title": "Save 25% On A Humidifier,<br>Get Free Cleaning Tablets",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
+            "title": "Up to 30% off<br>Humidifier Bundles",
             "collection_link": ""
           }
         },
@@ -458,27 +403,23 @@
         "padding_rate": 60
       }
     },
-    "featured_collection_grid_TbDQLV": {
+    "featured_collection_grid_PV4GGr": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
-        "sec_heading": "New Arrivals",
+        "sec_heading": "Deals of the Day",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>100% naturally crafted holiday scents to create a cozy, inviting space.</p>",
-        "subheading_size": "base",
+        "sec_subheading": "<p>Today only: Get 40% off with our exclusive Black Friday Daily Deal—perfect for gifting this holiday season!</p>",
+        "subheading_size": "lg",
         "heading_reverse": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 100,
-        "collection": "",
-        "product_list": [
-          "cleaning-tablets",
-          "festive-favorites-essential-oil-kit",
-          "sugar-spice-diffuser-blend",
-          "forest-frost-diffuser-blend"
-        ],
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "black-friday-deals",
+        "product_list": [],
         "product_des": "10",
-        "image_ratio": "square",
+        "image_ratio": "adapt_image",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
@@ -488,16 +429,58 @@
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
-        "dis_pagination": 80,
-        "btn_label": "Load more",
-        "btn_style": "outline",
-        "btn_fw": "semibold",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
         "section_fullwidth": false,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 76,
-        "padding_bottom": 76,
-        "padding_rate": 76
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_RR9VXW": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "New Arrivals",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Don’t wait—our holiday collection is selling fast. Festive scents and diffusers, perfect for gifting.</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "festive-favorites-essential-oil-kit",
+          "forest-frost-diffuser-blend",
+          "sugar-spice-diffuser-blend",
+          "cleaning-tablets"
+        ],
+        "product_des": "10",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
       }
     },
     "featured_collection_grid_W6JYha": {
@@ -1016,10 +999,10 @@
     "video_GKb7jj",
     "video_kaFT9H",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
-    "countdown_text_7Qr8m8",
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",
-    "featured_collection_grid_TbDQLV",
+    "featured_collection_grid_PV4GGr",
+    "featured_collection_grid_RR9VXW",
     "featured_collection_grid_W6JYha",
     "slideshow_bHhppE",
     "282a0160-505d-43ff-b601-043a5a327bc2",
