@@ -129,7 +129,7 @@
         "enable_media_autoplay": false,
         "enable_video_looping": false,
         "enable_thumb_efect": false,
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "image_zoom": "no",
         "image_zoom_type": "external",

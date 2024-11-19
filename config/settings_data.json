@@ -291,7 +291,7 @@
             "art-of-flowers-custom-iphone-xs-max-bumper-case",
             "copy-of-2-hearts-interlock-pendant-necklace"
           ],
-          "image_ratio": "adapt_image",
+          "image_ratio": "square",
           "image_size": true,
           "color_scheme": "",
           "padding_top": 100,

@@ -99,7 +99,7 @@
         "use_select_varaint_change_media": false,
         "enable_media_autoplay": false,
         "enable_video_looping": false,
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "navUI": true,
         "nav_des": "default"

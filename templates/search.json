@@ -33,7 +33,7 @@
       "type": "main-search",
       "settings": {
         "product_des": "10",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",

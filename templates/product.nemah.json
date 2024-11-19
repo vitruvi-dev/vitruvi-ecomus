@@ -524,7 +524,7 @@
 
             ],
             "products_count": 3,
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true
           }
         },

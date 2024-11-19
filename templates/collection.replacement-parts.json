@@ -144,7 +144,7 @@
         "enable_media_autoplay": false,
         "enable_video_looping": false,
         "enable_thumb_efect": false,
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "image_zoom": "no",
         "image_zoom_type": "external",
@@ -178,7 +178,7 @@
           "humidifier-water-bucket"
         ],
         "product_des": "10",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
@@ -221,7 +221,7 @@
           "stay-diffuser-power-cord"
         ],
         "product_des": "10",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
