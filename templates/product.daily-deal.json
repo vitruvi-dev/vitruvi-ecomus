@@ -65,7 +65,7 @@
           "type": "countdown_timer",
           "settings": {
             "content": "AVAILABLE TODAY ONLY",
-            "icon_svg": "none",
+            "icon_svg": "clock",
             "ani": "none"
           }
         },
