@@ -322,9 +322,9 @@
         "collection_item_QXdRwA": {
           "type": "collection_item",
           "settings": {
-            "collection": "black-friday-early-access",
+            "collection": "bundle-and-save",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "25% Off Sitewide",
+            "title": "Up to 35% off<br>Scent Bundles",
             "collection_link": ""
           }
         },
@@ -332,8 +332,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "essential-oil-diffusers",
-            "image": "shopify://shop_images/page_home_grid_bf-early-acess_diffuser_v2.jpg",
-            "title": "Save 25% On A Diffuser,<br>Get a Free Dusk Blend",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
+            "title": "Up to 35% off<br>Diffuser Bundles",
             "collection_link": ""
           }
         },
@@ -341,8 +341,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "humidifiers",
-            "image": "shopify://shop_images/page_home_grid_bf-early-acess_humidifier_v2.jpg",
-            "title": "Save 25% On A Humidifier,<br>Get Free Cleaning Tablets",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
+            "title": "Up to 30% off<br>Humidifier Bundles",
             "collection_link": ""
           }
         },
