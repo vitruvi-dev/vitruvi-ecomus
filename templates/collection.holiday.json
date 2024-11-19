@@ -296,7 +296,7 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "scheme-1",
-        "padding_top": 0,
+        "padding_top": 76,
         "padding_bottom": 76,
         "padding_rate": 75
       }
@@ -679,18 +679,6 @@
         "view_products_details_8KXDwE": {
           "type": "view_products_details",
           "settings": {}
-        },
-        "img_trust_mxLpQ4": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
         }
       },
       "block_order": [
@@ -701,8 +689,7 @@
         "variant_picker_Q6iwNU",
         "description_tRaDMq",
         "buy_buttons_7QyWBF",
-        "view_products_details_8KXDwE",
-        "img_trust_mxLpQ4"
+        "view_products_details_8KXDwE"
       ],
       "settings": {
         "product": "cloud-humidifier-holiday-bundle",
