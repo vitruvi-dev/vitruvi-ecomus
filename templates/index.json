@@ -138,14 +138,13 @@
       "blocks": {
         "slide_base_fnDmKR": {
           "type": "slide_base",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
             "url": "shopify://collections/best-sellers",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>LIMITED-TIME OFFER</strong><br/>SHOP EARLY, SHIP FREE</p>",
+            "heading": "<p><strong>LIMITED-TIME OFFER</strong><br/><em>SHOP EARLY, SHIP FREE</em></p>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Start checking off your list with ease. Shop early and enjoy free shipping on all orders with code: FREESHIP.",
@@ -167,6 +166,7 @@
         },
         "slide_base_b7CGHT": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_bfcm-2024_image_desktop_v1.png",
             "image_mb": "shopify://shop_images/page_home_hero_bfcm-2024_image_mobile_v1.jpg",
