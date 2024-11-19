@@ -3867,7 +3867,7 @@ details[aria-expanded="true"] > summary > .hdt-btn-open-sub::before {
   min-width: calc(var(--text-base) + 1.2rem);
 }
 .hdt-product__countdown-time .hdt-product__countdown-inner > span{
-  margin: 0 0.3rem;
+  margin: 0 0.3rem 0 0;
 }
 .hdt-product__countdown-inner .hdt-product__countdown-time:not(:last-child):after {
   position: absolute;
