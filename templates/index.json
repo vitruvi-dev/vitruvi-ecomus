@@ -257,6 +257,123 @@
         "padding_rate": 75
       }
     },
+    "slideshow_EjwCVy": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_base_w7KgKE": {
+          "type": "slide_base",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/page_home_hero_holiday_image_desktop.jpg",
+            "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v3_mobile.png",
+            "url": "shopify://collections/best-sellers",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "heading": "<p><strong>LIMITED-TIME OFFER</strong><br/>SHOP EARLY, SHIP FREE</p>",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "Start checking off your list with ease. Shop early and enjoy free shipping on all orders with code: FREESHIP.",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "SHOP NOW",
+            "btn_link": "shopify://collections/best-sellers",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none",
+            "content_position": "center",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "slide_base_X9JycG": {
+          "type": "slide_base",
+          "settings": {
+            "image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_dc5448c4-90f6-45f0-8206-7ce5f3d3da9d.jpg",
+            "image_mb": "shopify://shop_images/Mobile_-_Homepage_-_Export_3x_compresspng.com_5475043c-5147-4d1d-9f04-71cf2de5bdc0.jpg",
+            "url": "shopify://collections/black-friday-sale",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "heading": "<p><strong>UP TO 40% OFF SITEWIDE</strong></p><p><em>BLACK FRIDAY SALE</em></p>",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "Our biggest sale of the year is here. Shop best-sellers at their best price for the holiday season.",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "SHOP BLACK FRIDAY",
+            "btn_link": "shopify://collections/black-friday-sale",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none",
+            "content_position": "center",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "slide_base_FaQwXa": {
+          "type": "slide_base",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
+            "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
+            "url": "shopify://collections/holiday-collection",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "heading": "<p><strong>NEW</strong><br/>HOLIDAY COLLECTION</p>",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "Transform your space with our limited-edition holiday collection, featuring festive scents and beautifully crafted diffusers to make every moment feel special.",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "SHOP HOLIDAY",
+            "btn_link": "shopify://collections/holiday-collection",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none",
+            "content_position": "center",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_base_w7KgKE",
+        "slide_base_X9JycG",
+        "slide_base_FaQwXa"
+      ],
+      "settings": {
+        "full_width": true,
+        "item_round": "rounded-lg",
+        "image_height": "full",
+        "fixed_height": 700,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "color_scheme": "",
+        "loop": true,
+        "auto_play": 10,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": true,
+        "dot_style": "outline",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 57,
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_yqNnyc": {
       "type": "image-with-text",
       "blocks": {
@@ -1103,6 +1220,7 @@
     "video_GKb7jj",
     "video_kaFT9H",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "slideshow_EjwCVy",
     "image_with_text_yqNnyc",
     "collections_list_ntQ9dE",
     "featured_product_qiKp9y",
