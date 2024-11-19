@@ -261,9 +261,9 @@
         "inventory_qmfPJn": {
           "type": "inventory",
           "settings": {
-            "inventory_threshold": 10,
+            "inventory_threshold": 100,
             "show_inventory_quantity": true,
-            "show_progress_bar": true,
+            "show_progress_bar": false,
             "progress_bar_max": 50
           }
         },
