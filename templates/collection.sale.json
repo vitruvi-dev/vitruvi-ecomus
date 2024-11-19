@@ -77,6 +77,13 @@
     "hero_image_3dNbDH": {
       "type": "hero-image",
       "blocks": {
+        "text_TaVJHq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>UP TO 40% OFF SITEWIDE</p>",
+            "adding_border": false
+          }
+        },
         "heading_gp79NX": {
           "type": "heading",
           "settings": {
@@ -84,20 +91,15 @@
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
-        },
-        "text_TaVJHq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>UP TO 40% OFF SITEWIDE</p>",
-            "adding_border": false
-          }
         }
       },
       "block_order": [
-        "heading_gp79NX",
-        "text_TaVJHq"
+        "text_TaVJHq",
+        "heading_gp79NX"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "p {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}"
+      ],
       "settings": {
         "image_height": "fixed",
         "fixed_height": 200,
