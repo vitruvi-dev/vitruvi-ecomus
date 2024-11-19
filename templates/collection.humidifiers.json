@@ -296,76 +296,6 @@
         "padding_rate": 75
       }
     },
-    "slideshow_hFrmrV": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_label_d3L9Wa": {
-          "type": "slide_label",
-          "settings": {
-            "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
-            "image_mb": "shopify://shop_images/byob-slide-humidifier-mobile.jpg",
-            "url": "shopify://products/build-your-own-humidifier-bundle",
-            "banner_target": false,
-            "color_scheme": "scheme-3",
-            "sub_heading": "Build Your Own Humidifier Bundle",
-            "sub_heading_fs": "h4",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "Pick the humidifier and accessories that suit your space and save up to 35%.",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "GET STARTED",
-            "btn_link": "shopify://products/build-your-own-humidifier-bundle",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "medium",
-            "btn2_icon": "none",
-            "content_bg": false,
-            "content_position": "center-start",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_label_d3L9Wa"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"Founders Grotesk\";}",
-        "p {font-family: \"Heldane\";}"
-      ],
-      "settings": {
-        "full_width": false,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 600,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
-        "color_scheme": "",
-        "loop": false,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "featured_product_LeTBbA": {
       "type": "featured-product",
       "blocks": {
@@ -379,16 +309,6 @@
             "custom_liquid": ""
           }
         },
-        "buy_buttons_R8rhbx": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
         "description_jUGCPy": {
           "type": "description",
           "settings": {
@@ -397,20 +317,21 @@
             "length": 31
           }
         },
-        "view_products_details_eVUc8T": {
-          "type": "view_products_details",
-          "settings": {}
+        "custom_liquid_XHzRt3": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"/products/build-your-own-humidifier-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
+          }
         }
       },
       "block_order": [
         "title_yDejEP",
         "custom_liquid_CaXNgR",
-        "buy_buttons_R8rhbx",
         "description_jUGCPy",
-        "view_products_details_eVUc8T"
+        "custom_liquid_XHzRt3"
       ],
       "settings": {
-        "product": "cloud-humidifier",
+        "product": "build-your-own-humidifier-bundle",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
@@ -620,7 +541,6 @@
     "featured_product_bXQc7z",
     "featured_collection_grid_yaaUxb",
     "featured_collection_grid_Qak8RN",
-    "slideshow_hFrmrV",
     "featured_product_LeTBbA",
     "accordion_qkAGnW"
   ]
