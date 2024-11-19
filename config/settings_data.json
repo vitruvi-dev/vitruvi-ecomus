@@ -589,7 +589,7 @@
   "platform_customizations": {
     "custom_css": [
       ".hdt-badge__holiday-exclusive,.hdt_label_new {background-color: #ab4e52 !important;}",
-      "#hdt-menu-black-friday-sale {background-color: black !important; font-weight: 400 !important;}",
+      "#hdt-menu-black-friday-sale {background-color: black !important; color: white !important; padding: 5px; border-radius: 5px;}",
       ".hdt-badge__black-friday-daily-deal {background-color: #eac661 !important; color: black !important;}"
     ]
   }
