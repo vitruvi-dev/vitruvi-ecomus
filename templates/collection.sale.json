@@ -45,6 +45,110 @@
         "padding_rate": 75
       }
     },
+    "top_heading_LKRnyK": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_wpqzpJ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_wpqzpJ"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 0,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_3dNbDH": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_gp79NX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<span class=\"bfcm-header\">Black Friday Sale</span>",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "heading_VNYyGF": {
+          "type": "heading",
+          "settings": {
+            "heading": "30% OFF DIFFUSERS<br>30% OFF HUMIDIFIERS<br>UP TO 40% OFF SCENTS & BUNDLES",
+            "heading_fs": "h6",
+            "heading_fw": "normal"
+          }
+        },
+        "text_TaVJHq": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>UP TO 40% OFF SITEWIDE</p>",
+            "adding_border": false
+          }
+        },
+        "button_nLyPBx": {
+          "type": "button",
+          "settings": {
+            "btn_label": "30% OFF DIFFUSERS",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gp79NX",
+        "heading_VNYyGF",
+        "text_TaVJHq",
+        "button_nLyPBx"
+      ],
+      "custom_css": [
+        ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
+        ".bfcm-header {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
+        "@media (max-width: 767px) {.bfcm-header {font-size: 150%; } .save40sitewide {font-size: 80%; }}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/page_collection_hero_bfcm-2024_image_desktop_v1.jpg",
+        "image_mb": "shopify://shop_images/Collection_Hero_-_Mobile-1.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center-start",
+        "content_align": "left",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "hero_image_qXm9YJ": {
       "type": "hero-image",
       "blocks": {
@@ -130,97 +234,6 @@
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_LKRnyK": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_wpqzpJ": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_wpqzpJ"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
-      ],
-      "settings": {
-        "spacing_item": 0,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_3dNbDH": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_gp79NX": {
-          "type": "heading",
-          "settings": {
-            "heading": "<span class=\"bfcm-header\">Black Friday Sale</span>",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "heading_VNYyGF": {
-          "type": "heading",
-          "settings": {
-            "heading": "30% OFF DIFFUSERS<br>30% OFF HUMIDIFIERS<br>UP TO 40% OFF SCENTS & BUNDLES",
-            "heading_fs": "h6",
-            "heading_fw": "normal"
-          }
-        },
-        "text_TaVJHq": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>UP TO 40% OFF SITEWIDE</p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_gp79NX",
-        "heading_VNYyGF",
-        "text_TaVJHq"
-      ],
-      "custom_css": [
-        ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
-        ".bfcm-header {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
-        "@media (max-width: 767px) {.bfcm-header {font-size: 150%; } .save40sitewide {font-size: 80%; }}"
-      ],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 200,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/page_collection_hero_bfcm-2024_image_desktop_v1.jpg",
-        "image_mb": "shopify://shop_images/Collection_Hero_-_Mobile-1.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center-start",
-        "content_align": "left",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 100,
-        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -475,6 +488,17 @@
         "color_scheme": "",
         "padding_top": 76,
         "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_DrMBXX": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"diffusers\"></span>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -1071,6 +1095,7 @@
     "featured_collection_grid_eF6zJd",
     "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
+    "custom_liquid_DrMBXX",
     "featured_product_q3qnpt",
     "featured_collection_grid_Kqfchz",
     "custom_liquid_j3RYQE",
