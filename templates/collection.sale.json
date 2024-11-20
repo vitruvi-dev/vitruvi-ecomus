@@ -45,6 +45,94 @@
         "padding_rate": 75
       }
     },
+    "hero_image_qXm9YJ": {
+      "type": "hero-image",
+      "blocks": {
+        "text_HHjehV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "adding_border": false
+          }
+        },
+        "button_MRMVLR": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Scents Deals",
+            "btn_link": "#scents",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_x6iQgA": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "button_hezYg9": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "button_Jh3cBy": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "text_HHjehV",
+        "button_MRMVLR",
+        "button_x6iQgA",
+        "button_hezYg9",
+        "button_Jh3cBy"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 100,
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
@@ -971,100 +1059,13 @@
         "padding_bottom": 0,
         "padding_rate": 75
       }
-    },
-    "hero_image_qXm9YJ": {
-      "type": "hero-image",
-      "blocks": {
-        "text_HHjehV": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
-            "adding_border": false
-          }
-        },
-        "button_MRMVLR": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Scents Deals",
-            "btn_link": "#scents",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        },
-        "button_x6iQgA": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "button_hezYg9": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "button_Jh3cBy": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "text_HHjehV",
-        "button_MRMVLR",
-        "button_x6iQgA",
-        "button_hezYg9",
-        "button_Jh3cBy"
-      ],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 200,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 100,
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "heading",
     "top_heading_LKRnyK",
     "hero_image_3dNbDH",
+    "hero_image_qXm9YJ",
     "custom_line_zAe7AX",
     "main",
     "featured_collection_grid_eF6zJd",
@@ -1079,7 +1080,6 @@
     "collections_list_simple_kY6xMW",
     "accordion_inline_tzAiHJ",
     "collections_list_rcbPdc",
-    "custom_line_GAKQtn",
-    "hero_image_qXm9YJ"
+    "custom_line_GAKQtn"
   ]
 }
