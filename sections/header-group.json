@@ -20,6 +20,12 @@
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
         },
+        "announcement_RpXxkp": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Free Shipping on Orders Over $75</a>"
+          }
+        },
         "announcement_7iU4bq": {
           "type": "announcement",
           "disabled": true,
@@ -44,6 +50,7 @@
       },
       "block_order": [
         "announcement_RzCepp",
+        "announcement_RpXxkp",
         "announcement_7iU4bq",
         "announcement_eeYyAc",
         "announcement_RqB4ka"
