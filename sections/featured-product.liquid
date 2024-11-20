@@ -22,9 +22,9 @@
         <div class="hdt-row-flex hdt-flex-cols-1 md:hdt-flex-cols-2 hdt-desktop-media-position-{{ section.settings.desktop_media_position }}">
           {%- if product != empty -%}
             <div class="hdt-col hdt-product-media-wrapp">
-              <a href="{{ product.url }}">
+              {% comment %}<a href="{{ product.url }}">{% endcomment %}
               {%- render 'product-media', product: product, product_form_id: product_form_id, un_no_pick: un_no_pick, selected_variant: selected_variant -%}
-              </a>
+              {% comment %}</a>{% endcomment %}
             </div>
             <div class="hdt-col hdt-product-info-wrapp">
               <div id="product-zoom-{{ section.id }}" class="hdt-produc-zoom--wrapp"></div>
