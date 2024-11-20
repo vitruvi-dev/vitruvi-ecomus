@@ -80,7 +80,7 @@
         "heading_gp79NX": {
           "type": "heading",
           "settings": {
-            "heading": "<span class=\"bfcm-header\">BLACK FRIDAY SALE</span>",
+            "heading": "<span class=\"bfcm-header\">Black Friday Sale</span>",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -533,6 +533,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_j3RYQE": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"scents\"></span>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "featured_product_L794ER": {
       "type": "featured-product",
       "blocks": {
@@ -972,6 +983,7 @@
     "featured_collection_grid_EcUNwb",
     "featured_product_q3qnpt",
     "featured_collection_grid_Kqfchz",
+    "custom_liquid_j3RYQE",
     "featured_product_L794ER",
     "featured_collection_grid_j8DcaG",
     "slideshow_bHhppE",
