@@ -264,8 +264,8 @@
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"humidifiers\"></span>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -445,8 +445,8 @@
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"diffusers\"></span>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -599,8 +599,8 @@
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"scents\"></span>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
