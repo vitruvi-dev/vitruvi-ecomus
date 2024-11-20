@@ -262,7 +262,7 @@
       "type": "custom-liquid",
       "settings": {
         "section_fullwidth": false,
-        "custom_liquid": "<span id=\"humidifier></span>",
+        "custom_liquid": "<span id=\"humidifier\"></span>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40,
