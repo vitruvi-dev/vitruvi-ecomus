@@ -171,6 +171,9 @@
         "button_3PiKGU",
         "button_MRMVLR"
       ],
+      "custom_css": [
+        ".hdt-container-full {height: 50px; width: 100%; padding: 0; }"
+      ],
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 200,
