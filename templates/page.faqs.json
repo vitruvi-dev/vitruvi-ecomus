@@ -248,6 +248,13 @@
     "accordion_inline_TYMAQf": {
       "type": "accordion_inline",
       "blocks": {
+        "accordion_item_CeBMkU": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Updates for Canadian Orders: Canada Post",
+            "content": "Please note that we are continuously monitoring the Canada Post strike, which started Friday November 15th and will communicate all relevant updates here.<br><br>If you previously placed a Vitruvi order that was shipped with Canada Post and it has not been delivered we are working to ensure your order is delivered as quickly as possible. All orders placed will be shipped with Canada Post until we receive further updates and we will continue to monitor the strike situation."
+          }
+        },
         "accordion_item_B8X6fi": {
           "type": "accordion_item",
           "settings": {
@@ -275,28 +282,21 @@
             "title": "How much is shipping?",
             "content": "Orders over $75 (before tax) ship free, with standard shipping, to Canada and the United States. Orders to Puerto Rico, Hawaii, and Alaska have a $30 shipping charge; this fee is waived on orders over $200."
           }
-        },
-        "accordion_item_CeBMkU": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Canada Post",
-            "content": "Please note that we are continuously monitoring the Canada Post strike, which started Friday November 15th and will communicate all relevant updates here.<br><br>If you previously placed a Vitruvi order that was shipped with Canada Post and it has not been delivered we are working to ensure your order is delivered as quickly as possible. All orders placed will be shipped with Canada Post until we receive further updates and we will continue to monitor the strike situation."
-          }
         }
       },
       "block_order": [
+        "accordion_item_CeBMkU",
         "accordion_item_B8X6fi",
         "accordion_item_XPMc3R",
         "accordion_item_hYVatx",
-        "accordion_item_rbC9e3",
-        "accordion_item_CeBMkU"
+        "accordion_item_rbC9e3"
       ],
       "settings": {
         "top_heading": "SHIPPING",
         "heading_tag": "h3",
         "heading_size": "h5",
         "accordion_icon": "2",
-        "open_first": false,
+        "open_first": true,
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
@@ -334,6 +334,7 @@
         "accordion_item_U4bBBq",
         "accordion_item_mjgdAi"
       ],
+      "disabled": true,
       "settings": {
         "top_heading": "RETURNS",
         "heading_tag": "h3",
