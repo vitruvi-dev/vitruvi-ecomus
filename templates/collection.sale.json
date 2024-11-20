@@ -80,7 +80,7 @@
         "heading_gp79NX": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday Sale",
+            "heading": "<span class=\"bfcm-header\">Black Friday Sale</span>",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -108,8 +108,8 @@
         "text_TaVJHq"
       ],
       "custom_css": [
-        "span {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
-        "@media (max-width: 767px) {.save40sitewide {font-size: 80%; }}"
+        ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
+        "@media (max-width: 767px) {.save40sitewide {font-size: 120%; }}"
       ],
       "settings": {
         "image_height": "fixed",
@@ -215,7 +215,7 @@
         "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 50,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -342,8 +342,8 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
+        "padding_top": 76,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -384,8 +384,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
+        "padding_top": 76,
+        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
