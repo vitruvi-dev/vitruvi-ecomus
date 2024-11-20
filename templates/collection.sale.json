@@ -80,7 +80,7 @@
         "heading_gp79NX": {
           "type": "heading",
           "settings": {
-            "heading": "<span class=\"bfcm-header\">Black Friday Sale</span>",
+            "heading": "<span class=\"bfcm-header\">BLACK FRIDAY SALE</span>",
             "heading_fs": "h3",
             "heading_fw": "normal"
           }
@@ -109,6 +109,7 @@
       ],
       "custom_css": [
         ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
+        ".bfcm-header {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
         "@media (max-width: 767px) {.bfcm-header {font-size: 150%; } .save40sitewide {font-size: 80%; }}"
       ],
       "settings": {
