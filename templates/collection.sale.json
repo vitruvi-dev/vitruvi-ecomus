@@ -105,7 +105,7 @@
           "type": "button",
           "settings": {
             "btn_label": "30% OFF DIFFUSERS",
-            "btn_link": "",
+            "btn_link": "#diffusers",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
