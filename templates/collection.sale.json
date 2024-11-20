@@ -162,6 +162,10 @@
         "collection_item_FJ9cck",
         "collection_item_3tzmMw"
       ],
+      "custom_css": [
+        "@media (max-width: 767px) {.hdt-wrap {justify-content: safe center; }}",
+        ".hdt-wrap {justify-content: safe start;}"
+      ],
       "settings": {
         "color_scheme": "",
         "style": "small",
