@@ -104,8 +104,20 @@
         "button_nLyPBx": {
           "type": "button",
           "settings": {
-            "btn_label": "30% OFF DIFFUSERS",
+            "btn_label": "DIFFUSER DEALS",
             "btn_link": "#diffusers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_UtTB7A": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SCENTS",
+            "btn_link": "# SCENTS",
             "target": false,
             "btn_size": "base",
             "btn_style": "link",
@@ -118,7 +130,8 @@
         "heading_gp79NX",
         "heading_VNYyGF",
         "text_TaVJHq",
-        "button_nLyPBx"
+        "button_nLyPBx",
+        "button_UtTB7A"
       ],
       "custom_css": [
         ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
@@ -151,11 +164,16 @@
     "hero_image_qXm9YJ": {
       "type": "hero-image",
       "blocks": {
-        "text_HHjehV": {
-          "type": "text",
+        "button_3PiKGU": {
+          "type": "button",
           "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
-            "adding_border": false
+            "btn_label": "Diffuser Deals",
+            "btn_link": "#diffusers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
           }
         },
         "button_MRMVLR": {
@@ -165,21 +183,9 @@
             "btn_link": "#scents",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
             "btn_icon": "none"
-          }
-        },
-        "button_x6iQgA": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
           }
         },
         "button_hezYg9": {
@@ -208,17 +214,17 @@
         }
       },
       "block_order": [
-        "text_HHjehV",
+        "button_3PiKGU",
         "button_MRMVLR",
-        "button_x6iQgA",
         "button_hezYg9",
         "button_Jh3cBy"
       ],
       "settings": {
-        "image_height": "fixed",
+        "image_height": "adapt_image",
         "fixed_height": 200,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 100,
+        "image": "shopify://shop_images/transparent1000.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -230,8 +236,8 @@
         "content_align_mb": "center",
         "full_width": true,
         "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
         "padding_bottom": 36,
         "padding_rate": 75
       }
