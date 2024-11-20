@@ -163,7 +163,7 @@
         "collection_item_3tzmMw"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {.hdt-wrap {justify-content: safe center; }}",
+        "@media (max-width: 767px) {.hdt-wrap {margin-left: 20%; margin-right: 20%; }}",
         ".hdt-wrap {justify-content: safe start;}"
       ],
       "settings": {
