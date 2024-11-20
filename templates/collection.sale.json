@@ -258,6 +258,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_dNQJp8": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"humidifier",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "featured_product_4PVpj9": {
       "type": "featured-product",
       "blocks": {
@@ -893,119 +904,6 @@
         "padding_rate": 75
       }
     },
-    "accordion_inline_tzAiHJ": {
-      "type": "accordion_inline",
-      "blocks": {
-        "accordion_item_WLfGVL": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How do essential oils and diffusing help with sleep?",
-            "content": "Scent can have a powerful effect on the brain and body. Studies have shown that inhaling certain essential oils before bed can help relax the nervous system, slow down heart rate and blood pressure, and promote feelings of calm."
-          }
-        },
-        "accordion_item_RCe7bx": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How does a humidifier help with sleep?",
-            "content": "If the air in your bedroom isn’t hydrated properly, it can cause inflammation, irritation, blocked throats and noses, and even snoring—all of which can disrupt your sleep. The Cloud Humidifier hydrates your air to an optimal level and is bedside table-friendly in size. Most importantly, it’s whisper quiet and features a light-free night mode so that it works without distracting your slumber."
-          }
-        },
-        "accordion_item_ErrFTF": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "What are the best essential oils for sleep?",
-            "content": "Popular essential oils for sleep include Lavender, Bergamot, Cedarwood, Frankincense, and Eucalyptus. These oils are known for their calming and relaxing properties, which can help soothe your mind and body, making it easier to fall asleep. Experiment with different oils and blends to find what works best for you."
-          }
-        }
-      },
-      "block_order": [
-        "accordion_item_WLfGVL",
-        "accordion_item_RCe7bx",
-        "accordion_item_ErrFTF"
-      ],
-      "disabled": true,
-      "settings": {
-        "top_heading": "FREQUENTLY ASKED QUESTIONS",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "accordion_icon": "2",
-        "open_first": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "padding_rate": 75
-      }
-    },
-    "collections_list_rcbPdc": {
-      "type": "collections-list",
-      "blocks": {
-        "collection_item_K4HUcL": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/Diffuser_Decor_AD14_V1_Stone-White-Boost-Golden_2024_Q1_Evergreen_Image_Square.png",
-            "title": "The Best Essential Oils for Sleep",
-            "collection_link": "shopify://blogs/health-and-wellness/the-best-essential-oils-for-sleep"
-          }
-        },
-        "collection_item_dYzPHV": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/collection_sleep-humidifier-bedside.jpg",
-            "title": "Transform Your Bedroom Into a Sleep Oasis",
-            "collection_link": "shopify://blogs/spaces/transform-your-bedroom-into-a-sleep-oasis"
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_K4HUcL",
-        "collection_item_dYzPHV"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".hdt-collection-count {display: none;}"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Natural Habitat",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "<p>RELATED STORIES FROM</p>",
-        "subheading_size": "lg",
-        "heading_reverse": true,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [],
-        "collection_des": "4",
-        "content_size": "4xl",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "center",
-        "content_padding": 30,
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "2",
-        "col_tb": "2",
-        "col_mb": "2",
-        "space_items": "x",
-        "half_item": false,
-        "navUI": false,
-        "nav_des": "default",
-        "nav_pos": "middle_in",
-        "dotUI": false,
-        "dots_pos": "default",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "boxed_content": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
     "custom_line_GAKQtn": {
       "type": "custom-line",
       "custom_css": [],
@@ -1030,6 +928,7 @@
     "custom_line_zAe7AX",
     "main",
     "featured_collection_grid_eF6zJd",
+    "custom_liquid_dNQJp8",
     "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
     "custom_liquid_DrMBXX",
@@ -1040,8 +939,6 @@
     "featured_collection_grid_j8DcaG",
     "slideshow_bHhppE",
     "collections_list_simple_kY6xMW",
-    "accordion_inline_tzAiHJ",
-    "collections_list_rcbPdc",
     "custom_line_GAKQtn"
   ]
 }
