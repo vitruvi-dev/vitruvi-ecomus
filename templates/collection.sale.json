@@ -126,75 +126,46 @@
         "padding_rate": 75
       }
     },
-    "hero_image_qXm9YJ": {
-      "type": "hero-image",
+    "categories_section_kV6JP9": {
+      "type": "categories-section",
       "blocks": {
-        "button_463Nct": {
-          "type": "button",
+        "collection_item_XAzK6L": {
+          "type": "collection_item",
           "settings": {
-            "btn_label": "Humidifier Deals",
-            "btn_link": "#diffusers",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "2"
+            "collection": "",
+            "image": "shopify://shop_images/pdp_essential-oil-blend_forest-frost_gallery_4_image.jpg",
+            "title": "Diffuser Deals",
+            "collection_link": "#diffusers"
           }
         },
-        "button_3PiKGU": {
-          "type": "button",
+        "collection_item_FJ9cck": {
+          "type": "collection_item",
           "settings": {
-            "btn_label": "Diffuser Deals",
-            "btn_link": "#diffusers",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "2"
+            "collection": "",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
+            "title": "Humidifier Deals",
+            "collection_link": "#humidifiers"
           }
         },
-        "button_MRMVLR": {
-          "type": "button",
+        "collection_item_3tzmMw": {
+          "type": "collection_item",
           "settings": {
-            "btn_label": "Scent Deals",
-            "btn_link": "#scents",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "2"
+            "collection": "",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "Scents Deals",
+            "collection_link": "#scents"
           }
         }
       },
       "block_order": [
-        "button_463Nct",
-        "button_3PiKGU",
-        "button_MRMVLR"
-      ],
-      "custom_css": [
-        ".hdt-container-full {height: 50px; width: 100%; padding: 0;}",
-        ".hdt-hero-image__inner {width: 100%;}",
-        "@media (max-width: 767px) {.hdt-btn {font-size: 14px; margin: 5px; }}"
+        "collection_item_XAzK6L",
+        "collection_item_FJ9cck",
+        "collection_item_3tzmMw"
       ],
       "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 200,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/transparent1000-50.png",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-2",
-        "padding_top": 0,
+        "color_scheme": "",
+        "style": "small",
+        "padding_top": 40,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -1051,7 +1022,7 @@
     "heading",
     "top_heading_LKRnyK",
     "hero_image_3dNbDH",
-    "hero_image_qXm9YJ",
+    "categories_section_kV6JP9",
     "custom_line_zAe7AX",
     "main",
     "featured_collection_grid_eF6zJd",
