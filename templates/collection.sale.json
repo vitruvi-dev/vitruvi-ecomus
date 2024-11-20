@@ -109,7 +109,7 @@
       ],
       "custom_css": [
         ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
-        "@media (max-width: 767px) {.save40sitewide {font-size: 120%; }}"
+        "@media (max-width: 767px) {.bfcm-header {font-size: 150%; } .save40sitewide {font-size: 80%; }}"
       ],
       "settings": {
         "image_height": "fixed",
