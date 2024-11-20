@@ -17,7 +17,7 @@
         "announcement_RpXxkp": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\"><span style=\"text-decoration:underline\">Free Shipping on Orders Over $75</span></a>"
+            "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Free Shipping on Orders Over $75</a>"
           }
         },
         "announcement_RzCepp": {
