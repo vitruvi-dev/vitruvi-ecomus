@@ -38,7 +38,7 @@
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\"><span style=\"text-decoration:underline\">Black Friday Sale: Up to 40% Off Sitewide</span></a>"
+            "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\">Black Friday Sale: Up to 40% Off Sitewide</a>"
           }
         },
         "announcement_UYaNeX": {
