@@ -568,8 +568,13 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "essential-oil-diffusers",
-        "product_list": [],
+        "collection": "",
+        "product_list": [
+          "stone-essential-oil-diffuser",
+          "move-cordless-essential-oil-diffuser",
+          "starter-stone-diffuser-bundle",
+          "sleep-stone-diffuser-bundle"
+        ],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
