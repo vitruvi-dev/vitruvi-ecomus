@@ -247,7 +247,7 @@
         "pagination_type": "load_more",
         "paginate_pos": "center",
         "dis_pagination": 30,
-        "btn_label": "Load more deals",
+        "btn_label": "View all deals",
         "btn_style": "solid",
         "btn_fw": "normal",
         "section_fullwidth": false,
