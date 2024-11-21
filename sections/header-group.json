@@ -185,20 +185,6 @@
             "mega_width": "custom",
             "mega_custom_width": 600
           }
-        },
-        "mega_product_bLxktM": {
-          "type": "mega_product",
-          "settings": {
-            "title": "Black Friday Sale",
-            "product_list_title": "DEAL OF THE DAY",
-            "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
-            "image_ratio": "adapt_image",
-            "image_size": true,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "full",
-            "mega_custom_width": 1200
-          }
         }
       },
       "block_order": [
@@ -208,8 +194,7 @@
         "mega_product_3Dp8aK",
         "mega_shop_bUeJYD",
         "mega_product_iLwycz",
-        "mega_shop_xTkPbf",
-        "mega_product_bLxktM"
+        "mega_shop_xTkPbf"
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}"
