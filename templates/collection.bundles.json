@@ -159,10 +159,6 @@
             "show_compare": false
           }
         },
-        "view_products_details_YnHXDX": {
-          "type": "view_products_details",
-          "settings": {}
-        },
         "description_V763FM": {
           "type": "description",
           "settings": {
@@ -170,6 +166,10 @@
             "short_des": "",
             "length": 31
           }
+        },
+        "view_products_details_YnHXDX": {
+          "type": "view_products_details",
+          "settings": {}
         }
       },
       "block_order": [
@@ -178,8 +178,8 @@
         "price_4t4rAU",
         "countdown_timer_BXYpJn",
         "buy_buttons_HmLEbM",
-        "view_products_details_YnHXDX",
-        "description_V763FM"
+        "description_V763FM",
+        "view_products_details_YnHXDX"
       ],
       "settings": {
         "product": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product.value }}",
@@ -373,7 +373,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -479,7 +479,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 35%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
