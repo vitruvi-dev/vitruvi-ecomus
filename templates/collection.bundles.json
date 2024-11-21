@@ -144,7 +144,7 @@
         "countdown_timer_BXYpJn": {
           "type": "countdown_timer",
           "settings": {
-            "content": "Available Today Only",
+            "content": "AVAILABLE TODAY ONLY",
             "icon_svg": "clock",
             "ani": "none"
           }
