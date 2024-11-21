@@ -287,20 +287,20 @@
             "page": ""
           }
         },
-        "tab_html_8PLjap": {
-          "type": "tab_html",
-          "settings": {
-            "title": "How to Use",
-            "content": "",
-            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
-          }
-        },
         "tab_html_NGKtrx": {
           "type": "tab_html",
           "settings": {
             "title": "What's Inside",
             "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
             "page": ""
+          }
+        },
+        "tab_html_8PLjap": {
+          "type": "tab_html",
+          "settings": {
+            "title": "How to Use",
+            "content": "",
+            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
           }
         },
         "tab_html_KQpeCL": {
@@ -314,8 +314,8 @@
       },
       "block_order": [
         "tab_html_r8KYLQ",
-        "tab_html_8PLjap",
         "tab_html_NGKtrx",
+        "tab_html_8PLjap",
         "tab_html_KQpeCL"
       ],
       "settings": {
