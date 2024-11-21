@@ -168,6 +168,40 @@
         "padding_rate": 75
       }
     },
+    "top_heading_rVwG6A": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_7nMrY4": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_dqWtb9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_7nMrY4",
+        "heading_dqWtb9"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "accordion_inline_PENJHE": {
       "type": "accordion_inline",
       "blocks": {
@@ -208,40 +242,6 @@
         "color_scheme": "",
         "padding_top": 30,
         "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_rVwG6A": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_7nMrY4": {
-          "type": "sub_heading",
-          "disabled": true,
-          "settings": {
-            "sub_heading": "",
-            "sub_heading_fs": "base"
-          }
-        },
-        "heading_dqWtb9": {
-          "type": "heading",
-          "settings": {
-            "heading": "Frequently Asked Questions",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_7nMrY4",
-        "heading_dqWtb9"
-      ],
-      "settings": {
-        "spacing_item": 15,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -489,8 +489,8 @@
     "top_heading_pRXtHe",
     "top_heading_nBGwNX",
     "categories_section_NRfp3T",
-    "accordion_inline_PENJHE",
     "top_heading_rVwG6A",
+    "accordion_inline_PENJHE",
     "accordion_inline_TYMAQf",
     "accordion_inline_edHGqX",
     "accordion_inline_Jd9yFm",
