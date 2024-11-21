@@ -119,6 +119,93 @@
         "sidebar_size": "medium"
       }
     },
+    "featured_product_8Jr6jq": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_NKDMBL": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_YyExTQ": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_4t4rAU": {
+          "type": "price",
+          "settings": {}
+        },
+        "countdown_timer_BXYpJn": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "HURRY UP! SALE ENDS IN:",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
+        "buy_buttons_HmLEbM": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "view_products_details_YnHXDX": {
+          "type": "view_products_details",
+          "settings": {}
+        },
+        "description_V763FM": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        }
+      },
+      "block_order": [
+        "badges_NKDMBL",
+        "title_YyExTQ",
+        "price_4t4rAU",
+        "countdown_timer_BXYpJn",
+        "buy_buttons_HmLEbM",
+        "view_products_details_YnHXDX",
+        "description_V763FM"
+      ],
+      "settings": {
+        "product": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product.value }}",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_MH6UTf": {
       "type": "featured-collection-grid",
       "settings": {
@@ -660,6 +747,7 @@
     "top_heading_bkwELn",
     "custom_line_wPUBFN",
     "main",
+    "featured_product_8Jr6jq",
     "featured_collection_grid_MH6UTf",
     "slideshow_3BLn3a",
     "featured_collection_grid_yaaUxb",
