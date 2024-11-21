@@ -190,7 +190,7 @@
           "type": "mega_product",
           "settings": {
             "title": "Black Friday Sale",
-            "product_list_title": "BEST SELLER",
+            "product_list_title": "DEAL OF THE DAY",
             "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
             "image_ratio": "adapt_image",
             "image_size": true,
