@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -33,7 +42,7 @@
       "type": "main-search",
       "settings": {
         "product_des": "10",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",

@@ -50,7 +50,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "",
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -203,11 +203,11 @@
       "settings": {
         "product": "{{ collection.metafields.ecomus.featured_product_1.value }}",
         "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": false,
         "enable_video_looping": false,
         "enable_thumb_efect": false,

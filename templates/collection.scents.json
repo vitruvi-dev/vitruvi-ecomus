@@ -39,14 +39,14 @@
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 5,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
-    "top_heading_jyzzfA": {
+    "top_heading_6VWCD4": {
       "type": "top-heading",
       "blocks": {
-        "sub_heading_BDHJAt": {
+        "sub_heading_P6dMit": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
@@ -55,7 +55,7 @@
         }
       },
       "block_order": [
-        "sub_heading_BDHJAt"
+        "sub_heading_P6dMit"
       ],
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
@@ -71,7 +71,7 @@
         "padding_rate": 75
       }
     },
-    "custom_line_Tijyyn": {
+    "custom_line_MRrgDb": {
       "type": "custom-line",
       "settings": {
         "line_style": "solid",
@@ -87,7 +87,6 @@
     },
     "main": {
       "type": "main-collection",
-      "disabled": true,
       "custom_css": [],
       "settings": {
         "product_des": "10",
@@ -95,7 +94,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 8,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
@@ -111,205 +110,38 @@
         "count": true,
         "section_fullwidth": false,
         "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
-        "padding_top": 30,
-        "padding_bottom": 70,
+        "padding_top": 0,
+        "padding_bottom": 75,
         "padding_rate": 75,
         "sidebar_position": "left",
         "sidebar_size": "medium"
       }
     },
-    "featured_product_bXQc7z": {
+    "featured_product_8cGCrR": {
       "type": "featured-product",
       "blocks": {
-        "badges_CpdEUy": {
+        "badges_X8kgEy": {
           "type": "badges",
           "settings": {
             "special": "",
             "min": 10,
             "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
+            "content": "",
             "icon_svg": "flash",
             "ani": "none"
           }
         },
-        "title_pLthcz": {
+        "title_6knfch": {
           "type": "title",
           "settings": {}
         },
-        "price_XXRReG": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_RwY4Xy": {
-          "type": "variant_picker",
-          "settings": {
-            "pick_mode": "first",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "buy_buttons_VEzdyL": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "description_NimrCk": {
-          "type": "description",
-          "settings": {
-            "des": "2",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "view_products_details_VHeFNC": {
-          "type": "view_products_details",
-          "settings": {}
-        },
-        "img_trust_i3HRXm": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ section.settings.product.metafields.ecomus.pdp_badge.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 100
-          }
-        }
-      },
-      "block_order": [
-        "badges_CpdEUy",
-        "title_pLthcz",
-        "price_XXRReG",
-        "variant_picker_RwY4Xy",
-        "buy_buttons_VEzdyL",
-        "description_NimrCk",
-        "view_products_details_VHeFNC",
-        "img_trust_i3HRXm"
-      ],
-      "settings": {
-        "product": "cloud-humidifier",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": false,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 76,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_yaaUxb": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "{{ section.settings.collection.title }}",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>{{ section.settings.collection.description }}</p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "humidifier-accessories",
-        "product_list": [],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "load_more",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 76,
-        "padding_bottom": 76,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_Qak8RN": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "{{ section.settings.collection.title }}",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>{{ section.settings.collection.description }}</p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "humidifier-bundles",
-        "product_list": [],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 50,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "load_more",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 76,
-        "padding_bottom": 76,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_LeTBbA": {
-      "type": "featured-product",
-      "blocks": {
-        "title_yDejEP": {
-          "type": "title",
-          "settings": {}
-        },
-        "custom_liquid_CaXNgR": {
+        "custom_liquid_AYaic6": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 35% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 40% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
           }
         },
-        "description_jUGCPy": {
+        "description_ipUFrb": {
           "type": "description",
           "settings": {
             "des": "1",
@@ -317,21 +149,22 @@
             "length": 31
           }
         },
-        "custom_liquid_XHzRt3": {
+        "custom_liquid_Ynr4NE": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a href=\"/products/build-your-own-humidifier-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
+            "custom_liquid": "<a href=\"/products/build-your-own-scent-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
           }
         }
       },
       "block_order": [
-        "title_yDejEP",
-        "custom_liquid_CaXNgR",
-        "description_jUGCPy",
-        "custom_liquid_XHzRt3"
+        "badges_X8kgEy",
+        "title_6knfch",
+        "custom_liquid_AYaic6",
+        "description_ipUFrb",
+        "custom_liquid_Ynr4NE"
       ],
       "settings": {
-        "product": "build-your-own-humidifier-bundle",
+        "product": "build-your-own-scent-bundle",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
@@ -350,12 +183,12 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 76,
-        "padding_bottom": 76,
+        "padding_top": 52,
+        "padding_bottom": 52,
         "padding_rate": 75
       }
     },
-    "collections_list_simple_mRwffk": {
+    "collections_list_simple_dmyEFt": {
       "type": "collections-list-simple",
       "settings": {
         "heading_align": "center",
@@ -374,8 +207,8 @@
         "other_link": "",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 150,
-        "padding_bottom": 150,
+        "padding_top": 100,
+        "padding_bottom": 100,
         "padding_rate": 75
       }
     },
@@ -551,22 +384,19 @@
         "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 75,
-        "padding_bottom": 75,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     }
   },
   "order": [
     "heading",
-    "top_heading_jyzzfA",
-    "custom_line_Tijyyn",
+    "top_heading_6VWCD4",
+    "custom_line_MRrgDb",
     "main",
-    "featured_product_bXQc7z",
-    "featured_collection_grid_yaaUxb",
-    "featured_collection_grid_Qak8RN",
-    "featured_product_LeTBbA",
-    "collections_list_simple_mRwffk",
+    "featured_product_8cGCrR",
+    "collections_list_simple_dmyEFt",
     "accordion_qkAGnW"
   ]
 }

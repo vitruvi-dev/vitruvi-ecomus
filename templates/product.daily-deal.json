@@ -167,7 +167,7 @@
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": true,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": true,
         "enable_video_looping": true,
         "enable_thumb_efect": false,
@@ -826,7 +826,7 @@
             "collection": "womens-fashion",
             "product_list": [],
             "products_count": 3,
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true
           }
         },

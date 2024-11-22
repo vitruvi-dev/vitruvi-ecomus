@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_RzCepp": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
@@ -36,9 +37,14 @@
         },
         "announcement_RqB4ka": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\"><span style=\"text-decoration:underline\">Black Friday Sale: Up to 40% Off Sitewide</span></a>"
+            "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\">Black Friday Sale: Up to 40% Off Sitewide</a>"
+          }
+        },
+        "announcement_UYaNeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "<span style=\"text-decoration:underline\"><em>{{ localization.market.metafields.ecomus.announcement_notice.value }}</em></span>"
           }
         }
       },
@@ -46,7 +52,8 @@
         "announcement_RzCepp",
         "announcement_7iU4bq",
         "announcement_eeYyAc",
-        "announcement_RqB4ka"
+        "announcement_RqB4ka",
+        "announcement_UYaNeX"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
@@ -78,7 +85,7 @@
               "stone-diffuser-holiday-bundle",
               "cloud-humidifier-holiday-bundle"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -95,7 +102,7 @@
               "stone-diffuser-holiday-bundle",
               "build-your-own-diffuser-bundle"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -123,10 +130,10 @@
             "title": "Humidifiers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "cloud-humidifier",
+              "cloud-humidifier-holiday-bundle",
               "build-your-own-humidifier-bundle"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -154,8 +161,8 @@
             "title": "Scents",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "festive-favorites-essential-oil-kit",
-              "build-your-own-scent-bundle-8"
+              "black-friday-essential-oil-kit",
+              "build-your-own-scent-bundle"
             ],
             "image_ratio": "square",
             "image_size": true,
@@ -199,7 +206,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop",
+        "main_menu": "header_desktop_bfcm",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
@@ -209,13 +216,13 @@
         "active_link": true,
         "spacing_nav": 32,
         "open_event": "hover",
-        "header_menu_colors": "",
+        "header_menu_colors": "scheme-1",
         "enabled_user": true,
         "enabled_compare": false,
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile",
+        "main_menu_mobile": "header_mobile_bfcm",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",

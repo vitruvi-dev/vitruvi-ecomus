@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -50,7 +49,7 @@
         "sub_heading_P6dMit": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "",
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -88,8 +87,7 @@
         },
         "title_6knfch": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "custom_liquid_AYaic6": {
           "type": "custom_liquid",
@@ -123,17 +121,17 @@
       "settings": {
         "product": "build-your-own-scent-bundle",
         "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": false,
         "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
         "image_size": true,
-        "image_zoom": "zoom",
+        "image_zoom": "no",
         "image_zoom_type": "external",
         "zoom_level": 2,
         "max_zoom_lightbox": 3,
@@ -147,16 +145,14 @@
     },
     "main": {
       "type": "main-collection",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 8,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
@@ -177,75 +173,6 @@
         "padding_rate": 75,
         "sidebar_position": "left",
         "sidebar_size": "medium"
-      }
-    },
-    "slideshow_tUcbEP": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_label_9rLzGK": {
-          "type": "slide_label",
-          "settings": {
-            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
-            "url": "shopify://products/build-your-own-scent-bundle",
-            "banner_target": false,
-            "color_scheme": "scheme-3",
-            "sub_heading": "Build Your Own Scent Bundle",
-            "sub_heading_fs": "h4",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 35%.",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "GET STARTED",
-            "btn_link": "shopify://products/build-your-own-scent-bundle",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "medium",
-            "btn2_icon": "none",
-            "content_bg": false,
-            "content_position": "center-start",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_label_9rLzGK"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"Founders Grotesk\";}",
-        "p {font-family: \"Heldane\";}"
-      ],
-      "settings": {
-        "full_width": false,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 600,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
-        "color_scheme": "scheme-1",
-        "loop": false,
-        "auto_play": 5,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
       }
     },
     "accordion_qkAGnW": {
@@ -431,7 +358,6 @@
     "top_heading_6VWCD4",
     "featured_product_8cGCrR",
     "main",
-    "slideshow_tUcbEP",
     "accordion_qkAGnW"
   ]
 }

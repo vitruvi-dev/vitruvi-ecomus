@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breacrumb": {
@@ -139,11 +148,11 @@
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": true,
         "enable_video_looping": true,
-        "enable_thumb_efect": true,
-        "image_zoom": "zoom",
+        "enable_thumb_efect": false,
+        "image_zoom": "no",
         "image_zoom_type": "external",
         "zoom_level": 2,
         "max_zoom_lightbox": 3,
@@ -237,7 +246,7 @@
 
             ],
             "products_count": 3,
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true
           }
         },

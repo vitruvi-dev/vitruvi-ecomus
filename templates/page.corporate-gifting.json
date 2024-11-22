@@ -191,7 +191,7 @@
         "sec_heading_spacing": 30,
         "main_img": "shopify:\/\/shop_images\/page_corporate-gifting_image-2_2024-06.jpg",
         "image_pos": "left",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "custom_height": 860,
         "custom_height_tb": 300,
         "custom_height_mb": 300,

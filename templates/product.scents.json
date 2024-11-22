@@ -69,8 +69,8 @@
         "inventory_ftnW9y": {
           "type": "inventory",
           "settings": {
-            "inventory_threshold": 100,
-            "show_inventory_quantity": false,
+            "inventory_threshold": 50,
+            "show_inventory_quantity": true,
             "show_progress_bar": false,
             "progress_bar_max": 50
           }
@@ -157,10 +157,10 @@
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": true,
         "enable_video_looping": true,
-        "enable_thumb_efect": true,
+        "enable_thumb_efect": false,
         "image_ratio": "square",
         "image_size": true,
         "image_zoom": "no",
@@ -287,20 +287,20 @@
             "page": ""
           }
         },
-        "tab_html_8PLjap": {
-          "type": "tab_html",
-          "settings": {
-            "title": "How to Use",
-            "content": "",
-            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
-          }
-        },
         "tab_html_NGKtrx": {
           "type": "tab_html",
           "settings": {
             "title": "What's Inside",
             "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
             "page": ""
+          }
+        },
+        "tab_html_8PLjap": {
+          "type": "tab_html",
+          "settings": {
+            "title": "How to Use",
+            "content": "",
+            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
           }
         },
         "tab_html_KQpeCL": {
@@ -314,8 +314,8 @@
       },
       "block_order": [
         "tab_html_r8KYLQ",
-        "tab_html_8PLjap",
         "tab_html_NGKtrx",
+        "tab_html_8PLjap",
         "tab_html_KQpeCL"
       ],
       "settings": {
@@ -684,7 +684,7 @@
             "collection": "womens-fashion",
             "product_list": [],
             "products_count": 3,
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true
           }
         },

@@ -25,6 +25,7 @@
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "description": ""
           }
@@ -36,7 +37,7 @@
         "description_Ddhb9a"
       ],
       "settings": {
-        "spacing_hd": 5,
+        "spacing_hd": 15,
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 5,
@@ -49,7 +50,7 @@
         "sub_heading_eFjHEL": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "",
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -118,6 +119,93 @@
         "sidebar_size": "medium"
       }
     },
+    "featured_product_8Jr6jq": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_NKDMBL": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_YyExTQ": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_4t4rAU": {
+          "type": "price",
+          "settings": {}
+        },
+        "countdown_timer_BXYpJn": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "AVAILABLE TODAY ONLY",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
+        "buy_buttons_HmLEbM": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
+        "description_V763FM": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "view_products_details_YnHXDX": {
+          "type": "view_products_details",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "badges_NKDMBL",
+        "title_YyExTQ",
+        "price_4t4rAU",
+        "countdown_timer_BXYpJn",
+        "buy_buttons_HmLEbM",
+        "description_V763FM",
+        "view_products_details_YnHXDX"
+      ],
+      "settings": {
+        "product": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product.value }}",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_MH6UTf": {
       "type": "featured-collection-grid",
       "settings": {
@@ -134,7 +222,6 @@
         "product_list": [
           "cloud-humidifier-holiday-bundle",
           "good-air-cloud-humidifier-bundle",
-          "best-sleep-diffuser-humidifier-bundle",
           "sleep-cloud-humidifier-bundle"
         ],
         "product_des": "10",
@@ -354,25 +441,20 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "scent-kits",
-        "product_list": [
-          "signature-essential-oil-kit",
-          "rest-essential-oil-kit",
-          "refresh-essential-oil-kit",
-          "essential-oil-kit"
-        ],
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 8,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "none",
+        "pagination_type": "load_more",
         "paginate_pos": "center",
         "dis_pagination": 30,
-        "btn_label": "View all",
+        "btn_label": "",
         "btn_style": "solid",
         "btn_fw": "normal",
         "section_fullwidth": false,
@@ -628,6 +710,30 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
+    },
+    "collections_list_simple_jYBVfq": {
+      "type": "collections-list-simple",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Sustainable Style",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": "{{ localization.market.metafields.ecomus[\"collection-list\"].value }}",
+        "text_transform": false,
+        "other_link_label": "View all categories",
+        "other_link": "",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 130,
+        "padding_bottom": 130,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -635,12 +741,14 @@
     "top_heading_bkwELn",
     "custom_line_wPUBFN",
     "main",
+    "featured_product_8Jr6jq",
     "featured_collection_grid_MH6UTf",
     "slideshow_3BLn3a",
     "featured_collection_grid_yaaUxb",
     "slideshow_bHhppE",
     "featured_collection_grid_Qak8RN",
     "slideshow_hDJEhQ",
-    "accordion_qkAGnW"
+    "accordion_qkAGnW",
+    "collections_list_simple_jYBVfq"
   ]
 }

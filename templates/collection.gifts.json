@@ -48,7 +48,7 @@
         "sub_heading_zEA96H": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "",
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -120,7 +120,7 @@
         "border_width": 2,
         "spacing_items": 30,
         "product_des": "10",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
@@ -265,7 +265,7 @@
           "best-sleep-diffuser-humidifier-bundle"
         ],
         "product_des": "10",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",

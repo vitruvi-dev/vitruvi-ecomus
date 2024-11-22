@@ -49,7 +49,7 @@
         "sub_heading_P6dMit": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "",
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -136,17 +136,17 @@
         "product": "cleaning-tablets",
         "image": "shopify://shop_images/pdp_cleaning-tablets_gallery_1_image.png",
         "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": false,
         "enable_video_looping": false,
-        "enable_thumb_efect": true,
-        "image_ratio": "adapt_image",
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
         "image_size": true,
-        "image_zoom": "zoom",
+        "image_zoom": "no",
         "image_zoom_type": "external",
         "zoom_level": 2,
         "max_zoom_lightbox": 3,
@@ -178,7 +178,7 @@
           "humidifier-water-bucket"
         ],
         "product_des": "10",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
@@ -221,7 +221,7 @@
           "stay-diffuser-power-cord"
         ],
         "product_des": "10",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",

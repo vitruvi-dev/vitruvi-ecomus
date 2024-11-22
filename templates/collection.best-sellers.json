@@ -39,7 +39,7 @@
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 15,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -49,7 +49,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "",
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -81,7 +81,7 @@
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 0,
-        "padding_bottom": 80,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -198,25 +198,25 @@
         "product": "cloud-humidifier",
         "image": "shopify://shop_images/pdp_cloud-humidifier_white_gallery_1_image.png",
         "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": false,
         "enable_video_looping": false,
-        "enable_thumb_efect": true,
+        "enable_thumb_efect": false,
         "image_ratio": "square",
         "image_size": true,
-        "image_zoom": "zoom",
+        "image_zoom": "no",
         "image_zoom_type": "external",
         "zoom_level": 2,
         "max_zoom_lightbox": 3,
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 0,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -257,8 +257,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -342,11 +342,11 @@
         "product": "stone-essential-oil-diffuser",
         "image": "shopify://shop_images/pdp_stone-diffuser_front_white_gallery_1_v9_image.png",
         "media_width": 40,
-        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
         "mobile_media_layout": "thumbnails",
         "show_first_media": false,
-        "use_select_varaint_change_media": true,
+        "use_select_varaint_change_media": false,
         "enable_media_autoplay": false,
         "enable_video_looping": false,
         "enable_thumb_efect": false,
@@ -359,8 +359,8 @@
         "navUI": false,
         "nav_des": "default",
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -405,8 +405,8 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -424,7 +424,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 35%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -461,7 +461,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 35%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -550,7 +550,7 @@
         "dot_align": "center",
         "dot_space": 40,
         "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_bottom": 75,
         "padding_rate": 75
       }
     },
@@ -580,8 +580,8 @@
         "other_link": "",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 150,
+        "padding_bottom": 150,
         "padding_rate": 75
       }
     },
