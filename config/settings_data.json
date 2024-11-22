@@ -416,7 +416,7 @@
       },
       "10605408327587305396": {
         "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "version": "v3"
         }
@@ -587,22 +587,12 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".hdt-badge__holiday-exclusive {background-color: #ab4e52 !important;}",
-      ".hdt-badge__daily-deal {background-color: #000000 !important;}",
-      ".metafield-rich_text_field h5 {margin-block-start: 1em; margin-block-end: 0.3em; font-size: 120%; font-weight: 400; line-height: 150%;}",
-      ".metafield-rich_text_field p {margin-block-start: 0.5em; margin-block-end: 0.5em; line-height: 150%;}",
-      ".metafield-rich_text_field ul {margin-inline-start: 20px; list-style: circle outside;}",
-      ".shopify-policy__container {max-width: 90%;}",
-      "@media (min-width: 768px) {.shopify-policy__container {max-width: 60%; }}",
-      ".shopify-policy__container h3 {font-family: \"Founders Grotesk\"; font-size: 18px; margin-block-start: 2rem;}",
-      ".shopify-policy__container h2 {font-family: \"Founders Grotesk\"; font-size: 24px; margin-block-start: 3rem;}",
-      ".hdt-sticky-atc__qty-selector,.hdt-breadcrumb,.yotpo-reviews-wrapper,.hdt-mb-language_currencies,.hdt-badge__pre_order,.hdt-pr-style10 .hdt-size-list,.hdt-main-product-quick-add.shopify-payment-button {display: none;}",
-      ".hdt-product__title,.hdt-card-product__title,.hdt-collection-heading,h2 {font-family: \"Heldane\";}",
-      ".hdt-pr-style10 .hdt-card-product__wrapper {background-color: transparent;}",
-      ".hdt-product__trust-seal {display: flex; justify-content: center; align-items: center;}",
-      "@media only screen and (min-width: 769px) {.hdt-product__trust-seal {display: flex; justify-content: start; align-items: center; }}",
-      ".hdt-product__trust-mess {max-width: 100%;}",
-      ".hdt-coppy-right {text-align: center;}"
+      ".hdt-badge__holiday-exclusive,.hdt_label_new,.hdt-badge__holiday {background-color: #ab4e52 !important;}",
+      "#hdt-menu-holiday {background-color: #ab4e52 !important; color: white !important; padding: 3px; border-radius: 3px;}",
+      "#hdt-menu-black-friday-sale {background-color: #eac661 !important; color: black !important; padding: 3px; border-radius: 3px;}",
+      "ul.hdt-nav__ul-mb li:nth-child(1) span {background-color: #eac661 !important; color: black !important; padding: 0px 3px 0px 3px; border-radius: 3px;}",
+      "ul.hdt-nav__ul-mb li:nth-child(2) span {background-color: #ab4e52 !important; color: white !important; padding: 0px 3px 0px 3px; border-radius: 3px;}",
+      ".hdt-badge__black-friday-daily-deal,.hdt-badge__daily-deal {background-color: #eac661 !important; color: black !important;}"
     ]
   }
 }
