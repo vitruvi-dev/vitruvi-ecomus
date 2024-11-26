@@ -133,7 +133,7 @@
           "settings": {
             "collection": "humidifiers",
             "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
-            "title": "Humidifier Deals",
+            "title": "Humidifiers",
             "collection_link": ""
           }
         },
@@ -142,29 +142,44 @@
           "settings": {
             "collection": "",
             "image": "shopify://shop_images/pdp_essential-oil-blend_forest-frost_gallery_4_image.jpg",
-            "title": "Diffuser Deals",
+            "title": "Diffusers",
             "collection_link": "#diffusers"
           }
         },
         "collection_item_3tzmMw": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
+            "collection": "diffuser-blends",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Scents Deals",
-            "collection_link": "#scents"
+            "title": "Blends",
+            "collection_link": ""
+          }
+        },
+        "collection_item_tL67i4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "scent-kits",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "Scent Kits",
+            "collection_link": ""
+          }
+        },
+        "view_all_FywTJP": {
+          "type": "view_all",
+          "settings": {
+            "title": "Best Sellers",
+            "item_link": "shopify://collections/best-sellers"
           }
         }
       },
       "block_order": [
         "collection_item_FJ9cck",
         "collection_item_XAzK6L",
-        "collection_item_3tzmMw"
+        "collection_item_3tzmMw",
+        "collection_item_tL67i4",
+        "view_all_FywTJP"
       ],
-      "custom_css": [
-        ".hdt-shop-all {display: none;}",
-        "@media (max-width: 767px) {.hdt-wrap {margin-left: 20%; margin-right: 20%; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "",
         "style": "small",
