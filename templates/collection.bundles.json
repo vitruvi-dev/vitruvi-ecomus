@@ -162,7 +162,7 @@
         "description_V763FM": {
           "type": "description",
           "settings": {
-            "des": "1",
+            "des": "2",
             "short_des": "",
             "length": 31
           }
@@ -181,6 +181,7 @@
         "description_V763FM",
         "view_products_details_YnHXDX"
       ],
+      "disabled": true,
       "settings": {
         "product": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product.value }}",
         "media_width": 40,
@@ -220,6 +221,7 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
+          "build-your-own-humidifier-bundle-diffuser",
           "cloud-humidifier-holiday-bundle",
           "good-air-cloud-humidifier-bundle",
           "sleep-cloud-humidifier-bundle"
