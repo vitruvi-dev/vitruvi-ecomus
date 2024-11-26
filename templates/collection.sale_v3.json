@@ -214,6 +214,32 @@
     },
     "main": {
       "type": "main-collection",
+      "blocks": {
+        "featured_products_yRw7y3": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "DEALS OF THE DAY",
+            "collection": "",
+            "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
+            "products_count": 4,
+            "image_ratio": "square",
+            "image_size": true
+          }
+        },
+        "categories_9XbeTa": {
+          "type": "categories",
+          "settings": {
+            "widget_heading": "Product categories",
+            "cat_source": "2",
+            "cat_link_list": "footer_products",
+            "count": false
+          }
+        }
+      },
+      "block_order": [
+        "featured_products_yRw7y3",
+        "categories_9XbeTa"
+      ],
       "custom_css": [],
       "settings": {
         "product_des": "10",
