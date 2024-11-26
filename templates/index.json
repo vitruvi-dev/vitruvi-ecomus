@@ -168,6 +168,8 @@
         "slide_base_b7CGHT": {
           "type": "slide_base",
           "settings": {
+            "image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_dc5448c4-90f6-45f0-8206-7ce5f3d3da9d.jpg",
+            "image_mb": "shopify://shop_images/Mobile_-_Homepage_-_Export_3x_compresspng.com_5475043c-5147-4d1d-9f04-71cf2de5bdc0.jpg",
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
@@ -267,13 +269,13 @@
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><em>BLACK<br/>FRIDAY<br/>SALE</em></p><p><strong>UP TO 40% OFF SITEWIDE</strong></p>",
+            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 40% off<br/>Black Friday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
-            "sub_heading": "",
+            "sub_heading": "Big savings on everything you need to beautifully humidify your air and scent your spaces.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
-            "btn_label": "SHOP BLACK FRIDAY",
+            "btn_label": "SHOP SALE",
             "btn_link": "shopify://collections/black-friday-sale",
             "target": false,
             "btn_size": "xl",
@@ -293,7 +295,8 @@
       ],
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
-        "strong {font-family: \"Founders Grotesk\"; font-size: 50%; font-weight: 200;}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
+        "li {font-size: 130%;}",
         ".hdt-btn {margin-top: 2px; background-color: #eac661; color: black; border-width: 0px;}",
         ".hdt-content {margin-bottom: 100px;}",
         "@media (max-width: 767px) {.hdt-content {margin-bottom: 220px; }}"
