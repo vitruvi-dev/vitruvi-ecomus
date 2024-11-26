@@ -216,20 +216,39 @@
     "main": {
       "type": "main-collection",
       "blocks": {
-        "featured_products_yRw7y3": {
+        "featured_products_rgCDg3": {
           "type": "featured_products",
           "settings": {
-            "widget_heading": "DEAL OF THE DAY",
-            "collection": "holiday-collection",
+            "widget_heading": "Daily Deal 🏷️",
+            "collection": "",
             "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
             "products_count": 1,
-            "image_ratio": "square",
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        },
+        "featured_products_LzB6Km": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Holiday Exclusives 🎄",
+            "collection": "",
+            "product_list": [
+              "stone-diffuser-holiday-bundle",
+              "cloud-humidifier-holiday-bundle",
+              "festive-favorites-essential-oil-kit",
+              "forest-frost-diffuser-blend",
+              "sugar-spice-diffuser-blend",
+              "apres-essential-oil-blend"
+            ],
+            "products_count": 20,
+            "image_ratio": "adapt_image",
             "image_size": true
           }
         }
       },
       "block_order": [
-        "featured_products_yRw7y3"
+        "featured_products_rgCDg3",
+        "featured_products_LzB6Km"
       ],
       "custom_css": [],
       "settings": {
