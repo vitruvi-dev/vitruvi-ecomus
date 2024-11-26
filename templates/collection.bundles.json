@@ -20,7 +20,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Gift Bundles"
           }
         },
         "description_Ddhb9a": {
@@ -244,7 +244,7 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 80,
         "padding_rate": 75
       }
@@ -292,6 +292,7 @@
       "block_order": [
         "slide_label_RUk7iC"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
         "p {font-family: \"Heldane\";}"
@@ -332,10 +333,10 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
+          "build-your-own-diffuser-bundle-3",
           "stone-diffuser-holiday-bundle",
           "starter-stone-diffuser-bundle",
-          "sleep-stone-diffuser-bundle",
-          "build-your-own-diffuser-bundle-3"
+          "sleep-stone-diffuser-bundle"
         ],
         "product_des": "10",
         "image_ratio": "square",
@@ -404,6 +405,7 @@
       "block_order": [
         "slide_label_KFMjzR"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
         "p {font-family: \"Heldane\";}"
@@ -443,7 +445,17 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "scent-kits",
-        "product_list": [],
+        "product_list": [
+          "build-your-own-scent-bundle-8",
+          "festive-favorites-essential-oil-kit",
+          "black-friday-essential-oil-kit",
+          "holiday-essential-oil-kit",
+          "mystery-essential-oil-kit",
+          "signature-essential-oil-kit",
+          "refresh-essential-oil-kit",
+          "rest-essential-oil-kit",
+          "essential-oil-kit"
+        ],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
@@ -510,6 +522,7 @@
       "block_order": [
         "slide_label_LAMXbx"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
         "p {font-family: \"Heldane\";}"
