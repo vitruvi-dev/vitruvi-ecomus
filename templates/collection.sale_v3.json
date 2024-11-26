@@ -235,11 +235,16 @@
             "cat_link_list": "footer_products",
             "count": false
           }
+        },
+        "filter_y6UHVq": {
+          "type": "filter",
+          "settings": {}
         }
       },
       "block_order": [
         "featured_products_yRw7y3",
-        "categories_9XbeTa"
+        "categories_9XbeTa",
+        "filter_y6UHVq"
       ],
       "custom_css": [],
       "settings": {
@@ -256,7 +261,7 @@
         "paginate_pos": "center",
         "dis_pagination": 60,
         "enable_sorting": true,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "enable_num_cols_selector": false,
         "widget_heading": "Product Categories",
         "cat_source": "2",
