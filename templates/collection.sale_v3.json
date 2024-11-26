@@ -261,7 +261,7 @@
         "paginate_pos": "center",
         "dis_pagination": 60,
         "enable_sorting": true,
-        "enable_filtering": false,
+        "enable_filtering": true,
         "enable_num_cols_selector": false,
         "widget_heading": "Product Categories",
         "cat_source": "2",
