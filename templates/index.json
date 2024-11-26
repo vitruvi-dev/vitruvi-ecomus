@@ -269,7 +269,7 @@
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong><em><br/></em><span style=\"text-decoration:underline\">Up to 40% off<br/>Black Friday</span></p>",
+            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 40% off<br/>Black Friday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Big savings on everything you need to beautifully humidify your air and scent your spaces.",
