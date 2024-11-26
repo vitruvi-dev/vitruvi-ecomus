@@ -282,6 +282,7 @@
     },
     "featured_collection_grid_eF6zJd": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Perfect Gifts, Unbeatable Savings",
@@ -319,6 +320,7 @@
     },
     "custom_liquid_dNQJp8": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"humidifiers\"></span>",
@@ -425,6 +427,7 @@
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
       ],
+      "disabled": true,
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
         ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
@@ -458,6 +461,7 @@
     },
     "featured_collection_grid_EcUNwb": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Humidifier Deals",
@@ -500,6 +504,7 @@
     },
     "custom_liquid_DrMBXX": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"diffusers\"></span>",
@@ -583,6 +588,7 @@
         "view_products_details_hYVnMr",
         "img_trust_888rTd"
       ],
+      "disabled": true,
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
         ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
@@ -617,6 +623,7 @@
     },
     "featured_collection_grid_Kqfchz": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Diffuser Deals",
@@ -659,6 +666,7 @@
     },
     "custom_liquid_j3RYQE": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"scents\"></span>",
@@ -729,6 +737,7 @@
         "description_kP7Gcp",
         "view_products_details_GgmHTV"
       ],
+      "disabled": true,
       "settings": {
         "product": "festive-favorites-essential-oil-kit",
         "image": "shopify://shop_images/pdp_kit_festive_favorites_gallery_1_image.png",
@@ -757,6 +766,7 @@
     },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Scent Deals",
