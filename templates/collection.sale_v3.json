@@ -219,10 +219,10 @@
         "featured_products_yRw7y3": {
           "type": "featured_products",
           "settings": {
-            "widget_heading": "DEALS OF THE DAY",
-            "collection": "",
+            "widget_heading": "DEAL OF THE DAY",
+            "collection": "holiday-collection",
             "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
-            "products_count": 4,
+            "products_count": 1,
             "image_ratio": "square",
             "image_size": true
           }
