@@ -40,20 +40,13 @@
           "settings": {
             "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\">🎁 BLACK FRIDAY: Lowest Prices of the Year</a>"
           }
-        },
-        "announcement_UYaNeX": {
-          "type": "announcement",
-          "settings": {
-            "text": "<span style=\"text-decoration:underline\"><em>{{ localization.market.metafields.ecomus.announcement_notice.value }}</em></span>"
-          }
         }
       },
       "block_order": [
         "announcement_RzCepp",
         "announcement_7iU4bq",
         "announcement_eeYyAc",
-        "announcement_RqB4ka",
-        "announcement_UYaNeX"
+        "announcement_RqB4ka"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
