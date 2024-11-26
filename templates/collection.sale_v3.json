@@ -219,7 +219,7 @@
         "featured_products_rgCDg3": {
           "type": "featured_products",
           "settings": {
-            "widget_heading": "Daily Deal 🏷️",
+            "widget_heading": "Daily Deal: 40% Savings 🎁",
             "collection": "",
             "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
             "products_count": 1,
