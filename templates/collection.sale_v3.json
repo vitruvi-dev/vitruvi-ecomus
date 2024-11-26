@@ -128,6 +128,15 @@
     "categories_section_kV6JP9": {
       "type": "categories-section",
       "blocks": {
+        "collection_item_hyjBLh": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "bundle-and-save",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
+            "title": "Bundles",
+            "collection_link": ""
+          }
+        },
         "collection_item_FJ9cck": {
           "type": "collection_item",
           "settings": {
@@ -155,12 +164,21 @@
             "collection_link": ""
           }
         },
+        "collection_item_RwRFgE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oils",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "Oils",
+            "collection_link": ""
+          }
+        },
         "collection_item_tL67i4": {
           "type": "collection_item",
           "settings": {
             "collection": "scent-kits",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Scent Kits",
+            "title": "Kits",
             "collection_link": ""
           }
         },
@@ -173,9 +191,11 @@
         }
       },
       "block_order": [
+        "collection_item_hyjBLh",
         "collection_item_FJ9cck",
         "collection_item_XAzK6L",
         "collection_item_3tzmMw",
+        "collection_item_RwRFgE",
         "collection_item_tL67i4",
         "view_all_FywTJP"
       ],
