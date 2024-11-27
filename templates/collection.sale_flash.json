@@ -50,25 +50,19 @@
     "countdown_text_bTBW7B": {
       "type": "countdown_text",
       "blocks": {
-        "text_hCtHWb": {
-          "type": "text",
-          "settings": {
-            "heading": "Today Only"
-          }
-        },
         "text_2_KV9Y3x": {
           "type": "text_2",
           "settings": {
-            "sub_heading": "Today only: Save an extra $10 on any diffuser or diffuser bundle with code DIFFUSERDEALS"
+            "sub_heading": "Save an extra $10 on any diffuser or diffuser bundle with code: <b>DIFFUSERDEALS</b>"
           }
         }
       },
       "block_order": [
-        "text_hCtHWb",
         "text_2_KV9Y3x"
       ],
       "custom_css": [
-        "h3 {font-weight: 400;}"
+        ".hdt-subheading {font-weight: 200;}",
+        ".hdt-row-flex {--cols: 1 !important;}"
       ],
       "settings": {
         "full_width": true,
