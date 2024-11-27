@@ -62,7 +62,7 @@
       ],
       "custom_css": [
         ".hdt-subheading {font-weight: 200;}",
-        ".hdt-row-flex {--cols: 1 !important;}"
+        ".hdt-row-flex {align-items: center; --cols: 1 !important;}"
       ],
       "settings": {
         "full_width": true,
