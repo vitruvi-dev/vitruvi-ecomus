@@ -43,6 +43,42 @@
         "padding_rate": 75
       }
     },
+    "top_heading_KyNTXj": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_rqkYTQ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Use this code at checkout to save an additional $10 off the sale price of any diffuser or diffuser bundle.",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_xApYU7": {
+          "type": "heading",
+          "settings": {
+            "heading": "DIFFUSERDEALS",
+            "heading_fs": "h6"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_rqkYTQ",
+        "heading_xApYU7"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Founders Grotesk\"}"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
@@ -995,6 +1031,7 @@
   },
   "order": [
     "heading",
+    "top_heading_KyNTXj",
     "top_heading_LKRnyK",
     "hero_image_3dNbDH",
     "categories_section_kV6JP9",
