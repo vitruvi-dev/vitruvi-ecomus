@@ -26,7 +26,7 @@
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": "Big savings on everything you need to beautifully humidify your air and scent your spaces."
+            "description": "Today only: Save an extra $10 on any diffuser or diffuser bundle with code <b>DIFFUSERDEALS</b>"
           }
         }
       },
@@ -35,11 +35,53 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "custom_css": [
+        "b {font-weight: 600;}"
+      ],
       "settings": {
-        "spacing_hd": 5,
+        "spacing_hd": 15,
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_KyNTXj": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_rqkYTQ": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "Use the code",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_xApYU7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Save an extra $10 on any diffuser or diffuser bundle with code <b>DIFFUSERDEALS</b>",
+            "heading_fs": "h6"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_rqkYTQ",
+        "heading_xApYU7"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        "b {font-weight: 600;}"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -995,6 +1037,7 @@
   },
   "order": [
     "heading",
+    "top_heading_KyNTXj",
     "top_heading_LKRnyK",
     "hero_image_3dNbDH",
     "categories_section_kV6JP9",
