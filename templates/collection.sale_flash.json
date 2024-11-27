@@ -25,6 +25,7 @@
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "description": "Big savings on everything you need to beautifully humidify your air and scent your spaces."
           }
@@ -48,15 +49,16 @@
       "blocks": {
         "sub_heading_rqkYTQ": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
-            "sub_heading": "Use this code at checkout to save an additional $10 off the sale price of any diffuser or diffuser bundle.",
+            "sub_heading": "Use the code",
             "sub_heading_fs": "base"
           }
         },
         "heading_xApYU7": {
           "type": "heading",
           "settings": {
-            "heading": "DIFFUSERDEALS",
+            "heading": "Use the code <b>DIFFUSERDEALS</b> at checkout to save an additional $10 off the sale price of any diffuser or diffuser bundle.",
             "heading_fs": "h6"
           }
         }
@@ -66,7 +68,8 @@
         "heading_xApYU7"
       ],
       "custom_css": [
-        "h2 {font-family: \"Founders Grotesk\"}"
+        "h2 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        "b {font-weight: 600;}"
       ],
       "settings": {
         "spacing_item": 30,
