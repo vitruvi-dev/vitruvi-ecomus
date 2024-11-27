@@ -1,0 +1,1017 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "heading": {
+      "type": "heading-collection",
+      "blocks": {
+        "breadcrumb_CM7qtX": {
+          "type": "breadcrumb",
+          "disabled": true,
+          "settings": {}
+        },
+        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Black Friday: Up to 40% Off"
+          }
+        },
+        "description_Ddhb9a": {
+          "type": "description",
+          "settings": {
+            "description": "Big savings on everything you need to beautifully humidify your air and scent your spaces."
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb_CM7qtX",
+        "9a1347b4-da62-490d-9fd4-427a03686ac2",
+        "description_Ddhb9a"
+      ],
+      "settings": {
+        "spacing_hd": 5,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_LKRnyK": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_wpqzpJ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_wpqzpJ"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 0,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_3dNbDH": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_gp79NX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<span class=\"bfcm-header\">Black Friday Sale</span>",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "heading_VNYyGF": {
+          "type": "heading",
+          "settings": {
+            "heading": "<span class=\"save40sitewide\">UP TO 40% OFF SITEWIDE</span>",
+            "heading_fs": "h6",
+            "heading_fw": "normal"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gp79NX",
+        "heading_VNYyGF"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
+        "@media (max-width: 767px) {.bfcm-header {font-size: 150%; } .save40sitewide {font-size: 80%; }}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/page_collection_hero_bfcm-2024_image_desktop_v1.jpg",
+        "image_mb": "shopify://shop_images/page_collection_hero_bfcm-2024_image_mobile_v2.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "categories_section_kV6JP9": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_hyjBLh": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "bundle-and-save",
+            "image": "shopify://shop_images/collection_bfcm2024_bundles.png",
+            "title": "Gift Bundles",
+            "collection_link": ""
+          }
+        },
+        "collection_item_FJ9cck": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "humidifiers",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
+            "title": "Humidifiers",
+            "collection_link": ""
+          }
+        },
+        "collection_item_XAzK6L": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/collection_bfcm2024_diffusers.png",
+            "title": "Diffusers",
+            "collection_link": "#diffusers"
+          }
+        },
+        "collection_item_3tzmMw": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "diffuser-blends",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "Blends",
+            "collection_link": ""
+          }
+        },
+        "collection_item_tL67i4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "scent-kits",
+            "image": "shopify://shop_images/collection_bfcm2024_kits.png",
+            "title": "Kits",
+            "collection_link": ""
+          }
+        },
+        "view_all_FywTJP": {
+          "type": "view_all",
+          "settings": {
+            "title": "Best Sellers",
+            "item_link": "shopify://collections/best-sellers"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_hyjBLh",
+        "collection_item_FJ9cck",
+        "collection_item_XAzK6L",
+        "collection_item_3tzmMw",
+        "collection_item_tL67i4",
+        "view_all_FywTJP"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "",
+        "style": "small",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_line_zAe7AX": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "blocks": {
+        "featured_products_rgCDg3": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Daily Deal: 40% Savings 🎁",
+            "collection": "",
+            "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
+            "products_count": 1,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        },
+        "featured_products_LzB6Km": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Holiday Exclusives 🎄",
+            "collection": "",
+            "product_list": [
+              "stone-diffuser-holiday-bundle",
+              "cloud-humidifier-holiday-bundle",
+              "festive-favorites-essential-oil-kit",
+              "sugar-spice-diffuser-blend",
+              "apres-essential-oil-blend"
+            ],
+            "products_count": 20,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        }
+      },
+      "block_order": [
+        "featured_products_rgCDg3",
+        "featured_products_LzB6Km"
+      ],
+      "custom_css": [],
+      "settings": {
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 0,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
+      }
+    },
+    "featured_collection_grid_eF6zJd": {
+      "type": "featured-collection-grid",
+      "disabled": true,
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Perfect Gifts, Unbeatable Savings",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "load_more",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all deals",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_dNQJp8": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"humidifiers\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_4PVpj9": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_DjG7qy": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_B6AfNV": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_3WTNYB": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_xHtya8": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "inventory_pBHWDF": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
+        "buy_buttons_NMNaGy": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "custom_liquid_V86MGd": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($20 Value)\n      {% else %}\n        Free Gift ($25 Value)\n      {% endif %}\n    </h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
+          }
+        },
+        "description_Ly67FF": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "view_products_details_dLcHK8": {
+          "type": "view_products_details",
+          "settings": {}
+        },
+        "img_trust_769AGd": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_DjG7qy",
+        "title_B6AfNV",
+        "price_3WTNYB",
+        "variant_picker_xHtya8",
+        "inventory_pBHWDF",
+        "buy_buttons_NMNaGy",
+        "custom_liquid_V86MGd",
+        "description_Ly67FF",
+        "view_products_details_dLcHK8",
+        "img_trust_769AGd"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+      ],
+      "settings": {
+        "product": "cloud-humidifier",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_EcUNwb": {
+      "type": "featured-collection-grid",
+      "disabled": true,
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Humidifier Deals",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Shop curated bundles and accessories designed to enhance your humidifier experience. Keep your space naturally comfortable and improve your sleep with cared-for air.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "humidifier-filters",
+          "humidifier-sensor-hygrometer",
+          "cleaning-tablets",
+          "good-air-cloud-humidifier-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_DrMBXX": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"diffusers\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_q3qnpt": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_mxGJVb": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_7fhX9x": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_C3Wc7C": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons_4tg4fA": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "custom_liquid_QcGEbA": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/products/pdp_essential-oil-blend_dusk_gallery_1_v2_image.png?v=1719458615\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($28 Value)\n      {% else %}\n        Free Gift ($30 Value)\n      {% endif %}\n    </h5>\n    <p>Dusk Blend automatically added to every diffuser order, while supplies last.</p>\n  </div>\n</div>"
+          }
+        },
+        "description_zDcy8L": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "view_products_details_hYVnMr": {
+          "type": "view_products_details",
+          "settings": {}
+        },
+        "img_trust_888rTd": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_mxGJVb",
+        "title_7fhX9x",
+        "price_C3Wc7C",
+        "buy_buttons_4tg4fA",
+        "custom_liquid_QcGEbA",
+        "description_zDcy8L",
+        "view_products_details_hYVnMr",
+        "img_trust_888rTd"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+      ],
+      "settings": {
+        "product": "stone-essential-oil-diffuser",
+        "image": "shopify://shop_images/pdp_stone-diffuser_front_white_gallery_1_v9_image.png",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_Kqfchz": {
+      "type": "featured-collection-grid",
+      "disabled": true,
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Diffuser Deals",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Discover diffusers that blend beautifully with your decor, deliver captivating aromas, and provide natural, long-lasting fragrance. Enjoy a safer, effortless way to fill your space with inviting scents.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "stone-essential-oil-diffuser",
+          "move-cordless-essential-oil-diffuser",
+          "starter-stone-diffuser-bundle",
+          "sleep-stone-diffuser-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_j3RYQE": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"scents\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_L794ER": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_JtrmdH": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "custom_liquid_Pnrjd7": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__title\" data-type=\"title\">\n                      <a href=\"/products/stone-essential-oil-diffuser\" class=\"hdt-inline-block hdt-s-text\"><h1 class=\"hdt-product__title hdt-font-normal\">The Iconic Stone Diffuser</h1></a>\n                    </div>"
+          }
+        },
+        "title_yJ76qa": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_bhXYex": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons_ncdNtU": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "description_kP7Gcp": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "view_products_details_GgmHTV": {
+          "type": "view_products_details",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "badges_JtrmdH",
+        "custom_liquid_Pnrjd7",
+        "title_yJ76qa",
+        "price_bhXYex",
+        "buy_buttons_ncdNtU",
+        "description_kP7Gcp",
+        "view_products_details_GgmHTV"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "festive-favorites-essential-oil-kit",
+        "image": "shopify://shop_images/pdp_kit_festive_favorites_gallery_1_image.png",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_j8DcaG": {
+      "type": "featured-collection-grid",
+      "disabled": true,
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Scent Deals",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "scents",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 12,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "load_more",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "slideshow_bHhppE": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_label_YpGJEd": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
+            "url": "shopify://products/build-your-own-scent-bundle",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "Bundle & Save On Scents",
+            "sub_heading_fs": "h4",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "GET STARTED",
+            "btn_link": "shopify://products/build-your-own-scent-bundle",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "slide_label_KFMjzR": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify://shop_images/home_slideshow_byob-diffuser_v2.jpg",
+            "image_mb": "shopify://shop_images/collection_summer-sale_header-mobile.png",
+            "url": "shopify://products/build-your-own-diffuser-bundle",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "Bundle & Save on Diffusers",
+            "sub_heading_fs": "h4",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "GET STARTED",
+            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "slide_label_TYJw4i": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify://shop_images/home_slideshow_byob-humidifier_v2.jpg",
+            "url": "shopify://products/build-your-own-humidifier-bundle",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "sub_heading": "Bundle & Save on Humidifiers",
+            "sub_heading_fs": "h4",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "Pick the humidifier and accessories that suit your space and save up to 35%.",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "GET STARTED",
+            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "medium",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_label_YpGJEd",
+        "slide_label_KFMjzR",
+        "slide_label_TYJw4i"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-family: \"Founders Grotesk\";}",
+        "p {font-family: \"Heldane\";}"
+      ],
+      "settings": {
+        "full_width": false,
+        "item_round": "rounded",
+        "image_height": "fixed",
+        "fixed_height": 600,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "color_scheme": "scheme-1",
+        "loop": false,
+        "auto_play": 5,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": false,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 40,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "collections_list_simple_kY6xMW": {
+      "type": "collections-list-simple",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Explore the full range of Vitruvi products for all your home wellness needs",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": [
+          "shop-all",
+          "humidifiers",
+          "essential-oil-diffusers",
+          "scent-kits",
+          "essential-oil-blends",
+          "essential-oils"
+        ],
+        "text_transform": false,
+        "other_link_label": "View all categories",
+        "other_link": "",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "custom_line_GAKQtn": {
+      "type": "custom-line",
+      "custom_css": [],
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "top_heading_LKRnyK",
+    "hero_image_3dNbDH",
+    "categories_section_kV6JP9",
+    "custom_line_zAe7AX",
+    "main",
+    "featured_collection_grid_eF6zJd",
+    "custom_liquid_dNQJp8",
+    "featured_product_4PVpj9",
+    "featured_collection_grid_EcUNwb",
+    "custom_liquid_DrMBXX",
+    "featured_product_q3qnpt",
+    "featured_collection_grid_Kqfchz",
+    "custom_liquid_j3RYQE",
+    "featured_product_L794ER",
+    "featured_collection_grid_j8DcaG",
+    "slideshow_bHhppE",
+    "collections_list_simple_kY6xMW",
+    "custom_line_GAKQtn"
+  ]
+}
