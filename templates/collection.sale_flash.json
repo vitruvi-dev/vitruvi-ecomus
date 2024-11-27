@@ -60,7 +60,8 @@
         "text_TfhxPq"
       ],
       "custom_css": [
-        ".hdt-row-flex {display: grid;}"
+        ".hdt-row-flex {display: grid;}",
+        ".hdt-col-inner {justify-content: center;}"
       ],
       "settings": {
         "full_width": true,
