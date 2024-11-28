@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "wrapper": "div#hdt-page-product-config",
   "sections": {
@@ -15,8 +15,7 @@
       "blocks": {
         "2a1b9de8-6f67-469b-9fcd-1732d99b2d8f": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "37e199c6-32c5-4e99-95f8-0b3d4d45df0b": {
           "type": "badges",
@@ -31,8 +30,7 @@
         },
         "e9fb6308-d262-4013-842a-c90a7cfe5bc1": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "16dbcaa2-f606-425f-b09e-aa5e9be5cdfe": {
           "type": "description",
@@ -56,13 +54,11 @@
         },
         "8c67f7ea-0445-4087-8883-e60bc1c16043": {
           "type": "pickup_availability",
-          "settings": {
-          }
+          "settings": {}
         },
         "c1cc7cb8-85b9-48d6-852c-123c223e8f18": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "3ae948ef-18dd-48a7-82a2-5252bc077077": {
           "type": "buy_buttons",
@@ -76,8 +72,7 @@
         },
         "870464d2-e831-4a56-a463-a71114ecf562": {
           "type": "view_products_details",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -110,8 +105,7 @@
       "blocks": {
         "main-quick-add-0": {
           "type": "variant_info",
-          "settings": {
-          }
+          "settings": {}
         },
         "main-quick-add-1": {
           "type": "variant_picker",
@@ -127,8 +121,7 @@
         },
         "f30b31c7-4374-4097-bafb-77a57bdb51a3": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "main-quick-add-2": {
           "type": "buy_buttons",
@@ -161,12 +154,12 @@
     "color-swatch": {
       "type": "color-swatch",
       "settings": {
-        "name": "Goo",
-        "color": "#ffffff",
-        "color2": "#ffffff",
-        "color3": "#f7f8f6",
+        "name": "Colors",
+        "color": "#5f6b63",
+        "color2": "#e6d67b",
+        "color3": "#9ab38d",
         "color4": "rgba(0,0,0,0)",
-        "code": "Black:#000000\nBlack (USB C):#000000\nBlack (DC):#000000\nBlush:#F4CBB2\nCharcoal:#747779\nChestnut:#6A513B\nCitron:#E6D67B\nCocoa:#8D7367\nDove:#858282\nEucalyptus:#9AB38D\nFog:#C4C4C4\nGold:#C6B179\nGoop Gray:#C4C4C4\nLavender:#D0C1D0\nOat:#d8ccbb\nSea:#5F6B63\nSky:#88A9D9\nSuede:#C79E8D\nTerracotta:#D6A278\nWhite:#ffffff\nWhite (USB C):#ffffff\nWhite (DC):#ffffff\nWhite Humidifier & Black Diffuser:#f7f8f6;#000000\nWhite Humidifier & Terracotta Diffuser:#f7f8f6;#d6a278\nWhite Humidifier & White Diffuser:#ffffff"
+        "code": "Black:#000000\nBlack (USB C):#000000\nBlack (DC):#000000\nBlush:#F4CBB2\nCharcoal:#747779\nChestnut:#6A513B\nCitron:#E6D67B\nCocoa:#8D7367\nDove:#858282\nEucalyptus:#9AB38D\nFog:#C4C4C4\nGold:#C6B179\nGoop Gray:#C4C4C4\nLavender:#D0C1D0\nOat:#d8ccbb\nSea:#5F6B63\nSky:#88A9D9\nSuede:#C79E8D\nTerracotta:#D6A278\nWhite:#ffffff\nWhite (USB C):#ffffff\nWhite (DC):#ffffff\nWhite Humidifier & Black Diffuser:#f7f8f6;#000000\nWhite Humidifier & Terracotta Diffuser:#f7f8f6;#d6a278\nWhite Humidifier & White Diffuser:#ffffff\nNeutrals:#d8ccbb\nGray:#C4C4C4\nColors:#5f6b63;#e6d67b;#9ab38d"
       }
     }
   },
