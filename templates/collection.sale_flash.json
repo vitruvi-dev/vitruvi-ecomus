@@ -53,7 +53,7 @@
         "text_2_piqHD7": {
           "type": "text_2",
           "settings": {
-            "sub_heading": "Save an extra $10 on any diffuser or diffuser bundle with code: DIFFUSERDEALS"
+            "sub_heading": "Save an extra $10 on any diffuser or diffuser bundle with code: <b>DIFFUSERDEALS</b>"
           }
         }
       },
@@ -63,7 +63,10 @@
       "custom_css": [
         ".hdt-row-flex {display: grid; --cols: 1;}",
         ".hdt-col-inner {text-align: center;}",
-        ".hdt-col-inner {justify-content: center;}"
+        ".hdt-subheading {font-weight: 200;}",
+        ".hdt-col-inner {justify-content: center;}",
+        ".hdt-countdown__item {min-height: 60px; min-width: 60px;}",
+        ".hdt-countdown__amount,.hdt-countdown__text {font-size: 14px;}"
       ],
       "settings": {
         "full_width": true,
@@ -78,8 +81,8 @@
         "hide_on_complete": false,
         "mess_complete": "",
         "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 40,
+        "padding_top": 30,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
