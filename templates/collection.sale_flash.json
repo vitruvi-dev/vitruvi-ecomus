@@ -37,7 +37,7 @@
         "description_Ddhb9a"
       ],
       "custom_css": [
-        "b {font-weight: 600;}"
+        "@media (max-width: 800px) {.hdt-collection-heading {font-size: 28px;} }"
       ],
       "settings": {
         "spacing_hd": 15,
