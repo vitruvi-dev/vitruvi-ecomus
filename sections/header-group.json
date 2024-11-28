@@ -37,6 +37,7 @@
         },
         "announcement_RqB4ka": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\">🎁 BLACK FRIDAY: Lowest Prices of the Year</a>"
           }
@@ -44,7 +45,7 @@
         "announcement_UYaNeX": {
           "type": "announcement",
           "settings": {
-            "text": "<span style=\"text-decoration:underline\"><em>{{ localization.market.metafields.ecomus.announcement_notice.value }}</em></span>"
+            "text": "All Orders Shipping With UPS"
           }
         }
       },
