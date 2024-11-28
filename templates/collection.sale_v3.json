@@ -216,8 +216,13 @@
     "main": {
       "type": "main-collection",
       "blocks": {
+        "filter_bB4hRd": {
+          "type": "filter",
+          "settings": {}
+        },
         "featured_products_rgCDg3": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "widget_heading": "Daily Deal: 50% Savings 🎁",
             "collection": "",
@@ -229,6 +234,7 @@
         },
         "featured_products_LzB6Km": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "widget_heading": "Holiday Exclusives 🎄",
             "collection": "",
@@ -246,6 +252,7 @@
         }
       },
       "block_order": [
+        "filter_bB4hRd",
         "featured_products_rgCDg3",
         "featured_products_LzB6Km"
       ],
@@ -264,7 +271,7 @@
         "paginate_pos": "center",
         "dis_pagination": 60,
         "enable_sorting": true,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "enable_num_cols_selector": false,
         "widget_heading": "",
         "cat_source": "2",
