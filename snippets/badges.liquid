@@ -68,7 +68,7 @@
     assign update_hidden_attr = 'update-hidden'
   endif
   unless sale_text_t
-      assign sale_text_t = target.compare_at_price | minus: target.price | divided_by: 100.0 | round | at_least: 1
+      assign sale_text_t = 'Save $'target.compare_at_price | minus: target.price | divided_by: 100.0 | round | at_least: 1
   endunless
   unless sale_percent_t
     assign sale_percent_t = 'products.product.save_percent' | t: percent: 'save_1904' | replace_first: 'save_1904', '<span percent>save_1904</span>'
