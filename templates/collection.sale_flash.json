@@ -37,7 +37,7 @@
         "description_Ddhb9a"
       ],
       "custom_css": [
-        "@media (max-width: 800px) {.hdt-collection-heading {font-size: 28px;} }"
+        "@media (max-width: 800px) {.hdt-collection-heading {font-size: 28px; }}"
       ],
       "settings": {
         "spacing_hd": 15,
@@ -53,7 +53,7 @@
         "text_2_piqHD7": {
           "type": "text_2",
           "settings": {
-            "sub_heading": "Flash Sale: Save an extra $10 on any diffuser or diffuser bundle with code: <b>DIFFUSERDEALS</b>"
+            "sub_heading": "Flash Sale: Save an extra $10 on any diffuser or diffuser bundle with code:<br><b>DIFFUSERDEALS</b>"
           }
         }
       },
