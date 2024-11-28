@@ -25,8 +25,9 @@
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
-            "description": "Today only: Save an extra $10 on any diffuser or diffuser bundle with code <b>DIFFUSERDEALS</b>"
+            "description": "Save an extra $10 on any diffuser or diffuser bundle with code: DIFFUSERDEALS"
           }
         }
       },
@@ -36,12 +37,52 @@
         "description_Ddhb9a"
       ],
       "custom_css": [
-        "b {font-weight: 600;}"
+        "@media (max-width: 800px) {.hdt-collection-heading {font-size: 28px; }}"
       ],
       "settings": {
         "spacing_hd": 15,
         "color_scheme": "",
         "padding_top": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "countdown_text_VJEFnt": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_2_piqHD7": {
+          "type": "text_2",
+          "settings": {
+            "sub_heading": "Save an extra $10 on any diffuser or diffuser bundle with code:<br><br><b>DIFFUSERDEALS</b>"
+          }
+        }
+      },
+      "block_order": [
+        "text_2_piqHD7"
+      ],
+      "custom_css": [
+        "b {font-size: 120%;}",
+        ".hdt-row-flex {display: grid; --cols: 1;}",
+        ".hdt-col-inner {text-align: center;}",
+        ".hdt-subheading {font-weight: 200;}",
+        ".hdt-col-inner {justify-content: center;}",
+        ".hdt-countdown__item {min-height: 60px; min-width: 60px;}",
+        ".hdt-countdown__amount,.hdt-countdown__text {font-size: 14px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2024,
+        "month": 11,
+        "day": 29,
+        "hour": 0,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "",
+        "padding_top": 30,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -1037,6 +1078,7 @@
   },
   "order": [
     "heading",
+    "countdown_text_VJEFnt",
     "top_heading_KyNTXj",
     "top_heading_LKRnyK",
     "hero_image_3dNbDH",
