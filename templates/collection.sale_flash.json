@@ -53,7 +53,7 @@
         "text_2_piqHD7": {
           "type": "text_2",
           "settings": {
-            "sub_heading": "Flash Sale: Save an extra $10 on any diffuser or diffuser bundle with code:<br><br><b>DIFFUSERDEALS</b>"
+            "sub_heading": "Save an extra $10 on any diffuser or diffuser bundle with code:<br><br><b>DIFFUSERDEALS</b>"
           }
         }
       },
@@ -61,6 +61,7 @@
         "text_2_piqHD7"
       ],
       "custom_css": [
+        "b {font-size: 120%;}",
         ".hdt-row-flex {display: grid; --cols: 1;}",
         ".hdt-col-inner {text-align: center;}",
         ".hdt-subheading {font-weight: 200;}",
