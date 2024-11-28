@@ -216,21 +216,20 @@
     "main": {
       "type": "main-collection",
       "blocks": {
-        "filter_bB4hRd": {
-          "type": "filter",
-          "settings": {}
-        },
         "featured_products_rgCDg3": {
           "type": "featured_products",
-          "disabled": true,
           "settings": {
-            "widget_heading": "Daily Deal: 50% Savings 🎁",
+            "widget_heading": "Daily Deal",
             "collection": "",
             "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
             "products_count": 1,
             "image_ratio": "adapt_image",
             "image_size": true
           }
+        },
+        "filter_bB4hRd": {
+          "type": "filter",
+          "settings": {}
         },
         "featured_products_LzB6Km": {
           "type": "featured_products",
@@ -252,8 +251,8 @@
         }
       },
       "block_order": [
-        "filter_bB4hRd",
         "featured_products_rgCDg3",
+        "filter_bB4hRd",
         "featured_products_LzB6Km"
       ],
       "custom_css": [],
