@@ -16,18 +16,15 @@
       "blocks": {
         "ca4a9586-08fd-471b-a5a7-11e1ffc068a4": {
           "type": "subtotal",
-          "settings": {
-          }
+          "settings": {}
         },
         "88e6ef7a-281c-45e7-b62c-b556ebd6f705": {
           "type": "tax",
-          "settings": {
-          }
+          "settings": {}
         },
         "f932f430-a2c4-4a2f-a3d6-d2f099407d44": {
           "type": "line",
-          "settings": {
-          }
+          "settings": {}
         },
         "76bae518-3d87-4731-a9d4-2e41544da57b": {
           "type": "agree",
@@ -61,12 +58,10 @@
         "color_scheme": "",
         "show_free_shipping_bar": true,
         "show_cart_note": false,
-        "show_gift_wrap": false,
+        "show_gift_wrap": true,
         "show_shipping_estimator": false,
         "heading": "Customers also bought",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "replaces_products_selected": true
       }
     },

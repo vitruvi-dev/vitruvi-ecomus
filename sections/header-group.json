@@ -35,10 +35,16 @@
             "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">All Orders Ship Free With Code <span style=\"text-decoration:underline\"><strong>FREESHIP</strong></span></a>"
           }
         },
+        "announcement_UYaNeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "<span style=\"text-decoration:underline\">{{ localization.market.metafields.ecomus.announcement_notice.value }}</span>"
+          }
+        },
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/black-friday-sale\" title=\"Black Friday Sale\">🎁 BLACK FRIDAY: Lowest Prices of the Year</a>"
+            "text": "FREE Gift on $100+ Orders + FREE Shipping"
           }
         }
       },
@@ -46,6 +52,7 @@
         "announcement_RzCepp",
         "announcement_7iU4bq",
         "announcement_eeYyAc",
+        "announcement_UYaNeX",
         "announcement_RqB4ka"
       ],
       "custom_css": [
