@@ -99,6 +99,44 @@
         "padding_rate": 75
       }
     },
+    "banner_FD67cz": {
+      "type": "banner",
+      "blocks": {
+        "banner_4_UXB3X9": {
+          "type": "banner_4",
+          "settings": {
+            "image": "shopify://shop_images/pdp_oil_5ml_front_nightcap_gallery_1_image-7953.png",
+            "color_scheme": "",
+            "banner_url": "",
+            "banner_target": false,
+            "heading": "Summer Style Guide",
+            "sub_heading": "UP TO 30% OFF",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_4_UXB3X9"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "1",
+        "row_height": 100,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "1",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "hero_image_3dNbDH": {
       "type": "hero-image",
       "blocks": {
@@ -1024,50 +1062,13 @@
         "padding_bottom": 0,
         "padding_rate": 75
       }
-    },
-    "banner_FD67cz": {
-      "type": "banner",
-      "blocks": {
-        "banner_4_UXB3X9": {
-          "type": "banner_4",
-          "settings": {
-            "image": "shopify://shop_images/pdp_oil_5ml_front_nightcap_gallery_1_image-7953.png",
-            "color_scheme": "",
-            "banner_url": "",
-            "banner_target": false,
-            "heading": "Summer Style Guide",
-            "sub_heading": "UP TO 30% OFF",
-            "alignment": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "banner_4_UXB3X9"
-      ],
-      "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "col_dk": "3",
-        "row_height": 500,
-        "content_pd_y": 15,
-        "content_pd_x": 15,
-        "space_item": 30,
-        "col_tb": "2",
-        "row_height_tb": 500,
-        "space_item_tb": 15,
-        "row_height_mb": 250,
-        "space_item_mb": 15,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "heading",
     "top_heading_LKRnyK",
     "top_heading_LXYpUq",
+    "banner_FD67cz",
     "hero_image_3dNbDH",
     "categories_section_kV6JP9",
     "custom_line_zAe7AX",
@@ -1084,7 +1085,6 @@
     "featured_collection_grid_j8DcaG",
     "slideshow_bHhppE",
     "collections_list_simple_kY6xMW",
-    "custom_line_GAKQtn",
-    "banner_FD67cz"
+    "custom_line_GAKQtn"
   ]
 }
