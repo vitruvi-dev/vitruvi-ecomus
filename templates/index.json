@@ -172,6 +172,7 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
         "image": "shopify://shop_images/page_home_hero_cybermonday_image_desktop-2.jpg",
+        "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
         "link_img": "shopify://collections/cyber-monday-sale",
         "target": false,
         "image_behavior": "none",
