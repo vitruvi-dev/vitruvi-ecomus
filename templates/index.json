@@ -454,7 +454,7 @@
         "sub_heading_MJizU4": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Enjoy a FREE Nightcap Mini Diffuser Blend with your purchase. Perfect for creating a festive, bold atmosphere with notes of Black Pepper, Blood Orange, and Ginger. Bring the sparkle of holiday nights to any space.",
+            "sub_heading": "Get a FREE Nightcap Mini Diffuser Blend with all $100+ orders. Bold and festive, it’s perfect for adding holiday magic to any space.",
             "sub_fs": "base"
           }
         },
@@ -488,109 +488,11 @@
         "content_position": "center",
         "alignment": "left",
         "content_pl": 0,
-        "image_last_mb": false,
+        "image_last_mb": true,
         "content_position_mb": "center",
-        "alignment_mb": "left",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_qiKp9y": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_kJRUFr": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "title_c9kfcj": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_XByFr3": {
-          "type": "price",
-          "settings": {}
-        },
-        "countdown_timer_RfYQKW": {
-          "type": "countdown_timer",
-          "settings": {
-            "content": "AVAILABLE TODAY ONLY",
-            "icon_svg": "clock",
-            "ani": "none"
-          }
-        },
-        "inventory_mBV8z3": {
-          "type": "inventory",
-          "settings": {
-            "inventory_threshold": 100,
-            "show_inventory_quantity": true,
-            "show_progress_bar": false,
-            "progress_bar_max": 50
-          }
-        },
-        "buy_buttons_e8qjhe": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": false,
-            "show_compare": false
-          }
-        },
-        "description_zUhXNw": {
-          "type": "description",
-          "settings": {
-            "des": "2",
-            "short_des": "",
-            "length": 35
-          }
-        },
-        "view_products_details_bAaGxi": {
-          "type": "view_products_details",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "badges_kJRUFr",
-        "title_c9kfcj",
-        "price_XByFr3",
-        "countdown_timer_RfYQKW",
-        "inventory_mBV8z3",
-        "buy_buttons_e8qjhe",
-        "description_zUhXNw",
-        "view_products_details_bAaGxi"
-      ],
-      "disabled": true,
-      "settings": {
-        "product": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product.value }}",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": true,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "alignment_mb": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -1207,7 +1109,6 @@
     "slideshow_EjwCVy",
     "collections_list_ntQ9dE",
     "image_with_text_TH3zJL",
-    "featured_product_qiKp9y",
     "featured_collection_grid_fUDb9P",
     "featured_collection_grid_PV4GGr",
     "featured_collection_grid_W6JYha",
