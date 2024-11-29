@@ -185,6 +185,12 @@
             "svg": "",
             "height": 100
           }
+        },
+        "custom_liquid_r7kJz6": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://vitruvi.ca/cdn/shop/files/pdp_humidity-sensor_gallery_1_image_fcbae604-0cd7-4921-929a-201bb32ece4b.png?v=1719458598&width=990\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Free Gift\n      {% if request.host contains 'vitruvi.com' %}\n        ($11 Value)\n      {% else %}\n        ($11 Value)\n      {% endif %}\n    </h5>\n    <p>Humidity Sensor added to every humidifier order, while supplies last.</p>\n  </div>\n</div>"
+          }
         }
       },
       "block_order": [
@@ -195,7 +201,8 @@
         "buy_buttons_VEzdyL",
         "description_NimrCk",
         "view_products_details_VHeFNC",
-        "img_trust_i3HRXm"
+        "img_trust_i3HRXm",
+        "custom_liquid_r7kJz6"
       ],
       "settings": {
         "product": "cloud-humidifier",
