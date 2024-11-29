@@ -83,7 +83,7 @@
         "text_2_bCkXKC": {
           "type": "text_2",
           "settings": {
-            "sub_heading": ""
+            "sub_heading": "<i>Get a FREE gift on $100+ orders while supplies last</i><br><br>Last chance, ends today."
           }
         }
       },
@@ -91,6 +91,7 @@
         "text_RUD6mp",
         "text_2_bCkXKC"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "year": 2030,
