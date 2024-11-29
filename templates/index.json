@@ -403,10 +403,10 @@
         "collection_item_JUWwNA": {
           "type": "collection_item",
           "settings": {
-            "collection": "cyber-monday-sale",
-            "image": "shopify://shop_images/cybermondaygrid.jpg",
-            "title": "Cyber Monday: Up to 50% Off",
-            "collection_link": ""
+            "collection": "",
+            "image": "shopify://shop_images/pdp_bfcm-2024-bundle_self-care_gallery_1_v1.png",
+            "title": "Save over $100 on the<br>Ultimate Self-Care Gift Set",
+            "collection_link": "shopify://products/self-care-gift-diffuser-bundle"
           }
         },
         "view_all_dqd9Kp": {
@@ -430,7 +430,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Explore",
+        "sec_heading": "Last Chance Deals",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
@@ -502,6 +502,7 @@
         "sub_heading_MJizU4",
         "button_ttPbL6"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}"
       ],
