@@ -382,30 +382,30 @@
     "collections_list_64Hida": {
       "type": "collections-list",
       "blocks": {
-        "collection_item_JUWwNA": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "cyber-monday-sale",
-            "image": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
-            "title": "Cyber Monday: Up to 50% Off",
-            "collection_link": ""
-          }
-        },
         "collection_item_npECiC": {
           "type": "collection_item",
           "settings": {
-            "collection": "essential-oils",
-            "image": "shopify://shop_images/home_explore_oils_2024-08.png",
-            "title": "Essential Oils",
+            "collection": "essential-oil-diffusers",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
+            "title": "Up to 50% off Diffusers<br>+ Free Gift With Purchase",
             "collection_link": ""
           }
         },
         "collection_item_GicVby": {
           "type": "collection_item",
           "settings": {
-            "collection": "natural-air-freshener-sprays",
-            "image": "shopify://shop_images/home_explore_sprays_2024-06.jpg",
-            "title": "Air Freshener Sprays",
+            "collection": "humidifiers",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
+            "title": "Up to 50% off Humidifiers<br>+ Free Gift With Purchase",
+            "collection_link": ""
+          }
+        },
+        "collection_item_JUWwNA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "cyber-monday-sale",
+            "image": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
+            "title": "Cyber Monday: Up to 50% Off",
             "collection_link": ""
           }
         },
@@ -419,13 +419,14 @@
         }
       },
       "block_order": [
-        "collection_item_JUWwNA",
         "collection_item_npECiC",
         "collection_item_GicVby",
+        "collection_item_JUWwNA",
         "view_all_dqd9Kp"
       ],
       "custom_css": [
-        "div.hdt-collection-content p {display: none;}"
+        "div.hdt-collection-content p {display: none;}",
+        ".hdt-collection-title {line-height: 140%;}"
       ],
       "settings": {
         "heading_align": "center",
@@ -445,7 +446,7 @@
         "text_transform": false,
         "content_position": "center",
         "content_padding": 30,
-        "image_ratio": "asos",
+        "image_ratio": "square",
         "image_size": true,
         "col_dk": "3",
         "col_tb": "3",
