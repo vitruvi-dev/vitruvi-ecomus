@@ -159,7 +159,7 @@
         "button_G99RRj"
       ],
       "custom_css": [
-        "p {color: black; opacity: 80%}",
+        "p {color: black; opacity: 80%;}",
         ".hdt-hero-image__text {font-size: 180%;}",
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
@@ -377,6 +377,90 @@
         "padding_top": 0,
         "padding_bottom": 60,
         "padding_rate": 75
+      }
+    },
+    "collections_list_64Hida": {
+      "type": "collections-list",
+      "blocks": {
+        "collection_item_JUWwNA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "cyber-monday-sale",
+            "image": "shopify://shop_images/home_explore_blends_2024-06.jpg",
+            "title": "Diffuser Blends",
+            "collection_link": ""
+          }
+        },
+        "collection_item_npECiC": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oils",
+            "image": "shopify://shop_images/home_explore_oils_2024-08.png",
+            "title": "Essential Oils",
+            "collection_link": ""
+          }
+        },
+        "collection_item_GicVby": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "natural-air-freshener-sprays",
+            "image": "shopify://shop_images/home_explore_sprays_2024-06.jpg",
+            "title": "Air Freshener Sprays",
+            "collection_link": ""
+          }
+        },
+        "view_all_dqd9Kp": {
+          "type": "view_all",
+          "disabled": true,
+          "settings": {
+            "title": "Shop all scents",
+            "item_link": "shopify://collections/scents"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_JUWwNA",
+        "collection_item_npECiC",
+        "collection_item_GicVby",
+        "view_all_dqd9Kp"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Explore",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 12,
+        "sec_heading_spacing": 50,
+        "collection_list": [],
+        "collection_des": "8",
+        "content_size": "2xl",
+        "content_weight": "normal",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "image_ratio": "asos",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "2",
+        "space_items": "20",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "simple",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "dots_pos": "ontop",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "boxed_content": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 50,
+        "padding_bottom": 100,
+        "padding_rate": 60
       }
     },
     "image_with_text_TH3zJL": {
@@ -1045,6 +1129,7 @@
     "hero_image_3kanN3",
     "video_GKb7jj",
     "slideshow_EjwCVy",
+    "collections_list_64Hida",
     "image_with_text_TH3zJL",
     "featured_collection_grid_W6JYha",
     "featured_collection_grid_fUDb9P",
