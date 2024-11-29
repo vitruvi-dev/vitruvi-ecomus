@@ -478,7 +478,7 @@
         "button_ttPbL6": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP SALE",
+            "btn_label": "SHOP BLACK FRIDAY",
             "btn_link": "shopify://collections/black-friday-sale",
             "target": false,
             "btn_size": "base",
@@ -493,6 +493,9 @@
         "sub_heading_MJizU4",
         "count_down_GETin6",
         "button_ttPbL6"
+      ],
+      "custom_css": [
+        ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/collection_bfcm2022_mystery.png",
