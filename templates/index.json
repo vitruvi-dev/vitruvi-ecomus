@@ -855,15 +855,47 @@
         "padding_bottom": 50,
         "padding_rate": 75
       }
+    },
+    "countdown_text_Hkw9Nr": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_r4XwKW": {
+          "type": "text",
+          "settings": {
+            "heading": "One-Time Only"
+          }
+        }
+      },
+      "block_order": [
+        "text_r4XwKW"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2030,
+        "month": 4,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "video_GKb7jj",
     "slideshow_EjwCVy",
+    "countdown_text_Hkw9Nr",
     "image_with_text_TH3zJL",
+    "featured_collection_grid_W6JYha",
     "featured_collection_grid_fUDb9P",
     "featured_collection_grid_PV4GGr",
-    "featured_collection_grid_W6JYha",
     "slideshow_bHhppE",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
