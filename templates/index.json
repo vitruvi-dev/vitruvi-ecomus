@@ -143,7 +143,7 @@
             "btn_label": "SHOP CYBER MONDAY",
             "btn_link": "shopify://collections/cyber-monday-sale",
             "target": false,
-            "btn_size": "base",
+            "btn_size": "xl",
             "btn_style": "solid",
             "btn_fw": "normal",
             "btn_icon": "none"
@@ -345,7 +345,6 @@
         "slide_base_gfQagm",
         "slide_base_tRthVw"
       ],
-      "disabled": true,
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
