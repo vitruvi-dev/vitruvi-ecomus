@@ -30,7 +30,7 @@
         "text_HgrMMJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Last chance, ends today.</p>",
+            "text": "<p>Last chance, ends soon..</p>",
             "adding_border": false
           }
         },
@@ -117,7 +117,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Last chance, ends today.</strong></p>",
+            "text": "<p><strong>Last chance, ends soon..</strong></p>",
             "adding_border": false
           }
         },
