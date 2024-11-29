@@ -152,10 +152,10 @@
         "custom_liquid_ydB9QQ"
       ],
       "custom_css": [
-        ".byob-cta {gap: 25px; padding: 25px;}",
-        ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
-        ".byob-text,.byob-button {text-align: center;}",
-        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-img, .byob-text, .byob-button {text-align: left; } .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
       ],
       "settings": {
         "space_content_media": true,
