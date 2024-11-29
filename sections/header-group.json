@@ -37,6 +37,7 @@
         },
         "announcement_UYaNeX": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<span style=\"text-decoration:underline\">{{ localization.market.metafields.ecomus.announcement_notice.value }}</span>"
           }
@@ -46,6 +47,12 @@
           "settings": {
             "text": "FREE Shipping on $75+ Orders"
           }
+        },
+        "announcement_pLBUqN": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE Gift on $100+ Orders"
+          }
         }
       },
       "block_order": [
@@ -53,7 +60,8 @@
         "announcement_7iU4bq",
         "announcement_eeYyAc",
         "announcement_UYaNeX",
-        "announcement_RqB4ka"
+        "announcement_RqB4ka",
+        "announcement_pLBUqN"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
