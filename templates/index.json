@@ -71,6 +71,7 @@
         "countdown_8XTGTk",
         "button_Af7Pxy"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "image_height": "full",
@@ -345,6 +346,7 @@
         "slide_base_gfQagm",
         "slide_base_tRthVw"
       ],
+      "disabled": true,
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
