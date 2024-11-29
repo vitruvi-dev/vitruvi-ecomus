@@ -114,7 +114,6 @@
         },
         "countdown_timer_pLgxfe": {
           "type": "countdown_timer",
-          "disabled": true,
           "settings": {
             "content": "Labor Day Sale Ends Soon",
             "icon_svg": "clock",
