@@ -49,7 +49,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Free Shipping on All $75+ Orders",
+            "sub_heading": "Black Friday Sale On Now: Up to 50% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -57,7 +57,6 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
