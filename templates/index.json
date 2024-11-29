@@ -424,6 +424,9 @@
         "collection_item_GicVby",
         "view_all_dqd9Kp"
       ],
+      "custom_css": [
+        "p span {display: none;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Explore",
