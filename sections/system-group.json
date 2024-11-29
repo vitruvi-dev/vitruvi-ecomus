@@ -14,10 +14,6 @@
     "cart-drawer": {
       "type": "cart-drawer",
       "blocks": {
-        "dealeasy_cvg_progress_bar_WVQQzw": {
-          "type": "shopify://apps/dealeasy/blocks/cvg-progress-bar/e47a8634-0496-480d-9e46-6f7fafd34b30",
-          "settings": {}
-        },
         "ca4a9586-08fd-471b-a5a7-11e1ffc068a4": {
           "type": "subtotal",
           "settings": {}
@@ -52,7 +48,6 @@
         }
       },
       "block_order": [
-        "dealeasy_cvg_progress_bar_WVQQzw",
         "ca4a9586-08fd-471b-a5a7-11e1ffc068a4",
         "88e6ef7a-281c-45e7-b62c-b556ebd6f705",
         "f932f430-a2c4-4a2f-a3d6-d2f099407d44",
