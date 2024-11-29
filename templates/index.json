@@ -12,6 +12,13 @@
     "hero_image_3kanN3": {
       "type": "hero-image",
       "blocks": {
+        "text_yncHR8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>LOWEST PRICES OF THE YEAR</p>",
+            "adding_border": false
+          }
+        },
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
@@ -20,11 +27,28 @@
             "heading_fw": "normal"
           }
         },
-        "text_yncHR8": {
+        "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "text": "<p>Last chance, </p>",
             "adding_border": false
+          }
+        },
+        "countdown_fmPRkK": {
+          "type": "countdown",
+          "settings": {
+            "title": "",
+            "year": 2024,
+            "month": 12,
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": ""
           }
         },
         "button_G99RRj": {
@@ -41,15 +65,17 @@
         }
       },
       "block_order": [
-        "heading_gwHMFF",
         "text_yncHR8",
+        "heading_gwHMFF",
+        "text_zzWERJ",
+        "countdown_fmPRkK",
         "button_G99RRj"
       ],
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
         "li {font-size: 130%;}",
-        ".hdt-btn {margin-top: 2px; background-color: #eac661; color: black; border-width: 0px;}",
+        ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}",
         ".hdt-content {margin-bottom: 100px;}",
         "@media (max-width: 767px) {.hdt-content {margin-bottom: 220px; }}"
       ],
@@ -70,7 +96,7 @@
         "content_align_mb": "center",
         "full_width": true,
         "boxed_fullwidth": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "padding_top": 0,
         "padding_bottom": 36,
         "padding_rate": 75
@@ -233,7 +259,6 @@
         "slide_base_gfQagm",
         "slide_base_tRthVw"
       ],
-      "disabled": true,
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
