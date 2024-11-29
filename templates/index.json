@@ -264,8 +264,8 @@
         "slide_base_X9JycG": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/page_home_hero_blackfriday_image_desktop.jpg",
-            "image_mb": "shopify://shop_images/page_home_hero_blackfriday_image_mobile-compressed.jpg",
+            "image": "shopify://shop_images/page_home_hero_bf-early-access_image_desktop.png",
+            "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
