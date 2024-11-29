@@ -196,6 +196,37 @@
         "padding_rate": 75
       }
     },
+    "countdown_text_Hkw9Nr": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_r4XwKW": {
+          "type": "text",
+          "settings": {
+            "heading": "One-Time Only"
+          }
+        }
+      },
+      "block_order": [
+        "text_r4XwKW"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2024,
+        "month": 12,
+        "day": 3,
+        "hour": 0,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_TH3zJL": {
       "type": "image-with-text",
       "blocks": {
@@ -246,6 +277,48 @@
         "image_last_mb": true,
         "content_position_mb": "center",
         "alignment_mb": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_W6JYha": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Our Best-Sellers",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Premium, natural air care products that elevate your home.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 12,
+        "sec_heading_spacing": 100,
+        "collection": "",
+        "product_list": [
+          "cloud-humidifier",
+          "stone-essential-oil-diffuser",
+          "rest-essential-oil-kit",
+          "sleep-essential-oil-blend"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 80,
+        "btn_label": "Load more",
+        "btn_style": "outline",
+        "btn_fw": "semibold",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
         "padding_top": 50,
         "padding_bottom": 50,
         "padding_rate": 75
@@ -326,48 +399,6 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_W6JYha": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Our Best-Sellers",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Premium, natural air care products that elevate your home.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 100,
-        "collection": "",
-        "product_list": [
-          "cloud-humidifier",
-          "stone-essential-oil-diffuser",
-          "rest-essential-oil-kit",
-          "sleep-essential-oil-blend"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 80,
-        "btn_label": "Load more",
-        "btn_style": "outline",
-        "btn_fw": "semibold",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
         "padding_top": 50,
         "padding_bottom": 50,
         "padding_rate": 75
@@ -853,37 +884,6 @@
         "section_fullwidth": false,
         "padding_top": 0,
         "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "countdown_text_Hkw9Nr": {
-      "type": "countdown_text",
-      "blocks": {
-        "text_r4XwKW": {
-          "type": "text",
-          "settings": {
-            "heading": "One-Time Only"
-          }
-        }
-      },
-      "block_order": [
-        "text_r4XwKW"
-      ],
-      "settings": {
-        "full_width": true,
-        "year": 2030,
-        "month": 4,
-        "day": 19,
-        "hour": 12,
-        "minute": 0,
-        "effect_cd": "move_top",
-        "uppercase": false,
-        "prepend_number": false,
-        "hide_on_complete": false,
-        "mess_complete": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     }
