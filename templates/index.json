@@ -263,7 +263,6 @@
       "blocks": {
         "slide_base_X9JycG": {
           "type": "slide_base",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_bf-early-access_image_desktop.png",
             "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
@@ -292,6 +291,7 @@
         },
         "slide_base_tRthVw": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/page_home_hero_bf-early-access_image_desktop.png",
             "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
