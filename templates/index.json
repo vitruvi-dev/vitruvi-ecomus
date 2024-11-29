@@ -79,7 +79,7 @@
           "settings": {
             "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
             "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
-            "url": "shopify://collections/black-friday-sale",
+            "url": "shopify://collections/cyber-monday-sale",
             "banner_target": false,
             "color_scheme": "scheme-1",
             "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 50% off<br/>Cyber Monday</li></ul>",
@@ -89,7 +89,7 @@
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP CYBER MONDAY",
-            "btn_link": "shopify://collections/black-friday-sale",
+            "btn_link": "shopify://collections/cyber-monday-sale",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
