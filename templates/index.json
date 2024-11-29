@@ -77,11 +77,11 @@
         "slide_base_X9JycG": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/Humidifier_Sale_AD20_V2_Holiday_Special_On_Now_2024_Q4_Holiday_Image-Story.jpg",
-            "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
+            "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
+            "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-1",
             "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 50% off<br/>Cyber Monday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
