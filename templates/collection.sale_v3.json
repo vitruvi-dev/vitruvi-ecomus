@@ -78,7 +78,7 @@
         "sub_heading_8N7Fad": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Free Mini Diffuser Blend on All $100+ Orders",
+            "sub_heading": "Get a FREE gift on $100+ orders while supplies last",
             "sub_heading_fs": "base"
           }
         }
@@ -86,7 +86,6 @@
       "block_order": [
         "sub_heading_8N7Fad"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -150,77 +149,6 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 100,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "icon_box_bzeyCm": {
-      "type": "icon-box",
-      "blocks": {
-        "item_FLpmKt": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "box",
-            "custom_svg": "",
-            "image": "shopify://shop_images/icons_heart_2024-06.svg",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "",
-            "open_link": false,
-            "title": "",
-            "content": "<p>FREE Mini Diffuser Blend on $100+ Orders</p>",
-            "adding_border": false
-          }
-        },
-        "item_9cmkrX": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "box",
-            "custom_svg": "",
-            "image": "shopify://shop_images/IconsBlack-Truck.svg",
-            "icon_width": 30,
-            "icon_width_mb": 30,
-            "link": "",
-            "open_link": false,
-            "title": "",
-            "content": "<p>FREE Mini Diffuser Blend on $100+ Orders</p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "item_FLpmKt",
-        "item_9cmkrX"
-      ],
-      "custom_css": [
-        ".hdt-container {max-width: 80%; text-align: center;}"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 21,
-        "sec_heading_spacing": 30,
-        "icon_pos_center": false,
-        "icon_pos_center_mb": true,
-        "icon_circle": false,
-        "space_icon_heading": "small",
-        "size_heading": "medium",
-        "heading_uppercase": false,
-        "space_heading_content": "small",
-        "col_dk": "2",
-        "col_tb": "2",
-        "col_mb": "2",
-        "carousel_mobile": true,
-        "border_style": "none",
-        "fullwidth": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -1105,7 +1033,6 @@
     "top_heading_LKRnyK",
     "top_heading_LXYpUq",
     "hero_image_3dNbDH",
-    "icon_box_bzeyCm",
     "categories_section_kV6JP9",
     "custom_line_zAe7AX",
     "main",
