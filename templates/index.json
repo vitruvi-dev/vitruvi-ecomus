@@ -382,15 +382,6 @@
     "collections_list_64Hida": {
       "type": "collections-list",
       "blocks": {
-        "collection_item_JUWwNA": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/pdp_bfcm-2024-bundle_self-care_gallery_3_v1.png",
-            "title": "Save over $100 on the<br>Ultimate Self-Care Gift Set",
-            "collection_link": "shopify://products/self-care-gift-diffuser-bundle"
-          }
-        },
         "collection_item_npECiC": {
           "type": "collection_item",
           "settings": {
@@ -409,6 +400,15 @@
             "collection_link": ""
           }
         },
+        "collection_item_JUWwNA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_bfcm-2024-bundle_self-care_gallery_3_v1.png",
+            "title": "Daily Deal: Save $100+ on the<br>Ultimate Self-Care Gift Set",
+            "collection_link": "shopify://products/self-care-gift-diffuser-bundle"
+          }
+        },
         "view_all_dqd9Kp": {
           "type": "view_all",
           "disabled": true,
@@ -419,9 +419,9 @@
         }
       },
       "block_order": [
-        "collection_item_JUWwNA",
         "collection_item_npECiC",
         "collection_item_GicVby",
+        "collection_item_JUWwNA",
         "view_all_dqd9Kp"
       ],
       "custom_css": [
