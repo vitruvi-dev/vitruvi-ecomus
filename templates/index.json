@@ -163,7 +163,7 @@
         "strong {font-size: 80%; font-weight: 200;}",
         "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; font-weight: 200; }}",
         ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}",
-        ".hdt-countdown__item {border-top-left-radius: 0; border-top-right-radius-radius: 0; border-top-right-radius-radius: 0;}"
+        ".hdt-countdown__item {border-top-left-radius: 0px; border-top-right-radius-radius: 0px;}"
       ],
       "settings": {
         "image_height": "full",
