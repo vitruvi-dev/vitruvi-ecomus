@@ -72,83 +72,8 @@
         "padding_rate": 75
       }
     },
-    "categories_section_kV6JP9": {
-      "type": "categories-section",
-      "blocks": {
-        "collection_item_hyjBLh": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "bundle-and-save",
-            "image": "shopify://shop_images/collection_bfcm2024_bundles.png",
-            "title": "Gift Bundles",
-            "collection_link": ""
-          }
-        },
-        "collection_item_FJ9cck": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "humidifiers",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
-            "title": "Humidifiers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_XAzK6L": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/collection_bfcm2024_diffusers.png",
-            "title": "Diffusers",
-            "collection_link": "#diffusers"
-          }
-        },
-        "collection_item_3tzmMw": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "diffuser-blends",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Blends",
-            "collection_link": ""
-          }
-        },
-        "collection_item_tL67i4": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "scent-kits",
-            "image": "shopify://shop_images/collection_bfcm2024_kits.png",
-            "title": "Kits",
-            "collection_link": ""
-          }
-        },
-        "view_all_FywTJP": {
-          "type": "view_all",
-          "settings": {
-            "title": "Best Sellers",
-            "item_link": "shopify://collections/best-sellers"
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_hyjBLh",
-        "collection_item_FJ9cck",
-        "collection_item_XAzK6L",
-        "collection_item_3tzmMw",
-        "collection_item_tL67i4",
-        "view_all_FywTJP"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "color_scheme": "",
-        "style": "small",
-        "padding_top": 30,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "custom_line_zAe7AX": {
       "type": "custom-line",
-      "disabled": true,
       "settings": {
         "line_style": "solid",
         "line_width": 100,
@@ -950,7 +875,6 @@
   "order": [
     "heading",
     "top_heading_LKRnyK",
-    "categories_section_kV6JP9",
     "custom_line_zAe7AX",
     "main",
     "featured_collection_grid_eF6zJd",
