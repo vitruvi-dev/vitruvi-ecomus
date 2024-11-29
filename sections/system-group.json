@@ -45,17 +45,6 @@
             "btn_fw_checkout": "semibold",
             "btn_icon_checkout": "none"
           }
-        },
-        "img_trust_zmCxdU": {
-          "type": "img_trust",
-          "settings": {
-            "mess": "Guarantee Safe Checkout",
-            "source": "1",
-            "image": "shopify://shop_images/pdp_bfcm-2024-bundle_cozy-kitchen_gallery_1_v2.png",
-            "wimg": 350,
-            "svg": "visa,paypal,master,american_express,amazon_payments",
-            "height": 25
-          }
         }
       },
       "block_order": [
@@ -63,8 +52,7 @@
         "88e6ef7a-281c-45e7-b62c-b556ebd6f705",
         "f932f430-a2c4-4a2f-a3d6-d2f099407d44",
         "76bae518-3d87-4731-a9d4-2e41544da57b",
-        "54f7a627-75c8-4b50-8c43-45e4be386afb",
-        "img_trust_zmCxdU"
+        "54f7a627-75c8-4b50-8c43-45e4be386afb"
       ],
       "settings": {
         "color_scheme": "",
