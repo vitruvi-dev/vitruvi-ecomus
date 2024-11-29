@@ -353,40 +353,6 @@
         "padding_rate": 75
       }
     },
-    "marquee_t9iEbp": {
-      "type": "marquee",
-      "blocks": {
-        "item_kTtmKV": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Welcome to our store</p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        }
-      },
-      "block_order": [
-        "item_kTtmKV"
-      ],
-      "disabled": true,
-      "settings": {
-        "space_item": 30,
-        "speed": 0.3,
-        "direction": "rtl",
-        "marquee_pause_when_hover": false,
-        "text_fs": "h5",
-        "text_fw": "normal",
-        "text_uppercase": false,
-        "adding_border": true,
-        "icon_position_between": true,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
     "collections_list_ntQ9dE": {
       "type": "collections-list",
       "blocks": {
@@ -473,6 +439,76 @@
         "padding_top": 75,
         "padding_bottom": 90,
         "padding_rate": 60
+      }
+    },
+    "image_with_text_TH3zJL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_weepe7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Gift",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_MJizU4": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Shop our luxury silk button-up blouses made with ultra-soft, washable silk.",
+            "sub_fs": "base"
+          }
+        },
+        "count_down_GETin6": {
+          "type": "count_down",
+          "settings": {
+            "color_scheme": "",
+            "title": "",
+            "year": 2024,
+            "month": 12,
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": ""
+          }
+        },
+        "button_ttPbL6": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP SALE",
+            "btn_link": "shopify://collections/black-friday-sale",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_weepe7",
+        "sub_heading_MJizU4",
+        "count_down_GETin6",
+        "button_ttPbL6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/collection_bfcm2022_mystery.png",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
       }
     },
     "featured_product_qiKp9y": {
@@ -1184,8 +1220,8 @@
     "video_kaFT9H",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "slideshow_EjwCVy",
-    "marquee_t9iEbp",
     "collections_list_ntQ9dE",
+    "image_with_text_TH3zJL",
     "featured_product_qiKp9y",
     "featured_collection_grid_fUDb9P",
     "featured_collection_grid_PV4GGr",
