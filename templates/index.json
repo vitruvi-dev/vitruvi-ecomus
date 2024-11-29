@@ -448,31 +448,14 @@
           "type": "heading",
           "settings": {
             "heading": "Free Gift",
-            "heading_fs": "h3"
+            "heading_fs": "h4"
           }
         },
         "sub_heading_MJizU4": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Shop our luxury silk button-up blouses made with ultra-soft, washable silk.",
+            "sub_heading": "Enjoy a FREE Nightcap Mini Diffuser Blend with your purchase. Perfect for creating a festive, bold atmosphere with notes of Black Pepper, Blood Orange, and Ginger. Bring the sparkle of holiday nights to any space.",
             "sub_fs": "base"
-          }
-        },
-        "count_down_GETin6": {
-          "type": "count_down",
-          "settings": {
-            "color_scheme": "",
-            "title": "",
-            "year": 2024,
-            "month": 12,
-            "day": 3,
-            "hour": 0,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": ""
           }
         },
         "button_ttPbL6": {
@@ -491,7 +474,6 @@
       "block_order": [
         "heading_weepe7",
         "sub_heading_MJizU4",
-        "count_down_GETin6",
         "button_ttPbL6"
       ],
       "custom_css": [
