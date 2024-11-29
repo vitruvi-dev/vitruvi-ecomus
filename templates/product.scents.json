@@ -85,6 +85,12 @@
             "show_compare": false
           }
         },
+        "custom_liquid_CyEFcr": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_oil_5ml_front_nightcap_gallery_1_image-7953.png?v=1732839131\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Free Gift\n      {% if request.host contains 'vitruvi.com' %}\n        ($19 Value)\n      {% else %}\n        ($17 Value)\n      {% endif %}\n    </h5>\n    <p>Mini Nightcap Blend automatically added to every $100+ order, while supplies last.</p>\n  </div>\n</div>"
+          }
+        },
         "countdown_timer_NCVUEc": {
           "type": "countdown_timer",
           "disabled": true,
@@ -138,6 +144,7 @@
         "quantity_selector_XCH8WV",
         "inventory_ftnW9y",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "custom_liquid_CyEFcr",
         "countdown_timer_NCVUEc",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
@@ -145,10 +152,10 @@
         "custom_liquid_ydB9QQ"
       ],
       "custom_css": [
-        ".byob-cta {gap: 25px; padding: 25px;}",
-        ".byob-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
-        ".byob-text,.byob-button {text-align: center;}",
-        "@media (min-width: 768px) {.byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-img, .byob-text, .byob-button {text-align: left; } .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
       ],
       "settings": {
         "space_content_media": true,

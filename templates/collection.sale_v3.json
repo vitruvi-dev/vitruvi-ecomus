@@ -20,13 +20,13 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday: Up to 40% Off"
+            "heading": "Black Friday: Up to 50% Off"
           }
         },
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": "Big savings on everything you need to beautifully humidify your air and scent your spaces."
+            "description": "This weekend only."
           }
         }
       },
@@ -49,7 +49,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Black Friday Sale On Now: Up to 40% Off Sitewide",
+            "sub_heading": "Free Shipping on All $75+ Orders",
             "sub_heading_fs": "base"
           }
         }
@@ -58,6 +58,34 @@
         "sub_heading_wpqzpJ"
       ],
       "disabled": true,
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 0,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_LXYpUq": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_8N7Fad": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Get a FREE gift on $100+ orders while supplies last",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_8N7Fad"
+      ],
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -86,7 +114,7 @@
         "heading_VNYyGF": {
           "type": "heading",
           "settings": {
-            "heading": "<span class=\"save40sitewide\">UP TO 40% OFF SITEWIDE</span>",
+            "heading": "<span class=\"save40sitewide\">UP TO 50% OFF SITEWIDE</span>",
             "heading_fs": "h6",
             "heading_fw": "normal"
           }
@@ -201,6 +229,7 @@
     },
     "custom_line_zAe7AX": {
       "type": "custom-line",
+      "disabled": true,
       "settings": {
         "line_style": "solid",
         "line_width": 100,
@@ -219,7 +248,7 @@
         "featured_products_rgCDg3": {
           "type": "featured_products",
           "settings": {
-            "widget_heading": "Daily Deal: 40% Savings 🎁",
+            "widget_heading": "Daily Deal",
             "collection": "",
             "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
             "products_count": 1,
@@ -227,8 +256,13 @@
             "image_size": true
           }
         },
+        "filter_bB4hRd": {
+          "type": "filter",
+          "settings": {}
+        },
         "featured_products_LzB6Km": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "widget_heading": "Holiday Exclusives 🎄",
             "collection": "",
@@ -247,6 +281,7 @@
       },
       "block_order": [
         "featured_products_rgCDg3",
+        "filter_bB4hRd",
         "featured_products_LzB6Km"
       ],
       "custom_css": [],
@@ -264,9 +299,9 @@
         "paginate_pos": "center",
         "dis_pagination": 60,
         "enable_sorting": true,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "enable_num_cols_selector": false,
-        "widget_heading": "Product Categories",
+        "widget_heading": "",
         "cat_source": "2",
         "cat_link_list": "footer_products",
         "count": true,
@@ -815,7 +850,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 50%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -852,7 +887,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 50%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -996,6 +1031,7 @@
   "order": [
     "heading",
     "top_heading_LKRnyK",
+    "top_heading_LXYpUq",
     "hero_image_3dNbDH",
     "categories_section_kV6JP9",
     "custom_line_zAe7AX",
