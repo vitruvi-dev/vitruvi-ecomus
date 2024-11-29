@@ -21,13 +21,6 @@
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
         },
-        "announcement_7iU4bq": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "<a href=\"/collections/shop-all\" title=\"Shop All\">Free Gift on $100+ Orders, While Supplies Last</a>"
-          }
-        },
         "announcement_eeYyAc": {
           "type": "announcement",
           "disabled": true,
@@ -41,6 +34,18 @@
             "text": "<span style=\"text-decoration:underline\">{{ localization.market.metafields.ecomus.announcement_notice.value }}</span>"
           }
         },
+        "announcement_7iU4bq": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\">FREE Mini Diffuser Blend with Diffuser Orders</a>"
+          }
+        },
+        "announcement_BHQ3xT": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\">FREE Humidity Sensor with Humidifier Orders</a>"
+          }
+        },
         "announcement_RqB4ka": {
           "type": "announcement",
           "settings": {
@@ -50,9 +55,10 @@
       },
       "block_order": [
         "announcement_RzCepp",
-        "announcement_7iU4bq",
         "announcement_eeYyAc",
         "announcement_UYaNeX",
+        "announcement_7iU4bq",
+        "announcement_BHQ3xT",
         "announcement_RqB4ka"
       ],
       "custom_css": [
