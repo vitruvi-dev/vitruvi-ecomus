@@ -81,7 +81,7 @@
         "prepend_number": false,
         "hide_on_complete": false,
         "mess_complete": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
