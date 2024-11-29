@@ -30,7 +30,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Last chance, </p>",
+            "text": "<p>Last chance, ends today.</p>",
             "adding_border": false
           }
         },
