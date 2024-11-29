@@ -162,7 +162,22 @@
           "settings": {
             "icon_svg": "box",
             "custom_svg": "",
-            "image": "shopify://shop_images/pdp_oil_5ml_front_nightcap_gallery_1_image-7953_1.png",
+            "image": "shopify://shop_images/icons_contact-gift_2024-06.png",
+            "icon_width": 60,
+            "icon_width_mb": 60,
+            "link": "",
+            "open_link": false,
+            "title": "",
+            "content": "<p>FREE Mini Diffuser Blend on $100+ Orders</p>",
+            "adding_border": false
+          }
+        },
+        "item_9cmkrX": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify://shop_images/IconsBlack-Truck.svg",
             "icon_width": 60,
             "icon_width_mb": 60,
             "link": "",
@@ -174,9 +189,9 @@
         }
       },
       "block_order": [
-        "item_FLpmKt"
+        "item_FLpmKt",
+        "item_9cmkrX"
       ],
-      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
@@ -187,7 +202,7 @@
         "heading_reverse": false,
         "heading_gap": 21,
         "sec_heading_spacing": 30,
-        "icon_pos_center": true,
+        "icon_pos_center": false,
         "icon_pos_center_mb": true,
         "icon_circle": false,
         "space_icon_heading": "small",
