@@ -71,6 +71,44 @@
         "padding_rate": 75
       }
     },
+    "countdown_text_h939Yg": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_RUD6mp": {
+          "type": "text",
+          "settings": {
+            "heading": "{{ collection.title }}"
+          }
+        },
+        "text_2_bCkXKC": {
+          "type": "text_2",
+          "settings": {
+            "sub_heading": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_RUD6mp",
+        "text_2_bCkXKC"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2030,
+        "month": 4,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "custom_line_zAe7AX": {
       "type": "custom-line",
       "settings": {
@@ -874,6 +912,7 @@
   "order": [
     "heading",
     "top_heading_LKRnyK",
+    "countdown_text_h939Yg",
     "custom_line_zAe7AX",
     "main",
     "featured_collection_grid_eF6zJd",
