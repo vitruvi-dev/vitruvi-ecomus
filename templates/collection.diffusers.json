@@ -195,6 +195,12 @@
             "svg": "",
             "height": 30
           }
+        },
+        "custom_liquid_BPPKy8": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -206,7 +212,8 @@
         "buy_buttons_fagEmm",
         "description_DUMmP6",
         "view_products_details_pYeQq6",
-        "img_trust_NNM6wE"
+        "img_trust_NNM6wE",
+        "custom_liquid_BPPKy8"
       ],
       "custom_css": [],
       "settings": {
