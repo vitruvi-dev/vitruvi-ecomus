@@ -425,7 +425,7 @@
         "view_all_dqd9Kp"
       ],
       "custom_css": [
-        "p span {display: none;}"
+        "div.hdt-collection-content p {display: none;}"
       ],
       "settings": {
         "heading_align": "center",
@@ -832,7 +832,9 @@
         "72a99e49-16d6-4138-83a1-4f452229667b",
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "div.hdt-collection-content p {display: none;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Explore",
