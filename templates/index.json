@@ -289,6 +289,35 @@
             "alignment_mb": "center"
           }
         },
+        "slide_base_gfQagm": {
+          "type": "slide_base",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/page_home_hero_bf-early-access_image_desktop.png",
+            "image_mb": "shopify://shop_images/page_home_hero_bf-early-access_image_mobile.jpg",
+            "url": "shopify://collections/black-friday-sale",
+            "banner_target": false,
+            "color_scheme": "scheme-3",
+            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 50% off<br/>Black Friday</li></ul>",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "This weekend only.",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "SHOP BLACK FRIDAY",
+            "btn_link": "shopify://collections/black-friday-sale",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none",
+            "content_position": "center",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
         "slide_base_tRthVw": {
           "type": "slide_base",
           "disabled": true,
@@ -321,6 +350,7 @@
       },
       "block_order": [
         "slide_base_X9JycG",
+        "slide_base_gfQagm",
         "slide_base_tRthVw"
       ],
       "custom_css": [
