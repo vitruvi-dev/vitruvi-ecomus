@@ -507,7 +507,7 @@
       "gift_wrap_html": "<span>Do you want a gift wrap?</span> Only <span class=\"hdt-font-semibold\">{{ money }}</span>",
       "free_shipping_bar": {
         "intial_html": "<p>FREE shipping <span class=\"hdt-font-normal\">on $75+ orders +</span> FREE gift <span class=\"hdt-font-normal\">on $100+ orders</p>",
-        "unreached_html": "<p><span class=\"hdt-font-normal\">Add</span> {{ money }} <span class=\"hdt-font-normal\"> more to your cart to enjoy</span> free shipping</p>",
+        "unreached_html": "<p>FREE shipping <span class=\"hdt-font-normal\">on $75+ orders +</span> FREE gift <span class=\"hdt-font-normal\">on $100+ orders</p>",
         "success": "You're getting free shipping!"
       },
       "headings": {
