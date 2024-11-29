@@ -71,6 +71,65 @@
         "padding_rate": 75
       }
     },
+    "hero_image_3kanN3": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_gwHMFF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ecomus theme shopify",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_yncHR8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "adding_border": false
+          }
+        },
+        "button_G99RRj": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gwHMFF",
+        "text_yncHR8",
+        "button_G99RRj"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "slideshow_EjwCVy": {
       "type": "slideshow",
       "blocks": {
@@ -193,37 +252,6 @@
         "dot_space": 57,
         "padding_top": 0,
         "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "countdown_text_Hkw9Nr": {
-      "type": "countdown_text",
-      "blocks": {
-        "text_r4XwKW": {
-          "type": "text",
-          "settings": {
-            "heading": "One-Time Only"
-          }
-        }
-      },
-      "block_order": [
-        "text_r4XwKW"
-      ],
-      "settings": {
-        "full_width": true,
-        "year": 2024,
-        "month": 12,
-        "day": 3,
-        "hour": 0,
-        "minute": 0,
-        "effect_cd": "move_top",
-        "uppercase": false,
-        "prepend_number": false,
-        "hide_on_complete": false,
-        "mess_complete": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -890,8 +918,8 @@
   },
   "order": [
     "video_GKb7jj",
+    "hero_image_3kanN3",
     "slideshow_EjwCVy",
-    "countdown_text_Hkw9Nr",
     "image_with_text_TH3zJL",
     "featured_collection_grid_W6JYha",
     "featured_collection_grid_fUDb9P",
