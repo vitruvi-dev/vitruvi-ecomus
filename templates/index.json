@@ -72,6 +72,8 @@
         "button_G99RRj"
       ],
       "custom_css": [
+        ".hdt-hero-image__text {font-size: 200%;}",
+        ".hdt-hero-image__heading {font-size: 600%;}",
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
         "li {font-size: 130%;}",
@@ -164,6 +166,7 @@
         "countdown_8XTGTk",
         "button_Af7Pxy"
       ],
+      "custom_css": [],
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
@@ -344,7 +347,6 @@
         "slide_base_gfQagm",
         "slide_base_tRthVw"
       ],
-      "disabled": true,
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
@@ -1037,8 +1039,8 @@
     }
   },
   "order": [
-    "hero_image_3kanN3",
     "hero_image_hDmepe",
+    "hero_image_3kanN3",
     "video_GKb7jj",
     "slideshow_EjwCVy",
     "image_with_text_TH3zJL",
