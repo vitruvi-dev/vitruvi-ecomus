@@ -159,6 +159,7 @@
         "button_G99RRj"
       ],
       "custom_css": [
+        "p {color: black; opacity: 80%}",
         ".hdt-hero-image__text {font-size: 180%;}",
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
