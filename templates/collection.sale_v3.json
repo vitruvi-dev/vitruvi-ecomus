@@ -55,13 +55,17 @@
         "text_2_xDRN8J": {
           "type": "text_2",
           "settings": {
-            "sub_heading": "Special Offers You Can't Miss: These deals won't last forever!"
+            "sub_heading": "Last chance, ends today."
           }
         }
       },
       "block_order": [
         "text_8UMYqR",
         "text_2_xDRN8J"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
+        ".hdt-subheading {font-weight: 200;}"
       ],
       "settings": {
         "full_width": true,
