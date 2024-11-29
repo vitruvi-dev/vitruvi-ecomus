@@ -162,9 +162,9 @@
           "settings": {
             "icon_svg": "box",
             "custom_svg": "",
-            "image": "shopify://shop_images/icons_contact-gift_2024-06.png",
-            "icon_width": 60,
-            "icon_width_mb": 60,
+            "image": "shopify://shop_images/icons_heart_2024-06.svg",
+            "icon_width": 30,
+            "icon_width_mb": 30,
             "link": "",
             "open_link": false,
             "title": "",
@@ -178,8 +178,8 @@
             "icon_svg": "box",
             "custom_svg": "",
             "image": "shopify://shop_images/IconsBlack-Truck.svg",
-            "icon_width": 60,
-            "icon_width_mb": 60,
+            "icon_width": 30,
+            "icon_width_mb": 30,
             "link": "",
             "open_link": false,
             "title": "",
@@ -191,6 +191,9 @@
       "block_order": [
         "item_FLpmKt",
         "item_9cmkrX"
+      ],
+      "custom_css": [
+        ".hdt-container {max-width: 80%; text-align: center;}"
       ],
       "settings": {
         "heading_align": "center",
