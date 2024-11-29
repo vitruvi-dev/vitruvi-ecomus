@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "heading": {
       "type": "heading-collection",
@@ -20,13 +20,13 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday: Up to 50% Off"
+            "heading": ""
           }
         },
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": "Big savings on everything you need to beautifully humidify your air and scent your spaces."
+            "description": ""
           }
         }
       },
@@ -68,87 +68,6 @@
         "fullwidth": false,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_LXYpUq": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_8N7Fad": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Get a FREE gift on $100+ orders while supplies last",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_8N7Fad"
-      ],
-      "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
-      ],
-      "settings": {
-        "spacing_item": 0,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_3dNbDH": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_gp79NX": {
-          "type": "heading",
-          "settings": {
-            "heading": "<span class=\"bfcm-header\">Black Friday Sale</span>",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "heading_VNYyGF": {
-          "type": "heading",
-          "settings": {
-            "heading": "<span class=\"save40sitewide\">UP TO 50% OFF SITEWIDE</span>",
-            "heading_fs": "h6",
-            "heading_fw": "normal"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gp79NX",
-        "heading_VNYyGF"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
-        "@media (max-width: 767px) {.bfcm-header {font-size: 150%; } .save40sitewide {font-size: 80%; }}"
-      ],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 200,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/page_collection_hero_bfcm-2024_image_desktop_v1.jpg",
-        "image_mb": "shopify://shop_images/page_collection_hero_bfcm-2024_image_mobile_v2.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 100,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -1031,8 +950,6 @@
   "order": [
     "heading",
     "top_heading_LKRnyK",
-    "top_heading_LXYpUq",
-    "hero_image_3dNbDH",
     "categories_section_kV6JP9",
     "custom_line_zAe7AX",
     "main",
