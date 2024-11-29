@@ -21,13 +21,6 @@
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
         },
-        "announcement_7iU4bq": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "<a href=\"/collections/shop-all\" title=\"Shop All\">Free Gift on $100+ Orders, While Supplies Last</a>"
-          }
-        },
         "announcement_eeYyAc": {
           "type": "announcement",
           "disabled": true,
@@ -37,9 +30,20 @@
         },
         "announcement_UYaNeX": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "<span style=\"text-decoration:underline\">{{ localization.market.metafields.ecomus.announcement_notice.value }}</span>"
+          }
+        },
+        "announcement_7iU4bq": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\">FREE Mini Diffuser Blend with Diffuser Orders</a>"
+          }
+        },
+        "announcement_BHQ3xT": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\">FREE Humidity Sensor with Humidifier Orders</a>"
           }
         },
         "announcement_RqB4ka": {
@@ -51,9 +55,10 @@
       },
       "block_order": [
         "announcement_RzCepp",
-        "announcement_7iU4bq",
         "announcement_eeYyAc",
         "announcement_UYaNeX",
+        "announcement_7iU4bq",
+        "announcement_BHQ3xT",
         "announcement_RqB4ka"
       ],
       "custom_css": [
@@ -162,7 +167,7 @@
             "title": "Scents",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "black-friday-essential-oil-kit",
+              "festive-favorites-essential-oil-kit",
               "build-your-own-scent-bundle"
             ],
             "image_ratio": "square",
@@ -207,7 +212,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_bfcm",
+        "main_menu": "header_desktop_cyber",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
@@ -223,7 +228,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile_bfcm",
+        "main_menu_mobile": "header_mobile_cyber",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",

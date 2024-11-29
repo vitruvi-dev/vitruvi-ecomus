@@ -35,11 +35,55 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "countdown_text_HmUgXP": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_8UMYqR": {
+          "type": "text",
+          "settings": {
+            "heading": "{{ collection.title }}"
+          }
+        },
+        "text_2_xDRN8J": {
+          "type": "text_2",
+          "settings": {
+            "sub_heading": "<i>Get a FREE gift on Diffuser and Humidifier orders, while supplies last</i><br><br>Last chance, ends today."
+          }
+        }
+      },
+      "block_order": [
+        "text_8UMYqR",
+        "text_2_xDRN8J"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
+        ".hdt-subheading {font-weight: 200;}",
+        "i {font-size: 90; opacity: 60%;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2024,
+        "month": 12,
+        "day": 3,
+        "hour": 0,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -86,6 +130,7 @@
       "block_order": [
         "sub_heading_8N7Fad"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -1030,6 +1075,7 @@
   },
   "order": [
     "heading",
+    "countdown_text_HmUgXP",
     "top_heading_LKRnyK",
     "top_heading_LXYpUq",
     "hero_image_3dNbDH",

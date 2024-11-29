@@ -49,7 +49,7 @@
         "sub_heading_BDHJAt": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Black Friday Sale On Now: Up to 50% Off Sitewide",
+            "sub_heading": "Cyber Monday Sale On Now: Up to 50% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -152,6 +152,12 @@
             "size_chart_page": ""
           }
         },
+        "custom_liquid_r7kJz6": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://vitruvi.ca/cdn/shop/files/pdp_humidity-sensor_gallery_1_image_fcbae604-0cd7-4921-929a-201bb32ece4b.png?v=1719458598&width=990\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Free Gift\n      {% if request.host contains 'vitruvi.com' %}\n        ($11 Value)\n      {% else %}\n        ($11 Value)\n      {% endif %}\n    </h5>\n    <p>Humidity Sensor added to every humidifier order, while supplies last.</p>\n  </div>\n</div>"
+          }
+        },
         "buy_buttons_VEzdyL": {
           "type": "buy_buttons",
           "settings": {
@@ -192,6 +198,7 @@
         "title_pLthcz",
         "price_XXRReG",
         "variant_picker_RwY4Xy",
+        "custom_liquid_r7kJz6",
         "buy_buttons_VEzdyL",
         "description_NimrCk",
         "view_products_details_VHeFNC",
