@@ -112,14 +112,6 @@
             "height": 30
           }
         },
-        "countdown_timer_pLgxfe": {
-          "type": "countdown_timer",
-          "settings": {
-            "content": "Labor Day Sale Ends Soon",
-            "icon_svg": "clock",
-            "ani": "none"
-          }
-        },
         "8253e974-5acb-4076-9230-03b0f804dcdf": {
           "type": "back_instock",
           "settings": {
@@ -146,7 +138,6 @@
         "custom_liquid_Rn3hhg",
         "description_Fh49zX",
         "img_trust_imFfw3",
-        "countdown_timer_pLgxfe",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "custom_liquid_W7Hpet"
       ],
