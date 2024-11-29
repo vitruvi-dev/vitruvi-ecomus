@@ -9,6 +9,73 @@
  */
 {
   "sections": {
+    "hero_image_3kanN3": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_gwHMFF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ecomus theme shopify",
+            "heading_fs": "h3",
+            "heading_fw": "normal"
+          }
+        },
+        "text_yncHR8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
+            "adding_border": false
+          }
+        },
+        "button_G99RRj": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gwHMFF",
+        "text_yncHR8",
+        "button_G99RRj"
+      ],
+      "custom_css": [
+        "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
+        "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
+        "li {font-size: 130%;}",
+        ".hdt-btn {margin-top: 2px; background-color: #eac661; color: black; border-width: 0px;}",
+        ".hdt-content {margin-bottom: 100px;}",
+        "@media (max-width: 767px) {.hdt-content {margin-bottom: 220px; }}"
+      ],
+      "settings": {
+        "image_height": "fixed",
+        "fixed_height": 860,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "video_GKb7jj": {
       "type": "video",
       "blocks": {
@@ -68,65 +135,6 @@
         "alignment_mb": "center",
         "padding_top": 0,
         "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_3kanN3": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_gwHMFF": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ecomus theme shopify",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "text_yncHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
-            "adding_border": false
-          }
-        },
-        "button_G99RRj": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gwHMFF",
-        "text_yncHR8",
-        "button_G99RRj"
-      ],
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
@@ -918,8 +926,8 @@
     }
   },
   "order": [
-    "video_GKb7jj",
     "hero_image_3kanN3",
+    "video_GKb7jj",
     "slideshow_EjwCVy",
     "image_with_text_TH3zJL",
     "featured_collection_grid_W6JYha",
