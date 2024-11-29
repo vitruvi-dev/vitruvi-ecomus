@@ -163,7 +163,7 @@
         "strong {font-size: 80%; font-weight: 200;}",
         "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; font-weight: 200; }}",
         ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}",
-        ".hdt-countdown__item {border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; background-color: #E7E7E4; color: black;}"
+        ".hdt-countdown__item {border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; background-color: #e7e7e4; color: black;}"
       ],
       "settings": {
         "image_height": "full",
@@ -171,7 +171,7 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
         "image": "shopify://shop_images/page_home_hero_cybermonday_image_desktop.jpg",
-        "link_img": "",
+        "link_img": "shopify://collections/cyber-monday-sale",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -345,6 +345,7 @@
         "slide_base_gfQagm",
         "slide_base_tRthVw"
       ],
+      "disabled": true,
       "custom_css": [
         "em {font-family: \"Kaftan\"; font-style: normal; font-size: 150%;}",
         "strong {font-family: \"Founders Grotesk\"; font-size: 40%; font-weight: 200;}",
