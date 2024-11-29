@@ -63,7 +63,7 @@
         "color_scheme": "",
         "show_free_shipping_bar": true,
         "show_cart_note": false,
-        "show_gift_wrap": false,
+        "show_gift_wrap": true,
         "show_shipping_estimator": false,
         "heading": "Customers also bought",
         "product_list": [],
