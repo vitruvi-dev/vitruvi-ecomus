@@ -1076,8 +1076,7 @@
         "padding_bottom": 50,
         "padding_rate": 75
       }
-    }
-  },
+    },
     "custom_line_GAKQtn": {
       "type": "custom-line",
       "custom_css": [],
