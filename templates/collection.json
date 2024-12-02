@@ -137,8 +137,8 @@
           "settings": {
             "widget_heading": "Featured Collections",
             "cat_source": "2",
-            "cat_link_list": "",
-            "count": false
+            "cat_link_list": "featured_collections",
+            "count": true
           }
         },
         "featured_products_rgCDg3": {
