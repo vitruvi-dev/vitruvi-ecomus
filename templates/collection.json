@@ -135,7 +135,7 @@
         "categories_QEt7Pd": {
           "type": "categories",
           "settings": {
-            "widget_heading": "Product categories",
+            "widget_heading": "Featured Collections",
             "cat_source": "2",
             "cat_link_list": "header_mobile_cyberweek",
             "count": false
