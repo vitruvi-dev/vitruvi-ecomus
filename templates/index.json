@@ -9,93 +9,6 @@
  */
 {
   "sections": {
-    "hero_image_hDmepe": {
-      "type": "hero-image",
-      "blocks": {
-        "text_9zUPHm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>LOWEST PRICES OF THE YEAR</p>",
-            "adding_border": false
-          }
-        },
-        "heading_chaQPH": {
-          "type": "heading",
-          "settings": {
-            "heading": "Up to 40% off<br>Cyber Monday",
-            "heading_fs": "h1",
-            "heading_fw": "normal"
-          }
-        },
-        "text_HgrMMJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Last chance, ends soon.</p>",
-            "adding_border": false
-          }
-        },
-        "countdown_8XTGTk": {
-          "type": "countdown",
-          "settings": {
-            "title": "",
-            "year": 2024,
-            "month": 12,
-            "day": 3,
-            "hour": 0,
-            "minute": 0,
-            "effect_cd": "move_top",
-            "uppercase": false,
-            "prepend_number": false,
-            "hide_on_complete": false,
-            "mess_complete": "",
-            "color_scheme": ""
-          }
-        },
-        "button_Af7Pxy": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP CYBER MONDAY",
-            "btn_link": "shopify://collections/cyber-monday-sale",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "text_9zUPHm",
-        "heading_chaQPH",
-        "text_HgrMMJ",
-        "countdown_8XTGTk",
-        "button_Af7Pxy"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "image_height": "full",
-        "fixed_height": 860,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 450,
-        "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-2",
-        "padding_top": 0,
-        "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
     "hero_image_3kanN3": {
       "type": "hero-image",
       "blocks": {
@@ -109,7 +22,7 @@
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Up to 40% off<br>Cyber Week",
+            "heading": "Cyber Week<br>Special",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -142,7 +55,7 @@
         "button_G99RRj": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP CYBER MONDAY",
+            "btn_label": "SHOP SALE",
             "btn_link": "shopify://collections/cyber-monday-sale",
             "target": false,
             "btn_size": "xl",
@@ -159,6 +72,103 @@
         "countdown_fmPRkK",
         "button_G99RRj"
       ],
+      "custom_css": [
+        "p {color: black; opacity: 80%;}",
+        ".hdt-hero-image__text {font-size: 180%;}",
+        ".hdt-hero-image__heading {font-size: 560%;}",
+        "strong {font-size: 80%; font-weight: 200;}",
+        ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}",
+        ".hdt-countdown__item {color: black; border-radius: 0px; background-color: #e7e7e4;}",
+        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
+      ],
+      "settings": {
+        "image_height": "full",
+        "fixed_height": 860,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "image": "shopify://shop_images/page_home_hero_cybermonday_image_desktop-2.jpg",
+        "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
+        "link_img": "shopify://collections/cyber-monday-sale",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_nAtyh4": {
+      "type": "hero-image",
+      "blocks": {
+        "text_N8AJxn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>LOWEST PRICES OF THE YEAR</p>",
+            "adding_border": false
+          }
+        },
+        "heading_hcjpHA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Up to 40% off<br>Cyber Week",
+            "heading_fs": "h1",
+            "heading_fw": "normal"
+          }
+        },
+        "text_Kqz7Hi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Last chance, ends soon.</strong></p>",
+            "adding_border": false
+          }
+        },
+        "countdown_CfBj6r": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "year": 2024,
+            "month": 12,
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": ""
+          }
+        },
+        "button_AVYJJE": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP CYBER MONDAY",
+            "btn_link": "shopify://collections/cyber-monday-sale",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_N8AJxn",
+        "heading_hcjpHA",
+        "text_Kqz7Hi",
+        "countdown_CfBj6r",
+        "button_AVYJJE"
+      ],
+      "disabled": true,
       "custom_css": [
         "p {color: black; opacity: 80%;}",
         ".hdt-hero-image__text {font-size: 180%;}",
@@ -431,7 +441,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Last Chance Deals",
+        "sec_heading": "Cyber Week Specials",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
@@ -1133,8 +1143,8 @@
     }
   },
   "order": [
-    "hero_image_hDmepe",
     "hero_image_3kanN3",
+    "hero_image_nAtyh4",
     "video_GKb7jj",
     "slideshow_EjwCVy",
     "collections_list_64Hida",
