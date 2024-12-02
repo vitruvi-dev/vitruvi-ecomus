@@ -15,14 +15,14 @@
         "text_yncHR8": {
           "type": "text",
           "settings": {
-            "text": "<p>LOWEST PRICES OF THE YEAR</p>",
+            "text": "<p>THIS WEEK ONLY</p>",
             "adding_border": false
           }
         },
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Cyber Week<br>Special",
+            "heading": "Up to 40% off<br>Cyber Week",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -30,7 +30,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Last chance, ends soon.</strong></p>",
+            "text": "<p><strong>Don’t wait—shop now to stay on track for holiday delivery!</strong></p>",
             "adding_border": false
           }
         },
