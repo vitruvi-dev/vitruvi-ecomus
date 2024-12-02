@@ -134,6 +134,7 @@
       "blocks": {
         "categories_QEt7Pd": {
           "type": "categories",
+          "disabled": true,
           "settings": {
             "widget_heading": "Featured Collections",
             "cat_source": "2",
