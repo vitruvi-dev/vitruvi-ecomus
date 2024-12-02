@@ -30,6 +30,7 @@
         },
         "announcement_UYaNeX": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<span style=\"text-decoration:underline\">{{ localization.market.metafields.ecomus.announcement_notice.value }}</span>"
           }
@@ -48,6 +49,7 @@
         },
         "announcement_RqB4ka": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "FREE Gift on $100+ Orders + FREE Shipping"
           }
