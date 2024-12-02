@@ -22,7 +22,7 @@
         "heading_chaQPH": {
           "type": "heading",
           "settings": {
-            "heading": "Up to 50% off<br>Cyber Monday",
+            "heading": "Up to 40% off<br>Cyber Monday",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -109,7 +109,7 @@
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Up to 50% off<br>Cyber Monday",
+            "heading": "Up to 40% off<br>Cyber Monday",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -264,7 +264,7 @@
             "url": "shopify://collections/cyber-monday-sale",
             "banner_target": false,
             "color_scheme": "scheme-1",
-            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 50% off<br/>Cyber Monday</li></ul>",
+            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 40% off<br/>Cyber Monday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Last chance today.",
@@ -293,7 +293,7 @@
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 50% off<br/>Black Friday</li></ul>",
+            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 40% off<br/>Black Friday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "This weekend only.",
@@ -322,7 +322,7 @@
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>ORDERS SHIPPING WITH UPS</strong></p><ul><li>Up to 50% off<br/>Black Friday</li></ul>",
+            "heading": "<p><strong>ORDERS SHIPPING WITH UPS</strong></p><ul><li>Up to 40% off<br/>Black Friday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Big savings on everything you need to beautifully humidify your air and scent your spaces.",
@@ -387,7 +387,7 @@
           "settings": {
             "collection": "essential-oil-diffusers",
             "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
-            "title": "Up to 50% off Diffusers<br>+ Free Gift With Purchase",
+            "title": "Up to 40% off Diffusers<br>+ Free Gift With Purchase",
             "collection_link": ""
           }
         },
@@ -695,7 +695,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 50%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -732,7 +732,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 50%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
