@@ -26,7 +26,7 @@
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": ""
+            "description": "Up to 40% off sitewide for Cyber Week"
           }
         }
       },
@@ -35,7 +35,6 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -50,7 +49,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Cyber Monday Sale On Now: Up to 40% Off Sitewide",
+            "sub_heading": "Get a FREE gift on Diffuser and Humidifier orders, while supplies last",
             "sub_heading_fs": "base"
           }
         }
@@ -58,7 +57,6 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -93,6 +91,7 @@
         "text_RUD6mp",
         "text_2_bCkXKC"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
         ".hdt-subheading {font-weight: 200;}",
@@ -101,8 +100,8 @@
       "settings": {
         "full_width": true,
         "year": 2024,
-        "month": 1,
-        "day": 1,
+        "month": 12,
+        "day": 9,
         "hour": 0,
         "minute": 0,
         "effect_cd": "move_top",
