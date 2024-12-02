@@ -193,6 +193,9 @@
         "banner_3_Cg8W4A",
         "banner_3_H8G4b8"
       ],
+      "custom_css": [
+        ".hdt-banner_masonry {column-gap: 0px !important;}"
+      ],
       "settings": {
         "row_height": 200,
         "row_height_mb": 150,
