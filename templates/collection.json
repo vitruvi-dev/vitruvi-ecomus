@@ -132,13 +132,13 @@
     "main": {
       "type": "main-collection",
       "blocks": {
-        "categories_JEN9qf": {
+        "categories_QEt7Pd": {
           "type": "categories",
           "settings": {
-            "widget_heading": "Featured Collections",
+            "widget_heading": "Product categories",
             "cat_source": "2",
-            "cat_link_list": "featured_collections",
-            "count": true
+            "cat_link_list": "header_mobile_cyberweek",
+            "count": false
           }
         },
         "featured_products_rgCDg3": {
@@ -177,7 +177,7 @@
         }
       },
       "block_order": [
-        "categories_JEN9qf",
+        "categories_QEt7Pd",
         "featured_products_rgCDg3",
         "filter_bB4hRd",
         "featured_products_LzB6Km"
