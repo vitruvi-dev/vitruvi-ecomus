@@ -132,8 +132,18 @@
     "main": {
       "type": "main-collection",
       "blocks": {
+        "categories_JEN9qf": {
+          "type": "categories",
+          "settings": {
+            "widget_heading": "Featured Collections",
+            "cat_source": "2",
+            "cat_link_list": "",
+            "count": false
+          }
+        },
         "featured_products_rgCDg3": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "widget_heading": "Daily Deal",
             "collection": "",
@@ -167,6 +177,7 @@
         }
       },
       "block_order": [
+        "categories_JEN9qf",
         "featured_products_rgCDg3",
         "filter_bB4hRd",
         "featured_products_LzB6Km"
