@@ -109,7 +109,7 @@
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Up to 40% off<br>Cyber Monday",
+            "heading": "Up to 40% off<br>Cyber Week",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -123,6 +123,7 @@
         },
         "countdown_fmPRkK": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
@@ -403,10 +404,10 @@
         "collection_item_JUWwNA": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/pdp_bfcm-2024-bundle_self-care_gallery_3_v1.png",
-            "title": "Daily Deal: Save $100+ on the<br>Ultimate Self-Care Gift Set",
-            "collection_link": "shopify://products/self-care-gift-diffuser-bundle"
+            "collection": "scents",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "Up to 40% Off Scents",
+            "collection_link": ""
           }
         },
         "view_all_dqd9Kp": {
