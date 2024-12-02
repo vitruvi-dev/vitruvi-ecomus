@@ -292,6 +292,7 @@
       "blocks": {
         "featured_products_rgCDg3": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "widget_heading": "Daily Deal",
             "collection": "",
