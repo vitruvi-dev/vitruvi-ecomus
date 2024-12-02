@@ -50,7 +50,7 @@
         "sub_heading_MrRjdm": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Cyber Monday Sale On Now: Up to 40% Off Sitewide",
+            "sub_heading": "Get a FREE gift on Diffuser and Humidifier orders, while supplies last",
             "sub_heading_fs": "base"
           }
         }
@@ -67,7 +67,7 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "scheme-1",
-        "padding_top": 5,
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
