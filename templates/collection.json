@@ -14,17 +14,18 @@
       "blocks": {
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
-          "disabled": true,
           "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": ""
           }
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "description": "Up to 40% off sitewide for Cyber Week"
           }
@@ -57,6 +58,7 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -193,13 +195,11 @@
         "banner_3_Cg8W4A",
         "banner_3_H8G4b8"
       ],
-      "custom_css": [
-        ".hdt-banner_masonry {column-gap: 0px !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "row_height": 200,
         "row_height_mb": 150,
-        "padding_top": 40,
+        "padding_top": 90,
         "padding_bottom": 40,
         "padding_rate": 75
       }
