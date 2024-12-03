@@ -45,12 +45,6 @@
           "settings": {
             "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\">FREE Humidity Sensor with Humidifier Orders</a>"
           }
-        },
-        "announcement_RqB4ka": {
-          "type": "announcement",
-          "settings": {
-            "text": "FREE Gift on $100+ Orders + FREE Shipping"
-          }
         }
       },
       "block_order": [
@@ -58,8 +52,7 @@
         "announcement_eeYyAc",
         "announcement_UYaNeX",
         "announcement_7iU4bq",
-        "announcement_BHQ3xT",
-        "announcement_RqB4ka"
+        "announcement_BHQ3xT"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
