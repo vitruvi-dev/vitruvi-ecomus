@@ -20,7 +20,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Diffusers"
           }
         },
         "description_Ddhb9a": {
@@ -35,6 +35,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "custom_css": [],
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -43,10 +44,10 @@
         "padding_rate": 75
       }
     },
-    "top_heading_jyzzfA": {
+    "top_heading_3dbjfU": {
       "type": "top-heading",
       "blocks": {
-        "sub_heading_BDHJAt": {
+        "sub_heading_MrRjdm": {
           "type": "sub_heading",
           "settings": {
             "sub_heading": "Get a FREE humidity sensor with every humidifier order, while supplies last.",
@@ -55,7 +56,7 @@
         }
       },
       "block_order": [
-        "sub_heading_BDHJAt"
+        "sub_heading_MrRjdm"
       ],
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
@@ -71,7 +72,7 @@
         "padding_rate": 75
       }
     },
-    "custom_line_Tijyyn": {
+    "custom_line_wpaMAK": {
       "type": "custom-line",
       "settings": {
         "line_style": "solid",
@@ -111,148 +112,37 @@
         "count": true,
         "section_fullwidth": false,
         "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
-        "padding_top": 30,
-        "padding_bottom": 70,
+        "padding_top": 0,
+        "padding_bottom": 50,
         "padding_rate": 75,
         "sidebar_position": "left",
         "sidebar_size": "medium"
-      }
-    },
-    "featured_product_bXQc7z": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_CpdEUy": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "title_pLthcz": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_XXRReG": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_RwY4Xy": {
-          "type": "variant_picker",
-          "settings": {
-            "pick_mode": "first",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "custom_liquid_r7kJz6": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://vitruvi.ca/cdn/shop/files/pdp_humidity-sensor_gallery_1_image_fcbae604-0cd7-4921-929a-201bb32ece4b.png?v=1719458598&width=990\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Free Gift\n      {% if request.host contains 'vitruvi.com' %}\n        ($11 Value)\n      {% else %}\n        ($11 Value)\n      {% endif %}\n    </h5>\n    <p>Humidity Sensor added to every humidifier order, while supplies last.</p>\n  </div>\n</div>"
-          }
-        },
-        "buy_buttons_VEzdyL": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "description_NimrCk": {
-          "type": "description",
-          "settings": {
-            "des": "2",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "view_products_details_VHeFNC": {
-          "type": "view_products_details",
-          "settings": {}
-        },
-        "img_trust_i3HRXm": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ section.settings.product.metafields.ecomus.pdp_badge.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 100
-          }
-        }
-      },
-      "block_order": [
-        "badges_CpdEUy",
-        "title_pLthcz",
-        "price_XXRReG",
-        "variant_picker_RwY4Xy",
-        "custom_liquid_r7kJz6",
-        "buy_buttons_VEzdyL",
-        "description_NimrCk",
-        "view_products_details_VHeFNC",
-        "img_trust_i3HRXm"
-      ],
-      "settings": {
-        "product": "cloud-humidifier",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": false,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 76,
-        "padding_rate": 75
       }
     },
     "featured_collection_grid_yaaUxb": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "{{ section.settings.collection.title }}",
+        "sec_heading": "Essential Oil Diffusers",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>{{ section.settings.collection.description }}</p>",
+        "sec_subheading": "<p>Beautifully crafted diffusers to elevate your space and scent your day.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "humidifier-accessories",
+        "collection": "essential-oil-diffusers",
         "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 8,
+        "products_count": 4,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
-        "pagination_type": "load_more",
+        "pagination_type": "none",
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "View all",
@@ -266,7 +156,7 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_Qak8RN": {
+    "featured_collection_grid_VWV3xh": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
@@ -278,7 +168,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "humidifier-bundles",
+        "collection": "essential-oils-for-diffusers",
         "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
@@ -292,7 +182,7 @@
         "pagination_type": "load_more",
         "paginate_pos": "center",
         "dis_pagination": 30,
-        "btn_label": "View all",
+        "btn_label": "",
         "btn_style": "solid",
         "btn_fw": "normal",
         "section_fullwidth": false,
@@ -303,66 +193,7 @@
         "padding_rate": 75
       }
     },
-    "featured_product_LeTBbA": {
-      "type": "featured-product",
-      "blocks": {
-        "title_yDejEP": {
-          "type": "title",
-          "settings": {}
-        },
-        "custom_liquid_CaXNgR": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 35% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
-          }
-        },
-        "description_jUGCPy": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "custom_liquid_XHzRt3": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<a href=\"/products/build-your-own-humidifier-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
-          }
-        }
-      },
-      "block_order": [
-        "title_yDejEP",
-        "custom_liquid_CaXNgR",
-        "description_jUGCPy",
-        "custom_liquid_XHzRt3"
-      ],
-      "settings": {
-        "product": "build-your-own-humidifier-bundle",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": false,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 76,
-        "padding_bottom": 76,
-        "padding_rate": 75
-      }
-    },
-    "collections_list_simple_mRwffk": {
+    "collections_list_simple_HyQG7L": {
       "type": "collections-list-simple",
       "settings": {
         "heading_align": "center",
@@ -566,14 +397,12 @@
   },
   "order": [
     "heading",
-    "top_heading_jyzzfA",
-    "custom_line_Tijyyn",
+    "top_heading_3dbjfU",
+    "custom_line_wpaMAK",
     "main",
-    "featured_product_bXQc7z",
     "featured_collection_grid_yaaUxb",
-    "featured_collection_grid_Qak8RN",
-    "featured_product_LeTBbA",
-    "collections_list_simple_mRwffk",
+    "featured_collection_grid_VWV3xh",
+    "collections_list_simple_HyQG7L",
     "accordion_qkAGnW"
   ]
 }
