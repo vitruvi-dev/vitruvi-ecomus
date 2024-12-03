@@ -26,7 +26,7 @@
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": "Up to 40% off sitewide for Cyber Week"
+            "description": ""
           }
         }
       },
@@ -35,6 +35,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -49,7 +50,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Get a FREE gift on Diffuser and Humidifier orders, while supplies last",
+            "sub_heading": "Cyber Monday Sale On Now: Up to 50% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -57,6 +58,7 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -66,7 +68,7 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 15,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -83,7 +85,7 @@
         "text_2_bCkXKC": {
           "type": "text_2",
           "settings": {
-            "sub_heading": "<i>Get a FREE gift on Diffuser and Humidifier orders, while supplies last</i><br><br>Up to 40% off sitewide for Cyber Week"
+            "sub_heading": "<i>Up to 50% off sitewide for Cyber Monday</i><br><br>Last chance, ends soon."
           }
         }
       },
@@ -91,7 +93,6 @@
         "text_RUD6mp",
         "text_2_bCkXKC"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
         ".hdt-subheading {font-weight: 200;}",
@@ -101,13 +102,13 @@
         "full_width": true,
         "year": 2024,
         "month": 12,
-        "day": 9,
+        "day": 3,
         "hour": 0,
         "minute": 0,
         "effect_cd": "move_top",
         "uppercase": false,
         "prepend_number": false,
-        "hide_on_complete": true,
+        "hide_on_complete": false,
         "mess_complete": "",
         "color_scheme": "",
         "padding_top": 15,
@@ -125,31 +126,19 @@
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 0,
-        "padding_bottom": 15,
+        "padding_bottom": 30,
         "padding_rate": 75
       }
     },
     "main": {
       "type": "main-collection",
       "blocks": {
-        "categories_QEt7Pd": {
-          "type": "categories",
-          "disabled": true,
-          "settings": {
-            "widget_heading": "Featured Collections",
-            "cat_source": "2",
-            "cat_link_list": "header_mobile_cyberweek",
-            "count": false
-          }
-        },
         "featured_products_rgCDg3": {
           "type": "featured_products",
           "settings": {
-            "widget_heading": "Featured",
+            "widget_heading": "Daily Deal",
             "collection": "",
-            "product_list": [
-              "mystery-essential-oil-kit"
-            ],
+            "product_list": "{{ localization.market.metafields.ecomus[\"featured-product-metaobject\"].value.product_list.value }}",
             "products_count": 1,
             "image_ratio": "adapt_image",
             "image_size": true
@@ -179,7 +168,6 @@
         }
       },
       "block_order": [
-        "categories_QEt7Pd",
         "featured_products_rgCDg3",
         "filter_bB4hRd",
         "featured_products_LzB6Km"
@@ -750,7 +738,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 50%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -787,7 +775,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 50%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
