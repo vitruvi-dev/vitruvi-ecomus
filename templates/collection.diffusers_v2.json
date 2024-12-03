@@ -156,85 +156,6 @@
         "padding_rate": 75
       }
     },
-    "price_tables_eapeNa": {
-      "type": "price_tables",
-      "blocks": {
-        "package_wA8T8Q": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "stone-diffuser-gift-bundle",
-            "show_vendor": false,
-            "label_cl": "#FF3232",
-            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
-            "btn_label": "VIEW PRODUCT",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        },
-        "package_8jrAT3": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "best-sleep-diffuser-humidifier-bundle",
-            "show_vendor": true,
-            "label_cl": "#FF3232",
-            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
-            "btn_label": "View details",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        },
-        "package_xTWzWX": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "build-your-own-diffuser-bundle",
-            "show_vendor": false,
-            "label_cl": "#FF3232",
-            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
-            "btn_label": "View details",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "package_wA8T8Q",
-        "package_8jrAT3",
-        "package_xTWzWX"
-      ],
-      "settings": {
-        "top_heading": "Discovery all new items",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "top_description": "<p>Be the first to know when we launch.</p>",
-        "sec_heading_spacing": 30,
-        "enable_icon_check": true,
-        "content_pos": "start",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "1",
-        "navUI": false,
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "banner_product_grid_mfjVxR": {
       "type": "banner-product-grid",
       "blocks": {
@@ -286,6 +207,45 @@
         "alignment_mb": "center",
         "padding_top": 40,
         "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_NYXK4N": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Summer Essentials",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "stone-diffuser-gift-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -670,8 +630,8 @@
     "custom_line_wpaMAK",
     "main",
     "featured_collection_grid_yaaUxb",
-    "price_tables_eapeNa",
     "banner_product_grid_mfjVxR",
+    "featured_collection_grid_NYXK4N",
     "featured_product_gMFDeT",
     "featured_product_7wyyLK",
     "featured_collection_grid_VWV3xh",
