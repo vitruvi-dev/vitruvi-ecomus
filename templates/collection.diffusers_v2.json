@@ -1,0 +1,643 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "heading": {
+      "type": "heading-collection",
+      "blocks": {
+        "breadcrumb_CM7qtX": {
+          "type": "breadcrumb",
+          "disabled": true,
+          "settings": {}
+        },
+        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "description_Ddhb9a": {
+          "type": "description",
+          "settings": {
+            "description": "Up to 40% off sitewide for Cyber Week"
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb_CM7qtX",
+        "9a1347b4-da62-490d-9fd4-427a03686ac2",
+        "description_Ddhb9a"
+      ],
+      "custom_css": [],
+      "settings": {
+        "spacing_hd": 5,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 5,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_3dbjfU": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_MrRjdm": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Get a FREE humidity sensor with every humidifier order, while supplies last.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_MrRjdm"
+      ],
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 0,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_line_wpaMAK": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#f7f8f6",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "enable_num_cols_selector": false,
+        "widget_heading": "Product Categories",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
+      }
+    },
+    "featured_product_faXngx": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_pbnXEq": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_aq9Hew": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_rLGthp": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_74tAzz": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "pick_mode": "first",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "inventory_8MYeMe": {
+          "type": "inventory",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 50,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
+        "buy_buttons_fagEmm": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "custom_liquid_BPPKy8": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_oil_5ml_front_nightcap_gallery_1_image-7953.png?v=1732839131\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Free Gift\n      {% if request.host contains 'vitruvi.com' %}\n        ($17 Value)\n      {% else %}\n        ($19 Value)\n      {% endif %}\n    </h5>\n    <p>Mini Nightcap Blend added to every diffuser order, while supplies last.</p>\n  </div>\n</div>"
+          }
+        },
+        "description_DUMmP6": {
+          "type": "description",
+          "settings": {
+            "des": "2",
+            "short_des": "",
+            "length": 60
+          }
+        },
+        "view_products_details_pYeQq6": {
+          "type": "view_products_details",
+          "settings": {}
+        },
+        "img_trust_NNM6wE": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": false,
+            "mess": "",
+            "source": "1",
+            "image": "{{ localization.market.metafields.ecomus.badge_stone.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        }
+      },
+      "block_order": [
+        "badges_pbnXEq",
+        "title_aq9Hew",
+        "price_rLGthp",
+        "variant_picker_74tAzz",
+        "inventory_8MYeMe",
+        "buy_buttons_fagEmm",
+        "custom_liquid_BPPKy8",
+        "description_DUMmP6",
+        "view_products_details_pYeQq6",
+        "img_trust_NNM6wE"
+      ],
+      "custom_css": [
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+      ],
+      "settings": {
+        "product": "stone-essential-oil-diffuser",
+        "image": "shopify://shop_images/pdp_stone-diffuser_front_white_gallery_1_v9_image.png",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_yaaUxb": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Essential Oil Diffusers",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Beautifully crafted diffusers to elevate your space and scent your day.</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "essential-oil-diffusers",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_Qak8RN": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "{{ section.settings.collection.title }}",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>{{ section.settings.collection.description }}</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "diffuser-bundles",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_7wyyLK": {
+      "type": "featured-product",
+      "blocks": {
+        "title_w4YaPr": {
+          "type": "title",
+          "settings": {}
+        },
+        "custom_liquid_XRinyg": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 50% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
+          }
+        },
+        "price_DLycgX": {
+          "type": "price",
+          "disabled": true,
+          "settings": {}
+        },
+        "description_4xwWhF": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "custom_liquid_3D4Pkf": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"/products/build-your-own-diffuser-bundle\">\n  <button class=\"hdt-product-form__submit button_custom hdt-btn hdt-oh hdt-btn-solid hdt-font-semibold hdt-relative hdt-truncate hdt-btn-loading__svg\" style=\"width: 100%;\">\n    <span class=\"hdt-btn-atc_text\">GET STARTED</span>\n    <hdt-qty-price class=\"hdt-qty-price\"><span></span><span class=\"hdt-money\"></span></hdt-qty-price>\n    <span class=\"hdt-loading__spinner hdt-absolute\" hidden=\"\">\n      <svg width=\"16\" height=\"16\" class=\"hdt-svg-spinner\" focusable=\"false\" role=\"presentation\" viewBox=\"0 0 66 66\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle class=\"hdt-path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n      </svg>\n    </span>\n  </button>\n</a>"
+          }
+        }
+      },
+      "block_order": [
+        "title_w4YaPr",
+        "custom_liquid_XRinyg",
+        "price_DLycgX",
+        "description_4xwWhF",
+        "custom_liquid_3D4Pkf"
+      ],
+      "settings": {
+        "product": "build-your-own-diffuser-bundle",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_VWV3xh": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "{{ section.settings.collection.title }}",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>{{ section.settings.collection.description }}</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "essential-oils-for-diffusers",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "load_more",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "collections_list_simple_HyQG7L": {
+      "type": "collections-list-simple",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Explore the full range of Vitruvi products for all your home wellness needs",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": "{{ localization.market.metafields.ecomus[\"collection-list\"].value }}",
+        "text_transform": false,
+        "other_link_label": "",
+        "other_link": "",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 150,
+        "padding_bottom": 150,
+        "padding_rate": 75
+      }
+    },
+    "accordion_qkAGnW": {
+      "type": "accordion",
+      "blocks": {
+        "title_dYRnJg": {
+          "type": "title",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_header.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_JPTbXM": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_jFndrC": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_WTKRim": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_B6HXMh": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_bfz3KX": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
+          }
+        },
+        "title_NNbikj": {
+          "type": "title",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_8FJKnq": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_mRwLkx": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_V7grJx": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_ji38nn": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_jNg37U": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
+          }
+        },
+        "title_pbm6aU": {
+          "type": "title",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_header.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_UgRYNi": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_XBccRN": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_mD3jjk": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_gccUVz": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_ANzwif": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value.content | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "title_dYRnJg",
+        "accordion_item_JPTbXM",
+        "accordion_item_jFndrC",
+        "accordion_item_WTKRim",
+        "accordion_item_B6HXMh",
+        "accordion_item_bfz3KX",
+        "title_NNbikj",
+        "accordion_item_8FJKnq",
+        "accordion_item_mRwLkx",
+        "accordion_item_V7grJx",
+        "accordion_item_ji38nn",
+        "accordion_item_jNg37U",
+        "title_pbm6aU",
+        "accordion_item_UgRYNi",
+        "accordion_item_XBccRN",
+        "accordion_item_mD3jjk",
+        "accordion_item_gccUVz",
+        "accordion_item_ANzwif"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 75,
+        "padding_bottom": 75,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "top_heading_3dbjfU",
+    "custom_line_wpaMAK",
+    "main",
+    "featured_product_faXngx",
+    "featured_collection_grid_yaaUxb",
+    "featured_collection_grid_Qak8RN",
+    "featured_product_7wyyLK",
+    "featured_collection_grid_VWV3xh",
+    "collections_list_simple_HyQG7L",
+    "accordion_qkAGnW"
+  ]
+}
