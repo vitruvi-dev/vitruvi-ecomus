@@ -195,8 +195,8 @@
           "type": "package",
           "settings": {
             "color_scheme": "",
-            "product": "",
-            "show_vendor": true,
+            "product": "build-your-own-diffuser-bundle",
+            "show_vendor": false,
             "label_cl": "#FF3232",
             "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
             "btn_label": "View details",
