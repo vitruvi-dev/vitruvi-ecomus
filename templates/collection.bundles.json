@@ -25,8 +25,9 @@
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
-            "description": "Up to 40% off sitewide for Cyber Week"
+            "description": ""
           }
         }
       },
@@ -36,7 +37,7 @@
         "description_Ddhb9a"
       ],
       "settings": {
-        "spacing_hd": 5,
+        "spacing_hd": 15,
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 5,
@@ -49,7 +50,7 @@
         "sub_heading_eFjHEL": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Get a FREE gift on Diffuser and Humidifier orders, while supplies last",
+            "sub_heading": "Cyber Monday Sale On Now: Up to 50% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }

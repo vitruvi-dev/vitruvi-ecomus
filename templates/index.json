@@ -9,20 +9,107 @@
  */
 {
   "sections": {
+    "hero_image_hDmepe": {
+      "type": "hero-image",
+      "blocks": {
+        "text_9zUPHm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>LOWEST PRICES OF THE YEAR</p>",
+            "adding_border": false
+          }
+        },
+        "heading_chaQPH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Up to 50% off<br>Cyber Monday",
+            "heading_fs": "h1",
+            "heading_fw": "normal"
+          }
+        },
+        "text_HgrMMJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Last chance, ends soon.</p>",
+            "adding_border": false
+          }
+        },
+        "countdown_8XTGTk": {
+          "type": "countdown",
+          "settings": {
+            "title": "",
+            "year": 2024,
+            "month": 12,
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "effect_cd": "move_top",
+            "uppercase": false,
+            "prepend_number": false,
+            "hide_on_complete": false,
+            "mess_complete": "",
+            "color_scheme": ""
+          }
+        },
+        "button_Af7Pxy": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP CYBER MONDAY",
+            "btn_link": "shopify://collections/cyber-monday-sale",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_9zUPHm",
+        "heading_chaQPH",
+        "text_HgrMMJ",
+        "countdown_8XTGTk",
+        "button_Af7Pxy"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "image_height": "full",
+        "fixed_height": 860,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 450,
+        "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "hero_image_3kanN3": {
       "type": "hero-image",
       "blocks": {
         "text_yncHR8": {
           "type": "text",
           "settings": {
-            "text": "<p>THIS WEEK ONLY</p>",
+            "text": "<p>LOWEST PRICES OF THE YEAR</p>",
             "adding_border": false
           }
         },
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Up to 40% off<br>Cyber Week",
+            "heading": "Up to 50% off<br>Cyber Monday",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -30,18 +117,17 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Don’t wait—shop now to stay on track for holiday delivery!</strong></p>",
+            "text": "<p><strong>Last chance, ends soon.</strong></p>",
             "adding_border": false
           }
         },
         "countdown_fmPRkK": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
             "month": 12,
-            "day": 9,
+            "day": 3,
             "hour": 0,
             "minute": 0,
             "effect_cd": "move_top",
@@ -55,8 +141,8 @@
         "button_G99RRj": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP SALE",
-            "btn_link": "shopify://collections/cyber-week-sale",
+            "btn_label": "SHOP CYBER MONDAY",
+            "btn_link": "shopify://collections/cyber-monday-sale",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -88,7 +174,7 @@
         "fixed_height_mb": 450,
         "image": "shopify://shop_images/page_home_hero_cybermonday_image_desktop-2.jpg",
         "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
-        "link_img": "shopify://collections/cyber-week-sale",
+        "link_img": "shopify://collections/cyber-monday-sale",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -178,13 +264,13 @@
             "url": "shopify://collections/cyber-monday-sale",
             "banner_target": false,
             "color_scheme": "scheme-1",
-            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 40% off<br/>Cyber Week</li></ul>",
+            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 50% off<br/>Cyber Monday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Last chance today.",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
-            "btn_label": "SHOP CYBER WEEK",
+            "btn_label": "SHOP CYBER MONDAY",
             "btn_link": "shopify://collections/cyber-monday-sale",
             "target": false,
             "btn_size": "xl",
@@ -207,7 +293,7 @@
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 40% off<br/>Black Friday</li></ul>",
+            "heading": "<p><strong>LOWEST PRICES OF THE YEAR</strong></p><ul><li>Up to 50% off<br/>Black Friday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "This weekend only.",
@@ -236,7 +322,7 @@
             "url": "shopify://collections/black-friday-sale",
             "banner_target": false,
             "color_scheme": "scheme-3",
-            "heading": "<p><strong>ORDERS SHIPPING WITH UPS</strong></p><ul><li>Up to 40% off<br/>Black Friday</li></ul>",
+            "heading": "<p><strong>ORDERS SHIPPING WITH UPS</strong></p><ul><li>Up to 50% off<br/>Black Friday</li></ul>",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "Big savings on everything you need to beautifully humidify your air and scent your spaces.",
@@ -301,7 +387,7 @@
           "settings": {
             "collection": "essential-oil-diffusers",
             "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
-            "title": "Up to 40% off Diffusers<br>+ Free Gift With Purchase",
+            "title": "Up to 50% off Diffusers<br>+ Free Gift With Purchase",
             "collection_link": ""
           }
         },
@@ -317,10 +403,10 @@
         "collection_item_JUWwNA": {
           "type": "collection_item",
           "settings": {
-            "collection": "scents",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Up to 40% Off Scents",
-            "collection_link": ""
+            "collection": "",
+            "image": "shopify://shop_images/pdp_bfcm-2024-bundle_self-care_gallery_3_v1.png",
+            "title": "Daily Deal: Save $100+ on the<br>Ultimate Self-Care Gift Set",
+            "collection_link": "shopify://products/self-care-gift-diffuser-bundle"
           }
         },
         "view_all_dqd9Kp": {
@@ -344,7 +430,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Cyber Week Specials",
+        "sec_heading": "Last Chance Deals",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
@@ -609,7 +695,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 50%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -646,7 +732,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 50%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -1046,6 +1132,7 @@
     }
   },
   "order": [
+    "hero_image_hDmepe",
     "hero_image_3kanN3",
     "video_GKb7jj",
     "slideshow_EjwCVy",
