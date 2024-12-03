@@ -1,0 +1,344 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "top_heading_tKKKwG": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_k4Ud7d": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ page.title }}",
+            "heading_fs": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "heading_k4Ud7d"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_TtzCwX": {
+      "type": "hero-image",
+      "blocks": {
+        "heading_VaxD9y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Making a Return",
+            "heading_fs": "h5",
+            "heading_fw": "semibold"
+          }
+        },
+        "text_rDjGyq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To complete a return or exchange (for all products except Natural Air Freshener Sprays and Diffuser Bundles), please use our <a href=\"https://vitruviusa.myshopify.com/returns\" title=\"/returns\"><span style=\"text-decoration:underline\">self-serve returns page</span></a>. If you have any other questions, please reach out to our Customer Experience team at <a href=\"mailto:hello@vitruvi.com\" title=\"mailto:hello@vitruvi.com\">hello@vitruvi.com</a>.</p>",
+            "adding_border": false
+          }
+        },
+        "button_DfqQyy": {
+          "type": "button",
+          "settings": {
+            "btn_label": "START YOUR RETURN",
+            "btn_link": "/returns",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VaxD9y",
+        "text_rDjGyq",
+        "button_DfqQyy"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify://shop_images/page_returns-and-exchanges_start-return_image_desktop.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": true,
+        "use_bg_content": true,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_YqjwK6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_e7KLTq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Making a Return",
+            "heading_fs": "h4"
+          }
+        },
+        "text_n3krfR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To complete a return or exchange (for all products except Natural Air Freshener Sprays and Diffuser Bundles), please use our <a href=\"https://vitruviusa.myshopify.com/returns\" title=\"/returns\"><span style=\"text-decoration:underline\">self-serve returns page</span></a>. If you have any other questions, please reach out to our Customer Experience team at <a href=\"mailto:hello@vitruvi.com\" title=\"mailto:hello@vitruvi.com\">hello@vitruvi.com</a>.</p>"
+          }
+        },
+        "button_DzHyFt": {
+          "type": "button",
+          "settings": {
+            "btn_label": "START YOUR RETURN",
+            "btn_link": "/returns",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_e7KLTq",
+        "text_n3krfR",
+        "button_DzHyFt"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/page_returns-and-exchanges_start-return_image_desktop.png",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_T7fTar": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_37V4jE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Return Policy",
+            "heading_fs": "h5"
+          }
+        },
+        "sub_heading_wVmCJH": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "We think you’ll love using our products as much as we love making them. However, if you’re not 100% happy with your choice, we’re here to help. Devices can be exchanged or returned within 30 days of purchase. Devices include diffusers and humidifiers. Essential Oils and Natural Air Freshener Sprays can be exchanged or returned within 15 days of purchase. Scent Kits can be returned for store credit only. Items purchased through Gift Cards are eligible for exchange or store credit. To return or exchange a Natural Air Freshener Spray or Diffuser Bundle, please reach out to our Customer Experience team at hello@vitruvi.com.All sale and discounted items are only available for exchange or return for store credit within 15 days of purchase. ",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_37V4jE",
+        "sub_heading_wVmCJH"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "left",
+        "alignment_mb": "left",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_Y8APqc": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_QbK3hj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Black Friday and Holiday Return Policy",
+            "heading_fs": "h5"
+          }
+        },
+        "sub_heading_wBwh3J": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "As we know many of you will be shopping for holiday gifts early, items purchased from November 14 - December 13 are eligible for exchange or store credit until January 13, 2025.Items purchased after December 13th, are eligible for our regular return policy.  All items purchased on sale are eligible for return for credit or exchange only. Please visit our self self serve returns page to begin, or email our team at hello@vitruvi.com.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QbK3hj",
+        "sub_heading_wBwh3J"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "left",
+        "alignment_mb": "left",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_awb8K4": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_7mPaqb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Price Adjustments",
+            "heading_fs": "base"
+          }
+        },
+        "sub_heading_CFLx7y": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "If you have purchased an item up to 30 days before a sale, we would be happy to offer you a price adjustment during the sale period. The reimbursement will be applied back onto your original form of payment. Price adjustments are not valid for discontinued items.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7mPaqb",
+        "sub_heading_CFLx7y"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "left",
+        "alignment_mb": "left",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_wbcePT": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_W43m7z": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warranty",
+            "heading_fs": "base"
+          }
+        },
+        "sub_heading_4XM3dg": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "We offer a lifetime warranty on all of our devices; this includes diffusers and humidifiers. If your device has any mechanical or manufacturing defects, we would be happy to assist you.Note: Stone Diffusers with a DC power cord are not covered under warranty. For more information, visit our warranty page.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_W43m7z",
+        "sub_heading_4XM3dg"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "left",
+        "alignment_mb": "left",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "timeline_XJxPCd": {
+      "type": "timeline",
+      "blocks": {
+        "timeline_item_d8wCHX": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "Start your return",
+            "label": "STEP 1",
+            "title": "Start Your Return",
+            "content": "Visit our returns center to get started.",
+            "image": "shopify://shop_images/page_returns_step-1_2024-06.jpg",
+            "content_position": "end"
+          }
+        },
+        "timeline_item_bjW6zx": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "Receive Your Return Label",
+            "label": "STEP 2",
+            "title": "Receive Your Return Label",
+            "content": "We’ll send you a return label for you to ship your products back to us, free of charge.",
+            "image": "shopify://shop_images/page_returns-and-exchanges_return-step_2_image.png",
+            "content_position": "start"
+          }
+        },
+        "timeline_item_FUBFgA": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "Receive Your Refund",
+            "label": "STEP 3",
+            "title": "Receive Your Refund",
+            "content": "Once the product has been successfully returned, you'll be refunded via your original form of payment.",
+            "image": "shopify://shop_images/page_returns_step-3_2024-06.png",
+            "content_position": "end"
+          }
+        }
+      },
+      "block_order": [
+        "timeline_item_d8wCHX",
+        "timeline_item_bjW6zx",
+        "timeline_item_FUBFgA"
+      ],
+      "settings": {
+        "content_width": 1170,
+        "line_style": "dotted",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "top_heading_tKKKwG",
+    "hero_image_TtzCwX",
+    "image_with_text_YqjwK6",
+    "top_heading_T7fTar",
+    "top_heading_Y8APqc",
+    "top_heading_awb8K4",
+    "top_heading_wbcePT",
+    "timeline_XJxPCd"
+  ]
+}
