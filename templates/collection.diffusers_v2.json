@@ -217,45 +217,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_NYXK4N": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Summer Essentials",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "stone-diffuser-gift-bundle"
-        ],
-        "product_des": "10",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "featured_product_gMFDeT": {
       "type": "featured-product",
       "blocks": {
@@ -292,6 +253,20 @@
             "show_wishlist": false,
             "show_compare": false
           }
+        },
+        "linked_products_9PRLVF": {
+          "type": "linked_products",
+          "settings": {
+            "option_name": "",
+            "option_values": "",
+            "product_list": [
+              "black-zip-cube",
+              "black-friday-essential-oil-kit",
+              "build-your-own-diffuser-bundle-2"
+            ],
+            "linked_type": "image_with_title",
+            "linked_size": "large"
+          }
         }
       },
       "block_order": [
@@ -299,8 +274,10 @@
         "custom_liquid_z7WJyn",
         "price_wKr7EU",
         "description_TBWgnJ",
-        "buy_buttons_aJT8gY"
+        "buy_buttons_aJT8gY",
+        "linked_products_9PRLVF"
       ],
+      "custom_css": [],
       "settings": {
         "product": "stone-diffuser-gift-bundle",
         "image": "shopify://shop_images/pdp_bundle_stone_holidaykit_gallery_1_image.png",
@@ -638,7 +615,6 @@
     "main",
     "featured_collection_grid_yaaUxb",
     "banner_product_grid_mfjVxR",
-    "featured_collection_grid_NYXK4N",
     "featured_product_gMFDeT",
     "featured_product_7wyyLK",
     "featured_collection_grid_VWV3xh",
