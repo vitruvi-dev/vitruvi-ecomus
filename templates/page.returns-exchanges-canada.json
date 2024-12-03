@@ -48,7 +48,7 @@
         "text_rDjGyq": {
           "type": "text",
           "settings": {
-            "text": "<p>To complete a return or exchange (for all products except Natural Air Freshener Sprays and Diffuser Bundles), please use our <a href=\"https://vitruviusa.myshopify.com/returns\" title=\"/returns\"><span style=\"text-decoration:underline\">self-serve returns page</span></a>. If you have any other questions, please reach out to our Customer Experience team at <a href=\"mailto:hello@vitruvi.com\" title=\"mailto:hello@vitruvi.com\">hello@vitruvi.com</a>.</p>",
+            "text": "<p>To complete a return or exchange, please email our Customer Experience team at <a href=\"mailto:hello@vitruvi.com\" target=\"_blank\">hello@vitruvi.com</a></p>",
             "adding_border": false
           }
         },
@@ -56,7 +56,7 @@
           "type": "button",
           "settings": {
             "btn_label": "START YOUR RETURN",
-            "btn_link": "/returns",
+            "btn_link": "mailto:hello@vitruvi.com",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -320,6 +320,7 @@
         "timeline_item_bjW6zx",
         "timeline_item_FUBFgA"
       ],
+      "disabled": true,
       "settings": {
         "content_width": 1170,
         "line_style": "dotted",
