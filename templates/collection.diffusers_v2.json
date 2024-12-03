@@ -159,13 +159,19 @@
     "banner_product_grid_mfjVxR": {
       "type": "banner-product-grid",
       "blocks": {
+        "text_eDyntH": {
+          "type": "text",
+          "settings": {
+            "text": "UP TO 30% OFF"
+          }
+        },
         "heading_CYpfhQ": {
           "type": "heading",
           "settings": {
-            "heading": "Summer Style Guide"
+            "heading": "Buidl Your Own Diffuser Bundle"
           }
         },
-        "text_eDyntH": {
+        "text_xNXApd": {
           "type": "text",
           "settings": {
             "text": "UP TO 30% OFF"
@@ -185,14 +191,15 @@
         }
       },
       "block_order": [
-        "heading_CYpfhQ",
         "text_eDyntH",
+        "heading_CYpfhQ",
+        "text_xNXApd",
         "button_FFyAay"
       ],
       "settings": {
         "image": "shopify://shop_images/page_collection_hero_bfcm-2024_image_mobile_v2.jpg",
-        "color_scheme": "",
-        "product_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "product_color_scheme": "scheme-1",
         "banner_url": "shopify://products/build-your-own-diffuser-bundle",
         "banner_target": false,
         "product_list": [
