@@ -548,6 +548,37 @@
         "padding_rate": 75
       }
     },
+    "collections_list_simple_kY6xMW": {
+      "type": "collections-list-simple",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Explore the full range of Vitruvi products for all your home wellness needs",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": [
+          "shop-all",
+          "humidifiers",
+          "essential-oil-diffusers",
+          "scent-kits",
+          "essential-oil-blends",
+          "essential-oils"
+        ],
+        "text_transform": false,
+        "other_link_label": "View all categories",
+        "other_link": "",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "accordion_qkAGnW": {
       "type": "accordion",
       "blocks": {
@@ -738,6 +769,7 @@
     "slideshow_bHhppE",
     "featured_collection_grid_Qak8RN",
     "slideshow_hDJEhQ",
+    "collections_list_simple_kY6xMW",
     "accordion_qkAGnW"
   ]
 }
