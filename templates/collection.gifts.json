@@ -376,6 +376,111 @@
         "padding_rate": 75
       }
     },
+    "banner_mccACe": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_4Wih7M": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/stone-essential-oil-diffuser",
+            "banner_target": false,
+            "heading": "@silchuknest",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_VegdiL": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_1__sahnndra_cloud-humidifier_oat.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/cloud-humidifier",
+            "banner_target": false,
+            "heading": "@sahnndra",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_zzipb7": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/stone-essential-oil-diffuser",
+            "banner_target": false,
+            "heading": "@emilytartaglia",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_4Wih7M",
+        "banner_2_VegdiL",
+        "banner_2_zzipb7"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-size: 12px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
@@ -526,6 +631,7 @@
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
     "featured_collection_grid_yRaTqb",
+    "banner_mccACe",
     "featured_collection_grid_axeCpV",
     "slideshow_bHhppE",
     "main"
