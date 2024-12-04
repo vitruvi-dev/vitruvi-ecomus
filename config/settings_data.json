@@ -588,6 +588,7 @@
   },
   "platform_customizations": {
     "custom_css": [
+      ".lb-cpb-progress-bar-container {max-width: 80%; margin-top: 10px;}",
       ".hdt-badge__holiday-exclusive,.hdt_label_new,.hdt-badge__holiday {background-color: #ab4e52 !important;}",
       "#hdt-menu-holiday {background-color: #ab4e52 !important; color: white !important; padding: 3px; border-radius: 3px;}",
       "#hdt-menu-black-friday-sale,#hdt-menu-cyber-monday-sale,#hdt-menu-cyber-week-sale {background-color: #eac661 !important; color: black !important; padding: 3px; border-radius: 3px;}",
