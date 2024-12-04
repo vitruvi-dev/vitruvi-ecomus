@@ -588,6 +588,7 @@
   },
   "platform_customizations": {
     "custom_css": [
+      ".lb-cpb-progress-bar-container {border-bottom: 0.1rem solid rgb(var(--color-line-border)); padding-bottom: 25px;}",
       ".lb-cpb-progress-text-wrapper {padding-bottom: 10px;}",
       ".hdt-badge__holiday-exclusive,.hdt_label_new,.hdt-badge__holiday {background-color: #ab4e52 !important;}",
       "#hdt-menu-holiday {background-color: #ab4e52 !important; color: white !important; padding: 3px; border-radius: 3px;}",
