@@ -109,19 +109,19 @@
         "label_rHtJ3e": {
           "type": "label",
           "settings": {
-            "label": ""
+            "label": "LIMITED TIME ONLY"
           }
         },
         "heading_FQ3wCc": {
           "type": "heading",
           "settings": {
-            "heading": "MAKE THE AIR YOURS"
+            "heading": "Gift More<br>Get More"
           }
         },
         "sub_heading_cjY6qn": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents."
+            "sub_heading": "Shop now and get rewarded with a free gift card*—something extra for your gift or a a treat for yourself."
           }
         },
         "button_widJMP": {
@@ -143,7 +143,6 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
@@ -152,7 +151,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "video": "shopify://files/videos/page_home-hero_bfcm2023_option1-video_v3_desktop.mp4",
+        "video": "shopify://files/videos/page_home-hero_holiday2023_v2023_video_desktop.mp4",
         "external_video_url": "",
         "content_bg": false,
         "color_scheme": "scheme-3",
