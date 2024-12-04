@@ -39,7 +39,7 @@
           "settings": {}
         },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
-          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
@@ -87,8 +87,15 @@
         },
         "custom_liquid_QEPDwE": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://vitruvi.ca/cdn/shop/files/pdp_humidity-sensor_gallery_1_image_fcbae604-0cd7-4921-929a-201bb32ece4b.png?v=1719458598&width=990\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Free Gift\n      {% if request.host contains 'vitruvi.com' %}\n        ($11 Value)\n      {% else %}\n        ($11 Value)\n      {% endif %}\n    </h5>\n    <p>Humidity Sensor added to every humidifier order, while supplies last.</p>\n  </div>\n</div>"
+          }
+        },
+        "custom_liquid_QxDgAg": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/gift-card-blank_v2.png?v=1669877085\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Gift More, Get More</h5>\n    <p>Spend $125+ to get a free $25 gift card.<br/>Spend $250+ to get a free $50 gift card.</p>\n  </div>\n</div>"
           }
         },
         "description_Fh49zX": {
@@ -136,6 +143,7 @@
         "inventory_ftnW9y",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "custom_liquid_QEPDwE",
+        "custom_liquid_QxDgAg",
         "description_Fh49zX",
         "img_trust_66mV4N",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
@@ -480,7 +488,7 @@
       "type": "apps",
       "blocks": {
         "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify://apps/yotpo-product-reviews-ugc/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
