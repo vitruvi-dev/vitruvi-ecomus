@@ -446,7 +446,7 @@
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 12,
-        "sec_heading_spacing": 100,
+        "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
           "cloud-humidifier",
@@ -487,7 +487,7 @@
         "sec_subheading": "<p>100% naturally crafted holiday scents to create a cozy, inviting space.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
-        "heading_gap": 18,
+        "heading_gap": 12,
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
