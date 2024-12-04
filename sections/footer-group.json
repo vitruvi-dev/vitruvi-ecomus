@@ -11,6 +11,17 @@
   "type": "footer",
   "name": "Footer Group",
   "sections": {
+    "custom_liquid_cjcca3": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "custom_liquid_Ud4CwP": {
       "type": "custom-liquid",
       "custom_css": [],
@@ -148,6 +159,7 @@
     }
   },
   "order": [
+    "custom_liquid_cjcca3",
     "custom_liquid_Ud4CwP",
     "icon_with_text_yi4DXQ",
     "8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43"

@@ -1027,20 +1027,6 @@
         "padding_bottom": 50,
         "padding_rate": 75
       }
-    },
-    "custom_line_qHVaBj": {
-      "type": "custom-line",
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#f7f8f6",
-        "line_pos": "center",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -1056,7 +1042,6 @@
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
     "slideshow_zT9KVC",
-    "cef9818d-d174-4a85-935f-31cd9035f495",
-    "custom_line_qHVaBj"
+    "cef9818d-d174-4a85-935f-31cd9035f495"
   ]
 }
