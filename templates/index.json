@@ -30,7 +30,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Shop now and get rewarded with a free gift card—something extra for your gift or a a treat for yourself.*</strong></p>",
+            "text": "<p><strong>Shop now and get rewarded with a free gift card—something extra for your gift or a a treat for yourself.</strong></p>",
             "adding_border": false
           }
         },
@@ -297,7 +297,7 @@
         "heading_weepe7": {
           "type": "heading",
           "settings": {
-            "heading": "Free Gift Card",
+            "heading": "Free Gift Card Details",
             "heading_fs": "h4"
           }
         },
@@ -311,8 +311,8 @@
         "button_ttPbL6": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP BLACK FRIDAY",
-            "btn_link": "shopify://collections/black-friday-sale",
+            "btn_label": "SHOP GIFTS",
+            "btn_link": "shopify://collections/gifts",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -326,9 +326,7 @@
         "sub_heading_MJizU4",
         "button_ttPbL6"
       ],
-      "custom_css": [
-        ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/pdp_gift-card_gallery_2_image.png",
         "style_image": "1",
