@@ -335,6 +335,47 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_grid_axeCpV": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Customer-Favorite Gift Bundles",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "build-your-own-scent-bundle",
+          "build-your-own-diffuser-bundle",
+          "build-your-own-humidifier-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
@@ -484,6 +525,7 @@
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
     "featured_collection_grid_yRaTqb",
+    "featured_collection_grid_axeCpV",
     "slideshow_bHhppE",
     "main"
   ]
