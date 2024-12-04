@@ -15,8 +15,8 @@
       "type": "icon_with_text",
       "settings": {
         "color_scheme": "",
-        "text": "<p>* Gift More, Get More Promo Details</p><p></p>",
-        "btn_label": "Shop now",
+        "text": "<p><strong>* Gift More, Get More Promo Details</strong></p><p>All product categories are eligible.</p><p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>",
+        "btn_label": "",
         "btn_link": "",
         "target": false,
         "btn_size": "base",

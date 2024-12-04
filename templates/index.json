@@ -297,14 +297,14 @@
         "heading_weepe7": {
           "type": "heading",
           "settings": {
-            "heading": "Free Gift Card Details*",
+            "heading": "Free Gift Card",
             "heading_fs": "h4"
           }
         },
         "text_6HVHHK": {
           "type": "text",
           "settings": {
-            "text": "<p>All product categories are eligible.</p><p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>"
+            "text": "<p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>"
           }
         },
         "button_i3NAcL": {
