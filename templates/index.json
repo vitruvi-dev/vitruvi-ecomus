@@ -304,10 +304,10 @@
         "text_6HVHHK": {
           "type": "text",
           "settings": {
-            "text": "<p>All product categories are eligible.</p><ul><li>Spend $125 or more and you'll receive a FREE $25 gift card</li><li>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</li></ul>"
+            "text": "<p>All product categories are eligible.</p><p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>"
           }
         },
-        "button_ttPbL6": {
+        "button_i3NAcL": {
           "type": "button",
           "settings": {
             "btn_label": "SHOP GIFTS",
@@ -323,9 +323,11 @@
       "block_order": [
         "heading_weepe7",
         "text_6HVHHK",
-        "button_ttPbL6"
+        "button_i3NAcL"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "@media (min-width: 767px) {p, li {font-size: 120%; }}"
+      ],
       "settings": {
         "image": "shopify://shop_images/pdp_gift-card_gallery_2_image.png",
         "style_image": "1",
@@ -336,9 +338,9 @@
         "alignment": "left",
         "content_pl": 0,
         "image_last_mb": true,
-        "content_position_mb": "center",
-        "alignment_mb": "left",
-        "padding_top": 50,
+        "content_position_mb": "start-center",
+        "alignment_mb": "center",
+        "padding_top": 21,
         "padding_bottom": 50,
         "padding_rate": 75
       }
