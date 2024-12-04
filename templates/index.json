@@ -325,6 +325,7 @@
         "text_6HVHHK",
         "button_i3NAcL"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 767px) {p, li {font-size: 120%; }}"
       ],
@@ -480,7 +481,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "New Arrivals",
+        "sec_heading": "Holiday Exclusive Products",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>100% naturally crafted holiday scents to create a cozy, inviting space.</p>",
