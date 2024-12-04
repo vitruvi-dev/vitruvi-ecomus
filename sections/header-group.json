@@ -31,7 +31,7 @@
         "announcement_UYaNeX": {
           "type": "announcement",
           "settings": {
-            "text": "<span style=\"text-decoration:underline\">{{ localization.market.metafields.ecomus.announcement_notice.value }}</span>"
+            "text": "🎁 Order by 12/17 for delivery by 12/24"
           }
         },
         "announcement_7iU4bq": {
