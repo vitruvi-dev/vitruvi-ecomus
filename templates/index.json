@@ -15,7 +15,7 @@
         "text_yncHR8": {
           "type": "text",
           "settings": {
-            "text": "<p>THIS WEEK ONLY</p>",
+            "text": "<p>LIMITED TIME ONLY</p>",
             "adding_border": false
           }
         },
@@ -30,7 +30,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Get a free gift card on purchases of $125 or more. A little something extra for yourself, or to gift again!</strong></p>",
+            "text": "<p><strong>Shop now and get rewarded with a free gift card—something extra for your gift or a a treat for yourself.*</strong></p>",
             "adding_border": false
           }
         },
@@ -56,7 +56,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP SALE",
-            "btn_link": "shopify://collections/cyber-week-sale",
+            "btn_link": "shopify://collections/shop-all",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -77,7 +77,8 @@
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
         ".hdt-countdown__item {color: black; border-radius: 0px; background-color: #e7e7e4;}",
-        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
+        ".hdt-hero-image__text {margin-left: 20%; margin-right: 20%;}",
+        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__text {margin-left: 0%; margin-right: 0%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
       ],
       "settings": {
         "image_height": "full",
