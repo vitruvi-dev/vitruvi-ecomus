@@ -18,14 +18,16 @@
         "section_fullwidth": false,
         "custom_liquid": "<hr style='border: none; border-top: 1px solid #474946;'>",
         "color_scheme": "",
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
     },
     "icon_with_text_yi4DXQ": {
       "type": "icon_with_text",
-      "custom_css": [],
+      "custom_css": [
+        ".hdt-container {margin-bottom: 20px; margin-top: 20px; }"
+      ],
       "settings": {
         "color_scheme": "",
         "text": "<p><strong>* Gift More, Get More Promo Details</strong></p><p>All product categories are eligible.</p><p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>",
@@ -36,8 +38,8 @@
         "btn_style": "solid",
         "btn_fw": "normal",
         "btn_icon": "none",
-        "padding_top": 30,
-        "padding_bottom": 5,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
