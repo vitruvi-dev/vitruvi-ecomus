@@ -21,13 +21,6 @@
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
         },
-        "announcement_eeYyAc": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">All Orders Ship Free With Code <span style=\"text-decoration:underline\"><strong>FREESHIP</strong></span></a>"
-          }
-        },
         "announcement_UYaNeX": {
           "type": "announcement",
           "settings": {
@@ -37,22 +30,22 @@
         "announcement_7iU4bq": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\">FREE Mini Diffuser Blend with Diffuser Orders</a>"
+            "text": "<a href=\"/collections/gifts\" title=\"Gifts\">FREE Gift Card on $125+ Orders</a>"
           }
         },
-        "announcement_BHQ3xT": {
+        "announcement_eeYyAc": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
-            "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\">FREE Humidity Sensor with Humidifier Orders</a>"
+            "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">All Orders Ship Free With Code <span style=\"text-decoration:underline\"><strong>FREESHIP</strong></span></a>"
           }
         }
       },
       "block_order": [
         "announcement_RzCepp",
-        "announcement_eeYyAc",
         "announcement_UYaNeX",
         "announcement_7iU4bq",
-        "announcement_BHQ3xT"
+        "announcement_eeYyAc"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
