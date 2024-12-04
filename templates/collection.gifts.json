@@ -339,10 +339,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Customer-Favorite Gift Bundles",
+        "sec_heading": "Personalize Your Bundle",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.</p>",
+        "sec_subheading": "<p>Customize the perfect bundle with scents, diffusers, or humidifiers to elevate their unique space.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
