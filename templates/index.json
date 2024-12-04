@@ -143,6 +143,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Kaftan\";}"
       ],
