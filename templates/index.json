@@ -30,7 +30,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Shop now and get rewarded with a free gift card—something extra for your gift or a a treat for yourself.</strong></p>",
+            "text": "<p><strong>Shop now and get rewarded with a free gift card*—something extra for your gift or a a treat for yourself.</strong></p>",
             "adding_border": false
           }
         },
@@ -297,15 +297,14 @@
         "heading_weepe7": {
           "type": "heading",
           "settings": {
-            "heading": "Free Gift Card Details",
+            "heading": "Free Gift Card Details*",
             "heading_fs": "h4"
           }
         },
-        "sub_heading_MJizU4": {
-          "type": "sub_heading",
+        "text_6HVHHK": {
+          "type": "text",
           "settings": {
-            "sub_heading": "Get a FREE Nightcap Mini Diffuser Blend with all $100+ orders. Bold and festive, it’s perfect for adding holiday magic to any space.",
-            "sub_fs": "base"
+            "text": "<p>All product categories are eligible.</p><ul><li>Spend $125 or more and you'll receive a FREE $25 gift card</li><li>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</li></ul>"
           }
         },
         "button_ttPbL6": {
@@ -323,7 +322,7 @@
       },
       "block_order": [
         "heading_weepe7",
-        "sub_heading_MJizU4",
+        "text_6HVHHK",
         "button_ttPbL6"
       ],
       "custom_css": [],
@@ -338,7 +337,7 @@
         "content_pl": 0,
         "image_last_mb": true,
         "content_position_mb": "center",
-        "alignment_mb": "center",
+        "alignment_mb": "left",
         "padding_top": 50,
         "padding_bottom": 50,
         "padding_rate": 75
