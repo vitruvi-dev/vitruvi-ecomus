@@ -66,24 +66,6 @@
     "header": {
       "type": "header-inline",
       "blocks": {
-        "mega_product_MpUUKp": {
-          "type": "mega_product",
-          "settings": {
-            "title": "Guide Guide",
-            "product_list_title": "HOLIDAY EXCLUSIVES",
-            "product_list": [
-              "festive-favorites-essential-oil-kit",
-              "stone-diffuser-holiday-bundle",
-              "cloud-humidifier-holiday-bundle"
-            ],
-            "image_ratio": "square",
-            "image_size": true,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 1000
-          }
-        },
         "mega_shop_EwLMdD": {
           "type": "mega_shop",
           "settings": {
@@ -97,7 +79,7 @@
             "mega_menu_colors": "",
             "mega_position": "bottom",
             "mega_width": "custom",
-            "mega_custom_width": 1000
+            "mega_custom_width": 900
           }
         },
         "mega_product_k7LrJx": {
@@ -195,7 +177,6 @@
         }
       },
       "block_order": [
-        "mega_product_MpUUKp",
         "mega_shop_EwLMdD",
         "mega_product_k7LrJx",
         "mega_shop_7yUh8W",
