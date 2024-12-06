@@ -468,8 +468,110 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "banner_iGHbM7": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_jUmgWK": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_scents_sculpture_richellekingsland_v2.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/cloud-humidifier",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_c8eyk8": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_scents_bowl_thecurrentlovee.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/stone-essential-oil-diffuser",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_nGTLmP": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_scents_lavender_ciaocarito9.png",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://collections/scents",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_jUmgWK",
+        "banner_2_c8eyk8",
+        "banner_2_nGTLmP"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -625,6 +727,7 @@
     "banner_mccACe",
     "featured_collection_grid_yRaTqb",
     "featured_collection_grid_axeCpV",
+    "banner_iGHbM7",
     "slideshow_bHhppE",
     "main"
   ]
