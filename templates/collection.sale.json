@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{
+ {
   "sections": {
     "heading": {
       "type": "heading-collection",
@@ -20,14 +20,13 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Black Friday: Up to 40% Off"
           }
         },
         "description_Ddhb9a": {
           "type": "description",
-          "disabled": true,
           "settings": {
-            "description": ""
+            "description": "This weekend only."
           }
         }
       },
@@ -41,7 +40,50 @@
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "countdown_text_HmUgXP": {
+      "type": "countdown_text",
+      "blocks": {
+        "text_8UMYqR": {
+          "type": "text",
+          "settings": {
+            "heading": "{{ collection.title }}"
+          }
+        },
+        "text_2_xDRN8J": {
+          "type": "text_2",
+          "settings": {
+            "sub_heading": "<i>Shop now and get rewarded with a FREE $25 or $50 gift card.*</i><br><br>Order by Dec 17 to stay on track for holiday delivery."
+          }
+        }
+      },
+      "block_order": [
+        "text_8UMYqR",
+        "text_2_xDRN8J"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
+        ".hdt-subheading {font-weight: 200;}",
+        "i {font-size: 90; opacity: 60%;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "year": 2024,
+        "month": 12,
+        "day": 18,
+        "hour": 0,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": false,
+        "mess_complete": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -51,13 +93,42 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Gift More Get More: Shop now and get rewarded with a FREE $25 or $50 gift card.*",
+            "sub_heading": "Free Shipping on All $75+ Orders",
             "sub_heading_fs": "base"
           }
         }
       },
       "block_order": [
         "sub_heading_wpqzpJ"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 0,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 15,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_LXYpUq": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_8N7Fad": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Get a FREE gift on $100+ orders while supplies last",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_8N7Fad"
       ],
       "disabled": true,
       "custom_css": [
@@ -98,6 +169,7 @@
         "heading_gp79NX",
         "heading_VNYyGF"
       ],
+      "disabled": true,
       "custom_css": [
         ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
         "@media (max-width: 767px) {.bfcm-header {font-size: 150%; } .save40sitewide {font-size: 80%; }}"
@@ -129,53 +201,80 @@
     "categories_section_kV6JP9": {
       "type": "categories-section",
       "blocks": {
+        "collection_item_hyjBLh": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "bundle-and-save",
+            "image": "shopify://shop_images/collection_bfcm2024_bundles.png",
+            "title": "Gift Bundles",
+            "collection_link": ""
+          }
+        },
         "collection_item_FJ9cck": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
+            "collection": "humidifiers",
             "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
-            "title": "Humidifier Deals",
-            "collection_link": "#humidifiers"
+            "title": "Humidifiers",
+            "collection_link": ""
           }
         },
         "collection_item_XAzK6L": {
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/pdp_essential-oil-blend_forest-frost_gallery_4_image.jpg",
-            "title": "Diffuser Deals",
+            "image": "shopify://shop_images/collection_bfcm2024_diffusers.png",
+            "title": "Diffusers",
             "collection_link": "#diffusers"
           }
         },
         "collection_item_3tzmMw": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
+            "collection": "diffuser-blends",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Scents Deals",
-            "collection_link": "#scents"
+            "title": "Blends",
+            "collection_link": ""
+          }
+        },
+        "collection_item_tL67i4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "scent-kits",
+            "image": "shopify://shop_images/collection_bfcm2024_kits.png",
+            "title": "Kits",
+            "collection_link": ""
+          }
+        },
+        "view_all_FywTJP": {
+          "type": "view_all",
+          "settings": {
+            "title": "Best Sellers",
+            "item_link": "shopify://collections/best-sellers"
           }
         }
       },
       "block_order": [
+        "collection_item_hyjBLh",
         "collection_item_FJ9cck",
         "collection_item_XAzK6L",
-        "collection_item_3tzmMw"
+        "collection_item_3tzmMw",
+        "collection_item_tL67i4",
+        "view_all_FywTJP"
       ],
-      "custom_css": [
-        ".hdt-shop-all {display: none;}",
-        "@media (max-width: 767px) {.hdt-wrap {margin-left: 20%; margin-right: 20%; }}"
-      ],
+      "disabled": true,
+      "custom_css": [],
       "settings": {
         "color_scheme": "",
         "style": "small",
-        "padding_top": 40,
+        "padding_top": 30,
         "padding_bottom": 0,
         "padding_rate": 75
       }
     },
     "custom_line_zAe7AX": {
       "type": "custom-line",
+      "disabled": true,
       "settings": {
         "line_style": "solid",
         "line_width": 100,
@@ -184,13 +283,54 @@
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 0,
-        "padding_bottom": 100,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
     "main": {
       "type": "main-collection",
-      "disabled": true,
+      "blocks": {
+        "featured_products_rgCDg3": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Featured",
+            "collection": "",
+            "product_list": [
+              "mystery-essential-oil-kit"
+            ],
+            "products_count": 1,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        },
+        "filter_bB4hRd": {
+          "type": "filter",
+          "settings": {}
+        },
+        "featured_products_LzB6Km": {
+          "type": "featured_products",
+          "disabled": true,
+          "settings": {
+            "widget_heading": "Holiday Exclusives 🎄",
+            "collection": "",
+            "product_list": [
+              "stone-diffuser-holiday-bundle",
+              "cloud-humidifier-holiday-bundle",
+              "festive-favorites-essential-oil-kit",
+              "sugar-spice-diffuser-blend",
+              "apres-essential-oil-blend"
+            ],
+            "products_count": 20,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        }
+      },
+      "block_order": [
+        "featured_products_rgCDg3",
+        "filter_bB4hRd",
+        "featured_products_LzB6Km"
+      ],
       "custom_css": [],
       "settings": {
         "product_des": "10",
@@ -198,7 +338,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 4,
+        "products_count": 50,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
@@ -206,15 +346,15 @@
         "paginate_pos": "center",
         "dis_pagination": 60,
         "enable_sorting": true,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "enable_num_cols_selector": false,
-        "widget_heading": "Product Categories",
+        "widget_heading": "",
         "cat_source": "2",
         "cat_link_list": "footer_products",
         "count": true,
         "section_fullwidth": false,
         "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
-        "padding_top": 30,
+        "padding_top": 0,
         "padding_bottom": 70,
         "padding_rate": 75,
         "sidebar_position": "left",
@@ -223,6 +363,7 @@
     },
     "featured_collection_grid_eF6zJd": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Perfect Gifts, Unbeatable Savings",
@@ -260,6 +401,7 @@
     },
     "custom_liquid_dNQJp8": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"humidifiers\"></span>",
@@ -366,6 +508,7 @@
         "view_products_details_dLcHK8",
         "img_trust_769AGd"
       ],
+      "disabled": true,
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
         ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
@@ -399,6 +542,7 @@
     },
     "featured_collection_grid_EcUNwb": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Humidifier Deals",
@@ -441,6 +585,7 @@
     },
     "custom_liquid_DrMBXX": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"diffusers\"></span>",
@@ -524,6 +669,7 @@
         "view_products_details_hYVnMr",
         "img_trust_888rTd"
       ],
+      "disabled": true,
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
         ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
@@ -558,6 +704,7 @@
     },
     "featured_collection_grid_Kqfchz": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Diffuser Deals",
@@ -600,6 +747,7 @@
     },
     "custom_liquid_j3RYQE": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "section_fullwidth": false,
         "custom_liquid": "<span id=\"scents\"></span>",
@@ -670,6 +818,7 @@
         "description_kP7Gcp",
         "view_products_details_GgmHTV"
       ],
+      "disabled": true,
       "settings": {
         "product": "festive-favorites-essential-oil-kit",
         "image": "shopify://shop_images/pdp_kit_festive_favorites_gallery_1_image.png",
@@ -698,6 +847,7 @@
     },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "start",
         "sec_heading": "Scent Deals",
@@ -927,7 +1077,9 @@
   },
   "order": [
     "heading",
+    "countdown_text_HmUgXP",
     "top_heading_LKRnyK",
+    "top_heading_LXYpUq",
     "hero_image_3dNbDH",
     "categories_section_kV6JP9",
     "custom_line_zAe7AX",
