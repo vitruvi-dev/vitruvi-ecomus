@@ -160,6 +160,9 @@
         "collection_item_x448mC",
         "view_all_CLLpdi"
       ],
+      "custom_css": [
+        ".hdt-shopall_wrap {display: none;}"
+      ],
       "settings": {
         "color_scheme": "",
         "style": "normal",
