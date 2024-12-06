@@ -90,7 +90,7 @@
         "button_JMbJkH": {
           "type": "button",
           "settings": {
-            "btn_label": "DIffuser Bundles",
+            "btn_label": "Diffuser Bundles",
             "btn_link": "#bundles",
             "target": false,
             "btn_size": "base",
