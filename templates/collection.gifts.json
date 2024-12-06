@@ -85,7 +85,7 @@
         "sub_heading_zEA96H": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Cyber Week Sale On Now: Up to 40% Off Sitewide",
+            "sub_heading": "Order by Dec 17 to stay on track for holiday delivery.",
             "sub_heading_fs": "base"
           }
         }
@@ -335,47 +335,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_axeCpV": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Personalize Your Bundle",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Customize the perfect bundle with scents, diffusers, or humidifiers to elevate their unique space.</p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "build-your-own-scent-bundle",
-          "build-your-own-diffuser-bundle",
-          "build-your-own-humidifier-bundle"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "1",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
     "banner_mccACe": {
       "type": "banner",
       "blocks": {
@@ -478,6 +437,47 @@
         "space_item_mb": 15,
         "padding_top": 80,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_axeCpV": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Personalize Your Bundle",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Customize the perfect bundle with scents, diffusers, or humidifiers to elevate their unique space.</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "build-your-own-scent-bundle",
+          "build-your-own-diffuser-bundle",
+          "build-your-own-humidifier-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
