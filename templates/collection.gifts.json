@@ -396,7 +396,7 @@
         "heading_align": "center",
         "sec_heading": "Customer-Favorite Gift Bundles",
         "heading_tag": "h2",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
@@ -438,7 +438,7 @@
         "heading_align": "center",
         "sec_heading": "Personalize Your Bundle",
         "heading_tag": "h2",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "<p>Customize the perfect bundle with scents, diffusers, or humidifiers to elevate their unique space.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
@@ -470,6 +470,118 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_4W7H8q": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_6h6cAn": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Gift of Scent for Every Moment",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_QVzBn3": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Find the perfect scent for the perfect person for their purpose as a gift.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6h6cAn",
+        "sub_heading_QVzBn3"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 20,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_MQKPW7": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_fhqhfD": {
+          "type": "tab_item",
+          "settings": {
+            "title": "For Deep Sleep",
+            "collection": "scents-for-better-sleep",
+            "product_list": []
+          }
+        },
+        "tab_item_cDEyL4": {
+          "type": "tab_item",
+          "settings": {
+            "title": "For Ultimate Relaxation",
+            "collection": "scents-for-relaxation-and-stress-relief",
+            "product_list": []
+          }
+        },
+        "tab_item_Biyzyn": {
+          "type": "tab_item",
+          "settings": {
+            "title": "For Cozy Comfort",
+            "collection": "scents-for-comfort-and-coziness",
+            "product_list": []
+          }
+        },
+        "tab_item_7nheQ9": {
+          "type": "tab_item",
+          "settings": {
+            "title": "For Sharper Focus",
+            "collection": "scents-for-focus-and-productivity",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_fhqhfD",
+        "tab_item_cDEyL4",
+        "tab_item_Biyzyn",
+        "tab_item_7nheQ9"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}",
+        ".hdt-tabs-head {justify-content: center;}"
+      ],
+      "settings": {
+        "tabs_heading": "",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -571,110 +683,6 @@
         "row_height_mb": 250,
         "space_item_mb": 15,
         "padding_top": 80,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_4W7H8q": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_6h6cAn": {
-          "type": "heading",
-          "settings": {
-            "heading": "We are Ecomus",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "heading_6h6cAn"
-      ],
-      "settings": {
-        "spacing_item": 30,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 20,
-        "padding_rate": 75
-      }
-    },
-    "tabs_collections_grid_MQKPW7": {
-      "type": "tabs-collections-grid",
-      "blocks": {
-        "tab_item_fhqhfD": {
-          "type": "tab_item",
-          "settings": {
-            "title": "For Better Sleep",
-            "collection": "scents-for-better-sleep",
-            "product_list": []
-          }
-        },
-        "tab_item_Biyzyn": {
-          "type": "tab_item",
-          "settings": {
-            "title": "For Comfort",
-            "collection": "scents-for-comfort-and-coziness",
-            "product_list": []
-          }
-        },
-        "tab_item_7nheQ9": {
-          "type": "tab_item",
-          "settings": {
-            "title": "For Focus",
-            "collection": "scents-for-focus-and-productivity",
-            "product_list": []
-          }
-        },
-        "tab_item_cDEyL4": {
-          "type": "tab_item",
-          "settings": {
-            "title": "For Relaxation",
-            "collection": "scents-for-relaxation-and-stress-relief",
-            "product_list": []
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_fhqhfD",
-        "tab_item_Biyzyn",
-        "tab_item_7nheQ9",
-        "tab_item_cDEyL4"
-      ],
-      "custom_css": [
-        "h4 {font-family: \"Heldane\";}",
-        ".hdt-tabs-head {justify-content: center;}"
-      ],
-      "settings": {
-        "tabs_heading": "",
-        "heading_size": "h5",
-        "heading_inline": true,
-        "tabs_head_spacing": 30,
-        "tabs_des": "underline",
-        "tab_item_size": "lg",
-        "tab_item_weight": "medium",
-        "text_transform": false,
-        "border_width": 2,
-        "spacing_items": 30,
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "view_all",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "outline",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -831,9 +839,9 @@
     "banner_mccACe",
     "featured_collection_grid_yRaTqb",
     "featured_collection_grid_axeCpV",
-    "banner_iGHbM7",
     "top_heading_4W7H8q",
     "tabs_collections_grid_MQKPW7",
+    "banner_iGHbM7",
     "slideshow_bHhppE",
     "main"
   ]
