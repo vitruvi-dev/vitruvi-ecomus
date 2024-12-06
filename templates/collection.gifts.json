@@ -575,6 +575,63 @@
         "padding_rate": 75
       }
     },
+    "tabs_collections_grid_MQKPW7": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_fhqhfD": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Best-Sellers",
+            "collection": "best-sellers",
+            "product_list": []
+          }
+        },
+        "tab_item_Biyzyn": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Gifts Under $100",
+            "collection": "gifts-under-100",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_fhqhfD",
+        "tab_item_Biyzyn"
+      ],
+      "settings": {
+        "tabs_heading": "12312321",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "slideshow_bHhppE": {
       "type": "slideshow",
       "blocks": {
@@ -728,6 +785,7 @@
     "featured_collection_grid_yRaTqb",
     "featured_collection_grid_axeCpV",
     "banner_iGHbM7",
+    "tabs_collections_grid_MQKPW7",
     "slideshow_bHhppE",
     "main"
   ]
