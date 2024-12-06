@@ -38,11 +38,12 @@
         "announcement_7iU4bq": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\">FREE Mini Diffuser Blend with Diffuser Orders</a>"
+            "text": "<a href=\"/collections/black-friday-sale\" title=\"Cyber Week: Up to 40% Off\">FREE Gift With Diffuser + Humidifier Orders</a>"
           }
         },
         "announcement_BHQ3xT": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\">FREE Humidity Sensor with Humidifier Orders</a>"
           }
