@@ -76,7 +76,7 @@
         "day": 18,
         "hour": 0,
         "minute": 0,
-        "effect_cd": "move_top",
+        "effect_cd": "none",
         "uppercase": false,
         "prepend_number": false,
         "hide_on_complete": false,
