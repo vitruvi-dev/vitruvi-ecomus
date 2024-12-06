@@ -148,7 +148,6 @@
         },
         "view_all_CLLpdi": {
           "type": "view_all",
-          "disabled": true,
           "settings": {
             "title": "Discovery all new items",
             "item_link": ""
