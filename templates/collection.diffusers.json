@@ -316,7 +316,7 @@
       "type": "custom-liquid",
       "settings": {
         "section_fullwidth": false,
-        "custom_liquid": "<span",
+        "custom_liquid": "<span id=\"diffusers\"></span>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0,
