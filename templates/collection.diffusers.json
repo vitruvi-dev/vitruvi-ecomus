@@ -91,7 +91,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Bundles",
-            "btn_link": "#diffusers",
+            "btn_link": "#bundles",
             "target": false,
             "btn_size": "base",
             "btn_style": "link",
@@ -103,7 +103,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Scents",
-            "btn_link": "#diffusers",
+            "btn_link": "#scents",
             "target": false,
             "btn_size": "base",
             "btn_style": "link",
