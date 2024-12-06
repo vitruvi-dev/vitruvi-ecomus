@@ -118,7 +118,8 @@
         "button_3bU83T"
       ],
       "custom_css": [
-        ".hdt-container-full {margin-top: -60px;}"
+        ".hdt-container-full {margin-top: -60px;}",
+        "@media (max-width: 768px) {.hdt-container-full {margin-top: -20px;}}"
       ],
       "settings": {
         "image_height": "adapt_image",
