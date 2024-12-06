@@ -89,8 +89,7 @@
           "settings": {
             "title": "Gift Guide",
             "collection_list": [
-              "gifts",
-              "holiday-collection"
+              "gifts"
             ],
             "image_ratio": "adapt_image",
             "image_size": true,
