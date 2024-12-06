@@ -126,7 +126,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "title": "Collection name",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
+            "title": "Diffusers",
             "collection_link": "#diffusers"
           }
         },
@@ -134,7 +135,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "title": "Collection name",
+            "image": "shopify://shop_images/collection_bfcm2024_bundles.png",
+            "title": "Diffuser Bundles",
             "collection_link": "#bundles"
           }
         },
@@ -142,7 +144,8 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "title": "Collection name",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "Scents for Diffusers",
             "collection_link": "#scents"
           }
         },
