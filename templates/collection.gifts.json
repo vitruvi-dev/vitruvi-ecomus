@@ -182,14 +182,14 @@
     "banner_MNTtak": {
       "type": "banner",
       "blocks": {
-        "banner_2_wGNqDt": {
+        "banner_2_Gd9rXf": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify://shop_images/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify://products/stone-essential-oil-diffuser",
+            "banner_url": "shopify://products/cloud-humidifier",
             "banner_target": false,
-            "heading": "@silchuknest",
+            "heading": "",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -207,14 +207,14 @@
             "alignment_mb": "left"
           }
         },
-        "banner_2_Gd9rXf": {
+        "banner_2_wGNqDt": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify://shop_images/ugc_1__sahnndra_cloud-humidifier_oat.jpg",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify://products/cloud-humidifier",
+            "banner_url": "shopify://products/stone-essential-oil-diffuser",
             "banner_target": false,
-            "heading": "@sahnndra",
+            "heading": "",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -235,11 +235,11 @@
         "banner_2_gYifcd": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify://shop_images/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify://products/stone-essential-oil-diffuser",
+            "banner_url": "shopify://collections/scents",
             "banner_target": false,
-            "heading": "@emilytartaglia",
+            "heading": "",
             "heading_fs": "base",
             "heading_fw": "normal",
             "heading_space": 15,
@@ -259,8 +259,8 @@
         }
       },
       "block_order": [
-        "banner_2_wGNqDt",
         "banner_2_Gd9rXf",
+        "banner_2_wGNqDt",
         "banner_2_gYifcd"
       ],
       "custom_css": [
@@ -281,48 +281,6 @@
         "space_item_mb": 15,
         "padding_top": 80,
         "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_yRaTqb": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Customer-Favorite Gift Bundles",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.</p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "signature-essential-oil-kit",
-          "starter-stone-diffuser-bundle",
-          "good-air-cloud-humidifier-bundle",
-          "best-sleep-diffuser-humidifier-bundle"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -410,6 +368,7 @@
         "banner_2_VegdiL",
         "banner_2_zzipb7"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
       ],
@@ -428,6 +387,48 @@
         "space_item_mb": 15,
         "padding_top": 80,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_yRaTqb": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Customer-Favorite Gift Bundles",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "signature-essential-oil-kit",
+          "starter-stone-diffuser-bundle",
+          "good-air-cloud-humidifier-bundle",
+          "best-sleep-diffuser-humidifier-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -621,8 +622,8 @@
     "custom_liquid_Lhwe7x",
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
-    "featured_collection_grid_yRaTqb",
     "banner_mccACe",
+    "featured_collection_grid_yRaTqb",
     "featured_collection_grid_axeCpV",
     "slideshow_bHhppE",
     "main"
