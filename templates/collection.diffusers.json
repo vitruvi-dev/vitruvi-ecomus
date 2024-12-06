@@ -432,6 +432,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_9m7UpR": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"bundles\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_Qak8RN": {
       "type": "featured-collection-grid",
       "settings": {
@@ -531,6 +542,17 @@
         "color_scheme": "",
         "padding_top": 76,
         "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_LEJxax": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"secnts\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -783,8 +805,10 @@
     "featured_product_faXngx",
     "custom_liquid_7t8TBC",
     "featured_collection_grid_yaaUxb",
+    "custom_liquid_9m7UpR",
     "featured_collection_grid_Qak8RN",
     "featured_product_7wyyLK",
+    "custom_liquid_LEJxax",
     "featured_collection_grid_VWV3xh",
     "collections_list_simple_HyQG7L",
     "accordion_qkAGnW"
