@@ -117,6 +117,9 @@
         "button_JMbJkH",
         "button_3bU83T"
       ],
+      "custom_css": [
+        ".hdt-container-full {margin-top: -60px;}"
+      ],
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 200,
