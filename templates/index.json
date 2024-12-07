@@ -76,7 +76,7 @@
         ".hdt-hero-image__text {font-size: 180%;}",
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
-        ".hdt-hero-image__text {margin-left: 20%; margin-right: 20%;}",
+        ".hdt-hero-image__text {margin-left: 15%; margin-right: 15%;}",
         "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__text {margin-left: 0%; margin-right: 0%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
       ],
       "settings": {
