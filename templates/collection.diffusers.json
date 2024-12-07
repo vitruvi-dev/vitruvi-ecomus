@@ -236,6 +236,12 @@
             "progress_bar_max": 50
           }
         },
+        "custom_liquid_MQRG7q": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/gift-card-blank_v2.png?v=1669877085\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Give More, Get More</h5>\n    <p>Spend $125+ for a free $25 gift card.<br/>Spend $250+ for a free $50 gift card.</p>\n  </div>\n</div>"
+          }
+        },
         "buy_buttons_fagEmm": {
           "type": "buy_buttons",
           "settings": {
@@ -251,12 +257,6 @@
           "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_oil_5ml_front_nightcap_gallery_1_image-7953.png?v=1732839131\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Free Gift\n      {% if request.host contains 'vitruvi.com' %}\n        ($17 Value)\n      {% else %}\n        ($19 Value)\n      {% endif %}\n    </h5>\n    <p>Mini Nightcap Blend added to every diffuser order, while supplies last.</p>\n  </div>\n</div>"
-          }
-        },
-        "custom_liquid_MQRG7q": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/gift-card-blank_v2.png?v=1669877085\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Give More, Get More</h5>\n    <p>Spend $125+ for a free $25 gift card.<br/>Spend $250+ for a free $50 gift card.</p>\n  </div>\n</div>"
           }
         },
         "description_DUMmP6": {
@@ -290,9 +290,9 @@
         "price_rLGthp",
         "variant_picker_74tAzz",
         "inventory_8MYeMe",
+        "custom_liquid_MQRG7q",
         "buy_buttons_fagEmm",
         "custom_liquid_BPPKy8",
-        "custom_liquid_MQRG7q",
         "description_DUMmP6",
         "view_products_details_pYeQq6",
         "img_trust_NNM6wE"

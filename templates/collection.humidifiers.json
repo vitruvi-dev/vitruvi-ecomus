@@ -142,6 +142,7 @@
         },
         "variant_picker_RwY4Xy": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "pick_mode": "first",
             "hide_sold_out": false,
@@ -214,6 +215,7 @@
       ],
       "settings": {
         "product": "cloud-humidifier",
+        "image": "shopify://shop_images/Cloud-Gallery-1-White.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
