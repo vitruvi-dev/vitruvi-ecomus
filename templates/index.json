@@ -22,7 +22,7 @@
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Gift More,<br>Get More",
+            "heading": "Give More,<br>Get More",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -55,8 +55,8 @@
         "button_G99RRj": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP SALE",
-            "btn_link": "shopify://collections/shop-all",
+            "btn_label": "SHOP GIFTS",
+            "btn_link": "shopify://collections/give-more-get-more",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
