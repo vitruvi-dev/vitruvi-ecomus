@@ -22,16 +22,16 @@
           "type": "tax",
           "settings": {}
         },
-        "f932f430-a2c4-4a2f-a3d6-d2f099407d44": {
-          "type": "line",
-          "settings": {}
-        },
         "76bae518-3d87-4731-a9d4-2e41544da57b": {
           "type": "agree",
           "disabled": true,
           "settings": {
             "content": "I agree with the <a href=\"/policies/terms-of-service\" title=\"Terms of Service\"><strong>terms and conditions</strong></a>"
           }
+        },
+        "f932f430-a2c4-4a2f-a3d6-d2f099407d44": {
+          "type": "line",
+          "settings": {}
         },
         "54f7a627-75c8-4b50-8c43-45e4be386afb": {
           "type": "bnt_cart_checkout",
@@ -50,13 +50,13 @@
       "block_order": [
         "ca4a9586-08fd-471b-a5a7-11e1ffc068a4",
         "88e6ef7a-281c-45e7-b62c-b556ebd6f705",
-        "f932f430-a2c4-4a2f-a3d6-d2f099407d44",
         "76bae518-3d87-4731-a9d4-2e41544da57b",
+        "f932f430-a2c4-4a2f-a3d6-d2f099407d44",
         "54f7a627-75c8-4b50-8c43-45e4be386afb"
       ],
       "settings": {
         "color_scheme": "",
-        "show_free_shipping_bar": true,
+        "show_free_shipping_bar": false,
         "show_cart_note": false,
         "show_gift_wrap": true,
         "show_shipping_estimator": false,

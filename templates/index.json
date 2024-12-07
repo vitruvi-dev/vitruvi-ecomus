@@ -15,14 +15,14 @@
         "text_yncHR8": {
           "type": "text",
           "settings": {
-            "text": "<p>THIS WEEK ONLY</p>",
+            "text": "<p>LIMITED TIME ONLY</p>",
             "adding_border": false
           }
         },
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Up to 40% off<br>Cyber Week",
+            "heading": "Give More,<br>Get More",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -30,7 +30,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Don’t wait—shop now to stay on track for holiday delivery!</strong></p>",
+            "text": "<p><strong>Shop now and get rewarded with a free gift card*—something extra for your gift or a a treat for yourself.</strong></p>",
             "adding_border": false
           }
         },
@@ -55,8 +55,8 @@
         "button_G99RRj": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP SALE",
-            "btn_link": "shopify://collections/cyber-week-sale",
+            "btn_label": "SHOP GIFTS",
+            "btn_link": "shopify://collections/give-more-get-more",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -73,22 +73,20 @@
         "button_G99RRj"
       ],
       "custom_css": [
-        "p {color: black; opacity: 80%;}",
         ".hdt-hero-image__text {font-size: 180%;}",
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
-        ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}",
-        ".hdt-countdown__item {color: black; border-radius: 0px; background-color: #e7e7e4;}",
-        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
+        ".hdt-hero-image__text {margin-left: 15%; margin-right: 15%;}",
+        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__text {margin-left: 0%; margin-right: 0%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
       ],
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "image": "shopify://shop_images/page_home_hero_cybermonday_image_desktop-2.jpg",
-        "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
-        "link_img": "shopify://collections/cyber-week-sale",
+        "image": "shopify://shop_images/page_home_hero_bfcm-2024_image_desktop_v1.png",
+        "image_mb": "shopify://shop_images/page_home_hero_bfcm-2024_image_mobile_v1.jpg",
+        "link_img": "shopify://collections/give-more-get-more",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -99,7 +97,7 @@
         "content_align_mb": "center",
         "full_width": true,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-3",
         "padding_top": 0,
         "padding_bottom": 36,
         "padding_rate": 75
@@ -111,19 +109,19 @@
         "label_rHtJ3e": {
           "type": "label",
           "settings": {
-            "label": ""
+            "label": "LIMITED TIME ONLY"
           }
         },
         "heading_FQ3wCc": {
           "type": "heading",
           "settings": {
-            "heading": "MAKE THE AIR YOURS"
+            "heading": "Gift More<br>Get More"
           }
         },
         "sub_heading_cjY6qn": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Beautiful diffusers. Innovative humidifiers. Natural scents."
+            "sub_heading": "Shop now and get rewarded with a free gift card*—something extra for your gift or a a treat for yourself."
           }
         },
         "button_widJMP": {
@@ -154,7 +152,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "video": "shopify://files/videos/page_home-hero_bfcm2023_option1-video_v3_desktop.mp4",
+        "video": "shopify://files/videos/page_home-hero_holiday2023_v2023_video_desktop.mp4",
         "external_video_url": "",
         "content_bg": false,
         "color_scheme": "scheme-3",
@@ -293,6 +291,61 @@
         "padding_rate": 75
       }
     },
+    "image_with_text_TH3zJL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_weepe7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Gift Card",
+            "heading_fs": "h4"
+          }
+        },
+        "text_6HVHHK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>"
+          }
+        },
+        "button_i3NAcL": {
+          "type": "button",
+          "settings": {
+            "btn_label": "SHOP GIFTS",
+            "btn_link": "shopify://collections/gifts",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_weepe7",
+        "text_6HVHHK",
+        "button_i3NAcL"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 767px) {p, li {font-size: 120%; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pdp_gift-card_gallery_2_image.png",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "start-center",
+        "alignment_mb": "center",
+        "padding_top": 21,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
     "collections_list_64Hida": {
       "type": "collections-list",
       "blocks": {
@@ -338,6 +391,7 @@
         "collection_item_JUWwNA",
         "view_all_dqd9Kp"
       ],
+      "disabled": true,
       "custom_css": [
         "div.hdt-collection-content p {display: none;}",
         ".hdt-collection-title {line-height: 140%;}"
@@ -381,62 +435,6 @@
         "padding_rate": 60
       }
     },
-    "image_with_text_TH3zJL": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_weepe7": {
-          "type": "heading",
-          "settings": {
-            "heading": "Free Gift",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_MJizU4": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Get a FREE Slow Dance Mini Diffuser Blend with all $100+ orders. Bold and festive, it’s perfect for adding holiday magic to any space.",
-            "sub_fs": "base"
-          }
-        },
-        "button_ttPbL6": {
-          "type": "button",
-          "settings": {
-            "btn_label": "SHOP BLACK FRIDAY",
-            "btn_link": "shopify://collections/black-friday-sale",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_weepe7",
-        "sub_heading_MJizU4",
-        "button_ttPbL6"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/collection_bfcm2022_mystery.png",
-        "style_image": "1",
-        "image_effect": "lunc",
-        "color_scheme": "",
-        "image_last": true,
-        "content_position": "center",
-        "alignment": "left",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_grid_W6JYha": {
       "type": "featured-collection-grid",
       "settings": {
@@ -448,7 +446,7 @@
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 12,
-        "sec_heading_spacing": 100,
+        "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
           "cloud-humidifier",
@@ -483,13 +481,13 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "New Arrivals",
+        "sec_heading": "Holiday Exclusive Products",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>100% naturally crafted holiday scents to create a cozy, inviting space.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
-        "heading_gap": 18,
+        "heading_gap": 12,
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
@@ -609,7 +607,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 40%.",
+            "heading": "Pick 4 or more of your favorite diffuser blends or essential oils and save up to 25%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -646,7 +644,7 @@
             "sub_heading_fs": "h4",
             "sub_heading_fw": "normal",
             "sub_heading_bg": false,
-            "heading": "Pick your favorite diffusers and diffuser scents and save up to 40%.",
+            "heading": "Pick your favorite diffusers and diffuser scents and save up to 25%.",
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
@@ -1029,28 +1027,14 @@
         "padding_bottom": 50,
         "padding_rate": 75
       }
-    },
-    "custom_line_qHVaBj": {
-      "type": "custom-line",
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#f7f8f6",
-        "line_pos": "center",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
     "hero_image_3kanN3",
     "video_GKb7jj",
     "slideshow_EjwCVy",
-    "collections_list_64Hida",
     "image_with_text_TH3zJL",
+    "collections_list_64Hida",
     "featured_collection_grid_W6JYha",
     "featured_collection_grid_fUDb9P",
     "featured_collection_grid_PV4GGr",
@@ -1058,7 +1042,6 @@
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "testimonials_3_Gf4Tfd",
     "slideshow_zT9KVC",
-    "cef9818d-d174-4a85-935f-31cd9035f495",
-    "custom_line_qHVaBj"
+    "cef9818d-d174-4a85-935f-31cd9035f495"
   ]
 }

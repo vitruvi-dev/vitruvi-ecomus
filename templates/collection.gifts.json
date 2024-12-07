@@ -9,6 +9,43 @@
  */
 {
   "sections": {
+    "heading": {
+      "type": "heading-collection",
+      "blocks": {
+        "breadcrumb_CM7qtX": {
+          "type": "breadcrumb",
+          "disabled": true,
+          "settings": {}
+        },
+        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Find the perfect gift"
+          }
+        },
+        "description_Ddhb9a": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb_CM7qtX",
+        "9a1347b4-da62-490d-9fd4-427a03686ac2",
+        "description_Ddhb9a"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing_hd": 5,
+        "color_scheme": "scheme-1",
+        "padding_top": 15,
+        "padding_bottom": 15,
+        "padding_rate": 75
+      }
+    },
     "top_heading_pMLWNL": {
       "type": "top-heading",
       "blocks": {
@@ -32,13 +69,13 @@
         "sub_heading_nUijdA"
       ],
       "settings": {
-        "spacing_item": 30,
+        "spacing_item": 15,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 5,
+        "padding_top": 0,
+        "padding_bottom": 15,
         "padding_rate": 75
       }
     },
@@ -48,7 +85,7 @@
         "sub_heading_zEA96H": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Cyber Week Sale On Now: Up to 40% Off Sitewide",
+            "sub_heading": "Order by Dec 17 to stay on track for holiday delivery.",
             "sub_heading_fs": "base"
           }
         }
@@ -56,18 +93,28 @@
       "block_order": [
         "sub_heading_zEA96H"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
       "settings": {
-        "spacing_item": 30,
+        "spacing_item": 15,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_Lhwe7x": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20,
         "padding_rate": 75
       }
     },
@@ -89,20 +136,11 @@
             "collection": "gifts-under-100",
             "product_list": []
           }
-        },
-        "tab_item_chFyKc": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Gift Cards",
-            "collection": "gift-cards",
-            "product_list": []
-          }
         }
       },
       "block_order": [
         "tab_item_p7DMf4",
-        "tab_item_7y6aWW",
-        "tab_item_chFyKc"
+        "tab_item_7y6aWW"
       ],
       "custom_css": [
         "h4 {font-family: \"Heldane\";}",
@@ -124,7 +162,7 @@
         "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 8,
+        "products_count": 4,
         "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
@@ -136,15 +174,120 @@
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
     "banner_MNTtak": {
       "type": "banner",
       "blocks": {
+        "banner_2_Gd9rXf": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/cloud-humidifier",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
         "banner_2_wGNqDt": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/collection_gifts_diffuser_2024-12.png",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/stone-essential-oil-diffuser",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_gYifcd": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://collections/scents",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_Gd9rXf",
+        "banner_2_wGNqDt",
+        "banner_2_gYifcd"
+      ],
+      "custom_css": [
+        ".hdt-heading {font-size: 12px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_mccACe": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_4Wih7M": {
           "type": "banner_2",
           "settings": {
             "image": "shopify://shop_images/ugc_1_sahndra_diffuser-stone_white.jpg",
@@ -169,7 +312,7 @@
             "alignment_mb": "left"
           }
         },
-        "banner_2_Gd9rXf": {
+        "banner_2_VegdiL": {
           "type": "banner_2",
           "settings": {
             "image": "shopify://shop_images/ugc_1__sahnndra_cloud-humidifier_oat.jpg",
@@ -194,7 +337,7 @@
             "alignment_mb": "left"
           }
         },
-        "banner_2_gYifcd": {
+        "banner_2_zzipb7": {
           "type": "banner_2",
           "settings": {
             "image": "shopify://shop_images/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
@@ -221,10 +364,11 @@
         }
       },
       "block_order": [
-        "banner_2_wGNqDt",
-        "banner_2_Gd9rXf",
-        "banner_2_gYifcd"
+        "banner_2_4Wih7M",
+        "banner_2_VegdiL",
+        "banner_2_zzipb7"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-size: 12px;}"
       ],
@@ -252,7 +396,7 @@
         "heading_align": "center",
         "sec_heading": "Customer-Favorite Gift Bundles",
         "heading_tag": "h2",
-        "heading_size": "h5",
+        "heading_size": "h4",
         "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
@@ -260,6 +404,7 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
+          "signature-essential-oil-kit",
           "starter-stone-diffuser-bundle",
           "good-air-cloud-humidifier-bundle",
           "best-sleep-diffuser-humidifier-bundle"
@@ -284,6 +429,261 @@
         "color_scheme": "",
         "padding_top": 80,
         "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_axeCpV": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Personalize Your Bundle",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Customize the perfect bundle with scents, diffusers, or humidifiers to elevate their unique space.</p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "",
+        "product_list": [
+          "build-your-own-scent-bundle",
+          "build-your-own-diffuser-bundle",
+          "build-your-own-humidifier-bundle"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "1",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_4W7H8q": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_6h6cAn": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Gift of Scent",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_QVzBn3": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Thoughtfully crafted scents for every gift-worthy occasion.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6h6cAn",
+        "sub_heading_QVzBn3"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 25,
+        "padding_rate": 75
+      }
+    },
+    "tabs_collections_grid_MQKPW7": {
+      "type": "tabs-collections-grid",
+      "blocks": {
+        "tab_item_fhqhfD": {
+          "type": "tab_item",
+          "settings": {
+            "title": "For Deep Sleep",
+            "collection": "scents-for-better-sleep",
+            "product_list": []
+          }
+        },
+        "tab_item_cDEyL4": {
+          "type": "tab_item",
+          "settings": {
+            "title": "For Ultimate Relaxation",
+            "collection": "scents-for-relaxation-and-stress-relief",
+            "product_list": []
+          }
+        },
+        "tab_item_Biyzyn": {
+          "type": "tab_item",
+          "settings": {
+            "title": "For Cozy Comfort",
+            "collection": "scents-for-comfort-and-coziness",
+            "product_list": []
+          }
+        },
+        "tab_item_7nheQ9": {
+          "type": "tab_item",
+          "settings": {
+            "title": "For Sharper Focus",
+            "collection": "scents-for-focus-and-productivity",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_fhqhfD",
+        "tab_item_cDEyL4",
+        "tab_item_Biyzyn",
+        "tab_item_7nheQ9"
+      ],
+      "custom_css": [
+        "h4 {font-family: \"Heldane\";}",
+        ".hdt-tabs-head {justify-content: center;}"
+      ],
+      "settings": {
+        "tabs_heading": "",
+        "heading_size": "h5",
+        "heading_inline": true,
+        "tabs_head_spacing": 30,
+        "tabs_des": "underline",
+        "tab_item_size": "lg",
+        "tab_item_weight": "medium",
+        "text_transform": false,
+        "border_width": 2,
+        "spacing_items": 30,
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 4,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "outline",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_iGHbM7": {
+      "type": "banner",
+      "blocks": {
+        "banner_2_jUmgWK": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_scents_sculpture_richellekingsland_v2.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/cloud-humidifier",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_c8eyk8": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_scents_bowl_thecurrentlovee.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://products/stone-essential-oil-diffuser",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        },
+        "banner_2_nGTLmP": {
+          "type": "banner_2",
+          "settings": {
+            "image": "shopify://shop_images/ugc_scents_lavender_ciaocarito9.png",
+            "color_scheme": "scheme-3",
+            "banner_url": "shopify://collections/scents",
+            "banner_target": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "heading_space": 15,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "alignment": "left",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "banner_2_jUmgWK",
+        "banner_2_c8eyk8",
+        "banner_2_nGTLmP"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 250,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "3",
+        "row_height_tb": 250,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 80,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -368,6 +768,7 @@
         "slide_label_YpGJEd",
         "slide_label_KFMjzR"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
         "p {font-family: \"Heldane\";}"
@@ -391,41 +792,6 @@
         "dot_space": 40,
         "padding_top": 0,
         "padding_bottom": 100,
-        "padding_rate": 75
-      }
-    },
-    "heading": {
-      "type": "heading-collection",
-      "blocks": {
-        "breadcrumb_CM7qtX": {
-          "type": "breadcrumb",
-          "disabled": true,
-          "settings": {}
-        },
-        "9a1347b4-da62-490d-9fd4-427a03686ac2": {
-          "type": "heading",
-          "settings": {
-            "heading": ""
-          }
-        },
-        "description_Ddhb9a": {
-          "type": "description",
-          "settings": {
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "breadcrumb_CM7qtX",
-        "9a1347b4-da62-490d-9fd4-427a03686ac2",
-        "description_Ddhb9a"
-      ],
-      "disabled": true,
-      "settings": {
-        "spacing_hd": 5,
-        "color_scheme": "scheme-1",
-        "padding_top": 15,
-        "padding_bottom": 15,
         "padding_rate": 75
       }
     },
@@ -464,13 +830,19 @@
     }
   },
   "order": [
+    "heading",
     "top_heading_pMLWNL",
     "top_heading_Rrrwzb",
+    "custom_liquid_Lhwe7x",
     "tabs_collections_grid_q79MGA",
     "banner_MNTtak",
+    "banner_mccACe",
     "featured_collection_grid_yRaTqb",
+    "featured_collection_grid_axeCpV",
+    "top_heading_4W7H8q",
+    "tabs_collections_grid_MQKPW7",
+    "banner_iGHbM7",
     "slideshow_bHhppE",
-    "heading",
     "main"
   ]
 }

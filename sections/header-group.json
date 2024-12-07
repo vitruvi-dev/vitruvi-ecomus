@@ -21,47 +21,31 @@
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
         },
+        "announcement_UYaNeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "Order by 12/17 to stay on track for 12/24 delivery"
+          }
+        },
+        "announcement_7iU4bq": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/gifts\" title=\"Gifts\">FREE Gift Card on $125+ Orders</a>"
+          }
+        },
         "announcement_eeYyAc": {
           "type": "announcement",
           "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/holiday-collection\" title=\"Holiday Collection\">All Orders Ship Free With Code <span style=\"text-decoration:underline\"><strong>FREESHIP</strong></span></a>"
           }
-        },
-        "announcement_UYaNeX": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "<span style=\"text-decoration:underline\">{{ localization.market.metafields.ecomus.announcement_notice.value }}</span>"
-          }
-        },
-        "announcement_7iU4bq": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/essential-oil-diffusers\" title=\"Diffusers\">FREE Mini Diffuser Blend with Diffuser Orders</a>"
-          }
-        },
-        "announcement_BHQ3xT": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/humidifiers\" title=\"Humidifiers\">FREE Humidity Sensor with Humidifier Orders</a>"
-          }
-        },
-        "announcement_RqB4ka": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "FREE Gift on $100+ Orders + FREE Shipping"
-          }
         }
       },
       "block_order": [
         "announcement_RzCepp",
-        "announcement_eeYyAc",
         "announcement_UYaNeX",
         "announcement_7iU4bq",
-        "announcement_BHQ3xT",
-        "announcement_RqB4ka"
+        "announcement_eeYyAc"
       ],
       "custom_css": [
         "p.hdt-announcement-bar__text {font-size: 85%;}"
@@ -82,18 +66,15 @@
     "header": {
       "type": "header-inline",
       "blocks": {
-        "mega_product_MpUUKp": {
-          "type": "mega_product",
-          "disabled": true,
+        "mega_shop_EwLMdD": {
+          "type": "mega_shop",
           "settings": {
-            "title": "Holiday",
-            "product_list_title": "HOLIDAY EXCLUSIVES",
-            "product_list": [
-              "festive-favorites-essential-oil-kit",
-              "stone-diffuser-holiday-bundle",
-              "cloud-humidifier-holiday-bundle"
+            "title": "Gifts",
+            "collection_list": [
+              "gifts",
+              "holiday-scents"
             ],
-            "image_ratio": "square",
+            "image_ratio": "adapt_image",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -107,7 +88,7 @@
             "title": "Diffusers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "stone-diffuser-holiday-bundle",
+              "stone-diffuser-gift-bundle",
               "build-your-own-diffuser-bundle"
             ],
             "image_ratio": "square",
@@ -169,7 +150,7 @@
             "title": "Scents",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "festive-favorites-essential-oil-kit",
+              "sugar-spice-diffuser-blend",
               "build-your-own-scent-bundle"
             ],
             "image_ratio": "square",
@@ -196,7 +177,7 @@
         }
       },
       "block_order": [
-        "mega_product_MpUUKp",
+        "mega_shop_EwLMdD",
         "mega_product_k7LrJx",
         "mega_shop_7yUh8W",
         "mega_product_3Dp8aK",
@@ -214,7 +195,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_cyberweek",
+        "main_menu": "header_desktop",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
@@ -230,7 +211,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile_cyberweek",
+        "main_menu_mobile": "header_mobile",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",

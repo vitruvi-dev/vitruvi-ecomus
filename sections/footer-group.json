@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "Footer Group",
@@ -49,7 +49,7 @@
           "settings": {
             "border-column": false,
             "heading_newsletter": "Sign Up for Email",
-            "text_newsletter": "<p>Get early access to new products and exclusive offers.<\/p>",
+            "text_newsletter": "<p>Get early access to new products and exclusive offers.</p>",
             "button_lb": "Subscribe",
             "show_icon": true,
             "btn_fw": "semibold",
@@ -68,7 +68,7 @@
             "html_content": "",
             "adding_border": false,
             "btn_label": "",
-            "btn_link": "shopify:\/\/pages\/contact-1",
+            "btn_link": "shopify://pages/contact-1",
             "btn_fw": "semibold",
             "enable_social": true,
             "socials_style": "simple",
@@ -98,7 +98,7 @@
         "text_size": "hdt-text-base",
         "padding-t-main": 40,
         "padding-bt-main": 40,
-        "text_copR": "© [year] <span class=\"\">Vitruvi<\/span> . All rights reserved.",
+        "text_copR": "© [year] <span class=\"\">Vitruvi</span> . All rights reserved.",
         "svg": "",
         "height": 30,
         "width-image_list": 200,
@@ -113,9 +113,55 @@
         "padding_bottom": 23,
         "padding_rate": 100
       }
+    },
+    "custom_liquid_cjcca3": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_Ud4CwP": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<hr style='border: none; border-top: 1px solid #474946;'>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "icon_with_text_yi4DXQ": {
+      "type": "icon_with_text",
+      "custom_css": [
+        ".hdt-container {margin-bottom: 20px; margin-top: 20px;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "text": "<p><strong>* Gift More, Get More Promo Details</strong></p><p>All product categories are eligible.</p><p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>",
+        "btn_label": "",
+        "btn_link": "",
+        "target": false,
+        "btn_size": "base",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "btn_icon": "none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
+    "custom_liquid_cjcca3",
+    "custom_liquid_Ud4CwP",
+    "icon_with_text_yi4DXQ",
     "8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43"
   ]
 }
