@@ -26,7 +26,7 @@
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": "Up to 40% off sitewide for Cyber Week"
+            "description": ""
           }
         }
       },
@@ -49,7 +49,7 @@
         "sub_heading_BDHJAt": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Gift More Get More: Shop now and get rewarded with a FREE $25 or $50 gift card.*",
+            "sub_heading": "Shop now and get rewarded with a FREE $25 or $50 gift card.*",
             "sub_heading_fs": "base"
           }
         }
