@@ -414,10 +414,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "start",
-        "sec_heading": "Build Your Own Bundle",
+        "sec_heading": "Personalize Your Bundle",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.</p>",
+        "sec_subheading": "<p>Customize the perfect bundle with scents, diffusers, or humidifiers to elevate your space.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
