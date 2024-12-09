@@ -30,7 +30,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Shop now and get rewarded with a free gift card*—something extra for your gift or a a treat for yourself.</strong></p>",
+            "text": "<p><strong>Shop now and get rewarded with a free gift card*—something extra for your gift or a treat for yourself.</strong></p>",
             "adding_border": false
           }
         },
@@ -171,8 +171,6 @@
         "slide_base_X9JycG": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
-            "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
             "url": "shopify://collections/cyber-monday-sale",
             "banner_target": false,
             "color_scheme": "scheme-1",
