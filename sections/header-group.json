@@ -23,6 +23,7 @@
         },
         "announcement_UYaNeX": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Order by 12/17 to stay on track for 12/24 delivery"
           }
@@ -30,7 +31,7 @@
         "announcement_7iU4bq": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/gifts\" title=\"Gifts\">FREE Gift Card on $125+ Orders</a>"
+            "text": "<a href=\"/collections/gifts\" title=\"Gifts\">FREE $25+ Gift Card on $125+ Orders</a>"
           }
         },
         "announcement_eeYyAc": {
