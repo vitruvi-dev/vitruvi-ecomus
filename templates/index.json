@@ -15,14 +15,14 @@
         "text_yncHR8": {
           "type": "text",
           "settings": {
-            "text": "<p>LIMITED TIME ONLY</p>",
+            "text": "<p>THIS WEEK ONLY</p>",
             "adding_border": false
           }
         },
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Give More,<br>Get More",
+            "heading": "Boxing Week Sale",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -84,7 +84,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "image": "shopify://shop_images/page_home_hero_bfcm-2024_image_desktop_v1.png",
+        "image": "shopify://shop_images/CarlosMontelara-Vitruvi-Holiday-8-Alt_1.png",
         "image_mb": "shopify://shop_images/page_home_hero_bfcm-2024_image_mobile_v1.jpg",
         "link_img": "shopify://collections/give-more-get-more",
         "target": false,
