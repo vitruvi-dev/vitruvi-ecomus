@@ -30,7 +30,7 @@
         "text_zzWERJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Shop now and get rewarded with a free gift card*—something extra for your gift or a a treat for yourself.</strong></p>",
+            "text": "<p>Stock up and save: Enjoy 25% off scents, diffusers, humidifiers, and accessories.</p>",
             "adding_border": false
           }
         },
@@ -84,7 +84,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "image": "shopify://shop_images/CarlosMontelara-Vitruvi-Holiday-8-Alt_1.png",
+        "image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_compressjpg.com_0c91694b-f5d1-4471-aac3-475f19d75d31.jpg",
         "image_mb": "shopify://shop_images/page_home_hero_bfcm-2024_image_mobile_v1.jpg",
         "link_img": "shopify://collections/give-more-get-more",
         "target": false,
