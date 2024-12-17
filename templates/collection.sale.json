@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "heading": {
       "type": "heading-collection",
@@ -73,7 +73,7 @@
         "full_width": true,
         "year": 2024,
         "month": 12,
-        "day": 18,
+        "day": 20,
         "hour": 0,
         "minute": 0,
         "effect_cd": "move_top",
