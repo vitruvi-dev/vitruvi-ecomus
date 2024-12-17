@@ -14,9 +14,14 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_7iU4bq": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/gifts\" title=\"Gifts\">FREE $25+ Gift Card on $125+ Orders</a>"
+          }
+        },
         "announcement_RzCepp": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
           }
@@ -28,12 +33,6 @@
             "text": "Order by 12/17 to stay on track for 12/24 delivery"
           }
         },
-        "announcement_7iU4bq": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/gifts\" title=\"Gifts\">FREE $25+ Gift Card on $125+ Orders</a>"
-          }
-        },
         "announcement_eeYyAc": {
           "type": "announcement",
           "disabled": true,
@@ -43,9 +42,9 @@
         }
       },
       "block_order": [
+        "announcement_7iU4bq",
         "announcement_RzCepp",
         "announcement_UYaNeX",
-        "announcement_7iU4bq",
         "announcement_eeYyAc"
       ],
       "custom_css": [
