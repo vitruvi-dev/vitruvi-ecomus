@@ -14,12 +14,6 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_7iU4bq": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/gifts\" title=\"Gifts\">FREE $25+ Gift Card on $125+ Orders</a>"
-          }
-        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
@@ -42,7 +36,6 @@
         }
       },
       "block_order": [
-        "announcement_7iU4bq",
         "announcement_RzCepp",
         "announcement_UYaNeX",
         "announcement_eeYyAc"
