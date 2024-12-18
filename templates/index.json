@@ -349,12 +349,21 @@
     "collections_list_64Hida": {
       "type": "collections-list",
       "blocks": {
+        "collection_item_JUWwNA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "scents",
+            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
+            "title": "Scents from $10",
+            "collection_link": ""
+          }
+        },
         "collection_item_npECiC": {
           "type": "collection_item",
           "settings": {
             "collection": "essential-oil-diffusers",
             "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
-            "title": "Up to 40% off Diffusers<br>+ Free Gift With Purchase",
+            "title": "Diffusers from $64",
             "collection_link": ""
           }
         },
@@ -364,15 +373,6 @@
             "collection": "humidifiers",
             "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
             "title": "Up to 35% off Humidifiers<br>+ Free Gift With Purchase",
-            "collection_link": ""
-          }
-        },
-        "collection_item_JUWwNA": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "scents",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Up to 40% Off Scents",
             "collection_link": ""
           }
         },
@@ -386,19 +386,18 @@
         }
       },
       "block_order": [
+        "collection_item_JUWwNA",
         "collection_item_npECiC",
         "collection_item_GicVby",
-        "collection_item_JUWwNA",
         "view_all_dqd9Kp"
       ],
-      "disabled": true,
       "custom_css": [
         "div.hdt-collection-content p {display: none;}",
         ".hdt-collection-title {line-height: 140%;}"
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Cyber Week Specials",
+        "sec_heading": "Lorem Ipsum",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
@@ -472,48 +471,6 @@
         "section_fullwidth": false,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-1",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_fUDb9P": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Holiday Exclusive Products",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "<p>100% naturally crafted holiday scents to create a cozy, inviting space.</p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "stone-diffuser-holiday-bundle",
-          "festive-favorites-essential-oil-kit",
-          "sugar-spice-diffuser-blend",
-          "forest-frost-diffuser-blend"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "view_all",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all deals",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
         "padding_top": 50,
         "padding_bottom": 50,
         "padding_rate": 75
@@ -1036,7 +993,6 @@
     "image_with_text_TH3zJL",
     "collections_list_64Hida",
     "featured_collection_grid_W6JYha",
-    "featured_collection_grid_fUDb9P",
     "featured_collection_grid_PV4GGr",
     "slideshow_bHhppE",
     "282a0160-505d-43ff-b601-043a5a327bc2",
