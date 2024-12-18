@@ -50,7 +50,7 @@
         "text_8UMYqR": {
           "type": "text",
           "settings": {
-            "heading": "Boxing Week Sale"
+            "heading": "{{ collection.title }}"
           }
         },
         "text_2_xDRN8J": {
