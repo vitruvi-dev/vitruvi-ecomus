@@ -391,6 +391,7 @@
         "collection_item_GicVby",
         "view_all_dqd9Kp"
       ],
+      "disabled": true,
       "custom_css": [
         "div.hdt-collection-content p {display: none;}",
         ".hdt-collection-title {line-height: 140%;}"
