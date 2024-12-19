@@ -167,10 +167,7 @@
         "heading_WqA8TG",
         "text_F7wBXw"
       ],
-      "custom_css": [
-        "h3 {font-family: \"Heldane\";}",
-        "h4 {font-family: \"Founders Grotesk\"; font-weight: 200;}"
-      ],
+      "custom_css": [],
       "settings": {
         "heading": "Humidifiers for Sleep",
         "label": "Whisper Quiet, Natural Hydration",
@@ -193,7 +190,7 @@
         "color_scheme": "scheme-1",
         "navUI": true,
         "dotUI": false,
-        "content_position": "center",
+        "content_position": "start-center",
         "alignment": "left",
         "content_position_mb": "center",
         "alignment_mb": "center",
