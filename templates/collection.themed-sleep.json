@@ -178,7 +178,7 @@
         "heading": "Humidifiers for Sleep",
         "label": "Whisper Quiet, Natural Hydration",
         "image": "shopify://shop_images/image_1.jpg",
-        "image_mb": "shopify://shop_images/pdp_stone-diffuser-sleep-bundle_feature_image.jpg",
+        "image_mb": "shopify://shop_images/image_5.jpg",
         "external_video_url": "",
         "banner_url": "",
         "banner_target": false,
@@ -229,7 +229,7 @@
         "text_YaQp3L": {
           "type": "text",
           "settings": {
-            "text": "<br>I absolutely love this! Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed.<br><br>- Teresa F."
+            "text": "<br>First night using the Stone Diffuser I slept better than I’ve ever slept, had incredibly vivid dreams and woke up feeling rested. Bit of a life saver if you’ve ever struggled with sleepless nights.<br><br>- Ayla H."
           }
         }
       },
@@ -247,7 +247,7 @@
       "settings": {
         "heading": "Diffusers for Sleep",
         "label": "Whisper Quiet, Natural Hydration",
-        "image": "shopify://shop_images/image_1.jpg",
+        "image": "shopify://shop_images/image_3.jpg",
         "image_mb": "shopify://shop_images/pdp_stone-diffuser-sleep-bundle_feature_image.jpg",
         "external_video_url": "",
         "banner_url": "",
@@ -267,7 +267,7 @@
         "color_scheme": "scheme-1",
         "navUI": true,
         "dotUI": false,
-        "content_position": "start",
+        "content_position": "start-center",
         "alignment": "left",
         "content_position_mb": "center",
         "alignment_mb": "center",
