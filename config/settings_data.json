@@ -592,7 +592,7 @@
       ".lb-cpb-progress-bar-container {border-bottom: 0.1rem solid rgb(var(--color-line-border)); padding-bottom: 25px;}",
       ".lb-cpb-progress-text-wrapper {padding-bottom: 10px;}",
       ".hdt-badge__holiday-exclusive,.hdt_badge_free-gift,.hdt-badge__holiday {background-color: #476373 !important;}",
-      "ul.hdt-nav__ul > li:nth-child(1) > span, ul.hdt-nav__ul > li:nth-child(1) > span > span {color: white !important;}",
+      "ul.hdt-nav__ul > li:nth-child(1) span {color: white !important;}",
       "ul.hdt-nav__ul > li:nth-child(1) {background-color: #476373 !important; padding: 3px; border-radius: 3px;}",
       "ul.hdt-nav__ul-mb > li:nth-child(1) span {background-color: #476373 !important; color: white !important; padding: 0px 3px 0px 3px; border-radius: 3px;}",
       ".hdt-badge__black-friday-daily-deal,.hdt-badge__daily-deal {background-color: black !important; color: #eac661 !important;}"
