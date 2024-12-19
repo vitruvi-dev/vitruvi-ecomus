@@ -149,24 +149,6 @@
     },
     "banner_product_carousel_e6y7Nc": {
       "type": "banner-product-carousel",
-      "blocks": {
-        "heading_R3kpWU": {
-          "type": "heading",
-          "settings": {
-            "heading": "Summer Style Guide"
-          }
-        },
-        "text_YMYyby": {
-          "type": "text",
-          "settings": {
-            "text": "UP TO 30% OFF"
-          }
-        }
-      },
-      "block_order": [
-        "heading_R3kpWU",
-        "text_YMYyby"
-      ],
       "settings": {
         "heading": "SHOP THIS LOOK",
         "label": "Humidifiers for Sleep",
@@ -179,10 +161,13 @@
         "image_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
         "collection": "",
-        "product_list": [],
+        "product_list": [
+          "cloud-humidifier",
+          "best-sleep-diffuser-humidifier-bundle"
+        ],
         "products_count": 4,
-        "product_des": "1",
-        "image_ratio": "adapt_image",
+        "product_des": "10",
+        "image_ratio": "square",
         "color_scheme": "",
         "navUI": true,
         "dotUI": false,
