@@ -123,63 +123,6 @@
         "padding_rate": 75
       }
     },
-    "banner_product_grid_gz8ib3": {
-      "type": "banner-product-grid",
-      "blocks": {
-        "heading_Mtj74N": {
-          "type": "heading",
-          "settings": {
-            "heading": "Summer Style Guide"
-          }
-        },
-        "text_LHGrFW": {
-          "type": "text",
-          "settings": {
-            "text": "UP TO 30% OFF"
-          }
-        },
-        "button_Ri74mc": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Mtj74N",
-        "text_LHGrFW",
-        "button_Ri74mc"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/pdp_stone-diffuser-sleep-bundle_features-list_image.png",
-        "image_mb": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_compressjpg.com-min.jpg",
-        "color_scheme": "",
-        "product_color_scheme": "",
-        "banner_url": "",
-        "banner_target": false,
-        "product_list": [
-          "sleep-stone-diffuser-bundle",
-          "stone-essential-oil-diffuser",
-          "glow-essential-oil-diffuser",
-          "best-sleep-diffuser-humidifier-bundle"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "content_position": "center",
-        "alignment": "center",
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
@@ -405,7 +348,6 @@
     "heading",
     "main",
     "hero_image_pcbzgU",
-    "banner_product_grid_gz8ib3",
     "featured_collection_grid_j8DcaG",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
