@@ -39,7 +39,7 @@
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 0,
+        "padding_bottom": 5,
         "padding_rate": 75
       }
     },
@@ -74,53 +74,6 @@
         "padding_rate": 75,
         "sidebar_position": "left",
         "sidebar_size": "medium"
-      }
-    },
-    "hero_image_pcbzgU": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_ahC43H": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sleep Essentials",
-            "heading_fs": "h2",
-            "heading_fw": "normal"
-          }
-        },
-        "text_4FCzXF": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Set the stage for your best night's rest.</p>",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_ahC43H",
-        "text_4FCzXF"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 300,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/pdp_humidifier-sleep-bundle_feature_image.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": true,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 80,
-        "padding_bottom": 0,
-        "padding_rate": 75
       }
     },
     "hero_image_fUVRFe": {
@@ -165,6 +118,7 @@
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 100,
         "image": "shopify://shop_images/transparent1000-50.png",
+        "image_mb": "shopify://shop_images/transparent1000-50.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -510,7 +464,6 @@
   "order": [
     "heading",
     "main",
-    "hero_image_pcbzgU",
     "hero_image_fUVRFe",
     "custom_liquid_gFmXRL",
     "featured_collection_grid_j8DcaG",
