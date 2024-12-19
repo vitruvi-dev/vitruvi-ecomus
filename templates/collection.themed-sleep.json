@@ -170,13 +170,15 @@
       "custom_css": [
         "h3 {font-family: \"Heldane\";}",
         "h4 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
-        ".hdt-content-inner h3,.hdt-content-inner p {color: white; font-family: \"Founders Grotesk\"; font-weight: 200;}",
-        "img {opacity: 0.7;}"
+        "@media (min-width: 1024px) {.hdt-content-inner {max-width: 80%; }}",
+        ".hdt-content-inner h3 {color: white;}",
+        ".hdt-content-inner p {color: white; font-family: \"Founders Grotesk\"; font-weight: 200;}"
       ],
       "settings": {
         "heading": "Humidifiers for Sleep",
         "label": "Whisper Quiet, Natural Hydration",
         "image": "shopify://shop_images/image_1.jpg",
+        "image_mb": "shopify://shop_images/pdp_stone-diffuser-sleep-bundle_feature_image.jpg",
         "external_video_url": "",
         "banner_url": "",
         "banner_target": false,
