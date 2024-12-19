@@ -133,26 +133,16 @@
     "main": {
       "type": "main-collection",
       "blocks": {
-        "categories_QEt7Pd": {
-          "type": "categories",
-          "disabled": true,
-          "settings": {
-            "widget_heading": "Featured Collections",
-            "cat_source": "2",
-            "cat_link_list": "header_mobile_cyberweek",
-            "count": false
-          }
-        },
         "featured_products_rgCDg3": {
           "type": "featured_products",
           "settings": {
             "widget_heading": "Featured",
             "collection": "",
             "product_list": [
-              "mystery-essential-oil-kit"
+              "gift-card"
             ],
             "products_count": 1,
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true
           }
         },
@@ -180,7 +170,6 @@
         }
       },
       "block_order": [
-        "categories_QEt7Pd",
         "featured_products_rgCDg3",
         "filter_bB4hRd",
         "featured_products_LzB6Km"
