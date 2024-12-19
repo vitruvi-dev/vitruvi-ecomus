@@ -206,46 +206,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_j8DcaG": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Humidifiers for Sleep",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Lorem ipsum dolar sit amet.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "cloud-humidifier",
-          "best-sleep-diffuser-humidifier-bundle"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 6,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 100,
-        "padding_rate": 75
-      }
-    },
     "custom_liquid_jBnHJp": {
       "type": "custom-liquid",
       "settings": {
@@ -254,6 +214,65 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_product_carousel_tHcbyE": {
+      "type": "banner-product-carousel",
+      "blocks": {
+        "heading_k9JMCe": {
+          "type": "heading",
+          "settings": {
+            "heading": "★★★★★"
+          }
+        },
+        "text_YaQp3L": {
+          "type": "text",
+          "settings": {
+            "text": "<br>I absolutely love this! Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed.<br><br>- Teresa F."
+          }
+        }
+      },
+      "block_order": [
+        "heading_k9JMCe",
+        "text_YaQp3L"
+      ],
+      "custom_css": [
+        "h3 {font-family: \"Heldane\";}",
+        "h4 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        "@media (min-width: 1024px) {.hdt-content-inner {max-width: 80%; }}",
+        ".hdt-content-inner h3 {color: white;}",
+        ".hdt-content-inner p {color: white; font-family: \"Founders Grotesk\"; font-weight: 200;}"
+      ],
+      "settings": {
+        "heading": "Diffusers for Sleep",
+        "label": "Whisper Quiet, Natural Hydration",
+        "image": "shopify://shop_images/image_1.jpg",
+        "image_mb": "shopify://shop_images/pdp_stone-diffuser-sleep-bundle_feature_image.jpg",
+        "external_video_url": "",
+        "banner_url": "",
+        "banner_target": false,
+        "image_height": "adapt_image_first",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "collection": "",
+        "product_list": [
+          "cloud-humidifier",
+          "best-sleep-diffuser-humidifier-bundle"
+        ],
+        "products_count": 4,
+        "product_des": "10",
+        "image_ratio": "square",
+        "color_scheme": "scheme-1",
+        "navUI": true,
+        "dotUI": false,
+        "content_position": "start",
+        "alignment": "left",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -483,8 +502,8 @@
     "hero_image_fUVRFe",
     "custom_liquid_gFmXRL",
     "banner_product_carousel_e6y7Nc",
-    "featured_collection_grid_j8DcaG",
     "custom_liquid_jBnHJp",
+    "banner_product_carousel_tHcbyE",
     "featured_collection_grid_btqzAz",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
