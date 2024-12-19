@@ -521,6 +521,7 @@
     },
     "featured_collection_grid_GfmdDT": {
       "type": "featured-collection-grid",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Our Best-Sellers",
