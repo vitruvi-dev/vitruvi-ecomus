@@ -170,7 +170,8 @@
       "custom_css": [
         "h3 {font-family: \"Heldane\";}",
         "h4 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
-        ".hdt-content-inner h3,.hdt-content-inner p {color: white; font-family: \"Founders Grotesk\"; font-weight: 200;}"
+        ".hdt-content-inner h3,.hdt-content-inner p {color: white; font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        ".image-wrapper::before {background: linear-gradient( to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5) );}"
       ],
       "settings": {
         "heading": "Humidifiers for Sleep",
