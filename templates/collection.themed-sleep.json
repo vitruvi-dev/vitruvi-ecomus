@@ -379,10 +379,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Diffuser Blends for Sleep",
+        "sec_heading": "Sleep-Inducing Scents",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Experience deeper, more restful sleep with our expertly crafted essential oil blends, designed to transform your nighttime routine.</p>",
+        "sec_subheading": "<p>Experience deeper, more restful sleep with our expertly crafted diffuser blends and essential oils, designed to transform your nighttime routine.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -392,45 +392,7 @@
           "rest-essential-oil-kit",
           "sleep-essential-oil-blend",
           "sejour-essential-oil-blend",
-          "sunset-essential-oil-blend"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 50,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_KCnnk7": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Essential Oils for Sleep",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Promote relaxation and prepare for sleep with our essential oils, each known for its soothing properties to help you unwind and rest naturally.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "sleep-scents",
-        "product_list": [
+          "sunset-essential-oil-blend",
           "essential-oil-kit",
           "lavender-essential-oil",
           "cedarwood-essential-oil",
@@ -550,6 +512,44 @@
         "padding_bottom": 70,
         "padding_rate": 75
       }
+    },
+    "blog_AXgqg9": {
+      "type": "blog",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Blogs post",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "blog": "",
+        "limit": 8,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "2",
+        "show_blog_title": "blog_current",
+        "show_content": false,
+        "show_tags": false,
+        "show_author": false,
+        "show_comment": false,
+        "show_readmore": true,
+        "show_date": false,
+        "date": "%b %d",
+        "navUI": false,
+        "dotUI": false,
+        "Content_align": "start",
+        "image_ratio": "-adapt_image",
+        "image_size": "cover",
+        "layout_des": "2",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -563,8 +563,8 @@
     "banner_product_carousel_tHcbyE",
     "accordion_inline_gAF893",
     "featured_collection_grid_cNkeX7",
-    "featured_collection_grid_KCnnk7",
     "collections_list_rcbPdc",
-    "collections_list_simple_kY6xMW"
+    "collections_list_simple_kY6xMW",
+    "blog_AXgqg9"
   ]
 }
