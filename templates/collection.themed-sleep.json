@@ -129,8 +129,20 @@
         "button_bqRayM": {
           "type": "button",
           "settings": {
-            "btn_label": "Humidifiers for Sleep",
+            "btn_label": "Humidifiers",
             "btn_link": "#humidifiers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_hbwBfE": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Diffusers",
+            "btn_link": "#diffusers",
             "target": false,
             "btn_size": "base",
             "btn_style": "link",
@@ -140,7 +152,8 @@
         }
       },
       "block_order": [
-        "button_bqRayM"
+        "button_bqRayM",
+        "button_hbwBfE"
       ],
       "custom_css": [
         ".hdt-container-full {margin-top: -60px;}",
