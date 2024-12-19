@@ -49,7 +49,7 @@
         "sub_heading_BDHJAt": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Shop now and get rewarded with a FREE $25 or $50 gift card.*",
+            "sub_heading": "Boxing Week Sale: 25% off scents, diffusers, humidifiers, and accessories.",
             "sub_heading_fs": "base"
           }
         }
@@ -162,6 +162,7 @@
         },
         "custom_liquid_DmjWVN": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/gift-card-blank_v2.png?v=1669877085\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Give More, Get More</h5>\n    <p>Spend $125+ for a free $25 gift card.<br/>Spend $250+ for a free $50 gift card.</p>\n  </div>\n</div>"
           }
@@ -323,7 +324,7 @@
         "custom_liquid_CaXNgR": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 35% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 25% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
           }
         },
         "description_jUGCPy": {

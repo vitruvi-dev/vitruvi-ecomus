@@ -24,6 +24,7 @@
     },
     "custom_liquid_Ud4CwP": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "section_fullwidth": false,
@@ -36,6 +37,7 @@
     },
     "icon_with_text_yi4DXQ": {
       "type": "icon_with_text",
+      "disabled": true,
       "custom_css": [
         ".hdt-container {margin-bottom: 20px; margin-top: 20px;}"
       ],

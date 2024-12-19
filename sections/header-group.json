@@ -14,10 +14,10 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_7iU4bq": {
+        "announcement_mLhmxz": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"/collections/gifts\" title=\"Gifts\">FREE $25+ Gift Card on $125+ Orders</a>"
+            "text": "<a href=\"/collections/boxing-week-sale\" title=\"Boxing Week Sale\">Boxing Week Sale: 25% Off Sitewide</a>"
           }
         },
         "announcement_RzCepp": {
@@ -42,7 +42,7 @@
         }
       },
       "block_order": [
-        "announcement_7iU4bq",
+        "announcement_mLhmxz",
         "announcement_RzCepp",
         "announcement_UYaNeX",
         "announcement_eeYyAc"
@@ -195,7 +195,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop",
+        "main_menu": "header_desktop_sale",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
@@ -211,7 +211,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile",
+        "main_menu_mobile": "header_mobile_sale",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",
