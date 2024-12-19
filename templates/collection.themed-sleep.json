@@ -248,7 +248,7 @@
         "heading": "Diffusers for Sleep",
         "label": "Whisper Quiet, Natural Hydration",
         "image": "shopify://shop_images/image_3.jpg",
-        "image_mb": "shopify://shop_images/pdp_stone-diffuser-sleep-bundle_feature_image.jpg",
+        "image_mb": "shopify://shop_images/image_6.jpg",
         "external_video_url": "",
         "banner_url": "",
         "banner_target": false,
@@ -258,7 +258,9 @@
         "fixed_height_mb": 300,
         "collection": "",
         "product_list": [
-          "cloud-humidifier",
+          "stone-essential-oil-diffuser",
+          "sleep-stone-diffuser-bundle",
+          "glow-essential-oil-diffuser",
           "best-sleep-diffuser-humidifier-bundle"
         ],
         "products_count": 4,
