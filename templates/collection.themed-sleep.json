@@ -220,6 +220,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_jBnHJp": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"diffusers\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_btqzAz": {
       "type": "featured-collection-grid",
       "settings": {
@@ -490,6 +501,7 @@
     "hero_image_fUVRFe",
     "custom_liquid_gFmXRL",
     "featured_collection_grid_j8DcaG",
+    "custom_liquid_jBnHJp",
     "featured_collection_grid_btqzAz",
     "featured_collection_grid_Biznby",
     "featured_collection_grid_EcUNwb",
