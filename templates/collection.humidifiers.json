@@ -324,7 +324,7 @@
         "custom_liquid_CaXNgR": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 35% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
+            "custom_liquid": "<div class=\"hdt-product-info__item hdt-product__price\" data-type=\"price\">\n  <div class=\"hdt-price-wrapp hdt-price--show-badge js-intent\">\n    <hdt-badge is=\"on_sale\" class=\"hdt-badge hdt-badge__on-sale\">\n      <span percent=\"\">UP TO 25% SAVINGS</span>\n    </hdt-badge>\n  </div>\n</div>"
           }
         },
         "description_jUGCPy": {
