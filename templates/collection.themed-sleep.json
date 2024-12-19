@@ -381,6 +381,48 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_grid_KCnnk7": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Essential Oils for Sleep",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Promote relaxation and prepare for sleep with our essential oils, each known for its soothing properties to help you unwind and rest naturally.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "sleep-scents",
+        "product_list": [
+          "essential-oil-kit",
+          "lavender-essential-oil",
+          "cedarwood-essential-oil",
+          "bergamot-essential-oil"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_EcUNwb": {
       "type": "featured-collection-grid",
       "settings": {
@@ -605,6 +647,7 @@
     "custom_liquid_jBnHJp",
     "banner_product_carousel_tHcbyE",
     "featured_collection_grid_cNkeX7",
+    "featured_collection_grid_KCnnk7",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
     "accordion_inline_gAF893",
