@@ -39,7 +39,7 @@
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 60,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -119,7 +119,7 @@
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 80,
-        "padding_bottom": 100,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -161,7 +161,7 @@
       ],
       "settings": {
         "image_height": "adapt_image",
-        "fixed_height": 300,
+        "fixed_height": 200,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 100,
         "image": "shopify://shop_images/transparent1000-50.png",
