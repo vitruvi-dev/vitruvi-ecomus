@@ -212,13 +212,21 @@
         "accordion_item_qGpTp3": {
           "type": "accordion_item",
           "settings": {
-            "title": "How does a humidifier help with sleep?",
+            "title": "How do Vitruvi humidifiers help you sleep better?",
             "content": "If the air in your bedroom isn’t hydrated properly, it can cause inflammation, irritation, blocked throats and noses, and even snoring—all of which can disrupt your sleep. The Cloud Humidifier hydrates your air to an optimal level and is bedside table-friendly in size. Most importantly, it’s whisper quiet and features a light-free night mode so that it works without distracting your slumber."
+          }
+        },
+        "accordion_item_AMyyjC": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do Vitruvi humidifiers help with dry skin?",
+            "content": "If the air in your home is too dry, it can draw moisture from your skin, leaving it feeling tight, flaky, and dehydrated. The Cloud Humidifier restores optimal humidity levels to help lock in skin’s natural moisture, supporting a hydrated, dewy complexion. Plus, its whisper-quiet operation and sleek design make it perfect for bedside or vanity use, working seamlessly while you sleep or go about your day."
           }
         }
       },
       "block_order": [
-        "accordion_item_qGpTp3"
+        "accordion_item_qGpTp3",
+        "accordion_item_AMyyjC"
       ],
       "settings": {
         "top_heading": "FREQUENTLY ASKED QUESTIONS",
