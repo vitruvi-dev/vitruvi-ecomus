@@ -168,9 +168,9 @@
         "text_F7wBXw"
       ],
       "settings": {
-        "heading": "SHOP THIS LOOK",
-        "label": "Humidifiers for Sleep",
-        "image": "shopify://shop_images/Diffuser-Lifestyle1.jpg",
+        "heading": "Humidifiers for Sleep",
+        "label": "Whisper Quiet, Natural Hydration",
+        "image": "shopify://shop_images/pdp_best-sleep-bundle_white_gallery_2_image_81e1dd48-221f-45cf-ba4b-cee08f2120a9.jpg",
         "external_video_url": "",
         "banner_url": "",
         "banner_target": false,
@@ -192,7 +192,7 @@
         "content_position": "center",
         "alignment": "left",
         "content_position_mb": "center",
-        "alignment_mb": "left",
+        "alignment_mb": "center",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
