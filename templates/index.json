@@ -22,7 +22,7 @@
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "End-of-Year Sale",
+            "heading": "End-of-Year<br>Holiday Sale",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -171,8 +171,6 @@
         "slide_base_X9JycG": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
-            "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
             "url": "shopify://collections/cyber-monday-sale",
             "banner_target": false,
             "color_scheme": "scheme-1",
