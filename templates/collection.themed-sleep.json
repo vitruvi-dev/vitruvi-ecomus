@@ -206,6 +206,33 @@
         "padding_rate": 75
       }
     },
+    "accordion_inline_jmAxH4": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_qGpTp3": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How does a humidifier help with sleep?",
+            "content": "If the air in your bedroom isn’t hydrated properly, it can cause inflammation, irritation, blocked throats and noses, and even snoring—all of which can disrupt your sleep. The Cloud Humidifier hydrates your air to an optimal level and is bedside table-friendly in size. Most importantly, it’s whisper quiet and features a light-free night mode so that it works without distracting your slumber."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_qGpTp3"
+      ],
+      "settings": {
+        "top_heading": "FREQUENTLY ASKED QUESTIONS",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "accordion_icon": "2",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
     "custom_liquid_jBnHJp": {
       "type": "custom-liquid",
       "settings": {
@@ -504,6 +531,7 @@
     "hero_image_fUVRFe",
     "custom_liquid_gFmXRL",
     "banner_product_carousel_e6y7Nc",
+    "accordion_inline_jmAxH4",
     "custom_liquid_jBnHJp",
     "banner_product_carousel_tHcbyE",
     "featured_collection_grid_btqzAz",
