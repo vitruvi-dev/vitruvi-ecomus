@@ -128,7 +128,7 @@
         "content_align": "center",
         "content_position_mb": "center",
         "content_align_mb": "center",
-        "full_width": false,
+        "full_width": true,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-1",
         "padding_top": 0,
