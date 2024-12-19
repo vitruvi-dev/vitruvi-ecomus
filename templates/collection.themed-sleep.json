@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -48,9 +47,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -126,6 +123,61 @@
         "padding_rate": 75
       }
     },
+    "banner_product_grid_gz8ib3": {
+      "type": "banner-product-grid",
+      "blocks": {
+        "heading_Mtj74N": {
+          "type": "heading",
+          "settings": {
+            "heading": "Summer Style Guide"
+          }
+        },
+        "text_LHGrFW": {
+          "type": "text",
+          "settings": {
+            "text": "UP TO 30% OFF"
+          }
+        },
+        "button_Ri74mc": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mtj74N",
+        "text_LHGrFW",
+        "button_Ri74mc"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product_color_scheme": "",
+        "banner_url": "",
+        "banner_target": false,
+        "product_list": [
+          "best-sleep-diffuser-humidifier-bundle",
+          "sleep-stone-diffuser-bundle",
+          "stone-essential-oil-diffuser",
+          "glow-essential-oil-diffuser"
+        ],
+        "product_des": "10",
+        "image_ratio": "square",
+        "content_position": "center",
+        "alignment": "center",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
@@ -182,9 +234,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "sleep-scents",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
@@ -320,9 +370,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "4",
         "content_size": "4xl",
         "content_weight": "medium",
@@ -355,6 +403,7 @@
     "heading",
     "main",
     "hero_image_pcbzgU",
+    "banner_product_grid_gz8ib3",
     "featured_collection_grid_j8DcaG",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
