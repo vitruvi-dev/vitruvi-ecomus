@@ -281,7 +281,7 @@
       ],
       "settings": {
         "heading": "Diffusers for Sleep",
-        "label": "Whisper Quiet, Natural Hydration",
+        "label": "Calming Aromas, Restful Nights",
         "image": "shopify://shop_images/image_3.jpg",
         "image_mb": "shopify://shop_images/image_6.jpg",
         "external_video_url": "",
@@ -308,7 +308,7 @@
         "alignment": "left",
         "content_position_mb": "center",
         "alignment_mb": "center",
-        "padding_top": 100,
+        "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
       }
