@@ -35,7 +35,6 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -100,6 +99,7 @@
         "heading_ahC43H",
         "text_4FCzXF"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
