@@ -102,11 +102,37 @@
             "btn_fw": "normal",
             "btn_icon": "none"
           }
+        },
+        "button_KjXwCH": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Blends",
+            "btn_link": "#diffusers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_ck79Gx": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Essential Oils",
+            "btn_link": "#diffusers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
         }
       },
       "block_order": [
         "button_bqRayM",
-        "button_hbwBfE"
+        "button_hbwBfE",
+        "button_KjXwCH",
+        "button_ck79Gx"
       ],
       "custom_css": [
         ".hdt-container-full {margin-top: -60px;}",
@@ -335,6 +361,7 @@
         "accordion_item_iPebeg",
         "accordion_item_qNcfGV"
       ],
+      "custom_css": [],
       "settings": {
         "top_heading": "FREQUENTLY ASKED QUESTIONS",
         "heading_tag": "h3",
