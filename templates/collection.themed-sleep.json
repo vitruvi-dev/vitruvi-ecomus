@@ -123,6 +123,48 @@
         "padding_rate": 75
       }
     },
+    "hero_image_fUVRFe": {
+      "type": "hero-image",
+      "blocks": {
+        "button_bqRayM": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Humidifiers for Sleep",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "button_bqRayM"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 300,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/transparent1000-50.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 80,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
@@ -348,6 +390,7 @@
     "heading",
     "main",
     "hero_image_pcbzgU",
+    "hero_image_fUVRFe",
     "featured_collection_grid_j8DcaG",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
