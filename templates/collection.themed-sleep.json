@@ -150,6 +150,12 @@
     "banner_product_carousel_e6y7Nc": {
       "type": "banner-product-carousel",
       "blocks": {
+        "heading_WqA8TG": {
+          "type": "heading",
+          "settings": {
+            "heading": "★★★★"
+          }
+        },
         "text_F7wBXw": {
           "type": "text",
           "settings": {
@@ -158,6 +164,7 @@
         }
       },
       "block_order": [
+        "heading_WqA8TG",
         "text_F7wBXw"
       ],
       "settings": {
@@ -183,9 +190,9 @@
         "navUI": true,
         "dotUI": false,
         "content_position": "center",
-        "alignment": "center",
+        "alignment": "left",
         "content_position_mb": "center",
-        "alignment_mb": "center",
+        "alignment_mb": "left",
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
