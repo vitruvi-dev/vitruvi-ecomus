@@ -149,6 +149,17 @@
     },
     "banner_product_carousel_e6y7Nc": {
       "type": "banner-product-carousel",
+      "blocks": {
+        "text_F7wBXw": {
+          "type": "text",
+          "settings": {
+            "text": "Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed. Mine was a gift, and I would gift this to anyone who is hard to buy for."
+          }
+        }
+      },
+      "block_order": [
+        "text_F7wBXw"
+      ],
       "settings": {
         "heading": "SHOP THIS LOOK",
         "label": "Humidifiers for Sleep",
@@ -168,7 +179,7 @@
         "products_count": 4,
         "product_des": "10",
         "image_ratio": "square",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "navUI": true,
         "dotUI": false,
         "content_position": "center",
