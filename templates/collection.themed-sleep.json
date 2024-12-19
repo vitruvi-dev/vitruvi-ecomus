@@ -384,6 +384,17 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "custom_liquid_gFmXRL": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -391,6 +402,7 @@
     "main",
     "hero_image_pcbzgU",
     "hero_image_fUVRFe",
+    "custom_liquid_gFmXRL",
     "featured_collection_grid_j8DcaG",
     "featured_collection_grid_EcUNwb",
     "collections_list_simple_kY6xMW",
