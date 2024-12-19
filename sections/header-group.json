@@ -82,15 +82,16 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_Nfz6fq": {
-          "type": "mega_shop",
+        "mega_product_QGCxg6": {
+          "type": "mega_product",
           "settings": {
-            "title": "Gifts",
-            "collection_list": [
-              "gifts",
-              "holiday-scents"
+            "title": "Sleep Essentials",
+            "product_list_title": "SPOTLIGHT",
+            "product_list": [
+              "stone-diffuser-gift-bundle",
+              "build-your-own-diffuser-bundle"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -194,7 +195,7 @@
       },
       "block_order": [
         "mega_shop_EwLMdD",
-        "mega_shop_Nfz6fq",
+        "mega_product_QGCxg6",
         "mega_product_k7LrJx",
         "mega_shop_7yUh8W",
         "mega_product_3Dp8aK",
