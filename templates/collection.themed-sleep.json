@@ -106,19 +106,7 @@
         "button_KjXwCH": {
           "type": "button",
           "settings": {
-            "btn_label": "Blends",
-            "btn_link": "#diffusers",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "none"
-          }
-        },
-        "button_ck79Gx": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Essential Oils",
+            "btn_label": "Scents",
             "btn_link": "#diffusers",
             "target": false,
             "btn_size": "base",
@@ -131,8 +119,7 @@
       "block_order": [
         "button_bqRayM",
         "button_hbwBfE",
-        "button_KjXwCH",
-        "button_ck79Gx"
+        "button_KjXwCH"
       ],
       "custom_css": [
         ".hdt-container-full {margin-top: -60px;}",
@@ -375,6 +362,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_VACB8J": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"scents\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_cNkeX7": {
       "type": "featured-collection-grid",
       "settings": {
@@ -524,6 +522,7 @@
     "custom_liquid_jBnHJp",
     "banner_product_carousel_tHcbyE",
     "accordion_inline_gAF893",
+    "custom_liquid_VACB8J",
     "featured_collection_grid_cNkeX7",
     "collections_list_rcbPdc",
     "collections_list_simple_kY6xMW"
