@@ -68,6 +68,7 @@
         },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 50,
             "show_inventory_quantity": true,
@@ -80,7 +81,7 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true,
-            "show_price_variant": false,
+            "show_price_variant": true,
             "show_wishlist": false,
             "show_compare": false
           }
