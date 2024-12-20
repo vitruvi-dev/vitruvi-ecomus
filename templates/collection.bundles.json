@@ -72,6 +72,74 @@
         "padding_rate": 75
       }
     },
+    "hero_image_r9zYHL": {
+      "type": "hero-image",
+      "blocks": {
+        "button_gxnxTW": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Humidifiers",
+            "btn_link": "#humidifiers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_AYLnbm": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Diffusers",
+            "btn_link": "#diffusers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_HzdC3h": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Scents",
+            "btn_link": "#scents",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "button_gxnxTW",
+        "button_AYLnbm",
+        "button_HzdC3h"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 200,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/transparent1000-50.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "custom_line_wPUBFN": {
       "type": "custom-line",
       "settings": {
@@ -794,6 +862,7 @@
   "order": [
     "heading",
     "top_heading_bkwELn",
+    "hero_image_r9zYHL",
     "custom_line_wPUBFN",
     "main",
     "featured_product_8Jr6jq",
