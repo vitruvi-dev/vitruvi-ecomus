@@ -72,6 +72,7 @@
         "countdown_fmPRkK",
         "button_G99RRj"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-hero-image__text {margin-left: 15%; margin-right: 15%;}",
         "@media (max-width: 767px) {.hdt-hero-image__text {margin-left: 0%; margin-right: 0%; } .hdt-btn {margin-bottom: 100px; }}"
@@ -112,7 +113,7 @@
         "heading_FQ3wCc": {
           "type": "heading",
           "settings": {
-            "heading": "Better Sleep Starts Here"
+            "heading": "Your Best Sleep Yet"
           }
         },
         "sub_heading_cjY6qn": {
@@ -124,8 +125,8 @@
         "button_widJMP": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP NOW",
-            "btn_link": "shopify://collections/best-sellers",
+            "btn_label": "SHOP VITRUVI",
+            "btn_link": "shopify://collections/best-essential-oils-for-sleep",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
