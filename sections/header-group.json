@@ -126,13 +126,30 @@
             "mega_width": "custom",
             "mega_custom_width": 1000
           }
+        },
+        "mega_shop_Bk7mfE": {
+          "type": "mega_shop",
+          "settings": {
+            "title": "Bundles & Gifts",
+            "collection_list": [
+              "gifts",
+              "bundle-and-save"
+            ],
+            "image_ratio": "adapt_image",
+            "image_size": true,
+            "mega_menu_colors": "",
+            "mega_position": "bottom",
+            "mega_width": "custom",
+            "mega_custom_width": 1000
+          }
         }
       },
       "block_order": [
         "mega_product_QGCxg6",
         "mega_product_k7LrJx",
         "mega_product_3Dp8aK",
-        "mega_product_iLwycz"
+        "mega_product_iLwycz",
+        "mega_shop_Bk7mfE"
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}"
