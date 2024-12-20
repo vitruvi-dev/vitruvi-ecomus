@@ -48,8 +48,9 @@
       "blocks": {
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
-            "sub_heading": "End-of-Year Sale: 25% off scents, diffusers, humidifiers, and accessories.",
+            "sub_heading": "Boxing Week Sale: 25% off scents, diffusers, humidifiers, and accessories.",
             "sub_heading_fs": "base"
           }
         }
@@ -146,10 +147,10 @@
         "buy_buttons_NMNaGy": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false,
             "show_price_variant": true,
-            "show_wishlist": true,
+            "show_wishlist": false,
             "show_compare": false
           }
         },
@@ -290,10 +291,10 @@
         "buy_buttons_4tg4fA": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false,
             "show_price_variant": true,
-            "show_wishlist": true,
+            "show_wishlist": false,
             "show_compare": false
           }
         },
@@ -426,7 +427,7 @@
         "product_list": [
           "build-your-own-scent-bundle",
           "build-your-own-diffuser-bundle",
-          "build-your-own-humidifier-bundle-diffuser"
+          "build-your-own-humidifier-bundle"
         ],
         "product_des": "10",
         "image_ratio": "square",

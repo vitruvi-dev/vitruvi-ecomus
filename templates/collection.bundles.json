@@ -48,8 +48,9 @@
       "blocks": {
         "sub_heading_eFjHEL": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
-            "sub_heading": "End-of-Year Sale: 25% off scents, diffusers, humidifiers, and accessories.",
+            "sub_heading": "Boxing Week Sale: 25% off scents, diffusers, humidifiers, and accessories.",
             "sub_heading_fs": "base"
           }
         }
@@ -68,6 +69,78 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_r9zYHL": {
+      "type": "hero-image",
+      "blocks": {
+        "button_gxnxTW": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Humidifiers",
+            "btn_link": "#humidifiers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_AYLnbm": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Diffusers",
+            "btn_link": "#diffusers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_HzdC3h": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Scents",
+            "btn_link": "#scents",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "button_gxnxTW",
+        "button_AYLnbm",
+        "button_HzdC3h"
+      ],
+      "custom_css": [
+        ".hdt-container-full {margin-top: -60px;}",
+        "@media (max-width: 768px) {.hdt-container-full {margin-top: -20px; } a {font-size: 80%; }}"
+      ],
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 200,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/transparent1000-50.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
@@ -206,6 +279,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_UCpwFx": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"humidifiers\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_MH6UTf": {
       "type": "featured-collection-grid",
       "settings": {
@@ -220,10 +304,9 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "build-your-own-humidifier-bundle-diffuser",
-          "cloud-humidifier-holiday-bundle",
+          "build-your-own-humidifier-bundle",
           "good-air-cloud-humidifier-bundle",
-          "sleep-cloud-humidifier-bundle"
+          "best-sleep-diffuser-humidifier-bundle"
         ],
         "product_des": "10",
         "image_ratio": "square",
@@ -231,8 +314,8 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 8,
-        "col_dk": "4",
-        "col_tb": "4",
+        "col_dk": "3",
+        "col_tb": "3",
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
@@ -318,6 +401,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_CTkJgj": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"diffusers\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_yaaUxb": {
       "type": "featured-collection-grid",
       "settings": {
@@ -332,8 +426,7 @@
         "sec_heading_spacing": 30,
         "collection": "",
         "product_list": [
-          "build-your-own-diffuser-bundle-3",
-          "stone-diffuser-holiday-bundle",
+          "build-your-own-diffuser-bundle",
           "starter-stone-diffuser-bundle",
           "sleep-stone-diffuser-bundle"
         ],
@@ -343,8 +436,8 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
+        "col_dk": "3",
+        "col_tb": "3",
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
@@ -431,6 +524,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_myFgBt": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"scents\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_Qak8RN": {
       "type": "featured-collection-grid",
       "settings": {
@@ -446,9 +550,6 @@
         "collection": "scent-kits",
         "product_list": [
           "build-your-own-scent-bundle-8",
-          "festive-favorites-essential-oil-kit",
-          "black-friday-essential-oil-kit",
-          "holiday-essential-oil-kit",
           "mystery-essential-oil-kit",
           "signature-essential-oil-kit",
           "refresh-essential-oil-kit",
@@ -760,13 +861,17 @@
   "order": [
     "heading",
     "top_heading_bkwELn",
+    "hero_image_r9zYHL",
     "custom_line_wPUBFN",
     "main",
     "featured_product_8Jr6jq",
+    "custom_liquid_UCpwFx",
     "featured_collection_grid_MH6UTf",
     "slideshow_3BLn3a",
+    "custom_liquid_CTkJgj",
     "featured_collection_grid_yaaUxb",
     "slideshow_bHhppE",
+    "custom_liquid_myFgBt",
     "featured_collection_grid_Qak8RN",
     "slideshow_hDJEhQ",
     "collections_list_simple_kY6xMW",
