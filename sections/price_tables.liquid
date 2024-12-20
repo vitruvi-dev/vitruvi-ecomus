@@ -36,7 +36,8 @@
           <div class="hdt-slider__container">
             {%- for block in section.blocks -%}
               {%- assign array_txt = block.settings.content | newline_to_br | split: '<br />' -%}
-              <div class="hdt-price-table-item hdt-slider__slide" color-scheme="{{ block.settings.color_scheme }}" style="--color-custom-badge-label:{{ block.settings.label_cl }}">  
+              {% comment %}<div class="hdt-price-table-item hdt-slider__slide" color-scheme="{{ block.settings.color_scheme }}" style="--color-custom-badge-label:{{ block.settings.label_cl }}">{%  endcomment %}
+              <div class="hdt-price-table-item hdt-slider__slide" color-scheme="{{ block.settings.color_scheme }}">
                 <div class="hdt-price-table-inner hdt-rounded hdt-oh">
                   <div class="hdt-price-table-head hdt-card-product">
                     {%- if block.settings.product != blank -%}

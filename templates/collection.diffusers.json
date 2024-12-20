@@ -342,85 +342,6 @@
         "padding_rate": 75
       }
     },
-    "price_tables_PWYjVm": {
-      "type": "price_tables",
-      "blocks": {
-        "package_inPxGR": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "stone-essential-oil-diffuser",
-            "show_vendor": false,
-            "label_cl": "#474946",
-            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
-            "btn_label": "View product details",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "semibold",
-            "btn_icon": "2"
-          }
-        },
-        "package_dJG6g4": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "",
-            "show_vendor": true,
-            "label_cl": "#FF3232",
-            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
-            "btn_label": "View details",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        },
-        "package_fybWTM": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "",
-            "show_vendor": true,
-            "label_cl": "#FF3232",
-            "content": "Build: Inflatable \nSkill: Beginner-AdvancedUse: All \nAroundWeight: 19.8 lbs \nSizes: 10’6″x32″x6″ \nWarranty : 3-year",
-            "btn_label": "View details",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "package_inPxGR",
-        "package_dJG6g4",
-        "package_fybWTM"
-      ],
-      "settings": {
-        "top_heading": "Discovery all new items",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "top_description": "<p>Be the first to know when we launch.</p>",
-        "sec_heading_spacing": 30,
-        "enable_icon_check": true,
-        "content_pos": "start",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "1",
-        "navUI": false,
-        "dotUI": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_grid_yaaUxb": {
       "type": "featured-collection-grid",
       "settings": {
@@ -480,13 +401,17 @@
         "sec_heading": "{{ section.settings.collection.title }}",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>{{ section.settings.collection.description }}</p>",
+        "sec_subheading": "{{ section.settings.collection.description }}",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "diffuser-bundles",
-        "product_list": [],
+        "product_list": [
+          "starter-stone-diffuser-bundle",
+          "sleep-stone-diffuser-bundle",
+          "best-sleep-diffuser-humidifier-bundle"
+        ],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
@@ -833,7 +758,6 @@
     "main",
     "featured_product_faXngx",
     "custom_liquid_7t8TBC",
-    "price_tables_PWYjVm",
     "featured_collection_grid_yaaUxb",
     "custom_liquid_9m7UpR",
     "featured_collection_grid_Qak8RN",
