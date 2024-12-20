@@ -117,6 +117,10 @@
         "button_AYLnbm",
         "button_HzdC3h"
       ],
+      "custom_css": [
+        ".hdt-container-full {margin-top: -60px;}",
+        "@media (max-width: 768px) {.hdt-container-full {margin-top: -20px; } a {font-size: 80%; }}"
+      ],
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 200,
