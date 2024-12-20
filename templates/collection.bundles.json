@@ -427,7 +427,6 @@
         "collection": "",
         "product_list": [
           "build-your-own-diffuser-bundle-3",
-          "stone-diffuser-holiday-bundle",
           "starter-stone-diffuser-bundle",
           "sleep-stone-diffuser-bundle"
         ],
@@ -437,8 +436,8 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
+        "col_dk": "3",
+        "col_tb": "3",
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
