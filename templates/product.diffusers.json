@@ -66,15 +66,6 @@
           "disabled": true,
           "settings": {}
         },
-        "inventory_ftnW9y": {
-          "type": "inventory",
-          "settings": {
-            "inventory_threshold": 30,
-            "show_inventory_quantity": false,
-            "show_progress_bar": false,
-            "progress_bar_max": 100
-          }
-        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -83,6 +74,16 @@
             "show_price_variant": true,
             "show_wishlist": false,
             "show_compare": false
+          }
+        },
+        "inventory_ftnW9y": {
+          "type": "inventory",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 30,
+            "show_inventory_quantity": false,
+            "show_progress_bar": false,
+            "progress_bar_max": 100
           }
         },
         "custom_liquid_Rn3hhg": {
@@ -142,8 +143,8 @@
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "quantity_selector_7mnwbU",
-        "inventory_ftnW9y",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "inventory_ftnW9y",
         "custom_liquid_Rn3hhg",
         "custom_liquid_HKwtye",
         "description_Fh49zX",
