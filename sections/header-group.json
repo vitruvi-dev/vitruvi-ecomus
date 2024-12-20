@@ -14,12 +14,6 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_mLhmxz": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/boxing-week-sale\" title=\"Boxing Week Sale\">Boxing Week Sale: 25% Off Sitewide</a>"
-          }
-        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
@@ -42,7 +36,6 @@
         }
       },
       "block_order": [
-        "announcement_mLhmxz",
         "announcement_RzCepp",
         "announcement_UYaNeX",
         "announcement_eeYyAc"
@@ -66,22 +59,6 @@
     "header": {
       "type": "header-inline",
       "blocks": {
-        "mega_shop_EwLMdD": {
-          "type": "mega_shop",
-          "settings": {
-            "title": "Gifts",
-            "collection_list": [
-              "gifts",
-              "holiday-scents"
-            ],
-            "image_ratio": "adapt_image",
-            "image_size": true,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 1000
-          }
-        },
         "mega_product_QGCxg6": {
           "type": "mega_product",
           "settings": {
@@ -116,20 +93,6 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_7yUh8W": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Diffusers",
-            "collection_list": [],
-            "image_ratio": "square",
-            "image_size": false,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 600
-          }
-        },
         "mega_product_3Dp8aK": {
           "type": "mega_product",
           "settings": {
@@ -145,20 +108,6 @@
             "mega_position": "bottom",
             "mega_width": "custom",
             "mega_custom_width": 1000
-          }
-        },
-        "mega_shop_bUeJYD": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Humidifiers",
-            "collection_list": [],
-            "image_ratio": "square",
-            "image_size": false,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 600
           }
         },
         "mega_product_iLwycz": {
@@ -177,31 +126,13 @@
             "mega_width": "custom",
             "mega_custom_width": 1000
           }
-        },
-        "mega_shop_xTkPbf": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Shop All",
-            "collection_list": [],
-            "image_ratio": "square",
-            "image_size": false,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 600
-          }
         }
       },
       "block_order": [
-        "mega_shop_EwLMdD",
         "mega_product_QGCxg6",
         "mega_product_k7LrJx",
-        "mega_shop_7yUh8W",
         "mega_product_3Dp8aK",
-        "mega_shop_bUeJYD",
-        "mega_product_iLwycz",
-        "mega_shop_xTkPbf"
+        "mega_product_iLwycz"
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}"
