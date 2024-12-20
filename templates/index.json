@@ -341,99 +341,11 @@
         "padding_rate": 75
       }
     },
-    "collections_list_64Hida": {
-      "type": "collections-list",
-      "blocks": {
-        "collection_item_GicVby": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "humidifiers",
-            "image": "shopify://shop_images/pdp_best-sleep-bundle_white_gallery_2_image_81e1dd48-221f-45cf-ba4b-cee08f2120a9.jpg",
-            "title": "Humidifiers for Sleep",
-            "collection_link": "/collections/best-essential-oils-for-sleep#humidifiers"
-          }
-        },
-        "collection_item_JUWwNA": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "scents",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Scents from $10",
-            "collection_link": ""
-          }
-        },
-        "collection_item_npECiC": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "essential-oil-diffusers",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_diffusers.jpg",
-            "title": "Diffusers from $64",
-            "collection_link": ""
-          }
-        },
-        "view_all_dqd9Kp": {
-          "type": "view_all",
-          "disabled": true,
-          "settings": {
-            "title": "Shop all scents",
-            "item_link": "shopify://collections/scents"
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_GicVby",
-        "collection_item_JUWwNA",
-        "collection_item_npECiC",
-        "view_all_dqd9Kp"
-      ],
-      "custom_css": [
-        "div.hdt-collection-content p {display: none;}",
-        ".hdt-collection-title {line-height: 140%;}"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Lorem Ipsum",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 50,
-        "collection_list": [],
-        "collection_des": "8",
-        "content_size": "2xl",
-        "content_weight": "normal",
-        "text_transform": false,
-        "content_position": "center",
-        "content_padding": 30,
-        "image_ratio": "square",
-        "image_size": true,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "2",
-        "space_items": "20",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "simple",
-        "nav_pos": "middle_in",
-        "dotUI": false,
-        "dots_pos": "ontop",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "boxed_content": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 50,
-        "padding_bottom": 100,
-        "padding_rate": 60
-      }
-    },
     "featured_collection_grid_gbXT8K": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "New Year Sleep Exclusives",
+        "sec_heading": "New Year Exclusive Offers",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>Lorem ipsum dolar sit amet.</p>",
@@ -445,7 +357,6 @@
         "product_list": [
           "best-sleep-diffuser-humidifier-bundle",
           "sleep-stone-diffuser-bundle",
-          "sleep-cloud-humidifier-bundle",
           "rest-essential-oil-kit"
         ],
         "product_des": "10",
@@ -469,6 +380,94 @@
         "padding_top": 50,
         "padding_bottom": 50,
         "padding_rate": 75
+      }
+    },
+    "collections_list_64Hida": {
+      "type": "collections-list",
+      "blocks": {
+        "collection_item_GicVby": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "humidifiers",
+            "image": "shopify://shop_images/pdp_best-sleep-bundle_white_gallery_2_image_81e1dd48-221f-45cf-ba4b-cee08f2120a9.jpg",
+            "title": "Humidifiers for Sleep",
+            "collection_link": "/collections/best-essential-oils-for-sleep#humidifiers"
+          }
+        },
+        "collection_item_npECiC": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "essential-oil-diffusers",
+            "image": "shopify://shop_images/home_grid_sleep-2025_diffusers_v1.jpg",
+            "title": "Diffusers for Sleep",
+            "collection_link": ""
+          }
+        },
+        "collection_item_JUWwNA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "scents",
+            "image": "shopify://shop_images/pdp_essential-oil-blend_sleep_gallery_3_v2_image.png",
+            "title": "Sleep Inducing Scents",
+            "collection_link": ""
+          }
+        },
+        "view_all_dqd9Kp": {
+          "type": "view_all",
+          "disabled": true,
+          "settings": {
+            "title": "Shop all scents",
+            "item_link": "shopify://collections/scents"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_GicVby",
+        "collection_item_npECiC",
+        "collection_item_JUWwNA",
+        "view_all_dqd9Kp"
+      ],
+      "custom_css": [
+        "div.hdt-collection-content p {display: none;}",
+        ".hdt-collection-title {line-height: 140%;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Save on Better Sleep",
+        "heading_tag": "h2",
+        "heading_size": "h4",
+        "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 12,
+        "sec_heading_spacing": 50,
+        "collection_list": [],
+        "collection_des": "8",
+        "content_size": "2xl",
+        "content_weight": "normal",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "image_ratio": "asos",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "2",
+        "space_items": "20",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "simple",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "dots_pos": "ontop",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "boxed_content": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 50,
+        "padding_bottom": 100,
+        "padding_rate": 60
       }
     },
     "featured_collection_grid_W6JYha": {
@@ -1071,8 +1070,8 @@
     "video_GKb7jj",
     "slideshow_EjwCVy",
     "image_with_text_TH3zJL",
-    "collections_list_64Hida",
     "featured_collection_grid_gbXT8K",
+    "collections_list_64Hida",
     "featured_collection_grid_W6JYha",
     "featured_collection_grid_GfmdDT",
     "featured_collection_grid_PV4GGr",
