@@ -345,7 +345,7 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "New Year Exclusive Offers",
+        "sec_heading": "Bundle & Save on Sleep",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>Lorem ipsum dolar sit amet.</p>",
@@ -365,8 +365,8 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
+        "col_dk": "3",
+        "col_tb": "3",
         "col_mb": "2",
         "pagination_type": "none",
         "paginate_pos": "center",
@@ -433,7 +433,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Save on Better Sleep",
+        "sec_heading": "Explore",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
@@ -474,10 +474,10 @@
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Best-Sellers for Sleep",
+        "sec_heading": "Our Best-Sellers",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>Lorem ipsum dolar sit amet.</p>",
+        "sec_subheading": "<p>Premium, natural air care products that elevate your home.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 12,
@@ -782,6 +782,7 @@
         "72a99e49-16d6-4138-83a1-4f452229667b",
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0"
       ],
+      "disabled": true,
       "custom_css": [
         "div.hdt-collection-content p {display: none;}"
       ],
