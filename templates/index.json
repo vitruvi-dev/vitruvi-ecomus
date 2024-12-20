@@ -15,14 +15,14 @@
         "text_yncHR8": {
           "type": "text",
           "settings": {
-            "text": "<p>THIS WEEK ONLY</p>",
+            "text": "<p>NEW YEAR, NEW YOU</p>",
             "adding_border": false
           }
         },
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Boxing Week Sale",
+            "heading": "Better Sleep Starts Here",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -55,8 +55,8 @@
         "button_G99RRj": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP SALE",
-            "btn_link": "shopify://collections/boxing-week-sale",
+            "btn_label": "SHOP VITRUVI",
+            "btn_link": "shopify://collections/best-essential-oils-for-sleep",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -73,11 +73,8 @@
         "button_G99RRj"
       ],
       "custom_css": [
-        ".hdt-hero-image__text {font-size: 180%;}",
-        ".hdt-hero-image__heading {font-size: 560%;}",
-        "strong {font-size: 80%; font-weight: 200;}",
         ".hdt-hero-image__text {margin-left: 15%; margin-right: 15%;}",
-        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__text {margin-left: 0%; margin-right: 0%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
+        "@media (max-width: 767px) {.hdt-hero-image__text {margin-left: 0%; margin-right: 0%; } .hdt-btn {margin-bottom: 100px; }}"
       ],
       "settings": {
         "image_height": "full",
@@ -109,19 +106,19 @@
         "label_rHtJ3e": {
           "type": "label",
           "settings": {
-            "label": "LIMITED TIME ONLY"
+            "label": "NEW YEAR, NEW YOU"
           }
         },
         "heading_FQ3wCc": {
           "type": "heading",
           "settings": {
-            "heading": "Gift More<br>Get More"
+            "heading": "Better Sleep Starts Here"
           }
         },
         "sub_heading_cjY6qn": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Shop now and get rewarded with a free gift card*—something extra for your gift or a a treat for yourself."
+            "sub_heading": "Discover humidifiers and diffusers designed to create the perfect environment for deep rest and relaxation—so you can wake up refreshed and ready."
           }
         },
         "button_widJMP": {
@@ -143,16 +140,13 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
-      "disabled": true,
-      "custom_css": [
-        ".hdt-heading {font-family: \"Kaftan\";}"
-      ],
+      "custom_css": [],
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "video": "shopify://files/videos/page_home-hero_holiday2023_v2023_video_desktop.mp4",
+        "video": "shopify://files/videos/page_home_hero_newyear_video_desktop.mp4",
         "external_video_url": "",
         "content_bg": false,
         "color_scheme": "scheme-3",
