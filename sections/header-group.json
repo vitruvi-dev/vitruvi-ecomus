@@ -147,19 +147,19 @@
           "type": "mega_product",
           "settings": {
             "title": "Best-Sellers",
-            "product_list_title": "BEST SELLER",
+            "product_list_title": "Designed to elevate your home and well-being",
             "product_list": [
               "stone-essential-oil-diffuser",
               "cloud-humidifier",
-              "signature-essential-oil-kit",
-              "best-sellers-diffuser-humidifier-bundle"
+              "best-sellers-diffuser-humidifier-bundle",
+              "signature-essential-oil-kit"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
-            "mega_menu_colors": "",
+            "mega_menu_colors": "scheme-1",
             "mega_position": "bottom",
             "mega_width": "custom",
-            "mega_custom_width": 1000
+            "mega_custom_width": 700
           }
         }
       },
