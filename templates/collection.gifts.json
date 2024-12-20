@@ -84,6 +84,7 @@
       "blocks": {
         "sub_heading_zEA96H": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "Boxing Week Sale: 25% off scents, diffusers, humidifiers, and accessories.",
             "sub_heading_fs": "base"
