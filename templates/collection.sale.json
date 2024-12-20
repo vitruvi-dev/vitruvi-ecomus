@@ -20,13 +20,13 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday: Up to 40% Off"
+            "heading": ""
           }
         },
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": "This weekend only."
+            "description": ""
           }
         }
       },
@@ -35,7 +35,6 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -64,6 +63,7 @@
         "text_8UMYqR",
         "text_2_xDRN8J"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
         ".hdt-subheading {font-weight: 200;}",
