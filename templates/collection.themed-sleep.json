@@ -419,47 +419,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_UbrbGz": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Sleep Savings",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Lorem ipsum dolar sit amet</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "best-sleep-diffuser-humidifier-bundle",
-          "sleep-stone-diffuser-bundle",
-          "rest-essential-oil-kit"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 50,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
     "collections_list_rcbPdc": {
       "type": "collections-list",
       "blocks": {
@@ -565,7 +524,6 @@
     "accordion_inline_gAF893",
     "custom_liquid_VACB8J",
     "featured_collection_grid_cNkeX7",
-    "featured_collection_grid_UbrbGz",
     "collections_list_rcbPdc",
     "collections_list_simple_kY6xMW"
   ]
