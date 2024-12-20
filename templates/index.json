@@ -407,7 +407,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "scents",
-            "image": "shopify://shop_images/pdp_essential-oil-blend_sleep_gallery_3_v2_image.png",
+            "image": "shopify://shop_images/ugc_scents_sculpture_richellekingsland_v2.jpg",
             "title": "Sleep-Inducing Scents",
             "collection_link": "/collections/best-essential-oils-for-sleep#scents"
           }
@@ -436,7 +436,7 @@
         "sec_heading": "Explore",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>All-natural scents and aromas that transport you</p>",
+        "sec_subheading": "<p>Lorem ipsum dolar.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "btn_heading_collection": false,
