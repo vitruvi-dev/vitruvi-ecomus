@@ -80,7 +80,7 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false,
-            "show_price_variant": false,
+            "show_price_variant": true,
             "show_wishlist": false,
             "show_compare": false
           }
