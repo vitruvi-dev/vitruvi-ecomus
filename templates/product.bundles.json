@@ -63,6 +63,7 @@
         },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 50,
             "show_inventory_quantity": true,
@@ -73,9 +74,9 @@
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "show_price_variant": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
             "show_wishlist": false,
             "show_compare": false
           }
@@ -103,6 +104,7 @@
         },
         "description_Fh49zX": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "des": "1",
             "short_des": "",
@@ -237,6 +239,12 @@
     "tabs": {
       "type": "main-product-tabs",
       "blocks": {
+        "tab_des_E4nCV6": {
+          "type": "tab_des",
+          "settings": {
+            "title": "Description"
+          }
+        },
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
           "type": "tab_html",
           "settings": {
@@ -263,6 +271,7 @@
         }
       },
       "block_order": [
+        "tab_des_E4nCV6",
         "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
         "tab_html_FAnLrE",
         "tab_html_eeFthN"
