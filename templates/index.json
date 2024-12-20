@@ -348,7 +348,7 @@
         "sec_heading": "Bundle & Save on Sleep",
         "heading_tag": "h2",
         "heading_size": "h4",
-        "sec_subheading": "<p>Lorem ipsum dolar sit amet.</p>",
+        "sec_subheading": "<p>Save on sleep sets with diffusers and humidifiers for soothing scents and cared-for air.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 12,
@@ -400,7 +400,7 @@
             "collection": "essential-oil-diffusers",
             "image": "shopify://shop_images/home_grid_sleep-2025_diffusers_v1.jpg",
             "title": "Diffusers for Sleep",
-            "collection_link": ""
+            "collection_link": "/collections/best-essential-oils-for-sleep#diffusers"
           }
         },
         "collection_item_JUWwNA": {
@@ -408,8 +408,8 @@
           "settings": {
             "collection": "scents",
             "image": "shopify://shop_images/pdp_essential-oil-blend_sleep_gallery_3_v2_image.png",
-            "title": "Sleep Inducing Scents",
-            "collection_link": ""
+            "title": "Sleep-Inducing Scents",
+            "collection_link": "/collections/best-essential-oils-for-sleep#scents"
           }
         },
         "view_all_dqd9Kp": {
@@ -711,6 +711,7 @@
         "slide_label_YpGJEd",
         "slide_label_KFMjzR"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
         "p {font-family: \"Heldane\";}"
