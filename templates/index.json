@@ -344,6 +344,15 @@
     "collections_list_64Hida": {
       "type": "collections-list",
       "blocks": {
+        "collection_item_GicVby": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "humidifiers",
+            "image": "shopify://shop_images/pdp_best-sleep-bundle_white_gallery_2_image_81e1dd48-221f-45cf-ba4b-cee08f2120a9.jpg",
+            "title": "Humidifiers for Sleep",
+            "collection_link": "/collections/best-essential-oils-for-sleep#humidifiers"
+          }
+        },
         "collection_item_JUWwNA": {
           "type": "collection_item",
           "settings": {
@@ -362,15 +371,6 @@
             "collection_link": ""
           }
         },
-        "collection_item_GicVby": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "humidifiers",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
-            "title": "Humidifiers from $209",
-            "collection_link": ""
-          }
-        },
         "view_all_dqd9Kp": {
           "type": "view_all",
           "disabled": true,
@@ -381,12 +381,11 @@
         }
       },
       "block_order": [
+        "collection_item_GicVby",
         "collection_item_JUWwNA",
         "collection_item_npECiC",
-        "collection_item_GicVby",
         "view_all_dqd9Kp"
       ],
-      "disabled": true,
       "custom_css": [
         "div.hdt-collection-content p {display: none;}",
         ".hdt-collection-title {line-height: 140%;}"
