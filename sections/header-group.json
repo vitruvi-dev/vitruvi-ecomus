@@ -177,7 +177,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile_sale",
+        "main_menu_mobile": "header_mobile_sleep",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",
