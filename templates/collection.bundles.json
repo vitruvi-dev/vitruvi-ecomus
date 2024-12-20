@@ -43,17 +43,6 @@
         "padding_rate": 75
       }
     },
-    "custom_liquid_UCpwFx": {
-      "type": "custom-liquid",
-      "settings": {
-        "section_fullwidth": false,
-        "custom_liquid": "<span id=\"humidifiers\"></span>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "top_heading_bkwELn": {
       "type": "top-heading",
       "blocks": {
@@ -218,6 +207,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_UCpwFx": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"humidifiers\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_grid_MH6UTf": {
       "type": "featured-collection-grid",
       "settings": {
@@ -327,6 +327,17 @@
         "dot_space": 40,
         "padding_top": 80,
         "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_CTkJgj": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"diffusers\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -440,6 +451,17 @@
         "dot_space": 40,
         "padding_top": 80,
         "padding_bottom": 80,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_myFgBt": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"scents\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -771,15 +793,17 @@
   },
   "order": [
     "heading",
-    "custom_liquid_UCpwFx",
     "top_heading_bkwELn",
     "custom_line_wPUBFN",
     "main",
     "featured_product_8Jr6jq",
+    "custom_liquid_UCpwFx",
     "featured_collection_grid_MH6UTf",
     "slideshow_3BLn3a",
+    "custom_liquid_CTkJgj",
     "featured_collection_grid_yaaUxb",
     "slideshow_bHhppE",
+    "custom_liquid_myFgBt",
     "featured_collection_grid_Qak8RN",
     "slideshow_hDJEhQ",
     "collections_list_simple_kY6xMW",
