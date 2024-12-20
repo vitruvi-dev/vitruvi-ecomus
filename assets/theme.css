@@ -5875,7 +5875,7 @@ country-filter {
 .hdt-badge__pre_order,
 .hdt-pr-style10 .hdt-size-list,
 .hdt-main-product-quick-add.shopify-payment-button {
-  display: none;
+  display: none !important;
 }
 .hdt-product__title,
 .hdt-card-product__title,
