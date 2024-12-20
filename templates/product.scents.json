@@ -66,23 +66,24 @@
           "disabled": true,
           "settings": {}
         },
+        "ad820e37-dee5-41f3-9692-bf46d9664103": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 50,
             "show_inventory_quantity": true,
             "show_progress_bar": false,
             "progress_bar_max": 50
-          }
-        },
-        "ad820e37-dee5-41f3-9692-bf46d9664103": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "show_price_variant": false,
-            "show_wishlist": false,
-            "show_compare": false
           }
         },
         "custom_liquid_CyEFcr": {
@@ -103,6 +104,7 @@
         },
         "description_Fh49zX": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "des": "1",
             "short_des": "",
@@ -143,8 +145,8 @@
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "quantity_selector_XCH8WV",
-        "inventory_ftnW9y",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "inventory_ftnW9y",
         "custom_liquid_CyEFcr",
         "countdown_timer_NCVUEc",
         "description_Fh49zX",
@@ -181,6 +183,64 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 52,
+        "padding_rate": 50
+      }
+    },
+    "tabs": {
+      "type": "main-product-tabs",
+      "blocks": {
+        "tab_des_r9U8LH": {
+          "type": "tab_des",
+          "settings": {
+            "title": "Description"
+          }
+        },
+        "tab_html_r8KYLQ": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Ingredients",
+            "content": "{{ product.metafields.ecomus.tabs_scent_ingredients | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_NGKtrx": {
+          "type": "tab_html",
+          "settings": {
+            "title": "What's Inside",
+            "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_8PLjap": {
+          "type": "tab_html",
+          "settings": {
+            "title": "How to Use",
+            "content": "",
+            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
+          }
+        },
+        "tab_html_KQpeCL": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Shipping & Returns",
+            "content": "",
+            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
+          }
+        }
+      },
+      "block_order": [
+        "tab_des_r9U8LH",
+        "tab_html_r8KYLQ",
+        "tab_html_NGKtrx",
+        "tab_html_8PLjap",
+        "tab_html_KQpeCL"
+      ],
+      "settings": {
+        "tabs_design": "tab_vertical",
+        "enable_first_tab": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
         "padding_rate": 50
       }
     },
@@ -282,57 +342,6 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
-      }
-    },
-    "tabs": {
-      "type": "main-product-tabs",
-      "blocks": {
-        "tab_html_r8KYLQ": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Ingredients",
-            "content": "{{ product.metafields.ecomus.tabs_scent_ingredients | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_NGKtrx": {
-          "type": "tab_html",
-          "settings": {
-            "title": "What's Inside",
-            "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_8PLjap": {
-          "type": "tab_html",
-          "settings": {
-            "title": "How to Use",
-            "content": "",
-            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
-          }
-        },
-        "tab_html_KQpeCL": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Shipping & Returns",
-            "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
-          }
-        }
-      },
-      "block_order": [
-        "tab_html_r8KYLQ",
-        "tab_html_NGKtrx",
-        "tab_html_8PLjap",
-        "tab_html_KQpeCL"
-      ],
-      "settings": {
-        "tabs_design": "tab_vertical",
-        "enable_first_tab": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 50
       }
     },
     "slideshow_Ak3WEL": {
@@ -734,8 +743,8 @@
   "order": [
     "breacrumb",
     "main",
-    "icon_box_C6TXn9",
     "tabs",
+    "icon_box_C6TXn9",
     "slideshow_Ak3WEL",
     "171512128966062076",
     "related",

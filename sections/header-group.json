@@ -14,12 +14,6 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_mLhmxz": {
-          "type": "announcement",
-          "settings": {
-            "text": "<a href=\"/collections/holiday-sale\" title=\"End-of-Year Sale\">End-of-Year Sale: 25% Off Sitewide</a>"
-          }
-        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
@@ -42,7 +36,6 @@
         }
       },
       "block_order": [
-        "announcement_mLhmxz",
         "announcement_RzCepp",
         "announcement_UYaNeX",
         "announcement_eeYyAc"
@@ -66,15 +59,16 @@
     "header": {
       "type": "header-inline",
       "blocks": {
-        "mega_shop_EwLMdD": {
-          "type": "mega_shop",
+        "mega_product_QGCxg6": {
+          "type": "mega_product",
           "settings": {
-            "title": "Gifts",
-            "collection_list": [
-              "gifts",
-              "holiday-scents"
+            "title": "Sleep Essentials",
+            "product_list_title": "SPOTLIGHT",
+            "product_list": [
+              "best-sleep-diffuser-humidifier-bundle",
+              "rest-essential-oil-kit"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -88,8 +82,8 @@
             "title": "Diffusers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "stone-diffuser-gift-bundle",
-              "build-your-own-diffuser-bundle"
+              "stone-essential-oil-diffuser",
+              "sleep-stone-diffuser-bundle"
             ],
             "image_ratio": "square",
             "image_size": true,
@@ -97,20 +91,6 @@
             "mega_position": "bottom",
             "mega_width": "custom",
             "mega_custom_width": 1000
-          }
-        },
-        "mega_shop_7yUh8W": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Diffusers",
-            "collection_list": [],
-            "image_ratio": "square",
-            "image_size": false,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 600
           }
         },
         "mega_product_3Dp8aK": {
@@ -119,8 +99,8 @@
             "title": "Humidifiers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "cloud-humidifier-holiday-bundle",
-              "build-your-own-humidifier-bundle"
+              "cloud-humidifier",
+              "best-sleep-diffuser-humidifier-bundle"
             ],
             "image_ratio": "square",
             "image_size": true,
@@ -130,27 +110,13 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_bUeJYD": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Humidifiers",
-            "collection_list": [],
-            "image_ratio": "square",
-            "image_size": false,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 600
-          }
-        },
         "mega_product_iLwycz": {
           "type": "mega_product",
           "settings": {
             "title": "Scents",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "sugar-spice-diffuser-blend",
+              "sleep-essential-oil-blend",
               "build-your-own-scent-bundle"
             ],
             "image_ratio": "square",
@@ -161,29 +127,49 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_xTkPbf": {
+        "mega_shop_Bk7mfE": {
           "type": "mega_shop",
-          "disabled": true,
           "settings": {
-            "title": "Shop All",
-            "collection_list": [],
-            "image_ratio": "square",
-            "image_size": false,
+            "title": "Bundles & Gifts",
+            "collection_list": [
+              "gifts",
+              "bundle-and-save"
+            ],
+            "image_ratio": "adapt_image",
+            "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
             "mega_width": "custom",
-            "mega_custom_width": 600
+            "mega_custom_width": 1000
+          }
+        },
+        "mega_product_GpBgrE": {
+          "type": "mega_product",
+          "settings": {
+            "title": "Best-Sellers",
+            "product_list_title": "Designed to elevate your home and well-being",
+            "product_list": [
+              "stone-essential-oil-diffuser",
+              "cloud-humidifier",
+              "best-sellers-diffuser-humidifier-bundle",
+              "signature-essential-oil-kit"
+            ],
+            "image_ratio": "square",
+            "image_size": true,
+            "mega_menu_colors": "scheme-1",
+            "mega_position": "bottom",
+            "mega_width": "custom",
+            "mega_custom_width": 700
           }
         }
       },
       "block_order": [
-        "mega_shop_EwLMdD",
+        "mega_product_QGCxg6",
         "mega_product_k7LrJx",
-        "mega_shop_7yUh8W",
         "mega_product_3Dp8aK",
-        "mega_shop_bUeJYD",
         "mega_product_iLwycz",
-        "mega_shop_xTkPbf"
+        "mega_shop_Bk7mfE",
+        "mega_product_GpBgrE"
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}"
@@ -195,7 +181,7 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_sale",
+        "main_menu": "header_desktop_sleep",
         "lazy_mn": true,
         "menu_position": "end",
         "menu_size": "lg",
@@ -211,7 +197,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile_sale",
+        "main_menu_mobile": "header_mobile_sleep",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",

@@ -5867,6 +5867,7 @@ country-filter {
   font-size: 24px;
   margin-block-start: 3rem;
 }
+.hdt_label_1, .hdt_label_2, .hdt_label_3, .hdt_label_4, .hdt_label_5,
 .hdt-sticky-atc__qty-selector,
 .hdt-breadcrumb,
 .yotpo-reviews-wrapper,
@@ -5874,7 +5875,7 @@ country-filter {
 .hdt-badge__pre_order,
 .hdt-pr-style10 .hdt-size-list,
 .hdt-main-product-quick-add.shopify-payment-button {
-  display: none;
+  display: none !important;
 }
 .hdt-product__title,
 .hdt-card-product__title,

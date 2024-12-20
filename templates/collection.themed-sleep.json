@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -36,21 +35,18 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 60,
+        "padding_bottom": 5,
         "padding_rate": 75
       }
     },
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -80,110 +76,325 @@
         "sidebar_size": "medium"
       }
     },
-    "hero_image_pcbzgU": {
+    "hero_image_fUVRFe": {
       "type": "hero-image",
       "blocks": {
-        "heading_ahC43H": {
-          "type": "heading",
+        "button_bqRayM": {
+          "type": "button",
           "settings": {
-            "heading": "Sleep Essentials",
-            "heading_fs": "h2",
-            "heading_fw": "normal"
+            "btn_label": "Humidifiers",
+            "btn_link": "#humidifiers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
           }
         },
-        "text_4FCzXF": {
-          "type": "text",
+        "button_hbwBfE": {
+          "type": "button",
           "settings": {
-            "text": "<p>Set the stage for your best night's rest.</p>",
-            "adding_border": false
+            "btn_label": "Diffusers",
+            "btn_link": "#diffusers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        },
+        "button_KjXwCH": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Scents",
+            "btn_link": "#diffusers",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "none"
           }
         }
       },
       "block_order": [
-        "heading_ahC43H",
-        "text_4FCzXF"
+        "button_bqRayM",
+        "button_hbwBfE",
+        "button_KjXwCH"
+      ],
+      "custom_css": [
+        ".hdt-container-full {margin-top: -60px;}",
+        "@media (max-width: 768px) {.hdt-container-full {margin-top: -20px; } a {font-size: 80%; }}"
       ],
       "settings": {
-        "image_height": "fixed",
-        "fixed_height": 300,
-        "image_height_mb": "fixed",
+        "image_height": "adapt_image",
+        "fixed_height": 200,
+        "image_height_mb": "adapt_image",
         "fixed_height_mb": 100,
-        "image": "shopify://shop_images/pdp_humidifier-sleep-bundle_feature_image.jpg",
+        "image": "shopify://shop_images/transparent1000-50.png",
+        "image_mb": "shopify://shop_images/transparent1000-50.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
-        "use_overlay": true,
+        "use_overlay": false,
         "use_bg_content": false,
         "content_position": "center",
         "content_align": "center",
         "content_position_mb": "center",
         "content_align_mb": "center",
-        "full_width": false,
+        "full_width": true,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 80,
-        "padding_bottom": 100,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_j8DcaG": {
-      "type": "featured-collection-grid",
+    "custom_liquid_gFmXRL": {
+      "type": "custom-liquid",
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Diffuser & Humidifier Sleep Bundles",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Bundle and save with our diffuser and humidifier sets, designed to create a soothing and revitalizing home environment.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "sleep-bundles",
-        "product_list": [
-          "sleep-stone-diffuser-bundle",
-          "sleep-cloud-humidifier-bundle",
-          "best-sleep-diffuser-humidifier-bundle",
-          "stone-essential-oil-diffuser",
-          "cloud-humidifier"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 6,
-        "col_dk": "3",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
         "section_fullwidth": false,
-        "boxed_fullwidth": false,
+        "custom_liquid": "<span id=\"humidifiers\"></span>",
         "color_scheme": "",
         "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_product_carousel_e6y7Nc": {
+      "type": "banner-product-carousel",
+      "blocks": {
+        "heading_WqA8TG": {
+          "type": "heading",
+          "settings": {
+            "heading": "★★★★★"
+          }
+        },
+        "text_F7wBXw": {
+          "type": "text",
+          "settings": {
+            "text": "<br>I absolutely love this! Use it for one night and you will be hooked. It is beautiful, quiet, and provides the moisture your skin didn't know it needed.<br><br>- Teresa F."
+          }
+        }
+      },
+      "block_order": [
+        "heading_WqA8TG",
+        "text_F7wBXw"
+      ],
+      "custom_css": [
+        "h3 {font-family: \"Heldane\";}",
+        "h4 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        "@media (min-width: 1024px) {.hdt-content-inner {max-width: 80%; }}",
+        ".hdt-content-inner h3 {color: white;}",
+        ".hdt-content-inner p {color: white; font-family: \"Founders Grotesk\"; font-weight: 200;}"
+      ],
+      "settings": {
+        "heading": "Humidifiers for Sleep",
+        "label": "Whisper Quiet, Natural Hydration",
+        "image": "shopify://shop_images/image_1.jpg",
+        "image_mb": "shopify://shop_images/image_5.jpg",
+        "external_video_url": "",
+        "banner_url": "",
+        "banner_target": false,
+        "image_height": "adapt_image_first",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "collection": "",
+        "product_list": [
+          "cloud-humidifier",
+          "best-sleep-diffuser-humidifier-bundle"
+        ],
+        "products_count": 4,
+        "product_des": "10",
+        "image_ratio": "square",
+        "color_scheme": "scheme-1",
+        "navUI": true,
+        "dotUI": false,
+        "content_position": "start",
+        "alignment": "left",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "accordion_inline_jmAxH4": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_qGpTp3": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do Vitruvi humidifiers help with sleep?",
+            "content": "If the air in your bedroom isn’t hydrated properly, it can cause inflammation, irritation, blocked throats and noses, and even snoring—all of which can disrupt your sleep. The Cloud Humidifier hydrates your air to an optimal level and is bedside table-friendly in size. Most importantly, it’s whisper quiet and features a light-free night mode so that it works without distracting your slumber."
+          }
+        },
+        "accordion_item_AMyyjC": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do Vitruvi humidifiers help with dry skin?",
+            "content": "If the air in your home is too dry, it can draw moisture from your skin, leaving it feeling tight, flaky, and dehydrated. The Cloud Humidifier restores optimal humidity levels to help lock in skin’s natural moisture, supporting a hydrated, dewy complexion. Plus, its whisper-quiet operation and sleek design make it perfect for bedside or vanity use, working seamlessly while you sleep or go about your day."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_qGpTp3",
+        "accordion_item_AMyyjC"
+      ],
+      "settings": {
+        "top_heading": "FREQUENTLY ASKED QUESTIONS",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "accordion_icon": "2",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 50,
         "padding_bottom": 100,
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_EcUNwb": {
+    "custom_liquid_jBnHJp": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"diffusers\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "banner_product_carousel_tHcbyE": {
+      "type": "banner-product-carousel",
+      "blocks": {
+        "heading_k9JMCe": {
+          "type": "heading",
+          "settings": {
+            "heading": "★★★★★"
+          }
+        },
+        "text_YaQp3L": {
+          "type": "text",
+          "settings": {
+            "text": "<br>First night using the Stone Diffuser I slept better than I’ve ever slept, had incredibly vivid dreams and woke up feeling rested. Bit of a life saver if you’ve ever struggled with sleepless nights.<br><br>- Ayla H."
+          }
+        }
+      },
+      "block_order": [
+        "heading_k9JMCe",
+        "text_YaQp3L"
+      ],
+      "custom_css": [
+        "h3 {font-family: \"Heldane\";}",
+        "h4 {font-family: \"Founders Grotesk\"; font-weight: 200;}",
+        "@media (min-width: 1024px) {.hdt-content-inner {max-width: 80%; }}",
+        ".hdt-content-inner h3 {color: white;}",
+        ".hdt-content-inner p {color: white; font-family: \"Founders Grotesk\"; font-weight: 200;}"
+      ],
+      "settings": {
+        "heading": "Diffusers for Sleep",
+        "label": "Calming Aromas, Restful Nights",
+        "image": "shopify://shop_images/image_3.jpg",
+        "image_mb": "shopify://shop_images/image_6.jpg",
+        "external_video_url": "",
+        "banner_url": "",
+        "banner_target": false,
+        "image_height": "adapt_image_first",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image_first",
+        "fixed_height_mb": 300,
+        "collection": "",
+        "product_list": [
+          "stone-essential-oil-diffuser",
+          "sleep-stone-diffuser-bundle",
+          "glow-essential-oil-diffuser",
+          "best-sleep-diffuser-humidifier-bundle"
+        ],
+        "products_count": 4,
+        "product_des": "10",
+        "image_ratio": "square",
+        "color_scheme": "scheme-1",
+        "navUI": true,
+        "dotUI": false,
+        "content_position": "start-center",
+        "alignment": "left",
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "accordion_inline_gAF893": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_iPebeg": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do essential oils and diffusing help with sleep?",
+            "content": "Scent can have a powerful effect on the brain and body. Studies have shown that inhaling certain essential oils before bed can help relax the nervous system, slow down heart rate and blood pressure, and promote feelings of calm."
+          }
+        },
+        "accordion_item_qNcfGV": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What are the best essential oils for sleep?",
+            "content": "Popular essential oils for sleep include Lavender, Bergamot, Cedarwood, Frankincense, and Eucalyptus. These oils are known for their calming and relaxing properties, which can help soothe your mind and body, making it easier to fall asleep. Experiment with different oils and blends to find what works best for you."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_iPebeg",
+        "accordion_item_qNcfGV"
+      ],
+      "custom_css": [],
+      "settings": {
+        "top_heading": "FREQUENTLY ASKED QUESTIONS",
+        "heading_tag": "h3",
+        "heading_size": "h5",
+        "accordion_icon": "2",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_VACB8J": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"scents\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_cNkeX7": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Diffuser Blends & Essential Oils for Sleep",
+        "sec_heading": "Sleep-Inducing Scents",
         "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Experience deeper, more restful sleep with our expertly crafted essential oil blends, designed to transform your nighttime routine.</p>",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Experience deeper, more restful sleep with our expertly crafted diffuser blends and essential oils, designed to transform your nighttime routine.</p>",
         "subheading_size": "base",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "sleep-scents",
         "product_list": [
-
+          "rest-essential-oil-kit",
+          "sleep-essential-oil-blend",
+          "sejour-essential-oil-blend",
+          "sunset-essential-oil-blend",
+          "essential-oil-kit",
+          "lavender-essential-oil",
+          "cedarwood-essential-oil",
+          "bergamot-essential-oil"
         ],
         "product_des": "10",
         "image_ratio": "square",
@@ -208,78 +419,6 @@
         "padding_rate": 75
       }
     },
-    "collections_list_simple_kY6xMW": {
-      "type": "collections-list-simple",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Explore the full range of Vitruvi products for all your home wellness needs",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-          "shop-all",
-          "humidifiers",
-          "essential-oil-diffusers",
-          "scents"
-        ],
-        "text_transform": false,
-        "other_link_label": "View all categories",
-        "other_link": "",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 70,
-        "padding_bottom": 70,
-        "padding_rate": 75
-      }
-    },
-    "accordion_inline_tzAiHJ": {
-      "type": "accordion_inline",
-      "blocks": {
-        "accordion_item_WLfGVL": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How do essential oils and diffusing help with sleep?",
-            "content": "Scent can have a powerful effect on the brain and body. Studies have shown that inhaling certain essential oils before bed can help relax the nervous system, slow down heart rate and blood pressure, and promote feelings of calm."
-          }
-        },
-        "accordion_item_RCe7bx": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How does a humidifier help with sleep?",
-            "content": "If the air in your bedroom isn’t hydrated properly, it can cause inflammation, irritation, blocked throats and noses, and even snoring—all of which can disrupt your sleep. The Cloud Humidifier hydrates your air to an optimal level and is bedside table-friendly in size. Most importantly, it’s whisper quiet and features a light-free night mode so that it works without distracting your slumber."
-          }
-        },
-        "accordion_item_ErrFTF": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "What are the best essential oils for sleep?",
-            "content": "Popular essential oils for sleep include Lavender, Bergamot, Cedarwood, Frankincense, and Eucalyptus. These oils are known for their calming and relaxing properties, which can help soothe your mind and body, making it easier to fall asleep. Experiment with different oils and blends to find what works best for you."
-          }
-        }
-      },
-      "block_order": [
-        "accordion_item_WLfGVL",
-        "accordion_item_RCe7bx",
-        "accordion_item_ErrFTF"
-      ],
-      "settings": {
-        "top_heading": "FREQUENTLY ASKED QUESTIONS",
-        "heading_tag": "h3",
-        "heading_size": "h5",
-        "accordion_icon": "2",
-        "open_first": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "padding_rate": 75
-      }
-    },
     "collections_list_rcbPdc": {
       "type": "collections-list",
       "blocks": {
@@ -296,7 +435,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/collection_sleep-humidifier-bedside.jpg",
+            "image": "shopify://shop_images/pdp_byob-humidifier-diffuser_gallery_1_image_v2.jpg",
             "title": "Transform Your Bedroom Into a Sleep Oasis",
             "collection_link": "shopify://blogs/spaces/transform-your-bedroom-into-a-sleep-oasis"
           }
@@ -320,9 +459,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "4",
         "content_size": "4xl",
         "content_weight": "medium",
@@ -349,16 +486,45 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "collections_list_simple_kY6xMW": {
+      "type": "collections-list-simple",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Explore the full range of Vitruvi products for all your home wellness needs",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": "{{ localization.market.metafields.ecomus[\"collection-list\"].value }}",
+        "text_transform": false,
+        "other_link_label": "View all categories",
+        "other_link": "",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 70,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "hero_image_pcbzgU",
-    "featured_collection_grid_j8DcaG",
-    "featured_collection_grid_EcUNwb",
-    "collections_list_simple_kY6xMW",
-    "accordion_inline_tzAiHJ",
-    "collections_list_rcbPdc"
+    "hero_image_fUVRFe",
+    "custom_liquid_gFmXRL",
+    "banner_product_carousel_e6y7Nc",
+    "accordion_inline_jmAxH4",
+    "custom_liquid_jBnHJp",
+    "banner_product_carousel_tHcbyE",
+    "accordion_inline_gAF893",
+    "custom_liquid_VACB8J",
+    "featured_collection_grid_cNkeX7",
+    "collections_list_rcbPdc",
+    "collections_list_simple_kY6xMW"
   ]
 }

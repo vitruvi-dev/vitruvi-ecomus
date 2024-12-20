@@ -48,8 +48,9 @@
       "blocks": {
         "sub_heading_BDHJAt": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
-            "sub_heading": "End-of-Year Sale: 25% off scents, diffusers, humidifiers, and accessories.",
+            "sub_heading": "Boxing Week Sale: 25% off scents, diffusers, humidifiers, and accessories.",
             "sub_heading_fs": "base"
           }
         }
@@ -170,8 +171,8 @@
         "buy_buttons_VEzdyL": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
             "show_price_variant": true,
             "show_wishlist": true,
             "show_compare": false
@@ -284,13 +285,17 @@
         "sec_heading": "{{ section.settings.collection.title }}",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>{{ section.settings.collection.description }}</p>",
+        "sec_subheading": "{{ section.settings.collection.description }}",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "humidifier-bundles",
-        "product_list": [],
+        "product_list": [
+          "good-air-cloud-humidifier-bundle",
+          "best-sleep-diffuser-humidifier-bundle",
+          "best-sellers-diffuser-humidifier-bundle"
+        ],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,

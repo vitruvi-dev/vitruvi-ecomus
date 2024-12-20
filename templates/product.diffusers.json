@@ -66,23 +66,24 @@
           "disabled": true,
           "settings": {}
         },
+        "ad820e37-dee5-41f3-9692-bf46d9664103": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": false,
+            "show_compare": false
+          }
+        },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 30,
             "show_inventory_quantity": false,
             "show_progress_bar": false,
             "progress_bar_max": 100
-          }
-        },
-        "ad820e37-dee5-41f3-9692-bf46d9664103": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "show_price_variant": false,
-            "show_wishlist": false,
-            "show_compare": false
           }
         },
         "custom_liquid_Rn3hhg": {
@@ -101,23 +102,11 @@
         },
         "description_Fh49zX": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "des": "1",
             "short_des": "",
             "length": 31
-          }
-        },
-        "img_trust_imFfw3": {
-          "type": "img_trust",
-          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
-          "settings": {
-            "show_icon": false,
-            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
-            "source": "1",
-            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
           }
         },
         "8253e974-5acb-4076-9230-03b0f804dcdf": {
@@ -132,6 +121,19 @@
           "settings": {
             "custom_liquid": "{% if product.compare_at_price == blank %}\n<div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n  <div class=\"byob-img\">\n    <a href=\"/products/build-your-own-diffuser-bundle\">\n      <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/boost-byob-cta-v2.png?v=1725056018\">\n    </a>\n  </div>\n  <div class=\"byob-text\">\n    <a href=\"/products/build-your-own-diffuser-bundle\">\n      <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%</h5>\n      <p>Bundle together your favorite blends and essential oils alongside your diffuser.</p>\n    </a>\n  </div>\n  <div class=\"byob-button\">\n    <a href=\"/products/build-your-own-diffuser-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n      <span>BUILD BUNDLE</span>\n    </a>\n  </div>\n</div>\n{% endif %}"
           }
+        },
+        "img_trust_imFfw3": {
+          "type": "img_trust",
+          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
+          "settings": {
+            "show_icon": false,
+            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
+            "source": "1",
+            "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
         }
       },
       "block_order": [
@@ -141,14 +143,14 @@
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "quantity_selector_7mnwbU",
-        "inventory_ftnW9y",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
+        "inventory_ftnW9y",
         "custom_liquid_Rn3hhg",
         "custom_liquid_HKwtye",
         "description_Fh49zX",
-        "img_trust_imFfw3",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "custom_liquid_W7Hpet"
+        "custom_liquid_W7Hpet",
+        "img_trust_imFfw3"
       ],
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
@@ -179,6 +181,55 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 52,
+        "padding_rate": 50
+      }
+    },
+    "tabs": {
+      "type": "main-product-tabs",
+      "blocks": {
+        "tab_des_HjUWjn": {
+          "type": "tab_des",
+          "settings": {
+            "title": "Description"
+          }
+        },
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Features",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_FAnLrE": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Specs",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_eeFthN": {
+          "type": "tab_html",
+          "settings": {
+            "title": "Warranty & Returns",
+            "content": "",
+            "page": "product-returns-humidifiers-diffusers"
+          }
+        }
+      },
+      "block_order": [
+        "tab_des_HjUWjn",
+        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
+        "tab_html_FAnLrE",
+        "tab_html_eeFthN"
+      ],
+      "settings": {
+        "tabs_design": "tab_vertical",
+        "enable_first_tab": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 30,
+        "padding_bottom": 30,
         "padding_rate": 50
       }
     },
@@ -264,48 +315,6 @@
         "padding_top": 60,
         "padding_bottom": 60,
         "padding_rate": 75
-      }
-    },
-    "tabs": {
-      "type": "main-product-tabs",
-      "blocks": {
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Features",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_features | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_FAnLrE": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Specs",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_eeFthN": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Warranty & Returns",
-            "content": "",
-            "page": "product-returns-humidifiers-diffusers"
-          }
-        }
-      },
-      "block_order": [
-        "1bc528a7-9da8-48ec-96da-8e48c0e52faf",
-        "tab_html_FAnLrE",
-        "tab_html_eeFthN"
-      ],
-      "settings": {
-        "tabs_design": "tab_vertical",
-        "enable_first_tab": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 50
       }
     },
     "top_heading_GTjYAL": {
@@ -987,8 +996,8 @@
   "order": [
     "breacrumb",
     "main",
-    "icon_box_xRGYey",
     "tabs",
+    "icon_box_xRGYey",
     "top_heading_GTjYAL",
     "banner_gdzX4R",
     "video_width_text2_anqqEU",
