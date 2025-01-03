@@ -20,7 +20,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": ""
+            "heading": "Sweet Dreams Are Made of Zzz's"
           }
         },
         "description_Ddhb9a": {
@@ -40,6 +40,34 @@
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 5,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_wWp6LN": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_jyeziW": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Save up to 30% on  Diffuser & Humidifier Sleep Bundles",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_jyeziW"
+      ],
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -514,6 +542,7 @@
   },
   "order": [
     "heading",
+    "top_heading_wWp6LN",
     "main",
     "hero_image_fUVRFe",
     "custom_liquid_gFmXRL",
