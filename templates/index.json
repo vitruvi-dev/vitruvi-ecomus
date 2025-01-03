@@ -36,7 +36,6 @@
         },
         "countdown_fmPRkK": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "title": "",
             "year": 2024,
@@ -72,17 +71,21 @@
         "countdown_fmPRkK",
         "button_G99RRj"
       ],
-      "disabled": true,
       "custom_css": [
-        ".hdt-hero-image__text {margin-left: 15%; margin-right: 15%;}",
-        "@media (max-width: 767px) {.hdt-hero-image__text {margin-left: 0%; margin-right: 0%; } .hdt-btn {margin-bottom: 100px; }}"
+        "p {color: black; opacity: 80%;}",
+        ".hdt-hero-image__text {font-size: 180%;}",
+        ".hdt-hero-image__heading {font-size: 560%;}",
+        "strong {font-size: 80%; font-weight: 200;}",
+        ".hdt-btn {background-color: #eac661; color: black; border-width: 0px;}",
+        ".hdt-countdown__item {color: black; border-radius: 0px; background-color: #e7e7e4;}",
+        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
       ],
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "image": "shopify://shop_images/page_home_hero_boxing-2024_image_desktop_v1.jpg",
+        "image": "shopify://shop_images/image.jpg",
         "image_mb": "shopify://shop_images/page_home_hero_boxing-2024_image_mobile_v1.jpg",
         "link_img": "shopify://collections/boxing-week-sale",
         "target": false,
@@ -141,6 +144,7 @@
         "sub_heading_cjY6qn",
         "button_widJMP"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "image_height": "full",
