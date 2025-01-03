@@ -73,7 +73,7 @@
         "button_G99RRj"
       ],
       "custom_css": [
-        "p {color: #474946; opacity: 100%;}",
+        "p {color: black; opacity: 80%;}",
         ".hdt-hero-image__text {font-size: 180%;}",
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
@@ -86,7 +86,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "image": "shopify://shop_images/Desktop_-_Homepage_2.png",
+        "image": "shopify://shop_images/Desktop_-_Homepage3.png",
         "link_img": "shopify://collections/sleep-sale",
         "target": false,
         "image_behavior": "none",
