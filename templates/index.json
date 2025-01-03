@@ -15,7 +15,7 @@
         "text_yncHR8": {
           "type": "text",
           "settings": {
-            "text": "<p>SLEEP SALE: UP TO 30% OFF SITEWIDE</p>",
+            "text": "<p>SLEEP SALE: UP TO 30% OFF</p>",
             "adding_border": false
           }
         },
@@ -87,7 +87,6 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
         "image": "shopify://shop_images/Desktop_-_Homepage_2.png",
-        "image_mb": "shopify://shop_images/page_home_hero_boxing-2024_image_mobile_v1.jpg",
         "link_img": "shopify://collections/boxing-week-sale",
         "target": false,
         "image_behavior": "none",
