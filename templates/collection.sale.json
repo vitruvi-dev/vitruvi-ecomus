@@ -35,6 +35,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -49,13 +50,13 @@
         "text_8UMYqR": {
           "type": "text",
           "settings": {
-            "heading": "{{ collection.title }}"
+            "heading": "Sweet Dreams Are Made of  💤s Sale"
           }
         },
         "text_2_xDRN8J": {
           "type": "text_2",
           "settings": {
-            "sub_heading": "<i>Stock up and save: 25% off scents, diffusers, humidifiers, and accessories.</i><br><br>Offer on until Dec 27 at midnight PST"
+            "sub_heading": "<i>Up to 30% off humidifiers, diffusers, and scents built for better sleep.</i><br><br>Offer on until Jan 19 at midnight PST"
           }
         }
       },
@@ -63,7 +64,6 @@
         "text_8UMYqR",
         "text_2_xDRN8J"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
         ".hdt-subheading {font-weight: 200;}",
@@ -71,9 +71,9 @@
       ],
       "settings": {
         "full_width": true,
-        "year": 2024,
-        "month": 12,
-        "day": 28,
+        "year": 2025,
+        "month": 1,
+        "day": 20,
         "hour": 0,
         "minute": 0,
         "effect_cd": "move_top",
@@ -296,7 +296,7 @@
             "widget_heading": "Featured",
             "collection": "",
             "product_list": [
-              "gift-card"
+              "best-sleep-diffuser-humidifier-bundle"
             ],
             "products_count": 1,
             "image_ratio": "square",
