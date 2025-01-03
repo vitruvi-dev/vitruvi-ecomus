@@ -49,7 +49,7 @@
         "sub_heading_jyeziW": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading": "Up to 30% off Diffuser & Humidifier Sleep Bundles",
             "sub_heading_fs": "base"
           }
         }
@@ -57,14 +57,16 @@
       "block_order": [
         "sub_heading_jyeziW"
       ],
-      "disabled": true,
+      "custom_css": [
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+      ],
       "settings": {
         "spacing_item": 30,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 40,
+        "padding_top": 5,
         "padding_bottom": 40,
         "padding_rate": 75
       }
