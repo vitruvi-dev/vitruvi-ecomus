@@ -15,14 +15,14 @@
         "text_yncHR8": {
           "type": "text",
           "settings": {
-            "text": "<p>SLEEP SALE: UP TO 30% OFF</p>",
+            "text": "<p>SWEET DREAMS ARE MADE OF 💤s</p>",
             "adding_border": false
           }
         },
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Sweet Dreams<br>Are Made Of Zzz's",
+            "heading": "Up to 30% Off<br>Sleep Sale",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
