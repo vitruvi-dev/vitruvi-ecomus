@@ -73,7 +73,7 @@
         "button_G99RRj"
       ],
       "custom_css": [
-        "p {color: black; opacity: 80%;}",
+        "p {color: #c5c6c4; opacity: 100%;}",
         ".hdt-hero-image__text {font-size: 180%;}",
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
@@ -87,6 +87,7 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
         "image": "shopify://shop_images/page_home_hero_sleepnewyear_image_desktop-min.png",
+        "image_mb": "shopify://shop_images/page_home_hero_sleepnewyear_image_mobile-min.png",
         "link_img": "shopify://collections/sleep-sale",
         "target": false,
         "image_behavior": "none",
