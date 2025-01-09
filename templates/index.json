@@ -73,7 +73,7 @@
         "button_G99RRj"
       ],
       "custom_css": [
-        "p {color: #c5c6c4; opacity: 100%;}",
+        "p {color: #F7F8F6; opacity: 100%;}",
         ".hdt-hero-image__text {font-size: 180%;}",
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
