@@ -295,7 +295,7 @@
         "heading_weepe7": {
           "type": "heading",
           "settings": {
-            "heading": "Air Waterless Diffuser",
+            "heading": "Introducing: <i>Air</i>",
             "heading_fs": "h4"
           }
         },
@@ -324,7 +324,8 @@
         "button_i3NAcL"
       ],
       "custom_css": [
-        "@media (min-width: 767px) {p, li {font-size: 120%; }}"
+        "@media (min-width: 767px) {p, li {font-size: 120%; }}",
+        "i {font-family: \"Kaftan\"; font-style: normal;}"
       ],
       "settings": {
         "image": "shopify://shop_images/pexels-petra-nesti-14436863.jpg",
