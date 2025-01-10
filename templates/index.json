@@ -14,16 +14,15 @@
       "blocks": {
         "text_yncHR8": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>SLEEP BETTER, DREAM TOGETHER</p>",
+            "text": "<p>UP TO 30% OFF SLEEP BUNDLES</p>",
             "adding_border": false
           }
         },
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Sleep Better<br>Dream Together",
+            "heading": "Sleep Better,<br>Dream Together",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -56,7 +55,7 @@
         "button_G99RRj": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP SLEEP",
+            "btn_label": "SHOP BUNDLES",
             "btn_link": "shopify://collections/sleep-sale",
             "target": false,
             "btn_size": "xl",
@@ -74,7 +73,7 @@
         "button_G99RRj"
       ],
       "custom_css": [
-        ".hdt-hero-image__text {font-size: 180%; max-width: 50%;}",
+        ".hdt-hero-image__text {font-size: 180%;}",
         ".hdt-hero-image__heading {font-size: 560%;}",
         "strong {font-size: 80%; font-weight: 200;}",
         ".hdt-countdown__item {color: black; border-radius: 0px; background-color: #e7e7e4;}",
@@ -85,20 +84,20 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_compresspng.com_d4f376a6-7496-4d83-9410-912486553071.jpg",
+        "image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_compresspng.com5.png",
         "image_mb": "shopify://shop_images/page_home_hero_sleepnewyear_image_mobile-min.png",
         "link_img": "shopify://collections/sleep-sale",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
         "use_bg_content": false,
-        "content_position": "center-start",
-        "content_align": "left",
+        "content_position": "center",
+        "content_align": "center",
         "content_position_mb": "center",
         "content_align_mb": "left",
         "full_width": true,
         "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "padding_top": 0,
         "padding_bottom": 36,
         "padding_rate": 75
