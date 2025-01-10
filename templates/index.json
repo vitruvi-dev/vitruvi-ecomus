@@ -94,7 +94,7 @@
         "content_position": "center",
         "content_align": "center",
         "content_position_mb": "center",
-        "content_align_mb": "left",
+        "content_align_mb": "center",
         "full_width": true,
         "boxed_fullwidth": false,
         "color_scheme": "scheme-3",
