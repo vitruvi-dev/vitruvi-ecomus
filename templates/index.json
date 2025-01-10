@@ -295,20 +295,20 @@
         "heading_weepe7": {
           "type": "heading",
           "settings": {
-            "heading": "Free Gift Card",
+            "heading": "Air Waterless Diffuser",
             "heading_fs": "h4"
           }
         },
         "text_6HVHHK": {
           "type": "text",
           "settings": {
-            "text": "<p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>"
+            "text": "<p>Lorem ipsum dolar sit amet. Lorem ipsum dolar sit amet. Lorem ipsum dolar sit amet. Lorem ipsum dolar sit amet. Lorem ipsum dolar sit amet. Lorem ipsum dolar sit amet. </p>"
           }
         },
         "button_i3NAcL": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP GIFTS",
+            "btn_label": "PRE-ORDER",
             "btn_link": "shopify://collections/gifts",
             "target": false,
             "btn_size": "base",
