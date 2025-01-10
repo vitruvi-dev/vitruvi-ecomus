@@ -56,7 +56,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP BUNDLES",
-            "btn_link": "shopify://collections/sleep-sale",
+            "btn_link": "shopify://collections/sleep-bundles",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -86,7 +86,7 @@
         "fixed_height_mb": 450,
         "image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_compresspng.com5.png",
         "image_mb": "shopify://shop_images/page_home_hero_sleepnewyear_image_mobile-min.png",
-        "link_img": "shopify://collections/sleep-sale",
+        "link_img": "shopify://collections/sleep-bundles",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
