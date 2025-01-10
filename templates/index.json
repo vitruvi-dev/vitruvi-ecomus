@@ -323,13 +323,13 @@
         "text_6HVHHK",
         "button_i3NAcL"
       ],
-      "disabled": true,
       "custom_css": [
         "@media (min-width: 767px) {p, li {font-size: 120%; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_gift-card_gallery_2_image.png",
-        "style_image": "1",
+        "image": "shopify://shop_images/pexels-petra-nesti-14436863.jpg",
+        "first_image": "shopify://shop_images/Desktop_-_Homepage_-_Export_3x_compresspng.com4.png",
+        "style_image": "33",
         "image_effect": "lunc",
         "color_scheme": "",
         "image_last": true,
