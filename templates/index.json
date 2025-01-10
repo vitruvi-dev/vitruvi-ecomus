@@ -309,7 +309,7 @@
           "type": "button",
           "settings": {
             "btn_label": "PRE-ORDER",
-            "btn_link": "shopify://collections/gifts",
+            "btn_link": "shopify://products/air-waterless-diffuser",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
