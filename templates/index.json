@@ -328,9 +328,9 @@
         "i {font-family: \"Kaftan\"; font-style: normal;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/GWP_Image_STORY-min.jpg",
+        "image": "shopify://shop_images/ok.jpg",
         "style_image": "1",
-        "image_effect": "lunc",
+        "image_effect": "zoom-in",
         "color_scheme": "",
         "image_last": true,
         "content_position": "center",
