@@ -54,7 +54,7 @@
     "use_new_badge": false,
     "new_day_added": 60,
     "use_soldout_badge": true,
-    "use_preorder_badge": false,
+    "use_preorder_badge": true,
     "wishlist_mode": "0",
     "wis_atc_added": "2",
     "compare_mode": "0",
@@ -584,9 +584,7 @@
       ".hdt-mega-item-collection .hdt-collection-content {align-self: start; margin-top: 10%;}",
       ".lb-cpb-progress-bar-container {border-bottom: 0.1rem solid rgb(var(--color-line-border)); padding-bottom: 25px;}",
       ".lb-cpb-progress-text-wrapper {padding-bottom: 10px;}",
-      ".hdt-badge__sleep-essential {background-color: #476373 !important;}",
-      "ul.hdt-nav__ul > li:nth-child(1) summary[data-url=\"/collections/sleep-sale\"],ul.hdt-nav__ul > li:nth-child(1) a[href=\"/collections/sleep-sale\"] {background-color: #476373 !important; padding: 3px; border-radius: 3px; color: white !important;}",
-      "ul.hdt-nav__ul-mb > li:nth-child(1) summary[data-url=\"/collections/sleep-sale\"] > span.hdt-block,ul.hdt-nav__ul-mb > li:nth-child(1) a[href=\"/collections/sleep-sale\"] > span.hdt-block {background-color: #476373 !important; color: white !important; padding: 0px 3px 0px 3px; border-radius: 3px;}"
+      ".hdt-badge__sleep-essential {background-color: #476373 !important;}"
     ]
   }
 }
