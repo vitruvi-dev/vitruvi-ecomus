@@ -83,7 +83,7 @@
           assign class_selected = ''
         endif
         assign color_handle = value | handle
-        assign color_obj = colors[color_handle] | default: colors2[color_handle]
+        assign color_obj = colors2[color_handle]
         assign color_style_inline = ''
         assign image = images[color_obj.imageName]
         if image != blank and item.featured_image == blank
