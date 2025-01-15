@@ -158,15 +158,6 @@
             "size_chart_page": ""
           }
         },
-        "inventory_pBHWDF": {
-          "type": "inventory",
-          "settings": {
-            "inventory_threshold": 100,
-            "show_inventory_quantity": true,
-            "show_progress_bar": false,
-            "progress_bar_max": 50
-          }
-        },
         "buy_buttons_NMNaGy": {
           "type": "buy_buttons",
           "settings": {
@@ -202,7 +193,6 @@
         "title_B6AfNV",
         "price_3WTNYB",
         "variant_picker_xHtya8",
-        "inventory_pBHWDF",
         "buy_buttons_NMNaGy",
         "custom_liquid_V86MGd",
         "description_Ly67FF",
@@ -259,8 +249,8 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 12,
-        "col_dk": "3",
-        "col_tb": "3",
+        "col_dk": "4",
+        "col_tb": "4",
         "col_mb": "2",
         "pagination_type": "load_more",
         "paginate_pos": "center",
