@@ -78,13 +78,12 @@
         },
         "mega_product_k7LrJx": {
           "type": "mega_product",
-          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "stone-essential-oil-diffuser",
-              "sleep-stone-diffuser-bundle"
+              "air-waterless-diffuser",
+              "build-your-own-diffuser-bundle"
             ],
             "image_ratio": "square",
             "image_size": true,
@@ -96,6 +95,7 @@
         },
         "mega_shop_qYqRMM": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Diffusers",
             "collection_list": [
