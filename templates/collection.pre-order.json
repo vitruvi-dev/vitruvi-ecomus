@@ -46,21 +46,28 @@
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
+        "heading_Bjg9Vx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Introducing: <i>Air</i>",
+            "heading_fs": "h4"
+          }
+        },
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
-          "disabled": true,
           "settings": {
-            "sub_heading": "Shop now and get rewarded with a FREE $25 or $50 gift card.*",
+            "sub_heading": "Introducing: <i>Air</i>",
             "sub_heading_fs": "base"
           }
         }
       },
       "block_order": [
+        "heading_Bjg9Vx",
         "sub_heading_wpqzpJ"
       ],
-      "disabled": true,
       "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+        "p {font-size: 90%; font-style: italic; opacity: 80%;}",
+        "i {font-style: \"Normal\"; font-family: \"Kaftan\";}"
       ],
       "settings": {
         "spacing_item": 0,
@@ -114,6 +121,158 @@
         "color_scheme": "",
         "padding_top": 15,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_4PVpj9": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_DjG7qy": {
+          "type": "badges",
+          "settings": {
+            "special": "",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "none"
+          }
+        },
+        "title_B6AfNV": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_3WTNYB": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_xHtya8": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "inventory_pBHWDF": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 100,
+            "show_inventory_quantity": true,
+            "show_progress_bar": false,
+            "progress_bar_max": 50
+          }
+        },
+        "buy_buttons_NMNaGy": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": false
+          }
+        },
+        "custom_liquid_V86MGd": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($20 Value)\n      {% else %}\n        Free Gift ($25 Value)\n      {% endif %}\n    </h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
+          }
+        },
+        "description_Ly67FF": {
+          "type": "description",
+          "settings": {
+            "des": "1",
+            "short_des": "",
+            "length": 31
+          }
+        },
+        "view_products_details_dLcHK8": {
+          "type": "view_products_details",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "badges_DjG7qy",
+        "title_B6AfNV",
+        "price_3WTNYB",
+        "variant_picker_xHtya8",
+        "inventory_pBHWDF",
+        "buy_buttons_NMNaGy",
+        "custom_liquid_V86MGd",
+        "description_Ly67FF",
+        "view_products_details_dLcHK8"
+      ],
+      "custom_css": [
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+      ],
+      "settings": {
+        "product": "air-waterless-diffuser",
+        "media_width": 40,
+        "desktop_media_layout": "thumbnail_left",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": false,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "square",
+        "image_size": true,
+        "image_zoom": "no",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_j8DcaG": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Scent Deals",
+        "heading_tag": "h2",
+        "heading_size": "h5",
+        "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.</p>",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "scents",
+        "product_list": [],
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 12,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "load_more",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 80,
+        "padding_bottom": 80,
         "padding_rate": 75
       }
     },
@@ -175,6 +334,7 @@
         "filter_bB4hRd",
         "featured_products_LzB6Km"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "product_des": "10",
@@ -252,135 +412,6 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "featured_product_4PVpj9": {
-      "type": "featured-product",
-      "blocks": {
-        "badges_DjG7qy": {
-          "type": "badges",
-          "settings": {
-            "special": "",
-            "min": 10,
-            "max": 80,
-            "content": "Selling fast! [count] people have this in their carts.",
-            "icon_svg": "flash",
-            "ani": "none"
-          }
-        },
-        "title_B6AfNV": {
-          "type": "title",
-          "settings": {}
-        },
-        "price_3WTNYB": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_xHtya8": {
-          "type": "variant_picker",
-          "settings": {
-            "pick_mode": "first_available",
-            "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "small",
-            "picker_type": "block",
-            "size_chart_source": "page",
-            "size_chart_page": ""
-          }
-        },
-        "inventory_pBHWDF": {
-          "type": "inventory",
-          "settings": {
-            "inventory_threshold": 100,
-            "show_inventory_quantity": true,
-            "show_progress_bar": false,
-            "progress_bar_max": 50
-          }
-        },
-        "buy_buttons_NMNaGy": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false,
-            "show_price_variant": true,
-            "show_wishlist": true,
-            "show_compare": false
-          }
-        },
-        "custom_liquid_V86MGd": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      {% if request.host contains 'vitruvi.com' %}\n        Free Gift ($20 Value)\n      {% else %}\n        Free Gift ($25 Value)\n      {% endif %}\n    </h5>\n    <p>Cleaning Tablets automatically added to every Cloud Humidifier order, while supplies last.</p>\n  </div>\n</div>"
-          }
-        },
-        "description_Ly67FF": {
-          "type": "description",
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "view_products_details_dLcHK8": {
-          "type": "view_products_details",
-          "settings": {}
-        },
-        "img_trust_769AGd": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": false,
-            "mess": "",
-            "source": "1",
-            "image": "{{ localization.market.metafields.ecomus.badge_cloud.value.image.value }}",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
-        }
-      },
-      "block_order": [
-        "badges_DjG7qy",
-        "title_B6AfNV",
-        "price_3WTNYB",
-        "variant_picker_xHtya8",
-        "inventory_pBHWDF",
-        "buy_buttons_NMNaGy",
-        "custom_liquid_V86MGd",
-        "description_Ly67FF",
-        "view_products_details_dLcHK8",
-        "img_trust_769AGd"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
-        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
-        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
-        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
-      ],
-      "settings": {
-        "product": "cloud-humidifier",
-        "media_width": 40,
-        "desktop_media_layout": "thumbnail_left",
-        "desktop_media_position": "left",
-        "mobile_media_layout": "thumbnails",
-        "show_first_media": false,
-        "use_select_varaint_change_media": false,
-        "enable_media_autoplay": false,
-        "enable_video_looping": false,
-        "enable_thumb_efect": false,
-        "image_ratio": "square",
-        "image_size": true,
-        "image_zoom": "no",
-        "image_zoom_type": "external",
-        "zoom_level": 2,
-        "max_zoom_lightbox": 3,
-        "navUI": false,
-        "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 76,
-        "padding_bottom": 76,
         "padding_rate": 75
       }
     },
@@ -683,44 +714,6 @@
         "max_zoom_lightbox": 3,
         "navUI": false,
         "nav_des": "default",
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_j8DcaG": {
-      "type": "featured-collection-grid",
-      "disabled": true,
-      "settings": {
-        "heading_align": "start",
-        "sec_heading": "Scent Deals",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "<p>Discover diffuser scents that offer captivating aromas, blend seamlessly with your decor, and provide a natural, long-lasting fragrance. Enjoy a safer, easier way to fill your space with inviting scents.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "scents",
-        "product_list": [],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 12,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "load_more",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 80,
         "padding_bottom": 80,
@@ -1100,18 +1093,18 @@
     "heading",
     "top_heading_LKRnyK",
     "countdown_text_h939Yg",
+    "featured_product_4PVpj9",
+    "featured_collection_grid_j8DcaG",
     "custom_line_zAe7AX",
     "main",
     "featured_collection_grid_eF6zJd",
     "custom_liquid_dNQJp8",
-    "featured_product_4PVpj9",
     "featured_collection_grid_EcUNwb",
     "custom_liquid_DrMBXX",
     "featured_product_q3qnpt",
     "featured_collection_grid_Kqfchz",
     "custom_liquid_j3RYQE",
     "featured_product_L794ER",
-    "featured_collection_grid_j8DcaG",
     "slideshow_bHhppE",
     "collections_list_simple_kY6xMW",
     "accordion_qkAGnW",
