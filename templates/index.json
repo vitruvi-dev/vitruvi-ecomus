@@ -72,13 +72,7 @@
         "countdown_fmPRkK",
         "button_G99RRj"
       ],
-      "custom_css": [
-        ".hdt-hero-image__text {font-size: 180%;}",
-        ".hdt-hero-image__heading {font-size: 560%;}",
-        "strong {font-size: 80%; font-weight: 200;}",
-        ".hdt-countdown__item {color: black; border-radius: 0px; background-color: #e7e7e4;}",
-        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
