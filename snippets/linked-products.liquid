@@ -153,7 +153,12 @@
 
   <div class="hdt-variant-picker hdt-color-mode__{{ linked_type }} hdt-color-size__{{ block.settings.linked_size }}">
     <div class="hdt-product-form__input is-style-color" type="{{ linked_type }}">
-      <div class="hdt-product-form__label hdt-s-text"><span>{{ block.settings.option_name }}: <span class="hdt-font-semibold">{{  product.metafields.ecomus.feature_1_heading }}</span></span></div>
+      {% if product.handle contains 'build' %}
+        <div class="hdt-product-form__label hdt-s-text"><span>{{ block.settings.option_name }}: <span class="hdt-font-semibold">{{  product.metafields.ecomus.feature_1_heading }}</span></span></div>
+        {%- else -%}
+        <div class="hdt-product-form__label hdt-s-text"><span>{{ block.settings.option_name }}: <span class="hdt-font-semibold">{{  product.title }}</span></span></div>
+      {% endif %}
+      
       <div class="hdt-product-form__values">{{ code_html }}</div>
     </div>
   </div>
