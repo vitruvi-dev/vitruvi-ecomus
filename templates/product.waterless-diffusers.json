@@ -387,14 +387,14 @@
         "heading_bYfDWf": {
           "type": "heading",
           "settings": {
-            "heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
+            "heading": "{{ product.metafields.ecomus.feature_2_heading.value }}",
             "heading_fs": "h3"
           }
         },
         "text_JGXwAn": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ product.metafields.ecomus.feature_1_subheading.value }}</p><p></p>"
+            "text": "<p>{{ product.metafields.ecomus.feature_2_subheading.value }}</p>"
           }
         }
       },
