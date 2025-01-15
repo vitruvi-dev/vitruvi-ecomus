@@ -61,11 +61,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_7mnwbU": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {}
-        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -74,16 +69,6 @@
             "show_price_variant": true,
             "show_wishlist": false,
             "show_compare": false
-          }
-        },
-        "inventory_ftnW9y": {
-          "type": "inventory",
-          "disabled": true,
-          "settings": {
-            "inventory_threshold": 30,
-            "show_inventory_quantity": false,
-            "show_progress_bar": false,
-            "progress_bar_max": 100
           }
         },
         "description_Fh49zX": {
@@ -128,9 +113,7 @@
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
-        "quantity_selector_7mnwbU",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
-        "inventory_ftnW9y",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "custom_liquid_kkqPfE",
