@@ -65,7 +65,7 @@
         "linked_products_HaJWbm": {
           "type": "linked_products",
           "settings": {
-            "option_name": "Scents",
+            "option_name": "Scent",
             "option_values": "{{ product.title }}",
             "product_list": [
               "forest-frost-air-scent-refill",
