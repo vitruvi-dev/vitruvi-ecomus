@@ -68,8 +68,8 @@
             "option_name": "Scent",
             "option_values": "{{ product.title }}",
             "product_list": [
-              "forest-frost-air-scent-refill",
               "boost-air-scent-refill",
+              "forest-frost-air-scent-refill",
               "pacific-air-scent-refill",
               "rosy-glow-air-scent-refill",
               "sleep-air-scent-refill",
