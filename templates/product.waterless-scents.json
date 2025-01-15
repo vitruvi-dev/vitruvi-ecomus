@@ -65,7 +65,7 @@
         "linked_products_HaJWbm": {
           "type": "linked_products",
           "settings": {
-            "option_name": "Test",
+            "option_name": "Scents",
             "option_values": "test",
             "product_list": [
               "boost-air-scent-refill",
