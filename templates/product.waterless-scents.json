@@ -141,15 +141,6 @@
             "svg": "",
             "height": 30
           }
-        },
-        "bundle_product_L4eEE4": {
-          "type": "bundle_product",
-          "settings": {
-            "bundle_prs_inner": true,
-            "product_list": [
-              "air-waterless-diffuser"
-            ]
-          }
         }
       },
       "block_order": [
@@ -165,8 +156,7 @@
         "countdown_timer_NCVUEc",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
-        "img_trust_Nj7Aj9",
-        "bundle_product_L4eEE4"
+        "img_trust_Nj7Aj9"
       ],
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
