@@ -72,8 +72,9 @@
     {%- elsif linked_type == 'image' or linked_type == 'image_with_title'-%}
 
       {%- for item in product_list -%}
+        {% comment %} assign value = option_values[forloop.index0] | default: item.title {% endcomment %} 
         {%- liquid
-        assign value = option_values[forloop.index0]
+        assign value = item.title
         assign color_downcase = value | downcase
         if product.id == item.id
           assign value_selected = value
