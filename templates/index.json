@@ -296,13 +296,13 @@
         "text_6HVHHK": {
           "type": "text",
           "settings": {
-            "text": "<p>Experience Vitruvi’s latest innovation—the Air Waterless Diffuser fills your space with long-lasting, all-natural scent using cold air diffusion. No water, no mess—just 180 hours of effortless fragrance.</p>"
+            "text": "<p>Pre-order now and receive a free scent refill with your diffuser.</p><p>Experience Vitruvi’s latest innovation—the Air Waterless Diffuser fills your space with long-lasting, all-natural scent using cold air diffusion. No water, no mess—just 180 hours of effortless fragrance.</p>"
           }
         },
         "button_i3NAcL": {
           "type": "button",
           "settings": {
-            "btn_label": "PRE-ORDER",
+            "btn_label": "PRE-ORDER NOW",
             "btn_link": "shopify://products/air-waterless-diffuser",
             "target": false,
             "btn_size": "base",
