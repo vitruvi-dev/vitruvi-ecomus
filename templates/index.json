@@ -72,15 +72,7 @@
         "countdown_fmPRkK",
         "button_G99RRj"
       ],
-      "custom_css": [
-        "p {color: #f7f8f6; opacity: 100%;}",
-        ".hdt-hero-image__text {font-size: 180%;}",
-        ".hdt-hero-image__heading {font-size: 560%;}",
-        "strong {font-size: 80%; font-weight: 200;}",
-        ".hdt-btn {background-color: #476373; color: white; border-width: 0px;}",
-        ".hdt-countdown__item {color: black; border-radius: 0px; background-color: #e7e7e4;}",
-        "@media (max-width: 767px) {.hdt-hero-image__text {font-size: 90%; } .hdt-hero-image__heading {font-size: 250%; } strong {font-size: 100%; } .hdt-btn {margin-bottom: 100px; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
@@ -171,8 +163,6 @@
         "slide_base_X9JycG": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
-            "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
             "url": "shopify://collections/cyber-monday-sale",
             "banner_target": false,
             "color_scheme": "scheme-1",
@@ -437,7 +427,6 @@
           "type": "collection_item",
           "settings": {
             "collection": "humidifiers",
-            "image": "shopify://shop_images/pdp_best-sleep-bundle_white_gallery_2_image_81e1dd48-221f-45cf-ba4b-cee08f2120a9.jpg",
             "title": "Humidifiers for Sleep",
             "collection_link": "/collections/best-essential-oils-for-sleep#humidifiers"
           }
