@@ -50,6 +50,7 @@
         },
         "1248e930-5734-45b4-a1d6-a814910fdb63": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "pick_mode": "first_available",
             "enable_historystate": true,
@@ -59,6 +60,29 @@
             "picker_type": "block",
             "size_chart_source": "page",
             "size_chart_page": "size-chart"
+          }
+        },
+        "linked_products_Gk4FFF": {
+          "type": "linked_products",
+          "settings": {
+            "option_name": "Scents",
+            "option_values": "",
+            "product_list": [
+              "boost-essential-oil-blend",
+              "breathe-essential-oil-blend",
+              "ceremony-essential-oil-blend",
+              "golden-essential-oil-blend",
+              "grove-essential-oil-blend",
+              "legacy-essential-oil-blend",
+              "moonbeam-essential-oil-blend",
+              "retreat-essential-oil-blend",
+              "pacific-essential-oil-blend",
+              "sleep-essential-oil-blend",
+              "sunset-essential-oil-blend",
+              "sejour-essential-oil-blend"
+            ],
+            "linked_type": "image",
+            "linked_size": "small"
           }
         },
         "quantity_selector_XCH8WV": {
@@ -144,6 +168,7 @@
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
+        "linked_products_Gk4FFF",
         "quantity_selector_XCH8WV",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
