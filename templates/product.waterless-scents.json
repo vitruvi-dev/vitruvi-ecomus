@@ -75,7 +75,7 @@
               "sleep-air-scent-refill",
               "warm-vanilla-air-scent-refill"
             ],
-            "linked_type": "color_rounded",
+            "linked_type": "block_with_color",
             "linked_size": "small"
           }
         },
