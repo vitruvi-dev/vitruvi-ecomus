@@ -99,7 +99,8 @@
           "settings": {
             "title": "Diffusers",
             "collection_list": [
-              "waterless-diffusers"
+              "waterless-diffusers",
+              "essential-oil-diffusers"
             ],
             "image_ratio": "square",
             "image_size": true,
