@@ -89,7 +89,7 @@
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "custom",
+            "mega_width": "full",
             "mega_custom_width": 1000
           }
         },
@@ -106,7 +106,7 @@
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "custom",
+            "mega_width": "full",
             "mega_custom_width": 1000
           }
         },
@@ -183,7 +183,7 @@
         "header_colors": "scheme-1",
         "main_menu": "header_desktop",
         "lazy_mn": true,
-        "menu_position": "end",
+        "menu_position": "start",
         "menu_size": "lg",
         "menu_weight": "normal",
         "text_transform": false,
