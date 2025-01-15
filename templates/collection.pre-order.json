@@ -57,7 +57,7 @@
         "heading_Bjg9Vx": {
           "type": "heading",
           "settings": {
-            "heading": "The <i>Air</i><br>Waterless Scent Diffuser",
+            "heading": "<i>AIR</i>",
             "heading_fs": "h4"
           }
         }
@@ -71,6 +71,31 @@
       ],
       "settings": {
         "spacing_item": 5,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_FpE7Q4": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_xjrXtP": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Waterless Scent Diffuser",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_xjrXtP"
+      ],
+      "settings": {
+        "spacing_item": 0,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
@@ -1082,6 +1107,7 @@
   "order": [
     "heading",
     "top_heading_LKRnyK",
+    "top_heading_FpE7Q4",
     "countdown_text_h939Yg",
     "featured_product_4PVpj9",
     "featured_collection_grid_j8DcaG",
