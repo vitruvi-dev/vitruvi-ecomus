@@ -242,7 +242,7 @@
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
       "settings": {
-        "heading_align": "start",
+        "heading_align": "center",
         "sec_heading": "Scent Deals",
         "heading_tag": "h2",
         "heading_size": "h5",
