@@ -425,14 +425,14 @@
         "heading_Yk8Ark": {
           "type": "heading",
           "settings": {
-            "heading": "{{ product.metafields.ecomus.feature_2_heading.value }}",
+            "heading": "{{ product.metafields.ecomus.banner_header.value }}",
             "heading_fs": "h4"
           }
         },
         "sub_heading_dXe8rc": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "{{ product.metafields.ecomus.feature_2_subheading.value }}",
+            "sub_heading": "{{ product.metafields.ecomus.banner_subheader.value }}",
             "sub_heading_fs": "lg"
           }
         }
