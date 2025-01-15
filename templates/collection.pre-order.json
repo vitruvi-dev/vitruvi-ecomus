@@ -47,24 +47,24 @@
     "top_heading_LKRnyK": {
       "type": "top-heading",
       "blocks": {
-        "heading_Bjg9Vx": {
-          "type": "heading",
-          "settings": {
-            "heading": "Introducing",
-            "heading_fs": "h4"
-          }
-        },
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "The <i>Air</i> Waterless Diffuser",
-            "sub_heading_fs": "base"
+            "sub_heading": "Introducing",
+            "sub_heading_fs": "xl"
+          }
+        },
+        "heading_Bjg9Vx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<i>Air</i> Waterless Scent Diffuser",
+            "heading_fs": "h4"
           }
         }
       },
       "block_order": [
-        "heading_Bjg9Vx",
-        "sub_heading_wpqzpJ"
+        "sub_heading_wpqzpJ",
+        "heading_Bjg9Vx"
       ],
       "custom_css": [
         "i {font-style: normal; font-family: \"Kaftan\";}"
