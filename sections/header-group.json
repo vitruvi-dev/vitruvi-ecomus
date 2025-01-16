@@ -93,23 +93,6 @@
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_qYqRMM": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Diffusers",
-            "collection_list": [
-              "waterless-diffusers",
-              "essential-oil-diffusers"
-            ],
-            "image_ratio": "square",
-            "image_size": true,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "full",
-            "mega_custom_width": 1200
-          }
-        },
         "mega_product_3Dp8aK": {
           "type": "mega_product",
           "settings": {
@@ -137,23 +120,6 @@
               "build-your-own-scent-bundle"
             ],
             "image_ratio": "square",
-            "image_size": true,
-            "mega_menu_colors": "",
-            "mega_position": "bottom",
-            "mega_width": "full",
-            "mega_custom_width": 1000
-          }
-        },
-        "mega_shop_Bk7mfE": {
-          "type": "mega_shop",
-          "disabled": true,
-          "settings": {
-            "title": "Bundle & Save",
-            "collection_list": [
-              "gifts",
-              "bundle-and-save"
-            ],
-            "image_ratio": "adapt_image",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -197,17 +163,32 @@
             "mega_width": "custom",
             "mega_custom_width": 700
           }
+        },
+        "mega_shop_V7BHH3": {
+          "type": "mega_shop",
+          "settings": {
+            "title": "Pre-Order",
+            "collection_list": [
+              "pre-order",
+              "back-to-school-savings"
+            ],
+            "image_ratio": "adapt_image",
+            "image_size": true,
+            "mega_menu_colors": "",
+            "mega_position": "bottom",
+            "mega_width": "full",
+            "mega_custom_width": 1200
+          }
         }
       },
       "block_order": [
         "mega_product_QGCxg6",
         "mega_product_k7LrJx",
-        "mega_shop_qYqRMM",
         "mega_product_3Dp8aK",
         "mega_product_iLwycz",
-        "mega_shop_Bk7mfE",
         "mega_product_dbAGjq",
-        "mega_product_GpBgrE"
+        "mega_product_GpBgrE",
+        "mega_shop_V7BHH3"
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}"
