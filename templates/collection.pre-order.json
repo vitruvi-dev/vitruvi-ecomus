@@ -117,11 +117,11 @@
             "sub_heading": "Introducing",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "bold",
-            "sub_heading_space": 12,
+            "sub_heading_space": 5,
             "heading": "AIR",
             "heading_fs": "h3",
             "heading_fw": "normal",
-            "heading_space": 18,
+            "heading_space": 20,
             "desc": "Vitruvi’s latest innovation—the Air Waterless Diffuser fills your space with long-lasting, all-natural scent using cold air diffusion.",
             "des_space": 28,
             "btn_label": "",
@@ -137,7 +137,7 @@
             "content_pd_y": 15,
             "content_pd_x": 100,
             "col_w_mb": "2",
-            "row_count_mb": 2,
+            "row_count_mb": 1,
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
@@ -172,7 +172,7 @@
             "content_pd_y": 15,
             "content_pd_x": 15,
             "col_w_mb": "2",
-            "row_count_mb": 3,
+            "row_count_mb": 1,
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
@@ -184,13 +184,13 @@
       ],
       "custom_css": [
         ".hdt-row-grid {row-gap: 0px; column-gap: 0px;}",
-        ".hdt-subheading,.hdt-des {font-size: 100%;}",
-        "@media (min-width: 786px) {.hdt-subheading, .hdt-des {font-size: 130%; } .hdt-heading {font-size: 1000%; }}",
-        ".hdt-heading {font-family: \"Kaftan\"; font-size: 300%;}"
+        "p {font-size: 80% !important;}",
+        "h3 {font-family: \"Kaftan\"; font-size: 250% !important;}",
+        "@media (min-width: 786px) {p {font-size: 130% !important; } h3 {font-size: 500% !important; }}"
       ],
       "settings": {
-        "row_height": 500,
-        "row_height_mb": 100,
+        "row_height": 400,
+        "row_height_mb": 230,
         "padding_top": 100,
         "padding_bottom": 40,
         "padding_rate": 75
