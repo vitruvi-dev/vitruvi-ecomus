@@ -81,7 +81,7 @@
         "custom_liquid_kkqPfE": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #a3a4a2; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/Boost_-_Air.png?v=1736962003\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\n      Exclusive Pre-Order Gift\n    </h5>\n    <p>Your choice of scent refill added to every Air Diffuser order, while supplies last.</p>\n  </div>\n</div>"
+            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/Boost_-_Air.png?v=1736962003\">\n  </div>\n  <div class=\"gwp-text\">\n    <p><b>Exclusive Pre-Order Gift:</b> Your choice of scent refill added to every Air Diffuser order, while supplies last.</p>\n  </div>\n</div>"
           }
         },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
