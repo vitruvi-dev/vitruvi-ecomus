@@ -502,7 +502,7 @@
         ".hdt-container {max-width: 80%;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/9square.jpg",
+        "image": "shopify://shop_images/6square.jpg",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "",
@@ -543,7 +543,89 @@
         ".hdt-container {max-width: 80%;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/10aquare.jpg",
+        "image": "shopify://shop_images/7square.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_DGg3iC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ccXq94": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clean, Natural Scenting",
+            "heading_fs": "h4"
+          }
+        },
+        "text_Gmkg9i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vitruvi’s 100% natural scent refills provide 180 hours of toxin-free fragrance, creating a calm, inviting atmosphere throughout your home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ccXq94",
+        "text_Gmkg9i"
+      ],
+      "custom_css": [
+        ".hdt-container {max-width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/9square.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_PBMc4a": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wt7cbr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Advanced Scent Technology",
+            "heading_fs": "h4"
+          }
+        },
+        "text_VdzXUY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vitruvi’s 100% natural scent refills provide 180 hours of toxin-free fragrance, creating a calm, inviting atmosphere throughout your home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wt7cbr",
+        "text_VdzXUY"
+      ],
+      "custom_css": [
+        ".hdt-container {max-width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/8square.jpg",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "",
@@ -807,6 +889,8 @@
     "featured_collection_grid_j8DcaG",
     "image_with_text_nqkNrG",
     "image_with_text_fjGeFg",
+    "image_with_text_DGg3iC",
+    "image_with_text_PBMc4a",
     "custom_line_zAe7AX",
     "collections_list_simple_kY6xMW",
     "accordion_qkAGnW",
