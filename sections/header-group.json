@@ -166,6 +166,7 @@
         },
         "mega_shop_V7BHH3": {
           "type": "mega_shop",
+          "disabled": true,
           "settings": {
             "title": "Pre-Order",
             "collection_list": [
@@ -192,7 +193,7 @@
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}",
-        ".hdt-mega-shop .hdt-grid-cols-2 {--cols: 4;}"
+        ".hdt-mega-shop .hdt-grid-cols-2 {--cols: 5;}"
       ],
       "settings": {
         "header_layout": "logo_left",
