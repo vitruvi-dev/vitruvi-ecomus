@@ -192,7 +192,7 @@
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}",
-        ".hdt-mega-shop > .hdt-grid-cols-2 {--cols: 4;}"
+        ".hdt-mega-shop .hdt-grid-cols-2 {--cols: 4;}"
       ],
       "settings": {
         "header_layout": "logo_left",
