@@ -395,6 +395,18 @@
         "view_products_details_dLcHK8": {
           "type": "view_products_details",
           "settings": {}
+        },
+        "img_trust_3AXTHX": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": true,
+            "mess": "",
+            "source": "1",
+            "image": "shopify://shop_images/Screenshot_2025-01-16_at_11.13.39_AM.png",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
         }
       },
       "block_order": [
@@ -406,7 +418,8 @@
         "custom_liquid_Jkwf9X",
         "custom_liquid_V86MGd",
         "description_Ly67FF",
-        "view_products_details_dLcHK8"
+        "view_products_details_dLcHK8",
+        "img_trust_3AXTHX"
       ],
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
