@@ -567,47 +567,6 @@
         "padding_rate": 75
       }
     },
-    "image_with_text_PBMc4a": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_wt7cbr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Advanced Scent Technology",
-            "heading_fs": "h4"
-          }
-        },
-        "text_VdzXUY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Vitruvi’s 100% natural scent refills provide 180 hours of toxin-free fragrance, creating a calm, inviting atmosphere throughout your home.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_wt7cbr",
-        "text_VdzXUY"
-      ],
-      "custom_css": [
-        ".hdt-container {width: 80%; max-width: 1440px;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/8square.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "left",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "image_with_text_fjGeFg": {
       "type": "image-with-text",
       "blocks": {
@@ -686,6 +645,47 @@
         "content_position_mb": "center",
         "alignment_mb": "center",
         "padding_top": 30,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_PBMc4a": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wt7cbr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Advanced Scent Technology",
+            "heading_fs": "h4"
+          }
+        },
+        "text_VdzXUY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vitruvi’s 100% natural scent refills provide 30 days of toxin-free fragrance, creating a calm, inviting atmosphere throughout your home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wt7cbr",
+        "text_VdzXUY"
+      ],
+      "custom_css": [
+        ".hdt-container {width: 80%; max-width: 1440px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/8square.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 100,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -938,9 +938,9 @@
     "featured_collection_grid_j8DcaG",
     "featured_collection_carousel_9phELP",
     "image_with_text_nqkNrG",
-    "image_with_text_PBMc4a",
     "image_with_text_fjGeFg",
     "image_with_text_DGg3iC",
+    "image_with_text_PBMc4a",
     "custom_line_zAe7AX",
     "collections_list_simple_kY6xMW",
     "accordion_qkAGnW",
