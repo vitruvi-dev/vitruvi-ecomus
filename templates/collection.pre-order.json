@@ -189,7 +189,7 @@
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
-            "sub_heading": "Introducing",
+            "sub_heading": "Pre-Orders Available Now",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "bold",
             "sub_heading_space": 5,
@@ -266,13 +266,21 @@
         "row_height": 400,
         "row_height_mb": 100,
         "padding_top": 100,
-        "padding_bottom": 40,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
     "top_heading_hQHreJ": {
       "type": "top-heading",
       "blocks": {
+        "heading_L9b6Ka": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Pre-Order Now",
+            "heading_fs": "h5"
+          }
+        },
         "sub_heading_RyHR7E": {
           "type": "sub_heading",
           "settings": {
@@ -282,7 +290,12 @@
         }
       },
       "block_order": [
+        "heading_L9b6Ka",
         "sub_heading_RyHR7E"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {font-style: italic;}"
       ],
       "settings": {
         "spacing_item": 30,
@@ -290,7 +303,7 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 10,
+        "padding_top": 20,
         "padding_bottom": 40,
         "padding_rate": 75
       }
