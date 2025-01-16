@@ -137,6 +137,9 @@
       "block_order": [
         "slide_item_DYYwb9"
       ],
+      "custom_css": [
+        ".hdt-slide_heading {font-family: \"Kaftan\";}"
+      ],
       "settings": {
         "image_height": "fixed",
         "fixed_height": 300,
