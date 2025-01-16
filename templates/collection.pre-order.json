@@ -685,7 +685,7 @@
         "image_last_mb": true,
         "content_position_mb": "center",
         "alignment_mb": "center",
-        "padding_top": 100,
+        "padding_top": 30,
         "padding_bottom": 0,
         "padding_rate": 75
       }
