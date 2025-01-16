@@ -274,7 +274,7 @@
         "order_d6bcyF": {
           "type": "order",
           "settings": {
-            "hide_pre": true,
+            "hide_pre": false,
             "icon_svg": "delivery",
             "ani": "none",
             "txt": "Experience the Air Waterless Diffuser first—pre-orders ship late February.",
@@ -312,9 +312,8 @@
         },
         "description_Ly67FF": {
           "type": "description",
-          "disabled": true,
           "settings": {
-            "des": "1",
+            "des": "2",
             "short_des": "",
             "length": 31
           }
