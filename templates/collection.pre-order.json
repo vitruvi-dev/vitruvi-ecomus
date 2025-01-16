@@ -477,40 +477,6 @@
         "padding_rate": 75
       }
     },
-    "top_heading_xYTCbQ": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_iDLaNe": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why Waterless?",
-            "heading_fs": "h2"
-          }
-        },
-        "sub_heading_GmPYJ4": {
-          "type": "sub_heading",
-          "disabled": true,
-          "settings": {
-            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
-            "sub_heading_fs": "base"
-          }
-        }
-      },
-      "block_order": [
-        "heading_iDLaNe",
-        "sub_heading_GmPYJ4"
-      ],
-      "settings": {
-        "spacing_item": 30,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "image_with_text_nqkNrG": {
       "type": "image-with-text",
       "blocks": {
@@ -807,7 +773,6 @@
     "image_with_text_ThLiQR",
     "featured_product_4PVpj9",
     "featured_collection_grid_j8DcaG",
-    "top_heading_xYTCbQ",
     "image_with_text_nqkNrG",
     "custom_line_zAe7AX",
     "collections_list_simple_kY6xMW",
