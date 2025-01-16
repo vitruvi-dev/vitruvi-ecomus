@@ -44,89 +44,26 @@
         "padding_rate": 75
       }
     },
-    "top_heading_LKRnyK": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_wpqzpJ": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Introducing",
-            "sub_heading_fs": "xl"
-          }
-        },
-        "heading_Bjg9Vx": {
-          "type": "heading",
-          "settings": {
-            "heading": "<i>AIR</i>",
-            "heading_fs": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_wpqzpJ",
-        "heading_Bjg9Vx"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "i {font-style: normal; font-family: \"Kaftan\";}"
-      ],
-      "settings": {
-        "spacing_item": 5,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_FpE7Q4": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_xjrXtP": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Waterless Scent Diffuser",
-            "sub_heading_fs": "xl"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_xjrXtP"
-      ],
-      "disabled": true,
-      "settings": {
-        "spacing_item": 0,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_CHRgmF": {
+    "hero_image_PMgtcg": {
       "type": "hero-image",
       "blocks": {
-        "heading_7U6AWj": {
+        "heading_FFUKrU": {
           "type": "heading",
           "settings": {
             "heading": "Introducing",
-            "heading_fs": "h5",
+            "heading_fs": "h6",
             "heading_fw": "normal"
           }
         },
-        "heading_wG94Uc": {
+        "heading_Uw3PJG": {
           "type": "heading",
           "settings": {
-            "heading": "<i>AIR</i>",
+            "heading": "<i>Air</i>",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
         },
-        "text_NhUGBA": {
+        "text_JzA4f3": {
           "type": "text",
           "settings": {
             "text": "<p>Vitruvi’s latest innovation—the Air Waterless Diffuser fills your space with long-lasting, all-natural scent using cold air diffusion.</p>",
@@ -135,20 +72,20 @@
         }
       },
       "block_order": [
-        "heading_7U6AWj",
-        "heading_wG94Uc",
-        "text_NhUGBA"
+        "heading_FFUKrU",
+        "heading_Uw3PJG",
+        "text_JzA4f3"
       ],
       "custom_css": [
-        ".hdt-hero-image__heading {font-family: \"Founders Grotesk\";}",
-        "i {font-family: \"Kaftan\"; font-style: normal;}"
+        "h2 {font-family: \"Founders Grotesk\";}",
+        "i {font-style: normal; font-family: \"Kaftan\"; font-size: 150%;}"
       ],
       "settings": {
         "image_height": "fixed",
-        "fixed_height": 200,
+        "fixed_height": 300,
         "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/transparent.png",
+        "fixed_height_mb": 300,
+        "image": "shopify://shop_images/page_manual-main-blue_image_3.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -158,55 +95,11 @@
         "content_align": "center",
         "content_position_mb": "center",
         "content_align_mb": "center",
-        "full_width": true,
+        "full_width": false,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 36,
+        "padding_top": 80,
         "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
-    "countdown_text_h939Yg": {
-      "type": "countdown_text",
-      "blocks": {
-        "text_RUD6mp": {
-          "type": "text",
-          "settings": {
-            "heading": "{{ collection.title }}"
-          }
-        },
-        "text_2_bCkXKC": {
-          "type": "text_2",
-          "settings": {
-            "sub_heading": "<i>Sweet Dreams Are Made of 💤s Sale: Up to 30% Off Sitewide</i><br><br>Offer on until Jan 19 at midnight PST"
-          }
-        }
-      },
-      "block_order": [
-        "text_RUD6mp",
-        "text_2_bCkXKC"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
-        ".hdt-subheading {font-weight: 200;}",
-        "i {font-size: 90; opacity: 60%;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "year": 2025,
-        "month": 1,
-        "day": 20,
-        "hour": 0,
-        "minute": 0,
-        "effect_cd": "move_top",
-        "uppercase": false,
-        "prepend_number": false,
-        "hide_on_complete": true,
-        "mess_complete": "",
-        "color_scheme": "",
-        "padding_top": 15,
-        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -1167,10 +1060,7 @@
   },
   "order": [
     "heading",
-    "top_heading_LKRnyK",
-    "top_heading_FpE7Q4",
-    "hero_image_CHRgmF",
-    "countdown_text_h939Yg",
+    "hero_image_PMgtcg",
     "featured_product_4PVpj9",
     "featured_collection_grid_j8DcaG",
     "custom_line_zAe7AX",
