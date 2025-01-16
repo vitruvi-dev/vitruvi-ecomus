@@ -593,7 +593,8 @@
       ".lb-cpb-progress-text-wrapper {padding-bottom: 10px;}",
       ".hdt-badge__sleep-essential {background-color: #476373 !important;}",
       ".aca-product-price,.aca-product-discounted-price {display: none;}",
-      ".hdt-product-info__list > .hdt-product__title,.hdt-product-info__list > .shopify-app-block {margin-bottom: 1rem !important;}"
+      ".hdt-product-info__list > .hdt-product__title {margin-bottom: 1rem !important;}",
+      ".hdt-product-info__list > .shopify-app-block, .hdt-product-info__list > .hdt-product__price {margin-bottom: 2rem !important;}"
     ]
   }
 }
