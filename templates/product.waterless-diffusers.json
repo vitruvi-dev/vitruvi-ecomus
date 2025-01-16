@@ -128,12 +128,6 @@
             "svg": "",
             "height": 30
           }
-        },
-        "complimentary_products_KxjwTC": {
-          "type": "complimentary_products",
-          "settings": {
-            "text": "Pairs well with"
-          }
         }
       },
       "block_order": [
@@ -148,8 +142,7 @@
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
         "custom_liquid_kkqPfE",
-        "img_trust_imFfw3",
-        "complimentary_products_KxjwTC"
+        "img_trust_imFfw3"
       ],
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
