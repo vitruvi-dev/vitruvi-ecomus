@@ -271,6 +271,22 @@
           "type": "price",
           "settings": {}
         },
+        "order_d6bcyF": {
+          "type": "order",
+          "settings": {
+            "hide_pre": true,
+            "icon_svg": "delivery",
+            "ani": "none",
+            "txt": "Experience the Air Waterless Diffuser first—pre-orders ship late February.",
+            "ds": 10,
+            "de": 15,
+            "mode": "1",
+            "cut_day": "SAT,SUN",
+            "off_days": "23/12/****\n24/12/****\n01/01/****",
+            "frm_day": "t44, t45 t46",
+            "time": "16:00:00"
+          }
+        },
         "buy_buttons_NMNaGy": {
           "type": "buy_buttons",
           "settings": {
@@ -312,6 +328,7 @@
         "badges_DjG7qy",
         "title_B6AfNV",
         "price_3WTNYB",
+        "order_d6bcyF",
         "buy_buttons_NMNaGy",
         "custom_liquid_Jkwf9X",
         "custom_liquid_V86MGd",
