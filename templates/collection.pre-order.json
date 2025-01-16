@@ -331,6 +331,18 @@
           "type": "price",
           "settings": {}
         },
+        "img_trust_3AXTHX": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": true,
+            "mess": "",
+            "source": "1",
+            "image": "shopify://shop_images/Screenshot_2025-01-16_at_11.13.39_AM.png",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        },
         "order_d6bcyF": {
           "type": "order",
           "settings": {
@@ -345,19 +357,6 @@
             "off_days": "23/12/****\n24/12/****\n01/01/****",
             "frm_day": "t44, t45 t46",
             "time": "16:00:00"
-          }
-        },
-        "img_trust_3AXTHX": {
-          "type": "img_trust",
-          "disabled": true,
-          "settings": {
-            "show_icon": true,
-            "mess": "",
-            "source": "1",
-            "image": "shopify://shop_images/Screenshot_2025-01-16_at_11.13.39_AM.png",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
           }
         },
         "buy_buttons_NMNaGy": {
@@ -401,8 +400,8 @@
         "badges_DjG7qy",
         "title_B6AfNV",
         "price_3WTNYB",
-        "order_d6bcyF",
         "img_trust_3AXTHX",
+        "order_d6bcyF",
         "buy_buttons_NMNaGy",
         "custom_liquid_Jkwf9X",
         "custom_liquid_V86MGd",
