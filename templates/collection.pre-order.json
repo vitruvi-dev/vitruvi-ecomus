@@ -82,9 +82,9 @@
       ],
       "settings": {
         "image_height": "fixed",
-        "fixed_height": 300,
+        "fixed_height": 200,
         "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
+        "fixed_height_mb": 100,
         "image": "shopify://shop_images/page_manual-main-blue_image_3.png",
         "link_img": "",
         "target": false,
