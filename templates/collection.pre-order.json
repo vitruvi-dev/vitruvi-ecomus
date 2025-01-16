@@ -44,6 +44,81 @@
         "padding_rate": 75
       }
     },
+    "main": {
+      "type": "main-collection",
+      "blocks": {
+        "featured_products_rgCDg3": {
+          "type": "featured_products",
+          "settings": {
+            "widget_heading": "Featured",
+            "collection": "",
+            "product_list": [
+              "air-waterless-diffuser"
+            ],
+            "products_count": 1,
+            "image_ratio": "square",
+            "image_size": true
+          }
+        },
+        "filter_bB4hRd": {
+          "type": "filter",
+          "settings": {}
+        },
+        "featured_products_LzB6Km": {
+          "type": "featured_products",
+          "disabled": true,
+          "settings": {
+            "widget_heading": "Holiday Exclusives 🎄",
+            "collection": "",
+            "product_list": [
+              "stone-diffuser-holiday-bundle",
+              "cloud-humidifier-holiday-bundle",
+              "festive-favorites-essential-oil-kit",
+              "sugar-spice-diffuser-blend",
+              "apres-essential-oil-blend"
+            ],
+            "products_count": 20,
+            "image_ratio": "adapt_image",
+            "image_size": true
+          }
+        }
+      },
+      "block_order": [
+        "featured_products_rgCDg3",
+        "filter_bB4hRd",
+        "featured_products_LzB6Km"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "product_des": "10",
+        "image_ratio": "square",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 50,
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "2",
+        "pagination_type": "infinite",
+        "paginate_pos": "center",
+        "dis_pagination": 60,
+        "enable_sorting": true,
+        "enable_filtering": false,
+        "enable_num_cols_selector": false,
+        "widget_heading": "",
+        "cat_source": "2",
+        "cat_link_list": "footer_products",
+        "count": true,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
+        "padding_top": 0,
+        "padding_bottom": 70,
+        "padding_rate": 75,
+        "sidebar_position": "left",
+        "sidebar_size": "medium"
+      }
+    },
     "hero_image_PMgtcg": {
       "type": "hero-image",
       "blocks": {
@@ -402,79 +477,38 @@
         "padding_rate": 75
       }
     },
-    "main": {
-      "type": "main-collection",
+    "top_heading_xYTCbQ": {
+      "type": "top-heading",
       "blocks": {
-        "featured_products_rgCDg3": {
-          "type": "featured_products",
+        "heading_iDLaNe": {
+          "type": "heading",
           "settings": {
-            "widget_heading": "Featured",
-            "collection": "",
-            "product_list": [
-              "air-waterless-diffuser"
-            ],
-            "products_count": 1,
-            "image_ratio": "square",
-            "image_size": true
+            "heading": "Why Waterless?",
+            "heading_fs": "h2"
           }
         },
-        "filter_bB4hRd": {
-          "type": "filter",
-          "settings": {}
-        },
-        "featured_products_LzB6Km": {
-          "type": "featured_products",
+        "sub_heading_GmPYJ4": {
+          "type": "sub_heading",
           "disabled": true,
           "settings": {
-            "widget_heading": "Holiday Exclusives 🎄",
-            "collection": "",
-            "product_list": [
-              "stone-diffuser-holiday-bundle",
-              "cloud-humidifier-holiday-bundle",
-              "festive-favorites-essential-oil-kit",
-              "sugar-spice-diffuser-blend",
-              "apres-essential-oil-blend"
-            ],
-            "products_count": 20,
-            "image_ratio": "adapt_image",
-            "image_size": true
+            "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
+            "sub_heading_fs": "base"
           }
         }
       },
       "block_order": [
-        "featured_products_rgCDg3",
-        "filter_bB4hRd",
-        "featured_products_LzB6Km"
+        "heading_iDLaNe",
+        "sub_heading_GmPYJ4"
       ],
-      "disabled": true,
-      "custom_css": [],
       "settings": {
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 50,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "infinite",
-        "paginate_pos": "center",
-        "dis_pagination": 60,
-        "enable_sorting": true,
-        "enable_filtering": false,
-        "enable_num_cols_selector": false,
-        "widget_heading": "",
-        "cat_source": "2",
-        "cat_link_list": "footer_products",
-        "count": true,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-2ca39d95-034d-4985-8998-e1b90874a76c",
-        "padding_top": 0,
-        "padding_bottom": 70,
-        "padding_rate": 75,
-        "sidebar_position": "left",
-        "sidebar_size": "medium"
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
       }
     },
     "image_with_text_nqkNrG": {
@@ -767,12 +801,13 @@
   },
   "order": [
     "heading",
+    "main",
     "hero_image_PMgtcg",
     "banner_masonry_qbNABz",
     "image_with_text_ThLiQR",
     "featured_product_4PVpj9",
     "featured_collection_grid_j8DcaG",
-    "main",
+    "top_heading_xYTCbQ",
     "image_with_text_nqkNrG",
     "custom_line_zAe7AX",
     "collections_list_simple_kY6xMW",
