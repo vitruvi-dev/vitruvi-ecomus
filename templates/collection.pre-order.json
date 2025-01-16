@@ -212,7 +212,7 @@
             "content_pd_y": 15,
             "content_pd_x": 100,
             "col_w_mb": "2",
-            "row_count_mb": 1,
+            "row_count_mb": 2,
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
@@ -247,7 +247,7 @@
             "content_pd_y": 15,
             "content_pd_x": 15,
             "col_w_mb": "2",
-            "row_count_mb": 1,
+            "row_count_mb": 3,
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
@@ -264,7 +264,7 @@
       ],
       "settings": {
         "row_height": 400,
-        "row_height_mb": 230,
+        "row_height_mb": 100,
         "padding_top": 100,
         "padding_bottom": 40,
         "padding_rate": 75
