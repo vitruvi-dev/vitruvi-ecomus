@@ -134,7 +134,8 @@
         "sub_heading_3FzyRP"
       ],
       "custom_css": [
-        "i {font-style: normal; font-family: \"Kaftan\";}"
+        "h1, h2, h3, h4, h5, h6, p {text-align: center;}",
+        ".hdt-heading {font-style: normal; font-family: \"Kaftan\"; font-size: 600%;}"
       ],
       "settings": {
         "image": "shopify://shop_images/7square.jpg",
