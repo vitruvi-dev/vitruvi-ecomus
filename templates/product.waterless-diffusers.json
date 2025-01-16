@@ -88,7 +88,7 @@
           "type": "linked_products",
           "settings": {
             "option_name": "Waterless Diffusers",
-            "option_values": "",
+            "option_values": "ok",
             "product_list": [
               "air-waterless-diffuser"
             ],
@@ -99,7 +99,7 @@
         "linked_products_NcjDiQ": {
           "type": "linked_products",
           "settings": {
-            "option_name": "Scents",
+            "option_name": "Scent Refills",
             "option_values": "",
             "product_list": [
               "boost-air-scent-refill",
