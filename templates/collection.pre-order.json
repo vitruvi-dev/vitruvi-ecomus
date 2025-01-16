@@ -142,7 +142,7 @@
       "settings": {
         "image": "shopify://shop_images/7square.jpg",
         "style_image": "1",
-        "image_effect": "lunc",
+        "image_effect": "zoom-in",
         "color_scheme": "scheme-5",
         "image_last": true,
         "content_position": "center",
