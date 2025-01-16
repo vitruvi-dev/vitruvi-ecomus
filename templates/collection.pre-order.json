@@ -535,7 +535,7 @@
         "text_VdzXUY"
       ],
       "custom_css": [
-        ".hdt-container {max-width: 80%;}"
+        ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/8square.jpg",
@@ -576,7 +576,7 @@
         "text_tHrATe"
       ],
       "custom_css": [
-        ".hdt-container {max-width: 80%;}"
+        ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/6square.jpg",
@@ -617,7 +617,7 @@
         "text_Efa6Wz"
       ],
       "custom_css": [
-        ".hdt-container {max-width: 80%;}"
+        ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/7square.jpg",
@@ -658,7 +658,7 @@
         "text_Gmkg9i"
       ],
       "custom_css": [
-        ".hdt-container {max-width: 80%;}"
+        ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/9square.jpg",
