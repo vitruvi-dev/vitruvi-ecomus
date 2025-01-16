@@ -483,35 +483,23 @@
         "heading_CqWH9G": {
           "type": "heading",
           "settings": {
-            "heading": "Why Waterless?",
+            "heading": "Lasting Fragrance, Effortless Ambiance",
             "heading_fs": "h3"
           }
         },
         "text_tHrATe": {
           "type": "text",
           "settings": {
-            "text": "<ol><li>The4 Studio</li></ol>"
-          }
-        },
-        "button_aPjA9k": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
+            "text": "<p>With up to 180 hours (45 days) of scenting per cartridge, the Air Waterless Diffuser keeps your space consistently refreshed—no refills, no hassle.</p>"
           }
         }
       },
       "block_order": [
         "heading_CqWH9G",
-        "text_tHrATe",
-        "button_aPjA9k"
+        "text_tHrATe"
       ],
       "settings": {
+        "image": "shopify://shop_images/9square.jpg",
         "style_image": "1",
         "image_effect": "lunc",
         "color_scheme": "",
