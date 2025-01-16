@@ -76,6 +76,7 @@
         "heading_Uw3PJG",
         "text_JzA4f3"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"Founders Grotesk\";}",
         "i {font-style: normal; font-family: \"Kaftan\"; font-size: 120%;}"
@@ -134,8 +135,9 @@
         "sub_heading_3FzyRP"
       ],
       "custom_css": [
-        "h1, h2, h3, h4, h5, h6, p {text-align: center;}",
-        ".hdt-heading {font-style: normal; font-family: \"Kaftan\"; font-size: 600%;}"
+        "h1,h2,h3,h4,h5,h6,p {text-align: center;}",
+        ".hdt-heading {font-style: normal; font-family: \"Kaftan\"; font-size: 400%;}",
+        "@media (min-width: 786px) {.hdt-heading {font-size: 600%; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/7square.jpg",
@@ -149,8 +151,8 @@
         "image_last_mb": true,
         "content_position_mb": "center",
         "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "padding_rate": 75
       }
     },
