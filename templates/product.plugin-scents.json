@@ -59,14 +59,7 @@
           "settings": {
             "option_name": "Scent",
             "option_values": "{{ product.title }}",
-            "product_list": [
-              "boost-air-scent-refill",
-              "forest-frost-air-scent-refill",
-              "pacific-air-scent-refill",
-              "rosy-glow-air-scent-refill",
-              "sleep-air-scent-refill",
-              "warm-vanilla-air-scent-refill"
-            ],
+            "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products.value }}",
             "linked_type": "image",
             "linked_size": "small"
           }
