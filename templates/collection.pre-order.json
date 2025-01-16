@@ -361,6 +361,19 @@
             "time": "16:00:00"
           }
         },
+        "img_trust_3AXTHX": {
+          "type": "img_trust",
+          "disabled": true,
+          "settings": {
+            "show_icon": true,
+            "mess": "",
+            "source": "1",
+            "image": "shopify://shop_images/Screenshot_2025-01-16_at_11.13.39_AM.png",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
+          }
+        },
         "buy_buttons_NMNaGy": {
           "type": "buy_buttons",
           "settings": {
@@ -386,6 +399,7 @@
         },
         "description_Ly67FF": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "des": "2",
             "short_des": "",
@@ -395,18 +409,6 @@
         "view_products_details_dLcHK8": {
           "type": "view_products_details",
           "settings": {}
-        },
-        "img_trust_3AXTHX": {
-          "type": "img_trust",
-          "settings": {
-            "show_icon": true,
-            "mess": "",
-            "source": "1",
-            "image": "shopify://shop_images/Screenshot_2025-01-16_at_11.13.39_AM.png",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
-          }
         }
       },
       "block_order": [
@@ -414,12 +416,12 @@
         "title_B6AfNV",
         "price_3WTNYB",
         "order_d6bcyF",
+        "img_trust_3AXTHX",
         "buy_buttons_NMNaGy",
         "custom_liquid_Jkwf9X",
         "custom_liquid_V86MGd",
         "description_Ly67FF",
-        "view_products_details_dLcHK8",
-        "img_trust_3AXTHX"
+        "view_products_details_dLcHK8"
       ],
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
@@ -539,6 +541,47 @@
         "padding_rate": 75
       }
     },
+    "image_with_text_PBMc4a": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wt7cbr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Advanced Scent Technology",
+            "heading_fs": "h4"
+          }
+        },
+        "text_VdzXUY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vitruvi’s 100% natural scent refills provide 180 hours of toxin-free fragrance, creating a calm, inviting atmosphere throughout your home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wt7cbr",
+        "text_VdzXUY"
+      ],
+      "custom_css": [
+        ".hdt-container {max-width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/8square.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_nqkNrG": {
       "type": "image-with-text",
       "blocks": {
@@ -651,47 +694,6 @@
         "image_effect": "lunc",
         "color_scheme": "",
         "image_last": true,
-        "content_position": "center",
-        "alignment": "left",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_PBMc4a": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_wt7cbr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Advanced Scent Technology",
-            "heading_fs": "h4"
-          }
-        },
-        "text_VdzXUY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Vitruvi’s 100% natural scent refills provide 180 hours of toxin-free fragrance, creating a calm, inviting atmosphere throughout your home.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_wt7cbr",
-        "text_VdzXUY"
-      ],
-      "custom_css": [
-        ".hdt-container {max-width: 80%;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/8square.jpg",
-        "style_image": "1",
-        "image_effect": "lunc",
-        "color_scheme": "",
-        "image_last": false,
         "content_position": "center",
         "alignment": "left",
         "content_pl": 0,
@@ -950,10 +952,10 @@
     "featured_product_4PVpj9",
     "featured_collection_grid_j8DcaG",
     "featured_collection_carousel_9phELP",
+    "image_with_text_PBMc4a",
     "image_with_text_nqkNrG",
     "image_with_text_fjGeFg",
     "image_with_text_DGg3iC",
-    "image_with_text_PBMc4a",
     "custom_line_zAe7AX",
     "collections_list_simple_kY6xMW",
     "accordion_qkAGnW",
