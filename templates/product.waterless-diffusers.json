@@ -87,8 +87,8 @@
         "linked_products_XCRUK3": {
           "type": "linked_products",
           "settings": {
-            "option_name": "Waterless Diffusers",
-            "option_values": "ok",
+            "option_name": "Diffusers",
+            "option_values": "",
             "product_list": [
               "air-waterless-diffuser"
             ],
