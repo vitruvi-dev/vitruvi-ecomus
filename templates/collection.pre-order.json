@@ -490,7 +490,7 @@
         "text_tHrATe": {
           "type": "text",
           "settings": {
-            "text": "<p>180 </p>"
+            "text": "<p>With up to 180 hours (45 days) of scenting per cartridge, the Air Waterless Diffuser keeps your space consistently refreshed—no refills, no hassle.</p>"
           }
         }
       },
@@ -507,6 +507,47 @@
         "image_effect": "lunc",
         "color_scheme": "",
         "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_fjGeFg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gtPhpL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Scent Your Whole Home",
+            "heading_fs": "h4"
+          }
+        },
+        "text_Efa6Wz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Able to scent up to 1,500 sq. ft., the Air Waterless Diffuser is ideal for large living areas, open layouts, and primary bedrooms.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gtPhpL",
+        "text_Efa6Wz"
+      ],
+      "custom_css": [
+        ".hdt-container {max-width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/10aquare.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
         "content_position": "center",
         "alignment": "center",
         "content_pl": 0,
@@ -765,6 +806,7 @@
     "featured_product_4PVpj9",
     "featured_collection_grid_j8DcaG",
     "image_with_text_nqkNrG",
+    "image_with_text_fjGeFg",
     "custom_line_zAe7AX",
     "collections_list_simple_kY6xMW",
     "accordion_qkAGnW",
