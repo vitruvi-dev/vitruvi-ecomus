@@ -59,7 +59,7 @@
           "type": "heading",
           "settings": {
             "heading": "<i>Air</i>",
-            "heading_fs": "h1",
+            "heading_fs": "h2",
             "heading_fw": "normal"
           }
         },
