@@ -172,7 +172,7 @@
               "pre-order",
               "back-to-school-savings"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
@@ -191,10 +191,7 @@
         "mega_shop_V7BHH3"
       ],
       "custom_css": [
-        ".hdt_label_1 {display: none;}",
-        ".hdt-collection-img {height: 100px; width: 100px;}",
-        ".hdt-ratio,.hdt-full-width-link,.hdt-collection-inner,.hdt-collection-item,.hdt-mega-item {height: 100px; width: 100px;}",
-        ".hdt-row-grid {align-items: start;}"
+        ".hdt_label_1 {display: none;}"
       ],
       "settings": {
         "header_layout": "logo_left",
