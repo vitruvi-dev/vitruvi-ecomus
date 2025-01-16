@@ -192,7 +192,7 @@
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}",
-        "img, .hdt-collection-img {max-height: 20%;}"
+        ".hdt-row-grid {grid-auto-rows: 300px;}"
       ],
       "settings": {
         "header_layout": "logo_left",
