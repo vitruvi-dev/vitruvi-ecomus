@@ -184,9 +184,8 @@
       ],
       "custom_css": [
         ".hdt-row-grid {row-gap: 0px; column-gap: 0px;}",
-        "p {font-size: 80% !important;}",
         "h3 {font-family: \"Kaftan\"; font-size: 250% !important;}",
-        "@media (min-width: 786px) {p {font-size: 130% !important; } h3 {font-size: 500% !important; }}"
+        "@media (min-width: 786px) {h3 {font-size: 500% !important; }}"
       ],
       "settings": {
         "row_height": 400,
