@@ -40,6 +40,7 @@
         },
         "custom_liquid_AxQg9G": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<span class=\"air-scent-refill\">Compatible with Vitruvi Air Waterless Scent Diffuser.</span>"
           }
