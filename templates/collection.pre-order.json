@@ -270,56 +270,28 @@
         "padding_rate": 75
       }
     },
-    "image_with_text_ThLiQR": {
-      "type": "image-with-text",
+    "top_heading_hQHreJ": {
+      "type": "top-heading",
       "blocks": {
-        "label_URpjPp": {
-          "type": "label",
-          "settings": {
-            "label": "Introducing",
-            "label_fs": "base"
-          }
-        },
-        "heading_m89wFc": {
-          "type": "heading",
-          "settings": {
-            "heading": "AIR",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_3FzyRP": {
+        "sub_heading_RyHR7E": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Vitruvi’s latest innovation—the Air Waterless Diffuser fills your space with long-lasting, all-natural scent using cold air diffusion.",
-            "sub_fs": "base"
+            "sub_heading": "Pre-order before the end of February to secure your choice of a free scent refill, while suppliest last.",
+            "sub_heading_fs": "base"
           }
         }
       },
       "block_order": [
-        "label_URpjPp",
-        "heading_m89wFc",
-        "sub_heading_3FzyRP"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h1,h2,h3,h4,h5,h6,p {text-align: center;}",
-        ".hdt-heading {font-style: normal; font-family: \"Kaftan\"; font-size: 400%;}",
-        "@media (min-width: 786px) {.hdt-heading {font-size: 600%; }}"
+        "sub_heading_RyHR7E"
       ],
       "settings": {
-        "image": "shopify://shop_images/7square.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "scheme-5",
-        "image_last": true,
-        "content_position": "center",
+        "spacing_item": 30,
         "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": true,
-        "content_position_mb": "center",
         "alignment_mb": "center",
-        "padding_top": 20,
-        "padding_bottom": 20,
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 10,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -498,7 +470,7 @@
     "featured_collection_carousel_9phELP": {
       "type": "featured-collection-carousel",
       "custom_css": [
-        ".hdt-container {max-width: 80%;}"
+        ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
         "heading_align": "center",
@@ -948,7 +920,7 @@
     "main",
     "hero_image_PMgtcg",
     "banner_masonry_qbNABz",
-    "image_with_text_ThLiQR",
+    "top_heading_hQHreJ",
     "featured_product_4PVpj9",
     "featured_collection_grid_j8DcaG",
     "featured_collection_carousel_9phELP",
