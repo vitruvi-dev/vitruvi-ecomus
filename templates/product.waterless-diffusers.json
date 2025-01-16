@@ -122,7 +122,7 @@
           "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
             "show_icon": false,
-            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
+            "mess": "",
             "source": "1",
             "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
             "wimg": 600,
