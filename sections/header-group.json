@@ -192,7 +192,7 @@
       ],
       "custom_css": [
         ".hdt_label_1 {display: none;}",
-        "img, .hdt-collection-img {height: 100px;}"
+        ".hdt-collection-img {height: 100px;}"
       ],
       "settings": {
         "header_layout": "logo_left",
