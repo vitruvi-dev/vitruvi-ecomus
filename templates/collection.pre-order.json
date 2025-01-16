@@ -441,7 +441,9 @@
     },
     "featured_collection_grid_j8DcaG": {
       "type": "featured-collection-grid",
-      "custom_css": [],
+      "custom_css": [
+        ".hdt-container {max-width: 80%;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Air Scent Refills",
