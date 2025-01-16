@@ -193,7 +193,7 @@
       "custom_css": [
         ".hdt_label_1 {display: none;}",
         ".hdt-collection-img {height: 100px; width: 100px;}",
-        ".hdt-ratio,.hdt-full-width-link,.hdt-collection-inner, hdt-collection-item {height: 100px; width: 100px;}"
+        ".hdt-ratio,.hdt-full-width-link,.hdt-collection-inner,.hdt-collection-item {height: 100px; width: 100px;}"
       ],
       "settings": {
         "header_layout": "logo_left",
