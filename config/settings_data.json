@@ -594,7 +594,8 @@
       ".hdt-badge__sleep-essential {background-color: #476373 !important;}",
       ".aca-product-price,.aca-product-discounted-price {display: none;}",
       ".hdt-product-info__list > .hdt-product__title,.hdt-product-info__list > .shopify-app-block {margin-bottom: 1.5rem !important;}",
-      ".hdt-product-info__list > .hdt-product-info__item:has(.hdt-product__compatible) {margin-top: -1.2rem; margin-bottom: 1rem;}"
+      ".hdt-product-info__list > .hdt-product-info__item:has(.hdt-product__compatible) {margin-top: -1.2rem; margin-bottom: 1rem;}",
+      ".hdt-product__compatible {opacity: 85%;}"
     ]
   }
 }
