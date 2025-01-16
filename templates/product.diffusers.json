@@ -38,12 +38,6 @@
           "type": "title",
           "settings": {}
         },
-        "custom_liquid_8BeCL9": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product__compatible\"><a href=\"/products/air-waterless-diffuser\">Compatible with the Air Diffuser</a></div>"
-          }
-        },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
           "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
@@ -145,7 +139,6 @@
       "block_order": [
         "83296f29-170d-4d7b-9291-c9b59bb98b32",
         "3a222052-35a9-4684-a336-6a32a56eb638",
-        "custom_liquid_8BeCL9",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
