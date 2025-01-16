@@ -166,7 +166,6 @@
         },
         "mega_shop_V7BHH3": {
           "type": "mega_shop",
-          "disabled": true,
           "settings": {
             "title": "Pre-Order",
             "collection_list": [
