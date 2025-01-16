@@ -532,7 +532,7 @@
         "heading_CqWH9G": {
           "type": "heading",
           "settings": {
-            "heading": "Effortless Scenting",
+            "heading": "The Easiest Diffuser for Everyday Aromas",
             "heading_fs": "h4"
           }
         },
@@ -551,7 +551,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/6square.jpg",
+        "image": "shopify://shop_images/pdp_air-diffuser_white_gallery_3_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -592,7 +592,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/7square.jpg",
+        "image": "shopify://shop_images/pdp_air-diffuser_white_scent-your-home_2_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -614,7 +614,7 @@
         "heading_ccXq94": {
           "type": "heading",
           "settings": {
-            "heading": "30 Days of Natural Scenting",
+            "heading": "30 Days of Natural Fragrance",
             "heading_fs": "h4"
           }
         },
@@ -633,7 +633,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/9square.jpg",
+        "image": "shopify://shop_images/pdp_air-diffuser_white_scent-your-home_banner_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -674,7 +674,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/8square.jpg",
+        "image": "shopify://shop_images/pdp_air-diffuser_white_scent-your-home_1_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
