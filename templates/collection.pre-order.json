@@ -189,7 +189,7 @@
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
-            "sub_heading": "Pre-Orders Available Now",
+            "sub_heading": "Exclusive Pre-Order Offer",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "bold",
             "sub_heading_space": 5,
@@ -313,6 +313,7 @@
       "blocks": {
         "badges_DjG7qy": {
           "type": "badges",
+          "disabled": true,
           "settings": {
             "special": "",
             "min": 10,
