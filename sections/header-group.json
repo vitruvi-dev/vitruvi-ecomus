@@ -191,7 +191,8 @@
         "mega_shop_V7BHH3"
       ],
       "custom_css": [
-        ".hdt_label_1 {display: none;}"
+        ".hdt_label_1 {display: none;}",
+        ".hdt-collection-img {max-height: 20%;}"
       ],
       "settings": {
         "header_layout": "logo_left",
