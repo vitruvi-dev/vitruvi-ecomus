@@ -313,7 +313,6 @@
       "blocks": {
         "badges_DjG7qy": {
           "type": "badges",
-          "disabled": true,
           "settings": {
             "special": "",
             "min": 10,
