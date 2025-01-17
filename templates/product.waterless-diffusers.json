@@ -65,7 +65,7 @@
         "custom_liquid_kkqPfE": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% render 'product-cta', image_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973', header_text: 'Exclusive Pre-Order Gift', copy_text: 'Your choice of scent refill added to every Air Diffuser order, while supplies last.' %}"
+            "custom_liquid": "{% render 'product-gwp',\n\nimage_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973',\n\nheader_text: 'Exclusive Pre-Order Gift',\n\ncopy_text: 'Your choice of scent refill added to every Air Diffuser order, while supplies last.'\n\n%}"
           }
         },
         "order_4mpQX3": {
