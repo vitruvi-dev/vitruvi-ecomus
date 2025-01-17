@@ -18,10 +18,18 @@
     </div>
 {% elsif product.type contains 'Essential Oil' %}
     <div class="hdt-product__compatible">
-        <a href="/collections/essential-oil-diffusers">Compatible with Essential Oil Diffusers</a>
+        <a href="/collections/essential-oil-diffusers">Compatible with Water-Based Diffusers</a>
     </div>
 {% elsif product.type == 'Cleaning Accessory' %}
     <div class="hdt-product__compatible">
         <a href="/collections/diffusers-and-humidifiers">Compatible with Water-Based Diffusers & Humidifiers</a>
+    </div>
+{% elsif product.type == 'Push Scent Refill' %}
+    <div class="hdt-product__compatible">
+        <a href="/products/push-plug-in-wall-diffuser">Compatible with Push Plug-In Diffuser</a>
+    </div>
+{% elsif product.type == 'Plug In Wall Diffuser' %}
+    <div class="hdt-product__compatible">
+        <a href="/collections/push-scent-refills">Compatible with Push Scent Refills</a>
     </div>
 {% endif %}
