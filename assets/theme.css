@@ -5975,9 +5975,9 @@ h2 {
 
 .hdt-product__compatible,
 .yotpo-sr-bottom-line-right-panel {
-  opacity: 85%;
-  font-size: 85%;
-  font-family: "Founders Grotesk";
+  opacity: 85% !important;
+  font-size: 85% !important;
+  font-family: "Founders Grotesk" !important;
 }
 
 .hdt-product__order-content img {
