@@ -509,11 +509,11 @@
         "col_dk": "3",
         "col_tb": "3",
         "col_mb": "2",
-        "half_item": false,
+        "half_item": true,
         "navUI": false,
         "nav_des": "default",
         "nav_pos": "middle_in",
-        "dotUI": false,
+        "dotUI": true,
         "pagination_type": "none",
         "paginate_pos": "center",
         "dis_pagination": 30,
@@ -563,7 +563,7 @@
         "image_last_mb": true,
         "content_position_mb": "center",
         "alignment_mb": "center",
-        "padding_top": 30,
+        "padding_top": 100,
         "padding_bottom": 0,
         "padding_rate": 75
       }
