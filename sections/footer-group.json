@@ -93,8 +93,8 @@
           "type": "newsletter",
           "settings": {
             "border-column": false,
-            "heading_newsletter": "Sign Up for Email",
-            "text_newsletter": "<p>Get early access to new products and exclusive offers.</p>",
+            "heading_newsletter": "Get 15% Off Your First Order",
+            "text_newsletter": "<p>Sign up now for exclusive offers, early access to new launches, and more.</p>",
             "button_lb": "Subscribe",
             "show_icon": true,
             "btn_fw": "semibold",
