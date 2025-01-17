@@ -91,16 +91,6 @@
             "show_compare": false
           }
         },
-        "inventory_ftnW9y": {
-          "type": "inventory",
-          "disabled": true,
-          "settings": {
-            "inventory_threshold": 50,
-            "show_inventory_quantity": true,
-            "show_progress_bar": false,
-            "progress_bar_max": 50
-          }
-        },
         "img_trust_Nj7Aj9": {
           "type": "img_trust",
           "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
@@ -123,7 +113,6 @@
         "order_KHym36",
         "linked_products_HaJWbm",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
-        "inventory_ftnW9y",
         "img_trust_Nj7Aj9"
       ],
       "custom_css": [
