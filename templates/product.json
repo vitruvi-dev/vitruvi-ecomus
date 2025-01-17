@@ -105,6 +105,12 @@
           "settings": {
             "product": "{{product}}"
           }
+        },
+        "b8b5a6e8-8c07-4e5d-8400-b4202286b9a4": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
         }
       },
       "block_order": [
@@ -117,7 +123,8 @@
         "inventory_ftnW9y",
         "description_Fh49zX",
         "img_trust_6bXKGh",
-        "397bd2bb-902b-4fc1-a971-c158e4627dc7"
+        "397bd2bb-902b-4fc1-a971-c158e4627dc7",
+        "b8b5a6e8-8c07-4e5d-8400-b4202286b9a4"
       ],
       "custom_css": [
         ".hdt-sticky-atc__qty-selector {display: none;}"
