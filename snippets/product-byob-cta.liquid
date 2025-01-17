@@ -1,17 +1,39 @@
-  <div class="byob-cta" style="display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;">
-    <div class="byob-img">
-      <a href="/products/build-your-own-diffuser-bundle">
-        <img class="byob-src" src="https://cdn.shopify.com/s/files/1/2490/3170/files/boost-byob-cta-v2.png?v=1725056018">
-      </a>
-    </div>
-    <div class="byob-text">
-      <a href="/products/build-your-own-diffuser-bundle">
-        <p>Save with a bundle of favorite blends and essential oils alongside your diffuser.</p>
-      </a>
-    </div>
-    <div class="byob-button">
-      <a href="/products/build-your-own-diffuser-bundle" class="hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal">
-        <span>BUILD BUNDLE</span>
-      </a>
-    </div>
+{% assign url = '' %}
+{% assign src = '' %}
+{% assign copy = '' %}
+
+{% if product.type == 'Essential Oil Diffuser' %}
+  {% assign url = '/products/build-your-own-diffuser-bundle' %}
+  {% assign src = 'https://cdn.shopify.com/s/files/1/2490/3170/files/boost-byob-cta-v2.png?v=1725056018' %}
+  {% assign copy = 'Save more by bundling your favorite blends and essential oils with your diffuser' %}
+{% endif %}
+{% if product.type == 'Cool-Mist Humidifier' %}
+  {% assign url = '/products/build-your-own-humidifier-bundle' %}
+  {% assign src = 'https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_cleaning-tablets_gallery_1_image.png?v=1730749701' %}
+  {% assign copy = 'Save more by bundling your essential add-ons and accessories with your humidifier' %}
+{% endif %}
+{% if product.type == 'Essential Oil Blend' or product.type == 'Essential Oil' %}
+  {% assign url = '/products/build-your-own-scent-bundle' %}
+  {% assign src = 'https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_spring-scents-bundle_scents_gallery_1_cropped_image.png?v=1712687466' %}
+  {% assign copy = 'Save more by bundling your essential add-ons and accessories with your humidifier' %}
+{% endif %}
+
+{% if url != '' %}
+<div class="byob-cta" style="display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;">
+  <div class="byob-img">
+    <a href="{{ url }}">
+      <img class="byob-src" src="{{ src }}" alt="Bundle Image">
+    </a>
   </div>
+  <div class="byob-text">
+    <a href="{{ url }}">
+      <p>{{ copy }}</p>
+    </a>
+  </div>
+  <div class="byob-button">
+    <a href="{{ url }}" class="hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal">
+      <span>BUILD BUNDLE</span>
+    </a>
+  </div>
+</div>
+{% endif %}
