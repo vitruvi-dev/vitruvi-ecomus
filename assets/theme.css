@@ -5960,13 +5960,14 @@ h2 {
   }
 }
 
-.hdt-product-info__list > .shopify-app-block,
 .hdt-product-info__list > .hdt-product__price {
+  margin-top: 2rem !important;
   margin-bottom: 2rem !important;
 }
 
 .hdt-product-info__list > .shopify-app-block {
   margin-top: -1.5rem !important;
+  margin-bottom: 0rem !important;
 }
 
 .hdt-product-info__list > .hdt-product__title {
