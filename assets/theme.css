@@ -5988,3 +5988,9 @@ h2 {
     width: 4rem;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .hdt-product__badges {
+    display: none;
+  }
+}
