@@ -62,6 +62,12 @@
             "size_chart_page": ""
           }
         },
+        "custom_liquid_kkqPfE": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"hdt-product__order-content hdt-inline-flex hdt-align-center\"><img src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973\"><span class=\"hdt-s-text2\"><b>Exclusive Pre-Order Gift</b>\n—Your choice of scent refill added to every Air Diffuser order, while supplies last.</span>\n                  </div>"
+          }
+        },
         "order_4mpQX3": {
           "type": "order",
           "settings": {
@@ -76,12 +82,6 @@
             "off_days": "",
             "frm_day": "t44, t45 t46",
             "time": ""
-          }
-        },
-        "custom_liquid_kkqPfE": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"hdt-product__order-content hdt-inline-flex hdt-align-center\"><img src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973\"><span class=\"hdt-s-text2\"><b>Exclusive Pre-Order Gift</b>\n—Your choice of scent refill added to every Air Diffuser order, while supplies last.</span>\n                  </div>"
           }
         },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
@@ -130,8 +130,8 @@
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
-        "order_4mpQX3",
         "custom_liquid_kkqPfE",
+        "order_4mpQX3",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "description_Fh49zX",
         "8253e974-5acb-4076-9230-03b0f804dcdf",
