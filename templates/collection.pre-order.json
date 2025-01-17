@@ -341,9 +341,9 @@
           "type": "order",
           "settings": {
             "hide_pre": false,
-            "icon_svg": "delivery",
+            "icon_svg": "box2",
             "ani": "none",
-            "txt": "Experience the Air Waterless Diffuser first—pre-orders ship late February.",
+            "txt": "<b>Experience the Air Waterless Diffuser first</b>—pre-orders ship late February.",
             "ds": 10,
             "de": 15,
             "mode": "1",
