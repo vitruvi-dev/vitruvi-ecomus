@@ -483,9 +483,7 @@
     },
     "featured_collection_carousel_9phELP": {
       "type": "featured-collection-carousel",
-      "custom_css": [
-        ".hdt-container {width: 80%; max-width: 1440px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Air Scent Refills",
@@ -506,8 +504,8 @@
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 8,
-        "col_dk": "3",
-        "col_tb": "3",
+        "col_dk": "4",
+        "col_tb": "4",
         "col_mb": "2",
         "half_item": true,
         "navUI": false,
