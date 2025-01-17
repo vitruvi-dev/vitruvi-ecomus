@@ -5966,10 +5966,6 @@ h2 {
 }
 .hdt-product-info__list
   > .hdt-product-info__item:has(.hdt-product__compatible) {
-  margin-top: -1.2rem;
-  margin-bottom: 1rem;
-}
-.hdt-product__compatible {
   font-size: 85%;
   opacity: 85%;
 }
