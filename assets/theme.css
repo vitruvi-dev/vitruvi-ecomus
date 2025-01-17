@@ -5960,14 +5960,18 @@ h2 {
   }
 }
 
-.hdt-product-info__list > .hdt-product__title,
 .hdt-product-info__list > .shopify-app-block {
   margin-bottom: 1.5rem !important;
 }
-.hdt-product-info__list
-  > .hdt-product-info__item:has(.hdt-product__compatible) {
-  font-size: 85%;
+
+.hdt-product-info__list > .hdt-product__title {
+  margin-bottom: 0.3rem !important;
+}
+
+.hdt-product__compatible {
   opacity: 85%;
+  font-size: 85%;
+  font-family: "Founders Grotesk";
 }
 
 .hdt-product__order-content img {
