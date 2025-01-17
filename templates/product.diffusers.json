@@ -40,6 +40,7 @@
         },
         "custom_liquid_RgPVLq": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% render 'product-compatible' %}"
           }
