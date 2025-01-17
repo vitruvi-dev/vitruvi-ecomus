@@ -139,7 +139,9 @@
           "settings": {
             "widget_heading": "Featured",
             "collection": "",
-            "product_list": "{{ block.settings.collection.metafields.ecomus.featured_product.value }}",
+            "product_list": [
+              "air-waterless-diffuser"
+            ],
             "products_count": 1,
             "image_ratio": "square",
             "image_size": true
