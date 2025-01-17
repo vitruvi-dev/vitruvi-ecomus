@@ -5960,7 +5960,8 @@ h2 {
   }
 }
 
-.hdt-product-info__list > .shopify-app-block {
+.hdt-product-info__list > .shopify-app-block,
+.hdt-product-info__list > .hdt-product__price {
   margin-bottom: 2rem !important;
 }
 
