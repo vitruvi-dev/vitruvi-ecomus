@@ -5959,3 +5959,31 @@ h2 {
     max-height: 50px;
   }
 }
+
+.hdt-product-info__list > .hdt-product__title,
+.hdt-product-info__list > .shopify-app-block {
+  margin-bottom: 1.5rem !important;
+}
+.hdt-product-info__list
+  > .hdt-product-info__item:has(.hdt-product__compatible) {
+  margin-top: -1.2rem;
+  margin-bottom: 1rem;
+}
+.hdt-product__compatible {
+  opacity: 85%;
+}
+
+.hdt-product__order-content img {
+  height: 3rem;
+  width: 3rem;
+  display: inline-block;
+  position: relative;
+  margin-right: 14px;
+}
+
+@media (min-width: 786px) {
+  .hdt-product__order-content img {
+    height: 4rem;
+    width: 4rem;
+  }
+}
