@@ -93,6 +93,7 @@
         },
         "img_trust_Nj7Aj9": {
           "type": "img_trust",
+          "disabled": true,
           "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
             "show_icon": false,
@@ -102,6 +103,13 @@
             "wimg": 600,
             "svg": "",
             "height": 30
+          }
+        },
+        "bundle_product_WaeKm4": {
+          "type": "bundle_product",
+          "settings": {
+            "bundle_prs_inner": true,
+            "product_list": []
           }
         }
       },
@@ -113,7 +121,8 @@
         "order_KHym36",
         "linked_products_HaJWbm",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
-        "img_trust_Nj7Aj9"
+        "img_trust_Nj7Aj9",
+        "bundle_product_WaeKm4"
       ],
       "custom_css": [
         ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
