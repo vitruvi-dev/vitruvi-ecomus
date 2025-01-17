@@ -5966,12 +5966,12 @@ h2 {
 }
 
 .hdt-product-info__list > .shopify-app-block {
-  margin-top: -1.5rem !important;
+  margin-top: 0.5rem !important;
   margin-bottom: 0rem !important;
 }
 
 .hdt-product-info__list > .hdt-product__title {
-  margin-bottom: 2rem !important;
+  margin-bottom: 0rem !important;
 }
 
 .hdt-product__compatible {
