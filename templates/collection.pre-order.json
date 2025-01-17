@@ -331,16 +331,10 @@
           "type": "price",
           "settings": {}
         },
-        "img_trust_3AXTHX": {
-          "type": "img_trust",
+        "custom_liquid_Jkwf9X": {
+          "type": "custom_liquid",
           "settings": {
-            "show_icon": true,
-            "mess": "",
-            "source": "1",
-            "image": "shopify://shop_images/Screenshot_2025-01-16_at_11.13.39_AM.png",
-            "wimg": 600,
-            "svg": "",
-            "height": 30
+            "custom_liquid": "<div class=\"hdt-product__order-content hdt-inline-flex hdt-align-center\"><img src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973\"><span class=\"hdt-s-text2\"><b>Exclusive Pre-Order Gift</b>\n—Your choice of scent refill added to every Air Diffuser order, while supplies last.</span>\n                  </div>"
           }
         },
         "order_d6bcyF": {
@@ -369,10 +363,16 @@
             "show_compare": false
           }
         },
-        "custom_liquid_Jkwf9X": {
-          "type": "custom_liquid",
+        "img_trust_3AXTHX": {
+          "type": "img_trust",
           "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/Boost_-_Air.png?v=1736962003\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">\nExclusive Pre-Order Gift\n    </h5>\n    <p>Your choice of scent refill added to every Air Diffuser order, while supplies last.</p>\n  </div>\n</div>"
+            "show_icon": true,
+            "mess": "",
+            "source": "1",
+            "image": "{{ section.settings.product.metafields.ecomus.pdp_badge.value.image.value }}",
+            "wimg": 600,
+            "svg": "",
+            "height": 30
           }
         },
         "custom_liquid_V86MGd": {
@@ -400,10 +400,10 @@
         "badges_DjG7qy",
         "title_B6AfNV",
         "price_3WTNYB",
-        "img_trust_3AXTHX",
+        "custom_liquid_Jkwf9X",
         "order_d6bcyF",
         "buy_buttons_NMNaGy",
-        "custom_liquid_Jkwf9X",
+        "img_trust_3AXTHX",
         "custom_liquid_V86MGd",
         "description_Ly67FF",
         "view_products_details_dLcHK8"
