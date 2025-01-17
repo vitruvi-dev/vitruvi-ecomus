@@ -1,3 +1,9 @@
+{% if template.name == 'product' %}
+    {% assign product = product %}
+  {% else %}
+    {% assign product = section.settings.product %}
+  {% endif %}
+
 {% if product.type == 'Air Scent Refill' %}
     <div class="hdt-product__compatible">
         <a href="/products/air-waterless-diffuser">Compatible with the Air Diffuser</a>
