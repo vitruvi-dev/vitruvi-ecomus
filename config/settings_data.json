@@ -592,7 +592,8 @@
       ".lb-cpb-progress-bar-container {border-bottom: 0.1rem solid rgb(var(--color-line-border)); padding-bottom: 25px;}",
       ".lb-cpb-progress-text-wrapper {padding-bottom: 10px;}",
       ".hdt-badge__sleep-essential {background-color: #476373 !important;}",
-      ".aca-product-price,.aca-product-discounted-price {display: none;}"
+      ".aca-product-price,.aca-product-discounted-price {display: none;}",
+      ".hdt-product__compatible {font-size: 85%;}"
     ]
   }
 }
