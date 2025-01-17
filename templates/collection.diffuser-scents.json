@@ -19,12 +19,14 @@
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": ""
           }
         },
         "description_Ddhb9a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "description": ""
           }
@@ -35,6 +37,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -93,7 +96,6 @@
         "text_RUD6mp",
         "text_2_bCkXKC"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
         ".hdt-subheading {font-weight: 200;}",
@@ -140,7 +142,7 @@
             "widget_heading": "Featured",
             "collection": "",
             "product_list": [
-              "air-waterless-diffuser"
+              "build-your-own-scent-bundle"
             ],
             "products_count": 1,
             "image_ratio": "square",
