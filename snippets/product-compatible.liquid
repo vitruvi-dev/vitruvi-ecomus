@@ -10,4 +10,8 @@
     <div class="hdt-product__compatible">
         <a href="/collections/essential-oil-diffuser-scents">Compatible with Essential Oils & Blends</a>
     </div>
-  {% endif %}
+{% elsif product.type contains 'Essential Oil' %}
+    <div class="hdt-product__compatible">
+        <a href="/collections/essential-oil-diffusers">Compatible with Essential Oil Diffusers</a>
+    </div>
+{% endif %}
