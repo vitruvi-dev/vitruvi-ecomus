@@ -54,6 +54,22 @@
           "type": "price",
           "settings": {}
         },
+        "order_KHym36": {
+          "type": "order",
+          "settings": {
+            "hide_pre": false,
+            "icon_svg": "box2",
+            "ani": "none",
+            "txt": "<b>Experience the Air Waterless Diffuser first</b>—pre-orders ship late February.",
+            "ds": 10,
+            "de": 15,
+            "mode": "1",
+            "cut_day": "",
+            "off_days": "",
+            "frm_day": "t44, t45 t46",
+            "time": "16:00:00"
+          }
+        },
         "linked_products_HaJWbm": {
           "type": "linked_products",
           "settings": {
@@ -69,22 +85,6 @@
             ],
             "linked_type": "image",
             "linked_size": "small"
-          }
-        },
-        "order_KHym36": {
-          "type": "order",
-          "settings": {
-            "hide_pre": false,
-            "icon_svg": "delivery",
-            "ani": "none",
-            "txt": "Experience the Air Waterless Diffuser first—pre-orders ship late February.",
-            "ds": 10,
-            "de": 15,
-            "mode": "1",
-            "cut_day": "",
-            "off_days": "",
-            "frm_day": "t44, t45 t46",
-            "time": "16:00:00"
           }
         },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
@@ -127,8 +127,8 @@
         "custom_liquid_AxQg9G",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
-        "linked_products_HaJWbm",
         "order_KHym36",
+        "linked_products_HaJWbm",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
         "img_trust_Nj7Aj9"
