@@ -5965,8 +5965,12 @@ h2 {
   margin-bottom: 2rem !important;
 }
 
+.hdt-product-info__list > .shopify-app-block {
+  margin-top: -1.5rem !important;
+}
+
 .hdt-product-info__list > .hdt-product__title {
-  margin-bottom: 0.5rem !important;
+  margin-bottom: 2rem !important;
 }
 
 .hdt-product__compatible {
@@ -5975,14 +5979,9 @@ h2 {
 
 .hdt-product__compatible,
 .yotpo-sr-bottom-line-text.yotpo-sr-bottom-line-text--right-panel {
-  
   font-size: 85% !important;
   font-family: "Founders Grotesk" !important;
   opacity: 85% !important;
-}
-
-.yotpo-sr-bottom-line-text.yotpo-sr-bottom-line-text--right-panel {
-  
 }
 
 .hdt-product__order-content img {
