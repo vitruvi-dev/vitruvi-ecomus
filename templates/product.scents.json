@@ -44,12 +44,6 @@
           "type": "title",
           "settings": {}
         },
-        "custom_liquid_W8ArJb": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{% render 'product-compatible' %}"
-          }
-        },
         "edac686e-a845-4ed7-9b50-51639a11cf56": {
           "type": "price",
           "settings": {}
@@ -149,7 +143,6 @@
         "83296f29-170d-4d7b-9291-c9b59bb98b32",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "3a222052-35a9-4684-a336-6a32a56eb638",
-        "custom_liquid_W8ArJb",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
         "quantity_selector_XCH8WV",
