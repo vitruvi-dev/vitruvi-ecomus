@@ -160,7 +160,7 @@
         "tab_html_r8KYLQ": {
           "type": "tab_html",
           "settings": {
-            "title": "Ingredients",
+            "title": "Aroma Notes",
             "content": "{{ product.metafields.ecomus.tabs_scent_ingredients | metafield_tag }}",
             "page": ""
           }
