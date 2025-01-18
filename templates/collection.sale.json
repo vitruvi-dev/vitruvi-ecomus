@@ -35,6 +35,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 15,
         "color_scheme": "",
@@ -63,7 +64,6 @@
         "text_8UMYqR",
         "text_2_xDRN8J"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
         ".hdt-subheading {font-weight: 200;}",
@@ -72,8 +72,8 @@
       "settings": {
         "full_width": true,
         "year": 2025,
-        "month": 1,
-        "day": 20,
+        "month": 2,
+        "day": 1,
         "hour": 0,
         "minute": 0,
         "effect_cd": "move_top",
