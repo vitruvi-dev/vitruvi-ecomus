@@ -93,7 +93,6 @@
         },
         "img_trust_Nj7Aj9": {
           "type": "img_trust",
-          "disabled": true,
           "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
             "show_icon": false,
