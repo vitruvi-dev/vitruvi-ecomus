@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{
+ {
   "sections": {
     "heading": {
       "type": "heading-collection",
@@ -189,7 +189,7 @@
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
-            "sub_heading": "Exclusive Pre-Order Offer",
+            "sub_heading": "Exclusive Pre-Order Gift",
             "sub_heading_fs": "h6",
             "sub_heading_fw": "bold",
             "sub_heading_space": 5,
@@ -197,7 +197,7 @@
             "heading_fs": "h3",
             "heading_fw": "normal",
             "heading_space": 20,
-            "desc": "Vitruvi’s latest innovation—the Air Waterless Diffuser fills your space with long-lasting, all-natural scent using cold air diffusion.",
+            "desc": "NEW—the Air Waterless Diffuser fills up to 1,500 sq. ft. with long lasting, all natural scent for 30 days.",
             "des_space": 28,
             "btn_label": "",
             "btn_link": "",
@@ -485,10 +485,10 @@
       "custom_css": [],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Air Scent Refills",
+        "sec_heading": "<span style=\"font-family: 'Founders Grotesk'; font-weight: 200; font-size: 75%\">NEW</span><br>Air Scent Refills",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Effortless home scenting made beautiful—explore Vitruvi’s Waterless Diffusers and 100% natural scent refills for long-lasting fragrance without the hassle.</p>",
+        "sec_subheading": "<p>Effortless home scenting—explore Vitruvi’s 100% natural scent refills for long-lasting aroma without the hassle.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "btn_heading": false,
@@ -530,7 +530,7 @@
         "heading_CqWH9G": {
           "type": "heading",
           "settings": {
-            "heading": "The Easiest Diffuser for Everyday Aromas",
+            "heading": "Easy to Set Up, Easy to Use",
             "heading_fs": "h4"
           }
         },
@@ -571,14 +571,14 @@
         "heading_gtPhpL": {
           "type": "heading",
           "settings": {
-            "heading": "Scent Your Whole Home",
+            "heading": "Scent Up to 1,500 Sq. Ft.",
             "heading_fs": "h4"
           }
         },
         "text_Efa6Wz": {
           "type": "text",
           "settings": {
-            "text": "<p>Able to scent up to 1,500 sq. ft., the Air Waterless Diffuser is ideal for large living areas, open layouts, and primary bedrooms.</p>"
+            "text": "<p>With five adjustable scent strengths, the Air Diffuser is ready to scent living spaces of all sizes.</p>"
           }
         }
       },
@@ -612,14 +612,14 @@
         "heading_ccXq94": {
           "type": "heading",
           "settings": {
-            "heading": "30 Days of Natural Fragrance",
+            "heading": "30 Days of Natural Aroma",
             "heading_fs": "h4"
           }
         },
         "text_Gmkg9i": {
           "type": "text",
           "settings": {
-            "text": "<p>Vitruvi’s 100% natural scent refills provide 30 days of toxin-free fragrance. With adjustable scent strength and easy to change scent refills, it’s a simple, and safe aroma experience for your home.</p>"
+            "text": "<p>Vitruvi's 100% natural scent refills provide a full month of toxin-free aromas. It’s a simple, and safe scenting experience for your home.</p>"
           }
         }
       },
@@ -653,14 +653,14 @@
         "heading_wt7cbr": {
           "type": "heading",
           "settings": {
-            "heading": "Innovative Cold-Air Diffusion",
+            "heading": "No Water, No Hassle",
             "heading_fs": "h4"
           }
         },
         "text_VdzXUY": {
           "type": "text",
           "settings": {
-            "text": "<p>Experience pure scenting with Vitruvi’s ultra-efficient cold-air technology. Designed to work without water or heat, it delivers a consistent, mess-free aroma. Elevate your space with a system that’s as effortless as it is effective.</p>"
+            "text": "<p>Experience pure scenting with Vitruvi’s ultra-efficient cold-air technology. Designed to work without water or heat, it delivers a consistent, mess-free aroma.</p>"
           }
         }
       },
@@ -688,231 +688,71 @@
         "padding_rate": 75
       }
     },
-    "custom_line_zAe7AX": {
-      "type": "custom-line",
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#f7f8f6",
-        "line_pos": "center",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 15,
-        "padding_rate": 75
-      }
-    },
-    "collections_list_simple_kY6xMW": {
-      "type": "collections-list-simple",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Explore the full range of Vitruvi products for all your home wellness needs",
-        "heading_tag": "h2",
-        "heading_size": "h5",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-          "shop-all",
-          "humidifiers",
-          "essential-oil-diffusers",
-          "scent-kits",
-          "essential-oil-blends",
-          "essential-oils"
-        ],
-        "text_transform": false,
-        "other_link_label": "View all categories",
-        "other_link": "",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_rate": 75
-      }
-    },
-    "accordion_qkAGnW": {
-      "type": "accordion",
+    "hero_image_WErETK": {
+      "type": "hero-image",
       "blocks": {
-        "title_dYRnJg": {
-          "type": "title",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_header.value }}",
+        "heading_3rbqAC": {
+          "type": "heading",
           "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
+            "heading": "Ready to elevate your space?",
+            "heading_fs": "h5",
+            "heading_fw": "semibold"
           }
         },
-        "accordion_item_JPTbXM": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value }}",
+        "text_iyNwRy": {
+          "type": "text",
           "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
+            "text": "<p>Experience the future of scenting with mess-free, waterless technology.</p>",
+            "adding_border": false
           }
         },
-        "accordion_item_jFndrC": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value }}",
+        "button_V8wkE7": {
+          "type": "button",
           "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_WTKRim": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_B6HXMh": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_bfz3KX": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
-          }
-        },
-        "title_NNbikj": {
-          "type": "title",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_header.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
-          }
-        },
-        "accordion_item_8FJKnq": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_mRwLkx": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_V7grJx": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_ji38nn": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_jNg37U": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
-          }
-        },
-        "title_pbm6aU": {
-          "type": "title",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_header.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_header.value.accordion_item.value }}"
-          }
-        },
-        "accordion_item_UgRYNi": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_XBccRN": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_mD3jjk": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_gccUVz": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_ANzwif": {
-          "type": "accordion_item",
-          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value }}",
-          "settings": {
-            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value.heading_item.value }}",
-            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value.content | metafield_tag }}"
+            "btn_label": "PRE-ORDER AIR",
+            "btn_link": "shopify://collections/pre-order",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
           }
         }
       },
       "block_order": [
-        "title_dYRnJg",
-        "accordion_item_JPTbXM",
-        "accordion_item_jFndrC",
-        "accordion_item_WTKRim",
-        "accordion_item_B6HXMh",
-        "accordion_item_bfz3KX",
-        "title_NNbikj",
-        "accordion_item_8FJKnq",
-        "accordion_item_mRwLkx",
-        "accordion_item_V7grJx",
-        "accordion_item_ji38nn",
-        "accordion_item_jNg37U",
-        "title_pbm6aU",
-        "accordion_item_UgRYNi",
-        "accordion_item_XBccRN",
-        "accordion_item_mD3jjk",
-        "accordion_item_gccUVz",
-        "accordion_item_ANzwif"
+        "heading_3rbqAC",
+        "text_iyNwRy",
+        "button_V8wkE7"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"Founders Grotesk\";}",
+        ".hdt-container {max-width: 80%;}"
       ],
       "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "2",
-        "open_first": false,
-        "enable_link_list": false,
-        "section_fullwidth": false,
+        "image_height": "fixed",
+        "fixed_height": 200,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 100,
+        "image": "shopify://shop_images/transparent.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 50,
-        "padding_bottom": 50,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
     "custom_line_GAKQtn": {
       "type": "custom-line",
-      "custom_css": [],
       "settings": {
         "line_style": "solid",
         "line_width": 100,
@@ -939,9 +779,7 @@
     "image_with_text_fjGeFg",
     "image_with_text_DGg3iC",
     "image_with_text_PBMc4a",
-    "custom_line_zAe7AX",
-    "collections_list_simple_kY6xMW",
-    "accordion_qkAGnW",
+    "hero_image_WErETK",
     "custom_line_GAKQtn"
   ]
 }
