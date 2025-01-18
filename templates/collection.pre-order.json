@@ -694,15 +694,22 @@
         "heading_3rbqAC": {
           "type": "heading",
           "settings": {
-            "heading": "Ready to elevate your space?  Experience the future of scenting with mess-free, waterless technology.",
-            "heading_fs": "h6",
-            "heading_fw": "normal"
+            "heading": "Ready to elevate your space?",
+            "heading_fs": "h5",
+            "heading_fw": "semibold"
+          }
+        },
+        "text_iyNwRy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Experience the future of scenting with mess-free, waterless technology.</p>",
+            "adding_border": false
           }
         },
         "button_V8wkE7": {
           "type": "button",
           "settings": {
-            "btn_label": "PRE-ORDER NOW",
+            "btn_label": "PRE-ORDER AIR",
             "btn_link": "shopify://collections/pre-order",
             "target": false,
             "btn_size": "base",
@@ -714,10 +721,12 @@
       },
       "block_order": [
         "heading_3rbqAC",
+        "text_iyNwRy",
         "button_V8wkE7"
       ],
       "custom_css": [
-        ".hdt-heading {font-familly: \"Founders Grotestk\"}"
+        "h2 {font-family: \"Founders Grotesk\";}",
+        ".hdt-container {max-width: 80%;}"
       ],
       "settings": {
         "image_height": "fixed",
@@ -737,8 +746,8 @@
         "full_width": true,
         "boxed_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 50,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
