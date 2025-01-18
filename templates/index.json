@@ -56,7 +56,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP SALE",
-            "btn_link": "shopify://collections/sleep-bundles",
+            "btn_link": "shopify://collections/sleep-sale",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
