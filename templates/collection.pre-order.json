@@ -485,10 +485,10 @@
       "custom_css": [],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Air Scent Refills",
+        "sec_heading": "<span style=\"font-family: 'Founders Grotesk'; font-weight: 200; font-size: 75%\">NEW</span><br>Air Scent Refills",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Effortless home scenting made beautiful—explore Vitruvi’s Waterless Diffusers and 100% natural scent refills for long-lasting fragrance without the hassle.</p>",
+        "sec_subheading": "<p>Effortless home scenting—explore Vitruvi’s 100% natural scent refills for long-lasting aroma without the hassle.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "btn_heading": false,
