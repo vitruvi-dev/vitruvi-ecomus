@@ -224,21 +224,6 @@
             "adding_border": false
           }
         },
-        "item_4BAcqB": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "health",
-            "custom_svg": "",
-            "image": "shopify://shop_images/icons_vial_2024-06.svg",
-            "icon_width": 60,
-            "icon_width_mb": 60,
-            "link": "",
-            "open_link": false,
-            "title": "Free from Synthetic fragrance",
-            "content": "",
-            "adding_border": false
-          }
-        },
         "item_dGEfXk": {
           "type": "item",
           "settings": {
@@ -272,7 +257,6 @@
       },
       "block_order": [
         "item_LxpgtV",
-        "item_4BAcqB",
         "item_dGEfXk",
         "item_np3GKW"
       ],
