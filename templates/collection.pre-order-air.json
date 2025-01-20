@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "heading": {
       "type": "heading-collection",
@@ -710,7 +710,7 @@
           "type": "button",
           "settings": {
             "btn_label": "PRE-ORDER AIR",
-            "btn_link": "shopify://collections/pre-order",
+            "btn_link": "shopify://products/air-waterless-diffuser",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
