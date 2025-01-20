@@ -107,7 +107,7 @@
         "heading_size": "h4",
         "top_description": "<p>Be the first to know when we launch.</p>",
         "sec_heading_spacing": 30,
-        "enable_icon_check": true,
+        "enable_icon_check": false,
         "content_pos": "start",
         "image_ratio": "square",
         "image_size": true,
