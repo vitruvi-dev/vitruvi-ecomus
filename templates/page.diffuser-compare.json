@@ -44,6 +44,22 @@
     "price_tables_cPfHEH": {
       "type": "price_tables",
       "blocks": {
+        "package_NhNaGm": {
+          "type": "package",
+          "settings": {
+            "color_scheme": "",
+            "product": "push-plug-in-wall-diffuser",
+            "show_vendor": false,
+            "label_cl": "#ff3232",
+            "content": "Lorem\nIpsum\nDolar\nSit\nAmet",
+            "btn_label": "View details",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        },
         "package_9Uw9MV": {
           "type": "package",
           "settings": {
@@ -75,28 +91,12 @@
             "btn_fw": "semibold",
             "btn_icon": "none"
           }
-        },
-        "package_NhNaGm": {
-          "type": "package",
-          "settings": {
-            "color_scheme": "",
-            "product": "",
-            "show_vendor": true,
-            "label_cl": "#ff3232",
-            "content": "Lorem\nIpsum\nDolar\nSit\nAmet",
-            "btn_label": "View details",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
         }
       },
       "block_order": [
+        "package_NhNaGm",
         "package_9Uw9MV",
-        "package_WhBfFj",
-        "package_NhNaGm"
+        "package_WhBfFj"
       ],
       "custom_css": [
         ".hdt-badge__wrapp {display: none;}"
