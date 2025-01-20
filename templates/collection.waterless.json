@@ -14,6 +14,7 @@
       "blocks": {
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
+          "disabled": true,
           "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
@@ -34,6 +35,7 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
+      "disabled": true,
       "settings": {
         "spacing_hd": 5,
         "color_scheme": "",
@@ -47,6 +49,7 @@
       "blocks": {
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "Shop now and get rewarded with a FREE $25 or $50 gift card.*",
             "sub_heading_fs": "base"
@@ -56,6 +59,7 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
@@ -90,7 +94,6 @@
         "text_RUD6mp",
         "text_2_bCkXKC"
       ],
-      "disabled": true,
       "custom_css": [
         ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
         ".hdt-subheading {font-weight: 200;}",
