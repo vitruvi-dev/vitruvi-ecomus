@@ -98,6 +98,9 @@
         "package_WhBfFj",
         "package_NhNaGm"
       ],
+      "custom_css": [
+        ".hdt-badge__wrapp {display: none;}"
+      ],
       "settings": {
         "top_heading": "Discovery all new items",
         "heading_tag": "h3",
