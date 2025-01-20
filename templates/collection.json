@@ -221,9 +221,9 @@
         "collection_list": [
           "shop-all",
           "humidifiers",
-          "essential-oil-diffusers",
-          "essential-oil-blends",
-          "essential-oils"
+          "diffusers",
+          "scents",
+          "accessories"
         ],
         "text_transform": false,
         "other_link_label": "View all categories",
