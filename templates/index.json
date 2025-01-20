@@ -163,6 +163,8 @@
         "slide_base_X9JycG": {
           "type": "slide_base",
           "settings": {
+            "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
+            "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
             "url": "shopify://collections/cyber-monday-sale",
             "banner_target": false,
             "color_scheme": "scheme-1",
@@ -427,6 +429,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "humidifiers",
+            "image": "shopify://shop_images/pdp_best-sleep-bundle_white_gallery_2_image_81e1dd48-221f-45cf-ba4b-cee08f2120a9.jpg",
             "title": "Humidifiers for Sleep",
             "collection_link": "/collections/best-essential-oils-for-sleep#humidifiers"
           }

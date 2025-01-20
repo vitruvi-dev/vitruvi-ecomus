@@ -38,15 +38,15 @@
           "type": "title",
           "settings": {}
         },
-        "edac686e-a845-4ed7-9b50-51639a11cf56": {
-          "type": "price",
-          "settings": {}
-        },
         "yotpo_product_reviews_ugc_star_rating_HQFQre": {
           "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
             "product": "{{product}}"
           }
+        },
+        "edac686e-a845-4ed7-9b50-51639a11cf56": {
+          "type": "price",
+          "settings": {}
         },
         "1248e930-5734-45b4-a1d6-a814910fdb63": {
           "type": "variant_picker",
@@ -58,14 +58,19 @@
             "color_size": "medium",
             "picker_type": "block",
             "size_chart_source": "page",
-            "size_chart_page": ""
+            "size_chart_page": "size-chart"
           }
+        },
+        "quantity_selector_XCH8WV": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
         },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true,
+            "show_gift_card_recipient": false,
             "show_price_variant": true,
             "show_wishlist": false,
             "show_compare": false
@@ -73,47 +78,72 @@
         },
         "inventory_ftnW9y": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
-            "inventory_threshold": 20,
-            "show_inventory_quantity": false,
+            "inventory_threshold": 50,
+            "show_inventory_quantity": true,
             "show_progress_bar": false,
             "progress_bar_max": 50
           }
         },
+        "countdown_timer_NCVUEc": {
+          "type": "countdown_timer",
+          "disabled": true,
+          "settings": {
+            "content": "Labor Day Sale Ends Soon",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
         "description_Fh49zX": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "des": "1",
             "short_des": "",
             "length": 31
           }
         },
-        "img_trust_6bXKGh": {
+        "8253e974-5acb-4076-9230-03b0f804dcdf": {
+          "type": "back_instock",
+          "disabled": true,
+          "settings": {
+            "only_show_soldout": true
+          }
+        },
+        "img_trust_Nj7Aj9": {
           "type": "img_trust",
+          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
             "show_icon": false,
-            "mess": "",
+            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
             "source": "1",
             "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
             "wimg": 600,
             "svg": "",
-            "height": 100
+            "height": 30
           }
         }
       },
       "block_order": [
         "83296f29-170d-4d7b-9291-c9b59bb98b32",
         "3a222052-35a9-4684-a336-6a32a56eb638",
-        "edac686e-a845-4ed7-9b50-51639a11cf56",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
+        "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
+        "quantity_selector_XCH8WV",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "inventory_ftnW9y",
+        "countdown_timer_NCVUEc",
         "description_Fh49zX",
-        "img_trust_6bXKGh"
+        "8253e974-5acb-4076-9230-03b0f804dcdf",
+        "img_trust_Nj7Aj9"
       ],
       "custom_css": [
-        ".hdt-sticky-atc__qty-selector {display: none;}"
+        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
+        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
+        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
+        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
       ],
       "settings": {
         "space_content_media": true,
@@ -144,43 +174,51 @@
     "tabs": {
       "type": "main-product-tabs",
       "blocks": {
-        "76effdab-2914-4a34-a303-417cde99ff0a": {
+        "tab_des_r9U8LH": {
           "type": "tab_des",
-          "disabled": true,
           "settings": {
             "title": "Description"
           }
         },
-        "tab_html_8nNyXa": {
+        "tab_html_r8KYLQ": {
           "type": "tab_html",
           "settings": {
-            "title": "Product Details",
-            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
+            "title": "Ingredients",
+            "content": "{{ product.metafields.ecomus.tabs_scent_ingredients | metafield_tag }}",
             "page": ""
           }
         },
-        "tab_html_6HcXqi": {
+        "tab_html_NGKtrx": {
           "type": "tab_html",
           "settings": {
-            "title": "How It Works",
+            "title": "What's Inside",
+            "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "tab_html_8PLjap": {
+          "type": "tab_html",
+          "settings": {
+            "title": "How to Use",
             "content": "",
             "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
           }
         },
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
+        "tab_html_KQpeCL": {
           "type": "tab_html",
           "settings": {
             "title": "Shipping & Returns",
             "content": "",
-            "page": "product-returns-default"
+            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
           }
         }
       },
       "block_order": [
-        "76effdab-2914-4a34-a303-417cde99ff0a",
-        "tab_html_8nNyXa",
-        "tab_html_6HcXqi",
-        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c"
+        "tab_des_r9U8LH",
+        "tab_html_r8KYLQ",
+        "tab_html_NGKtrx",
+        "tab_html_8PLjap",
+        "tab_html_KQpeCL"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
@@ -191,25 +229,209 @@
         "padding_rate": 50
       }
     },
+    "icon_box_C6TXn9": {
+      "type": "icon-box",
+      "blocks": {
+        "item_LxpgtV": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "leaf",
+            "custom_svg": "",
+            "image": "shopify://shop_images/icons_drop_2024-06.svg",
+            "icon_width": 60,
+            "icon_width_mb": 60,
+            "link": "",
+            "open_link": false,
+            "title": "Only 100% natural scent oils",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_4BAcqB": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "health",
+            "custom_svg": "",
+            "image": "shopify://shop_images/icons_vial_2024-06.svg",
+            "icon_width": 60,
+            "icon_width_mb": 60,
+            "link": "",
+            "open_link": false,
+            "title": "Free from Synthetic fragrance",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_dGEfXk": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "health",
+            "custom_svg": "",
+            "image": "shopify://shop_images/icons_heart_2024-06.svg",
+            "icon_width": 60,
+            "icon_width_mb": 60,
+            "link": "",
+            "open_link": false,
+            "title": "Vegan and cruelty-free",
+            "content": "",
+            "adding_border": false
+          }
+        },
+        "item_np3GKW": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify://shop_images/icons_recycle_2024-08.svg",
+            "icon_width": 60,
+            "icon_width_mb": 60,
+            "link": "",
+            "open_link": false,
+            "title": "Fully Recyclable & UV Protected Bottles",
+            "content": "",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_LxpgtV",
+        "item_4BAcqB",
+        "item_dGEfXk",
+        "item_np3GKW"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "base",
+        "heading_reverse": false,
+        "heading_gap": 30,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "4",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "none",
+        "fullwidth": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "slideshow_Ak3WEL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_label_A93gJr": {
+          "type": "slide_label",
+          "settings": {
+            "image": "{{ product.metafields.ecomus.feature_1_media.value }}",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "scheme-4",
+            "sub_heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
+            "sub_heading_fs": "h5",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "normal",
+            "btn2_icon": "1",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "left",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_label_A93gJr"
+      ],
+      "custom_css": [
+        "img {opacity: 80%;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "item_round": "rounded",
+        "image_height": "fixed",
+        "fixed_height": 450,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "color_scheme": "scheme-3",
+        "loop": false,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": false,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 40,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "171512128966062076": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_ugc_reviews_dERaaf": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_ugc_reviews_dERaaf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "related": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Customers Also Loved",
-        "heading_tag": "h3",
-        "heading_size": "h5",
+        "heading_tag": "h2",
+        "heading_size": "h4",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 50,
-        "limit": 10,
+        "limit": 4,
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
-        "col_dk": "6",
+        "col_dk": "4",
         "col_tb": "4",
         "col_mb": "2",
         "navUI": true,
@@ -400,23 +622,6 @@
         "padding_rate": 75
       }
     },
-    "171512128966062076": {
-      "type": "apps",
-      "blocks": {
-        "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "yotpo_product_reviews_ugc_reviews_dERaaf"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "recently": {
       "type": "recently-products",
       "disabled": true,
@@ -524,9 +729,11 @@
     "breacrumb",
     "main",
     "tabs",
+    "icon_box_C6TXn9",
+    "slideshow_Ak3WEL",
+    "171512128966062076",
     "related",
     "accordion_WDEpM3",
-    "171512128966062076",
     "recently",
     "sidebar"
   ]
