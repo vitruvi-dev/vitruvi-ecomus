@@ -49,7 +49,7 @@
           "settings": {
             "color_scheme": "",
             "product": "stone-essential-oil-diffuser",
-            "show_vendor": true,
+            "show_vendor": false,
             "label_cl": "#ff3232",
             "content": "Lorem\nIpsum\nDolar\nSit\nAmet",
             "btn_label": "View details",
@@ -65,7 +65,7 @@
           "settings": {
             "color_scheme": "background-1",
             "product": "air-waterless-diffuser",
-            "show_vendor": true,
+            "show_vendor": false,
             "label_cl": "#ff3232",
             "content": "Lorem\nIpsum\nDolar\nSit\nAmet",
             "btn_label": "View details",
@@ -109,7 +109,7 @@
         "sec_heading_spacing": 30,
         "enable_icon_check": true,
         "content_pos": "start",
-        "image_ratio": "adapt_image",
+        "image_ratio": "square",
         "image_size": true,
         "col_dk": "3",
         "col_tb": "3",
