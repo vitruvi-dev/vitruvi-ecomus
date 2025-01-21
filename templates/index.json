@@ -463,7 +463,7 @@
         "collection_item_QXdRwA": {
           "type": "collection_item",
           "settings": {
-            "collection": "scents",
+            "collection": "scents-2",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
             "title": "Up to 40% Off Scent Bundles",
             "collection_link": ""
@@ -483,7 +483,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify://collections/scents"
+            "item_link": "shopify://collections/scents-2"
           }
         }
       },
@@ -800,7 +800,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify://collections/scents"
+            "item_link": "shopify://collections/scents-2"
           }
         }
       },
