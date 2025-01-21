@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "heading": {
       "type": "heading-collection",
@@ -858,7 +858,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "scents",
+        "collection": "scents-2",
         "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
