@@ -22,7 +22,7 @@
         "heading_gwHMFF": {
           "type": "heading",
           "settings": {
-            "heading": "Up to 30% Off<br>Sweet Dreams Sale",
+            "heading": "Up to 30%<br>Sweet Dreams Sale",
             "heading_fs": "h1",
             "heading_fw": "normal"
           }
@@ -55,7 +55,7 @@
         "button_G99RRj": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP SLEEP",
+            "btn_label": "SHOP SALE",
             "btn_link": "shopify://collections/sleep-sale",
             "target": false,
             "btn_size": "xl",
@@ -78,9 +78,9 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "image": "shopify://shop_images/page_home_hero_sleepnewyear_image_desktop-min.png",
+        "image": "shopify://shop_images/jan15.png",
         "image_mb": "shopify://shop_images/page_home_hero_sleepnewyear_image_mobile-min.png",
-        "link_img": "shopify://collections/sleep-sale",
+        "link_img": "shopify://collections/sleep-bundles",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -163,6 +163,8 @@
         "slide_base_X9JycG": {
           "type": "slide_base",
           "settings": {
+            "image": "shopify://shop_images/home_hero-image_2024-06_desktop.jpg",
+            "image_mb": "shopify://shop_images/home_hero-image_2024-06_mobile.jpg",
             "url": "shopify://collections/cyber-monday-sale",
             "banner_target": false,
             "color_scheme": "scheme-1",
@@ -287,21 +289,21 @@
         "heading_weepe7": {
           "type": "heading",
           "settings": {
-            "heading": "Free Gift Card",
+            "heading": "New: <i>Air Waterless Diffuser</i>",
             "heading_fs": "h4"
           }
         },
         "text_6HVHHK": {
           "type": "text",
           "settings": {
-            "text": "<p>Spend $125 or more and you'll receive a FREE $25 gift card</p><p>Spend $250 or more and we’ll upgrade it to a FREE $50 gift card</p>"
+            "text": "<p>No water, no mess—the Air Waterless Diffuser fills up to 1,500 sq. ft. with long-lasting, all-natural scent for up to 30 days.</p><p>Pre order now and receive a free scent refill with your air diffuser.</p>"
           }
         },
         "button_i3NAcL": {
           "type": "button",
           "settings": {
-            "btn_label": "SHOP GIFTS",
-            "btn_link": "shopify://collections/gifts",
+            "btn_label": "PRE-ORDER NOW",
+            "btn_link": "shopify://products/air-waterless-diffuser",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -315,14 +317,14 @@
         "text_6HVHHK",
         "button_i3NAcL"
       ],
-      "disabled": true,
       "custom_css": [
-        "@media (min-width: 767px) {p, li {font-size: 120%; }}"
+        "@media (min-width: 767px) {p, li {font-size: 120%; }}",
+        "i {font-family: \"Kaftan\"; font-style: normal;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_gift-card_gallery_2_image.png",
+        "image": "shopify://shop_images/page_home_halffeaturev2.png",
         "style_image": "1",
-        "image_effect": "lunc",
+        "image_effect": "zoom-in",
         "color_scheme": "",
         "image_last": true,
         "content_position": "center",
@@ -336,53 +338,11 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_grid_gbXT8K": {
-      "type": "featured-collection-grid",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Bundle & Save on Sleep",
-        "heading_tag": "h2",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Save on sleep sets with diffusers and humidifiers for soothing scents and cared-for air.</p>",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 12,
-        "sec_heading_spacing": 30,
-        "collection": "",
-        "product_list": [
-          "best-sleep-diffuser-humidifier-bundle",
-          "sleep-stone-diffuser-bundle",
-          "rest-essential-oil-kit"
-        ],
-        "product_des": "10",
-        "image_ratio": "square",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 4,
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 80,
-        "btn_label": "Load more",
-        "btn_style": "outline",
-        "btn_fw": "semibold",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_grid_W6JYha": {
       "type": "featured-collection-grid",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Best-Sellers for Sleep",
+        "sec_heading": "Best-Sellers",
         "heading_tag": "h2",
         "heading_size": "h4",
         "sec_subheading": "<p>Premium, natural air care products that elevate your home.</p>",
@@ -427,6 +387,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "humidifiers",
+            "image": "shopify://shop_images/pdp_best-sleep-bundle_white_gallery_2_image_81e1dd48-221f-45cf-ba4b-cee08f2120a9.jpg",
             "title": "Humidifiers for Sleep",
             "collection_link": "/collections/best-essential-oils-for-sleep#humidifiers"
           }
@@ -1067,7 +1028,6 @@
     "video_GKb7jj",
     "slideshow_EjwCVy",
     "image_with_text_TH3zJL",
-    "featured_collection_grid_gbXT8K",
     "featured_collection_grid_W6JYha",
     "collections_list_64Hida",
     "featured_collection_grid_GfmdDT",
