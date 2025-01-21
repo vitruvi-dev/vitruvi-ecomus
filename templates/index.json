@@ -406,7 +406,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify://collections/scents"
+            "item_link": "shopify://collections/scents-2"
           }
         }
       },
@@ -721,7 +721,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify://collections/scents"
+            "item_link": "shopify://collections/scents-2"
           }
         }
       },
