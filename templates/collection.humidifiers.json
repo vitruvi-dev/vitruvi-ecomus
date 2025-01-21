@@ -48,7 +48,6 @@
       "blocks": {
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
-          "disabled": true,
           "settings": {
             "sub_heading": "Sweet Dreams Sale: Up to 30% Off Sitewide",
             "sub_heading_fs": "base"
@@ -58,7 +57,6 @@
       "block_order": [
         "sub_heading_wpqzpJ"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 90%; font-style: italic; opacity: 80%;}"
       ],
