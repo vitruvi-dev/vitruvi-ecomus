@@ -30,7 +30,7 @@
             "min": 10,
             "max": 64,
             "content": "",
-            "icon_svg": "none",
+            "icon_svg": "box",
             "ani": "none"
           }
         },
@@ -48,23 +48,18 @@
           "type": "price",
           "settings": {}
         },
-        "1248e930-5734-45b4-a1d6-a814910fdb63": {
+        "variant_picker_xwgy9m": {
           "type": "variant_picker",
           "settings": {
             "pick_mode": "first_available",
             "enable_historystate": true,
             "hide_sold_out": false,
-            "color_picker_type": "color_rounded",
-            "color_size": "medium",
+            "color_picker_type": "block",
+            "color_size": "small",
             "picker_type": "block",
             "size_chart_source": "page",
-            "size_chart_page": "size-chart"
+            "size_chart_page": ""
           }
-        },
-        "quantity_selector_XCH8WV": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {}
         },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
@@ -74,48 +69,6 @@
             "show_price_variant": true,
             "show_wishlist": false,
             "show_compare": false
-          }
-        },
-        "inventory_ftnW9y": {
-          "type": "inventory",
-          "disabled": true,
-          "settings": {
-            "inventory_threshold": 50,
-            "show_inventory_quantity": true,
-            "show_progress_bar": false,
-            "progress_bar_max": 50
-          }
-        },
-        "custom_liquid_CyEFcr": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div class=\"gwp-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 0px; align-items: center; justify-content: center;\">\n  <div class=\"gwp-img\">\n      <img class=\"gwp-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/gift-card-blank_v2.png?v=1669877085\">\n  </div>\n  <div class=\"gwp-text\">\n    <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Give More, Get More</h5>\n    <p>Spend $125+ for a free $25 gift card.<br/>Spend $250+ for a free $50 gift card.</p>\n  </div>\n</div>"
-          }
-        },
-        "countdown_timer_NCVUEc": {
-          "type": "countdown_timer",
-          "disabled": true,
-          "settings": {
-            "content": "Labor Day Sale Ends Soon",
-            "icon_svg": "clock",
-            "ani": "none"
-          }
-        },
-        "description_Fh49zX": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "des": "1",
-            "short_des": "",
-            "length": 31
-          }
-        },
-        "8253e974-5acb-4076-9230-03b0f804dcdf": {
-          "type": "back_instock",
-          "disabled": true,
-          "settings": {
-            "only_show_soldout": true
           }
         },
         "img_trust_Nj7Aj9": {
@@ -134,7 +87,7 @@
         "custom_liquid_ydB9QQ": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.compare_at_price == blank %}\n  {% if product.type and product.type contains 'Kit' %}\n  <!-- Do nothing or add an alternative display for products with \"Kit\" in type -->\n{% else %}\n  <div class=\"byob-cta\" style=\"display: grid; border: 1px solid #474946; box-sizing: border-box; overflow: auto; margin-top: 50px; align-items: center; justify-content: center;\">\n      <div class=\"byob-img\">\n        <a href=\"/products/build-your-own-scent-bundle\">\n          <img class=\"byob-src\" src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_spring-scents-bundle_scents_gallery_1_cropped_image.png?v=1712687466\">\n        </a>\n      </div>\n      <div class=\"byob-text\">\n        <a href=\"/products/build-your-own-scent-bundle\">\n          <h5 class=\"hdt-text-xl hdt-font-medium\" style=\"margin-bottom: 5px;\">Save Up To 25%</h5>\n          <p>Bundle 4 or more of your favorite blends and essential oils.</p>\n        </a>\n      </div>\n      <div class=\"byob-button\">\n        <a href=\"/products/build-your-own-scent-bundle\" class=\"hdt-btn hdt-text-base hdt-oh hdt-inline-flex hdt-align-center hdt-justify-center hdt-relative hdt-btn-solid hdt-font-normal\">\n          <span>BUILD BUNDLE</span>\n        </a>\n      </div>\n    </div>\n{% endif %}\n{% endif %}"
+            "custom_liquid": "{% render 'product-byob-cta' %}"
           }
         }
       },
@@ -143,14 +96,8 @@
         "3a222052-35a9-4684-a336-6a32a56eb638",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
-        "1248e930-5734-45b4-a1d6-a814910fdb63",
-        "quantity_selector_XCH8WV",
+        "variant_picker_xwgy9m",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
-        "inventory_ftnW9y",
-        "custom_liquid_CyEFcr",
-        "countdown_timer_NCVUEc",
-        "description_Fh49zX",
-        "8253e974-5acb-4076-9230-03b0f804dcdf",
         "img_trust_Nj7Aj9",
         "custom_liquid_ydB9QQ"
       ],
