@@ -355,9 +355,7 @@
         "btn_heading_collection": false,
         "heading_gap": 12,
         "sec_heading_spacing": 50,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "8",
         "content_size": "2xl",
         "content_weight": "normal",
@@ -691,7 +689,7 @@
         "4fb04760-f15f-40fb-9566-65e01d74325b": {
           "type": "collection_item",
           "settings": {
-            "collection": "essential-oils",
+            "collection": "essential-oils-2",
             "image": "shopify://shop_images/home_explore_oils_2024-08.png",
             "title": "Essential Oils",
             "collection_link": ""
@@ -721,9 +719,7 @@
         "72a99e49-16d6-4138-83a1-4f452229667b",
         "666bec38-cee5-4282-94d2-8eadd2c4dbd0"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Explore",
@@ -735,9 +731,7 @@
         "btn_heading_collection": false,
         "heading_gap": 12,
         "sec_heading_spacing": 50,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "8",
         "content_size": "2xl",
         "content_weight": "normal",
@@ -974,9 +968,7 @@
         "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-2",
         "template--20958100226352__cef9818d-d174-4a85-935f-31cd9035f495-item-3"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
