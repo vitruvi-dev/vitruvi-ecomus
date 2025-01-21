@@ -20,13 +20,13 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
           "settings": {
-            "heading": "Sleep Better, Dream Together"
+            "heading": ""
           }
         },
         "description_Ddhb9a": {
           "type": "description",
           "settings": {
-            "description": "Sleep soundly and save—25% off Vitruvi sleep bundles that bring calming scents and effortless style to your space."
+            "description": ""
           }
         }
       },
@@ -35,55 +35,11 @@
         "9a1347b4-da62-490d-9fd4-427a03686ac2",
         "description_Ddhb9a"
       ],
-      "disabled": true,
       "settings": {
-        "spacing_hd": 15,
+        "spacing_hd": 5,
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 15,
-        "padding_rate": 75
-      }
-    },
-    "countdown_text_HmUgXP": {
-      "type": "countdown_text",
-      "blocks": {
-        "text_8UMYqR": {
-          "type": "text",
-          "settings": {
-            "heading": "Sweet Dreams Are Made of  💤s Sale"
-          }
-        },
-        "text_2_xDRN8J": {
-          "type": "text_2",
-          "settings": {
-            "sub_heading": "<i>Up to 30% off humidifiers, diffusers, and scents built for better sleep.</i><br><br>Offer on until Jan 31 at midnight PST"
-          }
-        }
-      },
-      "block_order": [
-        "text_8UMYqR",
-        "text_2_xDRN8J"
-      ],
-      "custom_css": [
-        ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
-        ".hdt-subheading {font-weight: 200;}",
-        "i {font-size: 90; opacity: 60%;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "year": 2025,
-        "month": 2,
-        "day": 1,
-        "hour": 0,
-        "minute": 0,
-        "effect_cd": "move_top",
-        "uppercase": false,
-        "prepend_number": false,
-        "hide_on_complete": false,
-        "mess_complete": "",
-        "color_scheme": "scheme-1",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -93,7 +49,7 @@
         "sub_heading_wpqzpJ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Free Shipping on All $75+ Orders",
+            "sub_heading": "Sweet Dreams Sale: Up to 30% Off Sitewide",
             "sub_heading_fs": "base"
           }
         }
@@ -111,170 +67,57 @@
         "alignment_mb": "center",
         "fullwidth": false,
         "color_scheme": "",
-        "padding_top": 15,
+        "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
       }
     },
-    "top_heading_LXYpUq": {
-      "type": "top-heading",
+    "countdown_text_h939Yg": {
+      "type": "countdown_text",
       "blocks": {
-        "sub_heading_8N7Fad": {
-          "type": "sub_heading",
+        "text_RUD6mp": {
+          "type": "text",
           "settings": {
-            "sub_heading": "Get a FREE gift on $100+ orders while supplies last",
-            "sub_heading_fs": "base"
+            "heading": "{{ collection.title }}"
+          }
+        },
+        "text_2_bCkXKC": {
+          "type": "text_2",
+          "settings": {
+            "sub_heading": "<i>Sweet Dreams Are Made of 💤s Sale: Up to 30% Off Sitewide</i><br><br>Offer on until Jan 31 at midnight PST"
           }
         }
       },
       "block_order": [
-        "sub_heading_8N7Fad"
+        "text_RUD6mp",
+        "text_2_bCkXKC"
       ],
       "disabled": true,
       "custom_css": [
-        "p {font-size: 90%; font-style: italic; opacity: 80%;}"
+        ".hdt-heading {font-family: \"Heldane\"; font-weight: 200;}",
+        ".hdt-subheading {font-weight: 200;}",
+        "i {font-size: 90; opacity: 60%;}"
       ],
       "settings": {
-        "spacing_item": 0,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
+        "full_width": true,
+        "year": 2025,
+        "month": 2,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "effect_cd": "move_top",
+        "uppercase": false,
+        "prepend_number": false,
+        "hide_on_complete": true,
+        "mess_complete": "",
         "color_scheme": "",
         "padding_top": 15,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "hero_image_3dNbDH": {
-      "type": "hero-image",
-      "blocks": {
-        "heading_gp79NX": {
-          "type": "heading",
-          "settings": {
-            "heading": "<span class=\"bfcm-header\">Black Friday Sale</span>",
-            "heading_fs": "h3",
-            "heading_fw": "normal"
-          }
-        },
-        "heading_VNYyGF": {
-          "type": "heading",
-          "settings": {
-            "heading": "<span class=\"save40sitewide\">UP TO 40% OFF SITEWIDE</span>",
-            "heading_fs": "h6",
-            "heading_fw": "normal"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gp79NX",
-        "heading_VNYyGF"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".save40sitewide {font-family: \"Founders Grotesk\"; background-color: #eac661; padding: 5px; border-radius: 5px; color: black;}",
-        "@media (max-width: 767px) {.bfcm-header {font-size: 150%; } .save40sitewide {font-size: 80%; }}"
-      ],
-      "settings": {
-        "image_height": "fixed",
-        "fixed_height": 200,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 100,
-        "image": "shopify://shop_images/page_collection_hero_bfcm-2024_image_desktop_v1.jpg",
-        "image_mb": "shopify://shop_images/page_collection_hero_bfcm-2024_image_mobile_v2.jpg",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "categories_section_kV6JP9": {
-      "type": "categories-section",
-      "blocks": {
-        "collection_item_hyjBLh": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "bundle-and-save",
-            "image": "shopify://shop_images/collection_bfcm2024_bundles.png",
-            "title": "Gift Bundles",
-            "collection_link": ""
-          }
-        },
-        "collection_item_FJ9cck": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "humidifiers",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_humidifiers.jpg",
-            "title": "Humidifiers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_XAzK6L": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/collection_bfcm2024_diffusers.png",
-            "title": "Diffusers",
-            "collection_link": "#diffusers"
-          }
-        },
-        "collection_item_3tzmMw": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "diffuser-blends",
-            "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
-            "title": "Blends",
-            "collection_link": ""
-          }
-        },
-        "collection_item_tL67i4": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "scent-kits",
-            "image": "shopify://shop_images/collection_bfcm2024_kits.png",
-            "title": "Kits",
-            "collection_link": ""
-          }
-        },
-        "view_all_FywTJP": {
-          "type": "view_all",
-          "settings": {
-            "title": "Best Sellers",
-            "item_link": "shopify://collections/best-sellers"
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_hyjBLh",
-        "collection_item_FJ9cck",
-        "collection_item_XAzK6L",
-        "collection_item_3tzmMw",
-        "collection_item_tL67i4",
-        "view_all_FywTJP"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "color_scheme": "",
-        "style": "small",
-        "padding_top": 30,
         "padding_bottom": 0,
         "padding_rate": 75
       }
     },
     "custom_line_zAe7AX": {
       "type": "custom-line",
-      "disabled": true,
       "settings": {
         "line_style": "solid",
         "line_width": 100,
@@ -283,7 +126,7 @@
         "line_pos": "center",
         "section_fullwidth": false,
         "padding_top": 0,
-        "padding_bottom": 40,
+        "padding_bottom": 15,
         "padding_rate": 75
       }
     },
@@ -296,7 +139,7 @@
             "widget_heading": "Featured",
             "collection": "",
             "product_list": [
-              "best-sleep-diffuser-humidifier-bundle"
+              "air-waterless-diffuser"
             ],
             "products_count": 1,
             "image_ratio": "square",
@@ -1058,6 +901,183 @@
         "padding_rate": 75
       }
     },
+    "accordion_qkAGnW": {
+      "type": "accordion",
+      "blocks": {
+        "title_dYRnJg": {
+          "type": "title",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_header.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_JPTbXM": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_jFndrC": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_WTKRim": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_B6HXMh": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_bfz3KX": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
+          }
+        },
+        "title_NNbikj": {
+          "type": "title",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_8FJKnq": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_mRwLkx": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_V7grJx": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_ji38nn": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_jNg37U": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
+          }
+        },
+        "title_pbm6aU": {
+          "type": "title",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_header.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_UgRYNi": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_XBccRN": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_mD3jjk": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_gccUVz": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_ANzwif": {
+          "type": "accordion_item",
+          "source": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value.heading_item.value }}",
+            "content": "{{ collection.metafields.ecomus.seo_accordion_3_item_5.value.content | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "title_dYRnJg",
+        "accordion_item_JPTbXM",
+        "accordion_item_jFndrC",
+        "accordion_item_WTKRim",
+        "accordion_item_B6HXMh",
+        "accordion_item_bfz3KX",
+        "title_NNbikj",
+        "accordion_item_8FJKnq",
+        "accordion_item_mRwLkx",
+        "accordion_item_V7grJx",
+        "accordion_item_ji38nn",
+        "accordion_item_jNg37U",
+        "title_pbm6aU",
+        "accordion_item_UgRYNi",
+        "accordion_item_XBccRN",
+        "accordion_item_mD3jjk",
+        "accordion_item_gccUVz",
+        "accordion_item_ANzwif"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
     "custom_line_GAKQtn": {
       "type": "custom-line",
       "custom_css": [],
@@ -1076,11 +1096,8 @@
   },
   "order": [
     "heading",
-    "countdown_text_HmUgXP",
     "top_heading_LKRnyK",
-    "top_heading_LXYpUq",
-    "hero_image_3dNbDH",
-    "categories_section_kV6JP9",
+    "countdown_text_h939Yg",
     "custom_line_zAe7AX",
     "main",
     "featured_collection_grid_eF6zJd",
@@ -1095,6 +1112,7 @@
     "featured_collection_grid_j8DcaG",
     "slideshow_bHhppE",
     "collections_list_simple_kY6xMW",
+    "accordion_qkAGnW",
     "custom_line_GAKQtn"
   ]
 }
