@@ -14,17 +14,16 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_UYaNeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/sleep-sale\" title=\"Sleep Sale\">Sweet Dreams Sale: Up to 30% Off Sitewide</a>"
+          }
+        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
-          }
-        },
-        "announcement_UYaNeX": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Order by 12/17 to stay on track for 12/24 delivery"
           }
         },
         "announcement_eeYyAc": {
@@ -36,8 +35,8 @@
         }
       },
       "block_order": [
-        "announcement_RzCepp",
         "announcement_UYaNeX",
+        "announcement_RzCepp",
         "announcement_eeYyAc"
       ],
       "custom_css": [
