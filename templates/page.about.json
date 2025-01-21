@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -67,7 +67,7 @@
         "fixed_height": 600,
         "image_height_mb": "adapt_image_first",
         "fixed_height_mb": 300,
-        "video": "shopify:\/\/files\/videos\/page_about-us_header-video_2024-06.mp4",
+        "video": "shopify://files/videos/page_about-us_header-video_2024-06.mp4",
         "external_video_url": "",
         "content_bg": false,
         "color_scheme": "scheme-3",
@@ -162,7 +162,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "main_img": "shopify:\/\/shop_images\/page_about-us_our-story_image_desktop.jpg",
+        "main_img": "shopify://shop_images/page_about-us_our-story_image_desktop.jpg",
         "image_pos": "left",
         "image_ratio": "square",
         "custom_height": 860,
@@ -201,9 +201,9 @@
         "@media (min-width: 1150px) {.hdt-image-with_text * + .hdt-subheading {margin-top: var(--spacing-1-8); } .hdt-image-with_text .hdt-content_wrap {padding-top: 150px; } .hdt-heading.hdt-h4 {font-size: var(--text-10xl); }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/page_about-us_our-mission_image.png",
-        "first_image": "shopify:\/\/shop_images\/ugc__gabrielgabriel__cloud-humidifier_white.jpg",
-        "second_image": "shopify:\/\/shop_images\/page_about-us_our-difference_1_image.jpg",
+        "image": "shopify://shop_images/page_about-us_our-mission_image.png",
+        "first_image": "shopify://shop_images/ugc__gabrielgabriel__cloud-humidifier_white.jpg",
+        "second_image": "shopify://shop_images/page_about-us_our-difference_1_image.jpg",
         "style_image": "33",
         "image_effect": "zoom-in",
         "color_scheme": "scheme-1",
@@ -242,11 +242,11 @@
         "4b21378d-56e3-4143-9758-1f20b5455cc9"
       ],
       "custom_css": [
-        "@media (min-width: 1150px) {.hdt-image-with_text * + .hdt-subheading {margin-top: var(--spacing-1-8); } .hdt-image-with_text .hdt-content_wrap {padding-top: 130px; } .hdt-heading.hdt-h4 {font-size: var(--text-10xl); } .hdt-image-with_text .hdt-2_img .hdt-img_group .hdt-img_item:nth-child(2) {grid-row: 5 \/ 12; margin: 20px 0 0 40px; }}",
-        ".hdt-image-with_text .hdt-2_img .hdt-img_group .hdt-img_item:nth-child(2) {grid-column: 7\/13;}"
+        "@media (min-width: 1150px) {.hdt-image-with_text * + .hdt-subheading {margin-top: var(--spacing-1-8); } .hdt-image-with_text .hdt-content_wrap {padding-top: 130px; } .hdt-heading.hdt-h4 {font-size: var(--text-10xl); } .hdt-image-with_text .hdt-2_img .hdt-img_group .hdt-img_item:nth-child(2) {grid-row: 5 / 12; margin: 20px 0 0 40px; }}",
+        ".hdt-image-with_text .hdt-2_img .hdt-img_group .hdt-img_item:nth-child(2) {grid-column: 7/13;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/page_about-us_our-values_image.jpg",
+        "image": "shopify://shop_images/page_about-us_our-values_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "scheme-1",
@@ -284,13 +284,13 @@
           "settings": {
             "icon_svg": "smile",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/page_about-us_stone-render_2024-06.png",
+            "image": "shopify://shop_images/page_about-us_stone-render_2024-06.png",
             "icon_width": 40,
             "icon_width_mb": 40,
-            "link": "shopify:\/\/collections\/essential-oil-diffusers",
+            "link": "shopify://collections/essential-oil-diffusers",
             "open_link": false,
             "title": "Iconic",
-            "content": "<p>We never sacrifice form to achieve function, and believe that good design can’t just be seen—it can be felt. So we obsess over the details, rigorously researching, testing, and tweaking every product until we believe that it’s worthy of a place in your home.<\/p>",
+            "content": "<p>We never sacrifice form to achieve function, and believe that good design can’t just be seen—it can be felt. So we obsess over the details, rigorously researching, testing, and tweaking every product until we believe that it’s worthy of a place in your home.</p>",
             "adding_border": false
           }
         },
@@ -299,13 +299,13 @@
           "settings": {
             "icon_svg": "diamond",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/pdp_cloud-humidifier_white_gallery_1_image.png",
+            "image": "shopify://shop_images/pdp_cloud-humidifier_white_gallery_1_image.png",
             "icon_width": 40,
             "icon_width_mb": 40,
-            "link": "shopify:\/\/collections\/humidifiers",
+            "link": "shopify://collections/humidifiers",
             "open_link": false,
             "title": "Innovative",
-            "content": "<p>Our Cloud Humidifier helps you sleep, gives you dewy skin, and improves your body’s natural immunity. Nightstand-friendly in size (and gorgeous to look at), Cloud is the winner of an Architectural Digest Cleverest Award, an Architectural Digest Best Sleep Award, and an Esquire Home Award.<\/p>",
+            "content": "<p>Our Cloud Humidifier helps you sleep, gives you dewy skin, and improves your body’s natural immunity. Nightstand-friendly in size (and gorgeous to look at), Cloud is the winner of an Architectural Digest Cleverest Award, an Architectural Digest Best Sleep Award, and an Esquire Home Award.</p>",
             "adding_border": false
           }
         },
@@ -314,13 +314,13 @@
           "settings": {
             "icon_svg": "various_sizes",
             "custom_svg": "",
-            "image": "shopify:\/\/shop_images\/icons_drop_2024-06.svg",
+            "image": "shopify://shop_images/icons_drop_2024-06.svg",
             "icon_width": 40,
             "icon_width_mb": 40,
-            "link": "shopify:\/\/collections\/scents",
+            "link": "shopify://collections/scents",
             "open_link": false,
             "title": "Immersive",
-            "content": "<p>All of our natural scents were sourced and blended to transform your home through a unique sensory experience. Whether you want to create a sense of energy, calm, or something in between, our diffuser scents and air sprays meet you where you are and take you where you want to go.<\/p>",
+            "content": "<p>All of our natural scents were sourced and blended to transform your home through a unique sensory experience. Whether you want to create a sense of energy, calm, or something in between, our diffuser scents and air sprays meet you where you are and take you where you want to go.</p>",
             "adding_border": false
           }
         }
