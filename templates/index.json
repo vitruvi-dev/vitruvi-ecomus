@@ -78,7 +78,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 450,
-        "image": "shopify://shop_images/jan15.png",
+        "image": "shopify://shop_images/home_2025jan23.png",
         "image_mb": "shopify://shop_images/page_home_hero_sleepnewyear_image_mobile-min.png",
         "link_img": "shopify://collections/sleep-bundles",
         "target": false,
@@ -404,7 +404,7 @@
         "collection_item_JUWwNA": {
           "type": "collection_item",
           "settings": {
-            "collection": "scents",
+            "collection": "scents-2",
             "image": "shopify://shop_images/ugc_scents_sculpture_richellekingsland_v2.jpg",
             "title": "Sleep-Inducing Scents",
             "collection_link": "/collections/best-essential-oils-for-sleep#scents"
@@ -415,7 +415,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify://collections/scents"
+            "item_link": "shopify://collections/scents-2"
           }
         }
       },
@@ -729,7 +729,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify://collections/scents"
+            "item_link": "shopify://collections/scents-2"
           }
         }
       },

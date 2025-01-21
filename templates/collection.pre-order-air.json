@@ -549,7 +549,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_air-diffuser_white_gallery_3_image.jpg",
+        "image": "shopify://shop_images/pdp_air-diffuser_white_feature-3-3_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -590,7 +590,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_air-diffuser_white_scent-your-home_2_image.jpg",
+        "image": "shopify://shop_images/pdp_air-diffuser_white_feature-3-2_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -631,7 +631,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_air-diffuser_white_scent-your-home_banner_image.jpg",
+        "image": "shopify://shop_images/pdp_air-diffuser_white_feature-2_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -672,7 +672,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_air-diffuser_white_scent-your-home_1_image.jpg",
+        "image": "shopify://shop_images/pdp_air-diffuser_white_feature-3-1_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
