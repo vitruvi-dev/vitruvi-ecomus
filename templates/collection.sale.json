@@ -1044,10 +1044,9 @@
         "collection_list": [
           "shop-all",
           "humidifiers",
-          "essential-oil-diffusers",
-          "scent-kits",
-          "essential-oil-blends",
-          "essential-oils"
+          "diffusers",
+          "scents",
+          "accessories"
         ],
         "text_transform": false,
         "other_link_label": "View all categories",
