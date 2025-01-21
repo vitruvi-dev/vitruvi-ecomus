@@ -102,8 +102,8 @@
       "settings": {
         "full_width": true,
         "year": 2025,
-        "month": 2,
-        "day": 1,
+        "month": 1,
+        "day": 20,
         "hour": 0,
         "minute": 0,
         "effect_cd": "move_top",
@@ -890,8 +890,8 @@
           "humidifiers",
           "essential-oil-diffusers",
           "scent-kits",
-          "essential-oil-blends",
-          "essential-oils"
+          "essential-oil-blends-2",
+          "essential-oils-2"
         ],
         "text_transform": false,
         "other_link_label": "View all categories",
