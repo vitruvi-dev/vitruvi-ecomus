@@ -235,12 +235,14 @@
   :is(.hdt-effect-lunc,.hdt-effect-zoom-in) .hdt-img_item:hover {
     z-index: 4;
   }
+  /*
   .hdt-image-with_text .hdt-effect-zoom-in img {
     transition: transform 3s cubic-bezier(0, 0, 0.44, 1.18);
   }
   .hdt-image-with_text .hdt-effect-zoom-in .hdt-img_item:hover img {
     transform: scale3d(1.1, 1.1, 1);
   }
+    */
 }
 @media (max-width: 1149px){
   .hdt-image-with_text :where(h1:not(.hdt-h1,.hdt-h2,.hdt-h3,.hdt-h4,.hdt-h5,.hdt-h6),.hdt-h1){

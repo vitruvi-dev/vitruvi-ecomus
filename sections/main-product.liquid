@@ -38,8 +38,10 @@
               {% render block %}
 
             {%- when 'title' -%}
-              <div class="hdt-product-info__item hdt-product__title" data-type="{{ block.type }}" {{ block.shopify_attributes }}><h1 class="hdt-product__title hdt-font-normal">{{ product.title | escape }}</h1></div>
-
+              <div class="hdt-product-info__item hdt-product__title" data-type="{{ block.type }}" {{ block.shopify_attributes }}>
+                <h1 class="hdt-product__title hdt-font-normal">{{ product.title | escape }}</h1>
+                {% render 'product-compatible' %}
+              </div>
             {%- when 'vendor' -%}
               {%- liquid
                 if product.vendor == blank
@@ -108,7 +110,7 @@
                     {%- assign class = block.settings.ani | append: ' is--infinite hdt-inine-block' -%}
                       {%- render 'icon_theme_svg', icon_svg: block.settings.icon_svg, class: class -%}
                     {%- endif -%}
-                    <span class="hdt-s-text">{{ block.settings.txt | replace: '[hour]', hourHTML | replace: '[date_start]', '<span data-start-delivery class="hdt-start_delivery hdt-font-semibold"></span>' | replace: '[date_end]', '<span data-end-delivery class="hdt-end_delivery hdt-font-semibold"></span>' }}</span>
+                    <span class="hdt-s-text2">{{ block.settings.txt | replace: '[hour]', hourHTML | replace: '[date_start]', '<span data-start-delivery class="hdt-start_delivery hdt-font-semibold"></span>' | replace: '[date_end]', '<span data-end-delivery class="hdt-end_delivery hdt-font-semibold"></span>' }}</span>
                   </div>
                 </order-delivery>
               </div>

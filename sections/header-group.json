@@ -14,17 +14,16 @@
     "announcement_bar_xypBPq": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_UYaNeX": {
+          "type": "announcement",
+          "settings": {
+            "text": "<a href=\"/collections/sleep-sale\" title=\"Sleep Sale\">Sweet Dreams Sale: Up to 30% Off Sitewide</a>"
+          }
+        },
         "announcement_RzCepp": {
           "type": "announcement",
           "settings": {
             "text": "<a href=\"/collections/best-sellers\" title=\"Best-Sellers\">Fast, Free Shipping on Orders Over $75</a>"
-          }
-        },
-        "announcement_UYaNeX": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Order by 12/17 to stay on track for 12/24 delivery"
           }
         },
         "announcement_eeYyAc": {
@@ -36,8 +35,8 @@
         }
       },
       "block_order": [
-        "announcement_RzCepp",
         "announcement_UYaNeX",
+        "announcement_RzCepp",
         "announcement_eeYyAc"
       ],
       "custom_css": [
@@ -82,14 +81,14 @@
             "title": "Diffusers",
             "product_list_title": "SPOTLIGHT",
             "product_list": [
-              "stone-essential-oil-diffuser",
-              "sleep-stone-diffuser-bundle"
+              "air-waterless-diffuser",
+              "build-your-own-diffuser-bundle"
             ],
             "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "custom",
+            "mega_width": "full",
             "mega_custom_width": 1000
           }
         },
@@ -100,13 +99,13 @@
             "product_list_title": "SPOTLIGHT",
             "product_list": [
               "cloud-humidifier",
-              "best-sleep-diffuser-humidifier-bundle"
+              "build-your-own-humidifier-bundle"
             ],
             "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "custom",
+            "mega_width": "full",
             "mega_custom_width": 1000
           }
         },
@@ -123,24 +122,26 @@
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "custom",
+            "mega_width": "full",
             "mega_custom_width": 1000
           }
         },
-        "mega_shop_Bk7mfE": {
-          "type": "mega_shop",
+        "mega_product_dbAGjq": {
+          "type": "mega_product",
           "settings": {
             "title": "Bundle & Save",
-            "collection_list": [
-              "gifts",
-              "bundle-and-save"
+            "product_list_title": "SPOTLIGHT",
+            "product_list": [
+              "best-sleep-diffuser-humidifier-bundle",
+              "sleep-stone-diffuser-bundle",
+              "rest-essential-oil-kit"
             ],
-            "image_ratio": "adapt_image",
+            "image_ratio": "square",
             "image_size": true,
             "mega_menu_colors": "",
             "mega_position": "bottom",
-            "mega_width": "custom",
-            "mega_custom_width": 1000
+            "mega_width": "full",
+            "mega_custom_width": 1200
           }
         },
         "mega_product_GpBgrE": {
@@ -161,6 +162,23 @@
             "mega_width": "custom",
             "mega_custom_width": 700
           }
+        },
+        "mega_shop_V7BHH3": {
+          "type": "mega_shop",
+          "disabled": true,
+          "settings": {
+            "title": "Pre-Order",
+            "collection_list": [
+              "pre-order",
+              "pre-order-push"
+            ],
+            "image_ratio": "square",
+            "image_size": true,
+            "mega_menu_colors": "",
+            "mega_position": "bottom",
+            "mega_width": "full",
+            "mega_custom_width": 1200
+          }
         }
       },
       "block_order": [
@@ -168,11 +186,13 @@
         "mega_product_k7LrJx",
         "mega_product_3Dp8aK",
         "mega_product_iLwycz",
-        "mega_shop_Bk7mfE",
-        "mega_product_GpBgrE"
+        "mega_product_dbAGjq",
+        "mega_product_GpBgrE",
+        "mega_shop_V7BHH3"
       ],
       "custom_css": [
-        ".hdt_label_1 {display: none;}"
+        ".hdt_label_1 {display: none;}",
+        ".hdt-mega-shop .hdt-grid-cols-2 {--cols: 5;}"
       ],
       "settings": {
         "header_layout": "logo_left",
@@ -181,9 +201,9 @@
         "logo": "shopify://shop_images/vitruvi-logo_wordmark-black.png",
         "logo_width": 136,
         "header_colors": "scheme-1",
-        "main_menu": "header_desktop_sleepsale",
+        "main_menu": "header_desktop",
         "lazy_mn": true,
-        "menu_position": "end",
+        "menu_position": "start",
         "menu_size": "lg",
         "menu_weight": "normal",
         "text_transform": false,
@@ -197,7 +217,7 @@
         "enabled_wishlist": false,
         "header_height_mb": 64,
         "logo_width_mb": 110,
-        "main_menu_mobile": "header_mobile_sleepsale",
+        "main_menu_mobile": "header_mobile",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "scheme-1",
