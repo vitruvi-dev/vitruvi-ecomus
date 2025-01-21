@@ -404,7 +404,7 @@
         "collection_item_JUWwNA": {
           "type": "collection_item",
           "settings": {
-            "collection": "scents-2",
+            "collection": "scents",
             "image": "shopify://shop_images/ugc_scents_sculpture_richellekingsland_v2.jpg",
             "title": "Sleep-Inducing Scents",
             "collection_link": "/collections/best-essential-oils-for-sleep#scents"
@@ -415,7 +415,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify://collections/scents-2"
+            "item_link": "shopify://collections/scents"
           }
         }
       },
@@ -709,7 +709,7 @@
         "4fb04760-f15f-40fb-9566-65e01d74325b": {
           "type": "collection_item",
           "settings": {
-            "collection": "essential-oils-2",
+            "collection": "essential-oils",
             "image": "shopify://shop_images/home_explore_oils_2024-08.png",
             "title": "Essential Oils",
             "collection_link": ""
@@ -729,7 +729,7 @@
           "disabled": true,
           "settings": {
             "title": "Shop all scents",
-            "item_link": "shopify://collections/scents-2"
+            "item_link": "shopify://collections/scents"
           }
         }
       },
