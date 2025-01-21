@@ -65,7 +65,7 @@
         "custom_liquid_kkqPfE": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% render 'product-gwp',\n\nimage_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973',\n\nheader_text: 'Exclusive Pre-Order Gift',\n\ncopy_text: 'Your choice of scent refill added to every Air Diffuser order, while supplies last.'\n\n%}"
+            "custom_liquid": "{% render 'product-gwp',\n\nimage_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973',\n\nheader_text: 'Exclusive Pre-Order Gift',\n\ncopy_text: 'Your choice of scent refill added to every Air Waterless Diffuser order, while supplies last.'\n\n%}"
           }
         },
         "order_4mpQX3": {
@@ -74,7 +74,7 @@
             "hide_pre": false,
             "icon_svg": "box2",
             "ani": "none",
-            "txt": "<b>Experience the Air Diffuser first</b>—pre-orders ship late February.",
+            "txt": "<b>Experience the Air Waterless Diffuser first</b>—pre-orders ship late February.",
             "ds": 10,
             "de": 15,
             "mode": "1",
