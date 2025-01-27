@@ -213,7 +213,7 @@
         "sub_heading_KPqA9T": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "CLEANING YOUR",
+            "sub_heading": "HOW TO CLEAN YOUR",
             "sub_fs": "lg"
           }
         },
@@ -227,7 +227,7 @@
         "text_AnHbHp": {
           "type": "text",
           "settings": {
-            "text": "<p>Step 1: Soak in soapy water for 10 minutes.</p><p>Step 2: Rub out any marks with clean fingers.</p><p>Step 3: Rinse and let air dry.</p>"
+            "text": "<ol><li>Soak in soapy water for 10 minutes.</li><li>Rub out any marks with clean fingers.</li><li>Rinse and let air dry.</li></ol>"
           }
         }
       },
