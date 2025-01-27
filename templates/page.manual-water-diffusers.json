@@ -116,15 +116,13 @@
     },
     "custom_liquid_QYteg7": {
       "type": "custom-liquid",
-      "custom_css": [
-        "h2 {font-family: \"Kaftan\"; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;}"
-      ],
+      "custom_css": [],
       "settings": {
         "section_fullwidth": false,
-        "custom_liquid": "<div id=\"stone\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\">\nStone Diffuser\n</h2></div></div>",
+        "custom_liquid": "<div id=\"stone\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nStone Diffuser\n</h2></div></div>",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
