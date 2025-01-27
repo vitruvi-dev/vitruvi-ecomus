@@ -60,7 +60,7 @@
             "collection": "",
             "image": "shopify://shop_images/page_faq_get-to-know-move_2024-06.jpg",
             "title": "Move Diffuser",
-            "collection_link": "shopify://pages/get-to-know-the-move-diffuser"
+            "collection_link": "#move"
           }
         },
         "collection_item_PxdbJi": {
@@ -120,6 +120,17 @@
       "settings": {
         "section_fullwidth": false,
         "custom_liquid": "<div id=\"stone\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nStone Diffuser\n</h2></div></div>",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_CbbkbR": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<div id=\"move\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nMove Diffuser\n</h2></div></div>",
         "color_scheme": "",
         "padding_top": 100,
         "padding_bottom": 40,
@@ -654,6 +665,7 @@
     "top_heading_TkKzrj",
     "categories_section_NRfp3T",
     "custom_liquid_QYteg7",
+    "custom_liquid_CbbkbR",
     "top_heading_fLpmV3",
     "video_2_a7CBfN",
     "top_heading_Pz44Tk",
