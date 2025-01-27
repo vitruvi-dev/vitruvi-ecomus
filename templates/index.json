@@ -336,7 +336,7 @@
           "type": "button",
           "settings": {
             "btn_label": "PRE-ORDER NOW",
-            "btn_link": "shopify://collections/pre-order-push",
+            "btn_link": "shopify://products/push-plug-in-wall-diffuser",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
