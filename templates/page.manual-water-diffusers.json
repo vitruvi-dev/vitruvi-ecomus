@@ -418,13 +418,29 @@
         "padding_rate": 75
       }
     },
+    "video_2_MmtBgP": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/page_manual-diffuser-stay_features_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "video_2_6zL4RJ": {
       "type": "video-2",
       "custom_css": [
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify://files/videos/Glow_How-To-Clean.mp4",
+        "video": "shopify://files/videos/page_manual-diffuser-stay_set-up_video_desktop.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -513,6 +529,7 @@
     "video_2_YYWjUK",
     "video_2_8EzxFr",
     "custom_liquid_wCnac9",
+    "video_2_MmtBgP",
     "video_2_6zL4RJ",
     "accordion_ykb3Cd"
   ]
