@@ -42,6 +42,98 @@
         "padding_rate": 75
       }
     },
+    "categories_section_NRfp3T": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_B6TeVF": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-cloud_2024-06.jpg",
+            "title": "Cloud Humidifier",
+            "collection_link": "shopify://pages/get-to-know-the-cloud-humidifier"
+          }
+        },
+        "collection_item_8jBfNx": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-stone_2024-06.jpg",
+            "title": "Stone Diffuser",
+            "collection_link": "shopify://pages/get-to-know-the-stone-diffuser"
+          }
+        },
+        "collection_item_MmqWxE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-move_2024-06.jpg",
+            "title": "Move Diffuser",
+            "collection_link": "shopify://pages/get-to-know-the-move-diffuser"
+          }
+        },
+        "collection_item_PxdbJi": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_glow-difuser_feature_3_mobile_image.png",
+            "title": "Glow Diffuser",
+            "collection_link": "shopify://pages/get-to-know-the-glow-diffuser"
+          }
+        },
+        "collection_item_MeqH4q": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-stay_2024-06.jpg",
+            "title": "Stay Diffuser",
+            "collection_link": "shopify://pages/get-to-know-the-stay-diffuser"
+          }
+        },
+        "collection_item_wBNHVA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-diffuser-scents_2024-06.png",
+            "title": "Diffuser Scents",
+            "collection_link": "shopify://pages/get-to-know-our-essential-oils"
+          }
+        },
+        "collection_item_4WeQDG": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-nafs_2024-06.jpg",
+            "title": "Air Freshener Sprays",
+            "collection_link": "shopify://pages/get-to-know-our-air-freshener-sprays"
+          }
+        },
+        "view_all_Vqf37p": {
+          "type": "view_all",
+          "settings": {
+            "title": "Returns & Exchanges",
+            "item_link": "shopify://pages/returns-and-exchanges"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_B6TeVF",
+        "collection_item_8jBfNx",
+        "collection_item_MmqWxE",
+        "collection_item_PxdbJi",
+        "collection_item_MeqH4q",
+        "collection_item_wBNHVA",
+        "collection_item_4WeQDG",
+        "view_all_Vqf37p"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "small",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "top_heading_fLpmV3": {
       "type": "top-heading",
       "blocks": {
@@ -377,6 +469,7 @@
   },
   "order": [
     "top_heading_TkKzrj",
+    "categories_section_NRfp3T",
     "top_heading_fLpmV3",
     "video_2_a7CBfN",
     "top_heading_Pz44Tk",
