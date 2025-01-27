@@ -142,10 +142,10 @@
     "top_heading_fLpmV3": {
       "type": "top-heading",
       "blocks": {
-        "sub_heading_yBLNCb": {
+        "sub_heading_Yiprwa": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "FEATURES OF YOUR",
+            "sub_heading": "QUICK START GUIDE",
             "sub_heading_fs": "base"
           }
         },
@@ -153,12 +153,12 @@
           "type": "heading",
           "settings": {
             "heading": "Stone Diffuser",
-            "heading_fs": "h4"
+            "heading_fs": "h3"
           }
         }
       },
       "block_order": [
-        "sub_heading_yBLNCb",
+        "sub_heading_Yiprwa",
         "heading_frLbqK"
       ],
       "settings": {
@@ -169,6 +169,31 @@
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_DdAhDg": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_9TbGfY": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "FEATURES",
+            "sub_heading_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_9TbGfY"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20,
         "padding_rate": 75
       }
     },
@@ -194,21 +219,13 @@
         "sub_heading_wrbdzQ": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "HOW TO SET UP YOUR",
+            "sub_heading": "HOW TO SET UP",
             "sub_heading_fs": "base"
-          }
-        },
-        "heading_h7XAMb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Stone Diffuser",
-            "heading_fs": "h4"
           }
         }
       },
       "block_order": [
-        "sub_heading_wrbdzQ",
-        "heading_h7XAMb"
+        "sub_heading_wrbdzQ"
       ],
       "settings": {
         "spacing_item": 15,
@@ -415,7 +432,7 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_features_video_desktop.mp4",
+        "video": "shopify://files/videos/page_manual-diffuser-move_features_video_desktop.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -464,7 +481,7 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_set-up_video_desktop.mp4",
+        "video": "shopify://files/videos/page_manual-diffuser-move_set-up_video_desktop.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -494,7 +511,7 @@
         "text_Rx8qYQ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Step 1:<\/strong> Fill reservoir halfway with water; add 1 tablespoon white vinegar.<\/p><p><strong>Step 2: <\/strong>Let the solution sit for 30 minutes.<\/p><p><strong>Step 3: <\/strong>Rinse, then wipe away any remaining oil residue.<\/p><p><strong>Step 4: <\/strong>Repeat once a month.<\/p>"
+            "text": "<p><strong>Step 1:</strong> Fill reservoir halfway with water; add 1 tablespoon white vinegar.</p><p><strong>Step 2: </strong>Let the solution sit for 30 minutes.</p><p><strong>Step 3: </strong>Rinse, then wipe away any remaining oil residue.</p><p><strong>Step 4: </strong>Repeat once a month.</p>"
           }
         }
       },
@@ -504,7 +521,7 @@
         "text_Rx8qYQ"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pdp_move-diffuser_white_gallery_4_v2_image_52741eaf-f14f-46c9-be41-663f603bf378.png",
+        "image": "shopify://shop_images/pdp_move-diffuser_white_gallery_4_v2_image_52741eaf-f14f-46c9-be41-663f603bf378.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -669,6 +686,7 @@
     "custom_liquid_QYteg7",
     "custom_line_78FCAr",
     "top_heading_fLpmV3",
+    "top_heading_DdAhDg",
     "video_2_a7CBfN",
     "top_heading_Pz44Tk",
     "video_2_qcKXNa",
