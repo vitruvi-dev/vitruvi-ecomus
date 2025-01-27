@@ -114,53 +114,14 @@
         "padding_rate": 75
       }
     },
-    "custom_line_78FCAr": {
-      "type": "custom-line",
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#474946",
-        "line_pos": "center",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_4dX4yQ": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_CxUDUi": {
-          "type": "heading",
-          "settings": {
-            "heading": "Stone Diffuser",
-            "heading_fs": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "heading_CxUDUi"
-      ],
+    "custom_liquid_QYteg7": {
+      "type": "custom-liquid",
       "custom_css": [
         "h2 {font-family: \"Kaftan\"; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;}"
       ],
       "settings": {
-        "spacing_item": 15,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "custom_liquid_QYteg7": {
-      "type": "custom-liquid",
-      "settings": {
         "section_fullwidth": false,
-        "custom_liquid": "<span id=\"stone\"></span>",
+        "custom_liquid": "<div id=\"stone\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\">\nStone Diffuser\n</h2></div></div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0,
@@ -694,8 +655,6 @@
   "order": [
     "top_heading_TkKzrj",
     "categories_section_NRfp3T",
-    "custom_line_78FCAr",
-    "top_heading_4dX4yQ",
     "custom_liquid_QYteg7",
     "top_heading_fLpmV3",
     "video_2_a7CBfN",
