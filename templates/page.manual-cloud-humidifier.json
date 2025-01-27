@@ -42,6 +42,68 @@
         "padding_rate": 75
       }
     },
+    "categories_section_NRfp3T": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_B6TeVF": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-cloud_2024-06.jpg",
+            "title": "Cool-Mist Humidifiers",
+            "collection_link": "shopify://pages/get-to-know-the-cloud-humidifier"
+          }
+        },
+        "collection_item_8jBfNx": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-stone_2024-06.jpg",
+            "title": "Water-Based Diffusers",
+            "collection_link": "shopify://pages/get-to-know-vitruvi-water-diffusers"
+          }
+        },
+        "collection_item_wBNHVA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-diffuser-scents_2024-06.png",
+            "title": "Diffuser Scents",
+            "collection_link": "shopify://pages/get-to-know-our-essential-oils"
+          }
+        },
+        "collection_item_4WeQDG": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-nafs_2024-06.jpg",
+            "title": "Air Freshener Sprays",
+            "collection_link": "shopify://pages/get-to-know-our-air-freshener-sprays"
+          }
+        },
+        "view_all_Vqf37p": {
+          "type": "view_all",
+          "settings": {
+            "title": "Returns & Exchanges",
+            "item_link": "shopify://pages/returns-and-exchanges"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_B6TeVF",
+        "collection_item_8jBfNx",
+        "collection_item_wBNHVA",
+        "collection_item_4WeQDG",
+        "view_all_Vqf37p"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "small",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "top_heading_yjXtDA": {
       "type": "top-heading",
       "blocks": {
@@ -383,6 +445,7 @@
   },
   "order": [
     "top_heading_TkKzrj",
+    "categories_section_NRfp3T",
     "top_heading_yjXtDA",
     "video_2_CeHmJV",
     "top_heading_G9XgdY",
