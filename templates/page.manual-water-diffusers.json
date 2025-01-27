@@ -256,6 +256,114 @@
         "padding_rate": 75
       }
     },
+    "accordion_ykb3Cd": {
+      "type": "accordion",
+      "blocks": {
+        "title_tngDnk": {
+          "type": "title",
+          "settings": {
+            "title": "Frequently Asked Questions"
+          }
+        },
+        "accordion_item_43zaVh": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What are the run times of the Stone Diffuser?",
+            "content": "<p>The Stone Diffuser has two run times: 4 hours and 8 hours. The 4-hour setting will run continuously. The 8-hour setting will run for 30 seconds and then turn off for 30 seconds, either until the water in the reservoir is low or the time period has ended. As part of an automatic safety feature, our diffusers turn off before the water reservoir is completely empty.<br/><br/>To turn off your diffuser, click the button for a third time.</p>"
+          }
+        },
+        "accordion_item_ECqy46": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is the Stone Diffuser made of?",
+            "content": "<p>The outer cover of the Stone Diffuser is made from high-quality matte porcelain. The inner water reservoir is made from BPA-free plastic. Because the diffuser is ultrasonic and runs on vibrations instead of heat, there is no interaction between the water, plastic, and essential oils.</p>"
+          }
+        },
+        "accordion_item_8TrmJy": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can the Stone Diffuser light be adjusted?",
+            "content": "<p>Yes. The Stone Diffuser has 4 light settings: on, dim, candlelight, and off. You can adjust the light settings by clicking the light button at the back of the diffuser. You can also press and hold the light button to turn off all the lights.</p>"
+          }
+        },
+        "accordion_item_hmbayQ": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I diffuse essential oils around my pets?",
+            "content": "<p>Our pets are as unique as us. The first thing we suggest doing is checking with your vet—your animal may be more sensitive than others, so your vet will know best.</p><p>Stronger scents such as Lemon, Grapefruit, Peppermint, and Boost, should be used sparingly. If you would still like to diffuse one of these scents, I would suggest limiting the number of drops to approximately 1-5 drops.</p><p>Frankincense, Lavender, and Cedarwood are great options to diffuse around animals. We also suggest turning your diffuser off when your animals are home alone, just in case they do become agitated by the scent.</p>"
+          }
+        },
+        "accordion_item_DdzHUR": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Which oils are safe for pregnancy and babies?",
+            "content": "<p>The best thing to do before using essential oils is to chat with your doctor.</p><p>In a diffuser, we recommend using small amounts of essential oils when pregnant (about 5 drops). When it comes to newborns, we recommend waiting 3 months before using essential oils. But your doctor will know best, as we all react differently.<br/>Always opt for essential oils that are 100% pure, vegan, cruelty-free, and free from synthetic fragrance.</p><p>These are the products we recommend starting with once you’ve spoken to your doctor: Lavender, Bergamot, Grapefruit, Lemon, Frankincense, Cedarwood, Boost, Sleep.</p>"
+          }
+        },
+        "title_dkcYKe": {
+          "type": "title",
+          "settings": {
+            "title": "Troubleshooting"
+          }
+        },
+        "accordion_item_PJEKk7": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Stone Diffuser not misting?",
+            "content": "<p>There may be a few reasons why your diffuser isn’t misting properly. Here are some ways to troubleshoot the issue.</p><p>First, give your diffuser a deep clean. As a part of a built-in feature to protect our diffusers, the unit won’t run if the ultrasonic plates are clogged with essential oils. Watch our video above for instructions on how to clean your diffuser.</p><p>Next, make sure the water is filled to just below the line inside the reservoir. If there is too little or too much water in the reservoir, the diffuser won’t turn on.</p>"
+          }
+        },
+        "accordion_item_wQrGqX": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Stone Diffuser not misting for the full 4-hour or 8-hour time cycle?",
+            "content": "<p>In order for your diffuser to run for the full time cycle, ensure that the water is filled to just below the fill line. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run times by approximately 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com.</p>"
+          }
+        },
+        "accordion_item_bGFE6j": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Stone Diffuser not turning on?",
+            "content": "<p>Make sure you’re using the original power cord that came with your Stone Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source</p><p>Next, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Stone Diffuser cover is sitting completely flush on the base.</p>"
+          }
+        },
+        "accordion_item_VYg3am": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Does the Stone Diffuser come with a warranty?",
+            "content": "<p>All Stone Diffusers come with a lifetime warranty. If your device has any mechanical or manufacturing defects, we would be happy to assist you.</p><p>Note: Stone Diffusers with a DC power cord are not covered under warranty.</p><p>Please reach out to us at hello@vitruvi.com with your proof of purchase, information on the issue you’re experiencing, and the serial number (located on the bottom of your diffuser). We would be happy to support you and ensure you have a perfectly working product.</p><p>Please note that our lifetime device warranty does not cover personal damages. That said, if you need a replacement part, you’re able to purchase it here.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title_tngDnk",
+        "accordion_item_43zaVh",
+        "accordion_item_ECqy46",
+        "accordion_item_8TrmJy",
+        "accordion_item_hmbayQ",
+        "accordion_item_DdzHUR",
+        "title_dkcYKe",
+        "accordion_item_PJEKk7",
+        "accordion_item_wQrGqX",
+        "accordion_item_bGFE6j",
+        "accordion_item_VYg3am"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}",
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": true,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "custom_liquid_CbbkbR": {
       "type": "custom-liquid",
       "settings": {
@@ -596,67 +704,6 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
-    },
-    "accordion_ykb3Cd": {
-      "type": "accordion",
-      "blocks": {
-        "title_tngDnk": {
-          "type": "title",
-          "settings": {
-            "title": "Frequently Asked Questions"
-          }
-        },
-        "accordion_item_43zaVh": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>"
-          }
-        },
-        "accordion_item_ECqy46": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>"
-          }
-        },
-        "accordion_item_8TrmJy": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>"
-          }
-        },
-        "accordion_item_mdeGkp": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "title_tngDnk",
-        "accordion_item_43zaVh",
-        "accordion_item_ECqy46",
-        "accordion_item_8TrmJy",
-        "accordion_item_mdeGkp"
-      ],
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}",
-        "h2 {text-align: center;}"
-      ],
-      "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "2",
-        "open_first": true,
-        "enable_link_list": false,
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
     }
   },
   "order": [
@@ -667,6 +714,7 @@
     "video_2_bcV3Ta",
     "image_with_text_MreEGt",
     "image_with_text_tbWHUW",
+    "accordion_ykb3Cd",
     "custom_liquid_CbbkbR",
     "video_2_E9pQBa",
     "video_2_tj8Deh",
@@ -680,7 +728,6 @@
     "video_2_MmtBgP",
     "video_2_6zL4RJ",
     "image_with_text_C88TUR",
-    "image_with_text_UMnQhc",
-    "accordion_ykb3Cd"
+    "image_with_text_UMnQhc"
   ]
 }
