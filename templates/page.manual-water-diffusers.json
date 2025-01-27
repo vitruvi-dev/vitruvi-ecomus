@@ -450,6 +450,104 @@
         "padding_rate": 75
       }
     },
+    "image_with_text_C88TUR": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_7efN8q": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO CLEAN YOUR",
+            "sub_fs": "base"
+          }
+        },
+        "heading_VNHLzf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Interior",
+            "heading_fs": "h4"
+          }
+        },
+        "text_PKqW7X": {
+          "type": "text",
+          "settings": {
+            "text": "<ol><li>Fill reservoir halfway with water; add 1 tablespoon white vinegar.</li><li>Let the solution sit for 30 minutes.</li><li>Rinse, then wipe away any remaining oil residue.</li><li>Repeat once a month.</li></ol>"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_7efN8q",
+        "heading_VNHLzf",
+        "text_PKqW7X"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pdp_stay-diffuser_white_gallery_4_v3_image_47909335-f8ea-4764-9d67-22c172237f52.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_UMnQhc": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_CMA69n": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO CLEAN YOUR",
+            "sub_fs": "base"
+          }
+        },
+        "heading_BLB6BM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cover",
+            "heading_fs": "h4"
+          }
+        },
+        "text_h8jiLT": {
+          "type": "text",
+          "settings": {
+            "text": "<ol><li>Wipe down with a wet cloth</li><li>Let air dry</li></ol>"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_CMA69n",
+        "heading_BLB6BM",
+        "text_h8jiLT"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pdp_stay-diffuser_white_gallery_4_v3_image_47909335-f8ea-4764-9d67-22c172237f52.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "accordion_ykb3Cd": {
       "type": "accordion",
       "blocks": {
@@ -531,6 +629,8 @@
     "custom_liquid_wCnac9",
     "video_2_MmtBgP",
     "video_2_6zL4RJ",
+    "image_with_text_C88TUR",
+    "image_with_text_UMnQhc",
     "accordion_ykb3Cd"
   ]
 }
