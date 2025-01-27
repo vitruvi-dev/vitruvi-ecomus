@@ -51,7 +51,7 @@
             "collection": "",
             "image": "shopify://shop_images/page_faq_get-to-know-stone_2024-06.jpg",
             "title": "Stone Diffuser",
-            "collection_link": "shopify://pages/get-to-know-the-stone-diffuser"
+            "collection_link": "#stone"
           }
         },
         "collection_item_MmqWxE": {
@@ -111,6 +111,17 @@
         "style": "small",
         "padding_top": 40,
         "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_QYteg7": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"stone\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -464,6 +475,7 @@
   "order": [
     "top_heading_TkKzrj",
     "categories_section_NRfp3T",
+    "custom_liquid_QYteg7",
     "custom_line_78FCAr",
     "top_heading_fLpmV3",
     "video_2_a7CBfN",
