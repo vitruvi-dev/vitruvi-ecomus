@@ -126,17 +126,6 @@
         "padding_rate": 75
       }
     },
-    "custom_liquid_CbbkbR": {
-      "type": "custom-liquid",
-      "settings": {
-        "section_fullwidth": false,
-        "custom_liquid": "<div id=\"move\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nMove Diffuser\n</h2></div></div>",
-        "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "top_heading_fLpmV3": {
       "type": "top-heading",
       "blocks": {
@@ -341,36 +330,14 @@
         "padding_rate": 75
       }
     },
-    "top_heading_TkKzrk": {
-      "type": "top-heading",
-      "blocks": {
-        "sub_heading_p9QqrG": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "QUICK START GUIDE",
-            "sub_heading_fs": "xl"
-          }
-        },
-        "heading_bkRD7y": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get to Know the Move Diffuser",
-            "heading_fs": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "sub_heading_p9QqrG",
-        "heading_bkRD7y"
-      ],
+    "custom_liquid_CbbkbR": {
+      "type": "custom-liquid",
       "settings": {
-        "spacing_item": 15,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
+        "section_fullwidth": false,
+        "custom_liquid": "<div id=\"move\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nMove Diffuser\n</h2></div></div>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 100,
+        "padding_top": 100,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -665,7 +632,6 @@
     "top_heading_TkKzrj",
     "categories_section_NRfp3T",
     "custom_liquid_QYteg7",
-    "custom_liquid_CbbkbR",
     "top_heading_fLpmV3",
     "video_2_a7CBfN",
     "top_heading_Pz44Tk",
@@ -673,7 +639,7 @@
     "image_with_text_MreEGt",
     "image_with_text_tbWHUW",
     "custom_line_fNfEEA",
-    "top_heading_TkKzrk",
+    "custom_liquid_CbbkbR",
     "top_heading_6ntnMr",
     "video_2_E9pQBa",
     "top_heading_pReQLa",
