@@ -329,145 +329,17 @@
         "padding_rate": 75
       }
     },
-    "accordion_jUzj9J": {
-      "type": "accordion",
-      "blocks": {
-        "title_XrDgbn": {
-          "type": "title",
-          "source": "{{ page.metafields.ecomus.seo_accordion_1_header.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
-          }
-        },
-        "accordion_item_9fAdcU": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_j4Bm9T": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_r9agBQ": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_hw6wtG": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_dnXKxw": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_dThqRA": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_M64rpw": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.content | metafield_tag }}"
-          }
-        },
-        "title_be7XAV": {
-          "type": "title",
-          "source": "{{ page.metafields.ecomus.seo_accordion_2_header.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
-          }
-        },
-        "accordion_item_XRnGKb": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_3BEXLM": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_79ti3m": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_9qNMWK": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
-          }
-        },
-        "accordion_item_QQ8biR": {
-          "type": "accordion_item",
-          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value }}",
-          "settings": {
-            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
-            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
-          }
-        }
-      },
-      "block_order": [
-        "title_XrDgbn",
-        "accordion_item_9fAdcU",
-        "accordion_item_j4Bm9T",
-        "accordion_item_r9agBQ",
-        "accordion_item_hw6wtG",
-        "accordion_item_dnXKxw",
-        "accordion_item_dThqRA",
-        "accordion_item_M64rpw",
-        "title_be7XAV",
-        "accordion_item_XRnGKb",
-        "accordion_item_3BEXLM",
-        "accordion_item_79ti3m",
-        "accordion_item_9qNMWK",
-        "accordion_item_QQ8biR"
-      ],
+    "custom_line_fNfEEA": {
+      "type": "custom-line",
       "settings": {
-        "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
-        "enable_link_list": false,
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#EBEBEB",
+        "line_pos": "center",
         "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 85,
-        "padding_bottom": 70,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     }
@@ -483,6 +355,6 @@
     "video_2_qcKXNa",
     "image_with_text_MreEGt",
     "image_with_text_tbWHUW",
-    "accordion_jUzj9J"
+    "custom_line_fNfEEA"
   ]
 }
