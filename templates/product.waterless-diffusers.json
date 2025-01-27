@@ -199,7 +199,7 @@
           "settings": {
             "title": "How to Use",
             "content": "",
-            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
+            "page": "how-to-diffuse-waterless"
           }
         },
         "tab_html_eeFthN": {
