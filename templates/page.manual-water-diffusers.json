@@ -171,7 +171,7 @@
         "heading_Khfajq": {
           "type": "heading",
           "settings": {
-            "heading": "Stone Diffuser Interior",
+            "heading": "Interior",
             "heading_fs": "h4"
           }
         },
@@ -220,7 +220,7 @@
         "heading_Cc8jU3": {
           "type": "heading",
           "settings": {
-            "heading": "Stone Diffuser Cover",
+            "heading": "Cover",
             "heading_fs": "h4"
           }
         },
@@ -253,20 +253,6 @@
         "alignment_mb": "left",
         "padding_top": 40,
         "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "custom_line_fNfEEA": {
-      "type": "custom-line",
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#ebebeb",
-        "line_pos": "center",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -319,21 +305,21 @@
         "sub_heading_rXzn9y": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "CLEANING YOUR",
+            "sub_heading": "HOW TO CLEAN YOUR",
             "sub_fs": "base"
           }
         },
         "heading_aAAgtb": {
           "type": "heading",
           "settings": {
-            "heading": "Move Diffuser Interior",
+            "heading": "Interior",
             "heading_fs": "h4"
           }
         },
         "text_Rx8qYQ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Step 1:</strong> Fill reservoir halfway with water; add 1 tablespoon white vinegar.</p><p><strong>Step 2: </strong>Let the solution sit for 30 minutes.</p><p><strong>Step 3: </strong>Rinse, then wipe away any remaining oil residue.</p><p><strong>Step 4: </strong>Repeat once a month.</p>"
+            "text": "<ol><li>Fill reservoir halfway with water; add 1 tablespoon white vinegar.</li><li>Let the solution sit for 30 minutes.</li><li>Rinse, then wipe away any remaining oil residue.</li><li>Repeat once a month.</li></ol>"
           }
         }
       },
@@ -671,7 +657,6 @@
     "video_2_bcV3Ta",
     "image_with_text_MreEGt",
     "image_with_text_tbWHUW",
-    "custom_line_fNfEEA",
     "custom_liquid_CbbkbR",
     "video_2_E9pQBa",
     "video_2_tj8Deh",
