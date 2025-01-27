@@ -358,3 +358,817 @@
     "custom_line_fNfEEA"
   ]
 }
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
+  "sections": {
+    "top_heading_TkKzrj": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_dtDUjN": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "QUICK START GUIDE",
+            "sub_heading_fs": "xl"
+          }
+        },
+        "heading_bkRD7y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get to Know the Stone Diffuser",
+            "heading_fs": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_dtDUjN",
+        "heading_bkRD7y"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "categories_section_NRfp3T": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_8jBfNx": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-stone_2024-06.jpg",
+            "title": "Stone Diffuser",
+            "collection_link": "#stone"
+          }
+        },
+        "collection_item_MmqWxE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-move_2024-06.jpg",
+            "title": "Move Diffuser",
+            "collection_link": "shopify://pages/get-to-know-the-move-diffuser"
+          }
+        },
+        "collection_item_PxdbJi": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_glow-difuser_feature_3_mobile_image.png",
+            "title": "Glow Diffuser",
+            "collection_link": "shopify://pages/get-to-know-the-glow-diffuser"
+          }
+        },
+        "collection_item_MeqH4q": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-stay_2024-06.jpg",
+            "title": "Stay Diffuser",
+            "collection_link": "shopify://pages/get-to-know-the-stay-diffuser"
+          }
+        },
+        "collection_item_wBNHVA": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-diffuser-scents_2024-06.png",
+            "title": "Diffuser Scents",
+            "collection_link": "shopify://pages/get-to-know-our-essential-oils"
+          }
+        },
+        "view_all_Vqf37p": {
+          "type": "view_all",
+          "settings": {
+            "title": "Back to FAQs",
+            "item_link": "shopify://pages/frequently-asked-questions"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_8jBfNx",
+        "collection_item_MmqWxE",
+        "collection_item_PxdbJi",
+        "collection_item_MeqH4q",
+        "collection_item_wBNHVA",
+        "view_all_Vqf37p"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "small",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_QYteg7": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<span id=\"stone\"></span>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_line_78FCAr": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#474946",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_fLpmV3": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_yBLNCb": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "FEATURES OF YOUR",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_frLbqK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stone Diffuser",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_yBLNCb",
+        "heading_frLbqK"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_a7CBfN": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/page_manual-diffuser-stone_features_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_Pz44Tk": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_wrbdzQ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO SET UP YOUR",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_h7XAMb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stone Diffuser",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_wrbdzQ",
+        "heading_h7XAMb"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_qcKXNa": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/page_manual-diffuser-stone_set-up_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_MreEGt": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_na3Xay": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CLEANING YOUR",
+            "sub_fs": "lg"
+          }
+        },
+        "heading_Khfajq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stone Diffuser Interior",
+            "heading_fs": "h4"
+          }
+        },
+        "text_pkNiRG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Step 1. Fill reservoir halfway with water; add 1 tablespoon white vinegar.</p><p>Step 2. Let the solution sit for 30 minutes.</p><p>Step 3. Rinse, then wipe away any remaining oil residue.</p><p>Step 4. Repeat once per week.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_na3Xay",
+        "heading_Khfajq",
+        "text_pkNiRG"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pdp_stone-diffuser_white_gallery_5_v3_image.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center-start",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_tbWHUW": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_KPqA9T": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CLEANING YOUR",
+            "sub_fs": "lg"
+          }
+        },
+        "heading_Cc8jU3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stone Diffuser Cover",
+            "heading_fs": "h4"
+          }
+        },
+        "text_AnHbHp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Step 1: Soak in soapy water for 10 minutes.</p><p>Step 2: Rub out any marks with clean fingers.</p><p>Step 3: Rinse and let air dry.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_KPqA9T",
+        "heading_Cc8jU3",
+        "text_AnHbHp"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pdp_replacement-part_stone-diffuser-cover_white_gallery_1_image_35085a6e-253a-433e-9180-395cf0342270.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center-start",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "accordion_jUzj9J": {
+      "type": "accordion",
+      "blocks": {
+        "title_XrDgbn": {
+          "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_9fAdcU": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_j4Bm9T": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_r9agBQ": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_hw6wtG": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_dnXKxw": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_dThqRA": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_M64rpw": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.content | metafield_tag }}"
+          }
+        },
+        "title_be7XAV": {
+          "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_XRnGKb": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_3BEXLM": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_79ti3m": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_9qNMWK": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_QQ8biR": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "title_XrDgbn",
+        "accordion_item_9fAdcU",
+        "accordion_item_j4Bm9T",
+        "accordion_item_r9agBQ",
+        "accordion_item_hw6wtG",
+        "accordion_item_dnXKxw",
+        "accordion_item_dThqRA",
+        "accordion_item_M64rpw",
+        "title_be7XAV",
+        "accordion_item_XRnGKb",
+        "accordion_item_3BEXLM",
+        "accordion_item_79ti3m",
+        "accordion_item_9qNMWK",
+        "accordion_item_QQ8biR"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_TkKzrj": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_p9QqrG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "QUICK START GUIDE",
+            "sub_heading_fs": "xl"
+          }
+        },
+        "heading_bkRD7y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get to Know the Move Diffuser",
+            "heading_fs": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_p9QqrG",
+        "heading_bkRD7y"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_6ntnMr": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_4qVbX8": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "FEATURES OF YOUR",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_AGqCyJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Move Diffuser",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_4qVbX8",
+        "heading_AGqCyJ"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_E9pQBa": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_features_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_pReQLa": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_7kbFXk": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO SET UP YOUR",
+            "sub_heading_fs": "base"
+          }
+        },
+        "heading_xC3iNX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Move Diffuser",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_7kbFXk",
+        "heading_xC3iNX"
+      ],
+      "settings": {
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_tj8Deh": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/page_manual-diffuser-move_set-up_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_XfPHGe": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_rXzn9y": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CLEANING YOUR",
+            "sub_fs": "base"
+          }
+        },
+        "heading_aAAgtb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Move Diffuser Interior",
+            "heading_fs": "h4"
+          }
+        },
+        "text_Rx8qYQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Step 1:<\/strong> Fill reservoir halfway with water; add 1 tablespoon white vinegar.<\/p><p><strong>Step 2: <\/strong>Let the solution sit for 30 minutes.<\/p><p><strong>Step 3: <\/strong>Rinse, then wipe away any remaining oil residue.<\/p><p><strong>Step 4: <\/strong>Repeat once a month.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_rXzn9y",
+        "heading_aAAgtb",
+        "text_Rx8qYQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pdp_move-diffuser_white_gallery_4_v2_image_52741eaf-f14f-46c9-be41-663f603bf378.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "accordion_V3FMja": {
+      "type": "accordion",
+      "blocks": {
+        "title_EziF9c": {
+          "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_KFkmBh": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_ecAAMM": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_4tmXAX": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_m7DphA": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_eaU4ar": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_5.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_AyLWYw": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_6.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_aKJgcL": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_1_item_7.value.content | metafield_tag }}"
+          }
+        },
+        "title_nMXM4n": {
+          "type": "title",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_header.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_header.value.accordion_item.value }}"
+          }
+        },
+        "accordion_item_k6UGej": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_1.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_frEEka": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_2.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_3yVjtY": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_3.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_8eGiRE": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_4.value.content | metafield_tag }}"
+          }
+        },
+        "accordion_item_c3Gt4j": {
+          "type": "accordion_item",
+          "source": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value }}",
+          "settings": {
+            "title": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value.heading_item.value }}",
+            "content": "{{ page.metafields.ecomus.seo_accordion_2_item_5.value.content | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "title_EziF9c",
+        "accordion_item_KFkmBh",
+        "accordion_item_ecAAMM",
+        "accordion_item_4tmXAX",
+        "accordion_item_m7DphA",
+        "accordion_item_eaU4ar",
+        "accordion_item_AyLWYw",
+        "accordion_item_aKJgcL",
+        "title_nMXM4n",
+        "accordion_item_k6UGej",
+        "accordion_item_frEEka",
+        "accordion_item_3yVjtY",
+        "accordion_item_8eGiRE",
+        "accordion_item_c3Gt4j"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "1",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "top_heading_TkKzrj",
+    "categories_section_NRfp3T",
+    "custom_liquid_QYteg7",
+    "custom_line_78FCAr",
+    "top_heading_fLpmV3",
+    "video_2_a7CBfN",
+    "top_heading_Pz44Tk",
+    "video_2_qcKXNa",
+    "image_with_text_MreEGt",
+    "image_with_text_tbWHUW",
+    "accordion_jUzj9J",
+    "top_heading_TkKzrj",
+    "top_heading_6ntnMr",
+    "video_2_E9pQBa",
+    "top_heading_pReQLa",
+    "video_2_tj8Deh",
+    "image_with_text_XfPHGe",
+    "accordion_V3FMja"
+  ]
+}
