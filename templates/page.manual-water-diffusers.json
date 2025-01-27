@@ -69,7 +69,7 @@
             "collection": "",
             "image": "shopify://shop_images/pdp_glow-difuser_feature_3_mobile_image.png",
             "title": "Glow Diffuser",
-            "collection_link": "shopify://pages/get-to-know-the-glow-diffuser"
+            "collection_link": "#glow"
           }
         },
         "collection_item_MeqH4q": {
@@ -78,7 +78,7 @@
             "collection": "",
             "image": "shopify://shop_images/page_faq_get-to-know-stay_2024-06.jpg",
             "title": "Stay Diffuser",
-            "collection_link": "shopify://pages/get-to-know-the-stay-diffuser"
+            "collection_link": "#stay"
           }
         },
         "collection_item_wBNHVA": {
