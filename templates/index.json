@@ -283,13 +283,46 @@
         "padding_rate": 75
       }
     },
+    "top_heading_6mUyLi": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_x3hxKQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pre-Orders",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_eMehNb": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Lorem ipsum dolar sit amet",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_x3hxKQ",
+        "sub_heading_eMehNb"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_TH3zJL": {
       "type": "image-with-text",
       "blocks": {
         "heading_weepe7": {
           "type": "heading",
           "settings": {
-            "heading": "New: <i>Air Waterless Diffuser</i>",
+            "heading": "New: Air Waterless Diffuser",
             "heading_fs": "h4"
           }
         },
@@ -317,16 +350,64 @@
         "text_6HVHHK",
         "button_i3NAcL"
       ],
-      "custom_css": [
-        "@media (min-width: 767px) {p, li {font-size: 120%; }}",
-        "i {font-family: \"Kaftan\"; font-style: normal;}"
-      ],
+      "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/page_home_halffeaturev2.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
         "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "start-center",
+        "alignment_mb": "center",
+        "padding_top": 21,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_HMHahX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4CLcYH": {
+          "type": "heading",
+          "settings": {
+            "heading": "New: <i>Air Waterless Diffuser</i>",
+            "heading_fs": "h4"
+          }
+        },
+        "text_Hy7CzX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No water, no mess—the Air Waterless Diffuser fills up to 1,500 sq. ft. with long-lasting, all-natural scent for up to 30 days.</p><p>Pre order now and receive a free scent refill with your air diffuser.</p>"
+          }
+        },
+        "button_y48nYp": {
+          "type": "button",
+          "settings": {
+            "btn_label": "PRE-ORDER NOW",
+            "btn_link": "shopify://products/air-waterless-diffuser",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4CLcYH",
+        "text_Hy7CzX",
+        "button_y48nYp"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/page_home_halffeaturev2.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
         "content_position": "center",
         "alignment": "left",
         "content_pl": 0,
@@ -1027,7 +1108,9 @@
     "hero_image_3kanN3",
     "video_GKb7jj",
     "slideshow_EjwCVy",
+    "top_heading_6mUyLi",
     "image_with_text_TH3zJL",
+    "image_with_text_HMHahX",
     "featured_collection_grid_W6JYha",
     "collections_list_64Hida",
     "featured_collection_grid_GfmdDT",
