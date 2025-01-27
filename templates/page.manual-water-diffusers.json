@@ -435,22 +435,29 @@
         "accordion_item_GcXjc9": {
           "type": "accordion_item",
           "settings": {
-            "title": "What are the run times of the Stone Diffuser?",
-            "content": "<p>The Stone Diffuser has two run times: 4 hours and 8 hours. The 4-hour setting will run continuously. The 8-hour setting will run for 30 seconds and then turn off for 30 seconds, either until the water in the reservoir is low or the time period has ended. As part of an automatic safety feature, our diffusers turn off before the water reservoir is completely empty.<br/><br/>To turn off your diffuser, click the button for a third time.</p>"
+            "title": "How do I change the Glow Diffuser time setting?",
+            "content": "<p>The Glow Diffuser has two time settings. The 4-hour setting runs continuously; the 8-hour setting runs intermittently, turning on for 30 seconds and then off for 30 seconds.</p><p>To select the 4-hour time setting, turn on the diffuser by clicking the button once.</p><p>To change to the 8-hour time setting, click the button for a second time. You will know that the time setting has been successfully changed when the light flashes.<br/><br/>To turn off your diffuser, click the button for a third time.</p>"
           }
         },
         "accordion_item_cKppqR": {
           "type": "accordion_item",
           "settings": {
-            "title": "What is the Stone Diffuser made of?",
-            "content": "<p>The outer cover of the Stone Diffuser is made from high-quality matte porcelain. The inner water reservoir is made from BPA-free plastic. Because the diffuser is ultrasonic and runs on vibrations instead of heat, there is no interaction between the water, plastic, and essential oils.</p>"
+            "title": "How do I turn the Glow Diffuser light on and off?",
+            "content": "<p>When you turn on the Glow Diffuser, the light will automatically turn on. To turn off the light, click and hold the button for two seconds. To turn the light back on, click and hold the button for two seconds.</p>"
           }
         },
         "accordion_item_Fki3eq": {
           "type": "accordion_item",
           "settings": {
-            "title": "Can the Stone Diffuser light be adjusted?",
-            "content": "<p>Yes. The Stone Diffuser has 4 light settings: on, dim, candlelight, and off. You can adjust the light settings by clicking the light button at the back of the diffuser. You can also press and hold the light button to turn off all the lights.</p>"
+            "title": "What type of water should I use with the Glow Diffuser?",
+            "content": "<p>You can use both tap and distilled water with your diffuser. That said, if you live in an area with hard water, we recommend using distilled.</p>"
+          }
+        },
+        "accordion_item_gbU6gW": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Does the Glow Diffuser have an automatic safety feature?",
+            "content": "<p>Yes. The Glow Diffuser will automatically turn off once the time cycle is up or the water runs out. As part of this automatic safety feature, a little bit of water will always remain in the reservoir.</p>"
           }
         },
         "accordion_item_W9WXJa": {
@@ -507,6 +514,7 @@
         "accordion_item_GcXjc9",
         "accordion_item_cKppqR",
         "accordion_item_Fki3eq",
+        "accordion_item_gbU6gW",
         "accordion_item_W9WXJa",
         "accordion_item_amTMPa",
         "title_LXMWzA",
