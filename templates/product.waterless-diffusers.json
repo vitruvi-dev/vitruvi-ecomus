@@ -197,9 +197,9 @@
         "tab_html_zBkP96": {
           "type": "tab_html",
           "settings": {
-            "title": "Tab Custom HTML",
+            "title": "How to Use",
             "content": "",
-            "page": ""
+            "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
           }
         },
         "tab_html_eeFthN": {
