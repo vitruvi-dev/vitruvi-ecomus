@@ -364,6 +364,110 @@
         "padding_rate": 75
       }
     },
+    "accordion_ttxUxB": {
+      "type": "accordion",
+      "blocks": {
+        "title_FWA4ke": {
+          "type": "title",
+          "settings": {
+            "title": "Frequently Asked Questions"
+          }
+        },
+        "accordion_item_GcXjc9": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What are the run times of the Stone Diffuser?",
+            "content": "<p>The Stone Diffuser has two run times: 4 hours and 8 hours. The 4-hour setting will run continuously. The 8-hour setting will run for 30 seconds and then turn off for 30 seconds, either until the water in the reservoir is low or the time period has ended. As part of an automatic safety feature, our diffusers turn off before the water reservoir is completely empty.<br/><br/>To turn off your diffuser, click the button for a third time.</p>"
+          }
+        },
+        "accordion_item_cKppqR": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is the Stone Diffuser made of?",
+            "content": "<p>The outer cover of the Stone Diffuser is made from high-quality matte porcelain. The inner water reservoir is made from BPA-free plastic. Because the diffuser is ultrasonic and runs on vibrations instead of heat, there is no interaction between the water, plastic, and essential oils.</p>"
+          }
+        },
+        "accordion_item_Fki3eq": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can the Stone Diffuser light be adjusted?",
+            "content": "<p>Yes. The Stone Diffuser has 4 light settings: on, dim, candlelight, and off. You can adjust the light settings by clicking the light button at the back of the diffuser. You can also press and hold the light button to turn off all the lights.</p>"
+          }
+        },
+        "accordion_item_W9WXJa": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I diffuse essential oils around my pets?",
+            "content": "<p>Our pets are as unique as us. The first thing we suggest doing is checking with your vet—your animal may be more sensitive than others, so your vet will know best.</p><p>Stronger scents such as Lemon, Grapefruit, Peppermint, and Boost, should be used sparingly. If you would still like to diffuse one of these scents, I would suggest limiting the number of drops to approximately 1-5 drops.</p><p>Frankincense, Lavender, and Cedarwood are great options to diffuse around animals. We also suggest turning your diffuser off when your animals are home alone, just in case they do become agitated by the scent.</p>"
+          }
+        },
+        "accordion_item_amTMPa": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Which oils are safe for pregnancy and babies?",
+            "content": "<p>The best thing to do before using essential oils is to chat with your doctor.</p><p>In a diffuser, we recommend using small amounts of essential oils when pregnant (about 5 drops). When it comes to newborns, we recommend waiting 3 months before using essential oils. But your doctor will know best, as we all react differently.<br/>Always opt for essential oils that are 100% pure, vegan, cruelty-free, and free from synthetic fragrance.</p><p>These are the products we recommend starting with once you’ve spoken to your doctor: Lavender, Bergamot, Grapefruit, Lemon, Frankincense, Cedarwood, Boost, Sleep.</p>"
+          }
+        },
+        "title_LXMWzA": {
+          "type": "title",
+          "settings": {
+            "title": "Troubleshooting"
+          }
+        },
+        "accordion_item_MLHwzM": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Stone Diffuser not misting?",
+            "content": "<p>There may be a few reasons why your diffuser isn’t misting properly. Here are some ways to troubleshoot the issue.</p><p>First, give your diffuser a deep clean. As a part of a built-in feature to protect our diffusers, the unit won’t run if the ultrasonic plates are clogged with essential oils. Watch our video above for instructions on how to clean your diffuser.</p><p>Next, make sure the water is filled to just below the line inside the reservoir. If there is too little or too much water in the reservoir, the diffuser won’t turn on.</p>"
+          }
+        },
+        "accordion_item_inBQ7A": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Stone Diffuser not misting for the full 4-hour or 8-hour time cycle?",
+            "content": "<p>In order for your diffuser to run for the full time cycle, ensure that the water is filled to just below the fill line. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run times by approximately 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com.</p>"
+          }
+        },
+        "accordion_item_cQpPgt": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Why is my Stone Diffuser not turning on?",
+            "content": "<p>Make sure you’re using the original power cord that came with your Stone Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source</p><p>Next, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Stone Diffuser cover is sitting completely flush on the base.</p>"
+          }
+        },
+        "accordion_item_LDr6bj": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Does the Stone Diffuser come with a warranty?",
+            "content": "<p>All Stone Diffusers come with a lifetime warranty. If your device has any mechanical or manufacturing defects, we would be happy to assist you.</p><p>Note: Stone Diffusers with a DC power cord are not covered under warranty.</p><p>Please reach out to us at hello@vitruvi.com with your proof of purchase, information on the issue you’re experiencing, and the serial number (located on the bottom of your diffuser). We would be happy to support you and ensure you have a perfectly working product.</p><p>Please note that our lifetime device warranty does not cover personal damages. That said, if you need a replacement part, you’re able to purchase it here.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title_FWA4ke",
+        "accordion_item_GcXjc9",
+        "accordion_item_cKppqR",
+        "accordion_item_Fki3eq",
+        "accordion_item_W9WXJa",
+        "accordion_item_amTMPa",
+        "title_LXMWzA",
+        "accordion_item_MLHwzM",
+        "accordion_item_inBQ7A",
+        "accordion_item_cQpPgt",
+        "accordion_item_LDr6bj"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "custom_liquid_Yny7pm": {
       "type": "custom-liquid",
       "settings": {
@@ -371,6 +475,54 @@
         "custom_liquid": "<div id=\"glow\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nGlow Diffuser\n</h2></div></div>",
         "color_scheme": "",
         "padding_top": 100,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_Hk3GYX": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/Glow_Features.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_YYWjUK": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/Glow_How-To-Set-Up.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_8EzxFr": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/Glow_How-To-Clean.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
       }
@@ -640,54 +792,6 @@
         "padding_rate": 75
       }
     },
-    "video_2_Hk3GYX": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify://files/videos/Glow_Features.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_YYWjUK": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify://files/videos/Glow_How-To-Set-Up.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_8EzxFr": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify://files/videos/Glow_How-To-Clean.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "custom_liquid_wCnac9": {
       "type": "custom-liquid",
       "settings": {
@@ -843,6 +947,7 @@
     "video_2_Hk3GYX",
     "video_2_YYWjUK",
     "video_2_8EzxFr",
+    "accordion_ttxUxB",
     "custom_liquid_CbbkbR",
     "video_2_E9pQBa",
     "video_2_tj8Deh",
