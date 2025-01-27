@@ -470,17 +470,6 @@
             "title": "Pellentesque habitant morbi tristique senectus et netus?",
             "content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>"
           }
-        },
-        "other_content_q6mX8r": {
-          "type": "other_content",
-          "settings": {
-            "heading": "",
-            "content": "",
-            "solid_btn_label": "BACK TO FAQS",
-            "solid_btn_link": "shopify://pages/frequently-asked-questions",
-            "underline_btn_label": "",
-            "underline_btn_link": ""
-          }
         }
       },
       "block_order": [
@@ -488,8 +477,10 @@
         "accordion_item_43zaVh",
         "accordion_item_ECqy46",
         "accordion_item_8TrmJy",
-        "accordion_item_mdeGkp",
-        "other_content_q6mX8r"
+        "accordion_item_mdeGkp"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
         "accordion_position": "start",
@@ -498,7 +489,7 @@
         "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 85,
+        "padding_top": 40,
         "padding_bottom": 70,
         "padding_rate": 75
       }
