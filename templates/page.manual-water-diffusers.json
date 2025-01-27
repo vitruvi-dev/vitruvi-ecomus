@@ -627,6 +627,17 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_Yny7pm": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<div id=\"glow\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nGlow Diffuser\n</h2></div></div>",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "top_heading_TPdATp": {
       "type": "top-heading",
       "blocks": {
@@ -666,7 +677,7 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/Glow_Features.mp4",
+        "video": "shopify://files/videos/Glow_Features.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -715,7 +726,7 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/Glow_How-To-Set-Up.mp4",
+        "video": "shopify://files/videos/Glow_How-To-Set-Up.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -764,7 +775,7 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/Glow_How-To-Clean.mp4",
+        "video": "shopify://files/videos/Glow_How-To-Clean.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -935,6 +946,7 @@
     "video_2_tj8Deh",
     "image_with_text_XfPHGe",
     "accordion_V3FMja",
+    "custom_liquid_Yny7pm",
     "top_heading_TPdATp",
     "video_2_Hk3GYX",
     "top_heading_kyMk96",
