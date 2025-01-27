@@ -114,6 +114,20 @@
         "padding_rate": 75
       }
     },
+    "custom_line_78FCAr": {
+      "type": "custom-line",
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#474946",
+        "line_pos": "center",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
     "top_heading_fLpmV3": {
       "type": "top-heading",
       "blocks": {
@@ -450,6 +464,7 @@
   "order": [
     "top_heading_TkKzrj",
     "categories_section_NRfp3T",
+    "custom_line_78FCAr",
     "top_heading_fLpmV3",
     "video_2_a7CBfN",
     "top_heading_Pz44Tk",
