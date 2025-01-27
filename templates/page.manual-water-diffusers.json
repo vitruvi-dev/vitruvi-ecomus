@@ -364,6 +364,65 @@
         "padding_rate": 75
       }
     },
+    "custom_liquid_Yny7pm": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<div id=\"glow\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nGlow Diffuser\n</h2></div></div>",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_Hk3GYX": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/Glow_Features.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_YYWjUK": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/Glow_How-To-Set-Up.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_8EzxFr": {
+      "type": "video-2",
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/Glow_How-To-Clean.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "accordion_ttxUxB": {
       "type": "accordion",
       "blocks": {
@@ -456,6 +515,10 @@
         "accordion_item_cQpPgt",
         "accordion_item_LDr6bj"
       ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}",
+        "h2 {text-align: center;}"
+      ],
       "settings": {
         "accordion_position": "start",
         "accordion_icon": "2",
@@ -463,65 +526,6 @@
         "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "custom_liquid_Yny7pm": {
-      "type": "custom-liquid",
-      "settings": {
-        "section_fullwidth": false,
-        "custom_liquid": "<div id=\"glow\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nGlow Diffuser\n</h2></div></div>",
-        "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_Hk3GYX": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify://files/videos/Glow_Features.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_YYWjUK": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify://files/videos/Glow_How-To-Set-Up.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "video_2_8EzxFr": {
-      "type": "video-2",
-      "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
-      ],
-      "settings": {
-        "video": "shopify://files/videos/Glow_How-To-Clean.mp4",
-        "external_video_url": "",
-        "video_ratio": "16_9",
-        "color_scheme": "",
-        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 40,
         "padding_rate": 75
