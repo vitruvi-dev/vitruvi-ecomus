@@ -406,6 +406,17 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
+    },
+    "custom_liquid_wCnac9": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<div id=\"stay\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nStay Diffuser\n</h2></div></div>",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -423,6 +434,7 @@
     "custom_liquid_Yny7pm",
     "video_2_Hk3GYX",
     "video_2_YYWjUK",
-    "video_2_8EzxFr"
+    "video_2_8EzxFr",
+    "custom_liquid_wCnac9"
   ]
 }
