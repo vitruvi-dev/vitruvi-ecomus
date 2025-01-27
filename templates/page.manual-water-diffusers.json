@@ -236,8 +236,11 @@
         "heading_Cc8jU3",
         "text_AnHbHp"
       ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
       "settings": {
-        "image": "shopify://shop_images/pdp_replacement-part_stone-diffuser-cover_white_gallery_1_image_35085a6e-253a-433e-9180-395cf0342270.png",
+        "image": "shopify://shop_images/pdp_replacement-part_stone-diffuser-cover_cocoa_gallery_1_image.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
