@@ -93,8 +93,8 @@
         "view_all_Vqf37p": {
           "type": "view_all",
           "settings": {
-            "title": "Returns & Exchanges",
-            "item_link": "shopify://pages/returns-and-exchanges"
+            "title": "Back to FAQs",
+            "item_link": "shopify://pages/frequently-asked-questions"
           }
         }
       },
