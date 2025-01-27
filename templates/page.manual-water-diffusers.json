@@ -440,7 +440,7 @@
         "title_tngDnk": {
           "type": "title",
           "settings": {
-            "title": "Discovery all new items"
+            "title": "Frequently Asked Questions"
           }
         },
         "accordion_item_43zaVh": {
@@ -480,17 +480,18 @@
         "accordion_item_mdeGkp"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}",
+        "h2 {text-align: center;}"
       ],
       "settings": {
         "accordion_position": "start",
-        "accordion_icon": "1",
-        "open_first": false,
+        "accordion_icon": "2",
+        "open_first": true,
         "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 70,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     }
