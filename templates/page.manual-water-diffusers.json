@@ -45,15 +45,6 @@
     "categories_section_NRfp3T": {
       "type": "categories-section",
       "blocks": {
-        "collection_item_B6TeVF": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/page_faq_get-to-know-cloud_2024-06.jpg",
-            "title": "Cloud Humidifier",
-            "collection_link": "shopify://pages/get-to-know-the-cloud-humidifier"
-          }
-        },
         "collection_item_8jBfNx": {
           "type": "collection_item",
           "settings": {
@@ -99,15 +90,6 @@
             "collection_link": "shopify://pages/get-to-know-our-essential-oils"
           }
         },
-        "collection_item_4WeQDG": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/page_faq_get-to-know-nafs_2024-06.jpg",
-            "title": "Air Freshener Sprays",
-            "collection_link": "shopify://pages/get-to-know-our-air-freshener-sprays"
-          }
-        },
         "view_all_Vqf37p": {
           "type": "view_all",
           "settings": {
@@ -117,13 +99,11 @@
         }
       },
       "block_order": [
-        "collection_item_B6TeVF",
         "collection_item_8jBfNx",
         "collection_item_MmqWxE",
         "collection_item_PxdbJi",
         "collection_item_MeqH4q",
         "collection_item_wBNHVA",
-        "collection_item_4WeQDG",
         "view_all_Vqf37p"
       ],
       "settings": {
