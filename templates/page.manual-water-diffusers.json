@@ -1005,36 +1005,22 @@
         "accordion_item_idCFpQ": {
           "type": "accordion_item",
           "settings": {
-            "title": "Why is my Move Diffuser not misting?",
+            "title": "Why is my Stay Diffuser not misting?",
             "content": "<p>There may be a few reasons why your diffuser isn’t misting properly. Here are some ways to troubleshoot the issue.</p><p>First, give your diffuser a deep clean. As a part of a built-in feature to protect our diffusers, the unit won’t run if the ultrasonic plates are clogged with essential oils. Watch our video above for instructions on how to clean your diffuser.</p><p>Next, make sure the water is filled to just below the line inside the reservoir. If there is too little or too much water in the reservoir, the diffuser won’t turn on.</p>"
           }
         },
         "accordion_item_CJVHUz": {
           "type": "accordion_item",
           "settings": {
-            "title": "Why is my Move Diffuser not misting for the full 4-hour or 8-hour time cycle?",
-            "content": "<p>Ensure that the water is filled to just below the fill line to get a full time cycle. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run time by about 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com.</p>"
+            "title": "Why is my Stay Diffuser not misting for the full time cycle?",
+            "content": "<p>Ensure that the water is filled to just below the fill line to get a full time cycle. In addition, environmental factors—such as the humidity in your space and the type of water used—may affect the run times by approximately 15%. If you notice a large discrepancy in run time, please reach out to us at hello@vitruvi.com.</p>"
           }
         },
         "accordion_item_f9WVzd": {
           "type": "accordion_item",
           "settings": {
-            "title": "Why is my Move Diffuser not turning on?",
-            "content": "<p>First, check if your Move Diffuser is charged. Once your diffuser is fully charged, the four lights at the back will stop blinking.</p><p>Next, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Move Diffuser lid is sitting completely flush on the base.</p>"
-          }
-        },
-        "accordion_item_mUKtaW": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Why is my Move Diffuser not charging?",
-            "content": "<p>Make sure you’re using the original power cord that came with your Move Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source.</p>"
-          }
-        },
-        "accordion_item_n9Xqbt": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Does the Move Diffuser come with a warranty?",
-            "content": "<p>All Move Diffusers come with a lifetime warranty. If your product has any mechanical or manufacturing defects, we would be happy to assist you.</p><p>Please reach out to us at hello@vitruvi.com with your proof of purchase, information on the issue you’re experiencing, and the serial number (located on the bottom of your diffuser). We would be happy to support you and ensure you have a perfectly working product.</p><p>Please note that our lifetime device warranty does not cover personal damages.</p>"
+            "title": "Why is my Stay Diffuser not turning on?",
+            "content": "<p>Make sure you’re using the original power cord that came with your Stay Diffuser. If you misplaced your power cord, don’t worry—we sell replacement parts here. We also suggest plugging your diffuser into a different outlet to ensure it’s not an issue with your power source.</p><p>Next, ensure that the water is filled to just below the fill line. If the internal sensor notices that there is too little water in the reservoir, the diffuser will not turn on. Also, make sure that the Stay Diffuser lid is sitting completely flush on the base.</p>"
           }
         }
       },
@@ -1049,9 +1035,7 @@
         "title_jFQpyw",
         "accordion_item_idCFpQ",
         "accordion_item_CJVHUz",
-        "accordion_item_f9WVzd",
-        "accordion_item_mUKtaW",
-        "accordion_item_n9Xqbt"
+        "accordion_item_f9WVzd"
       ],
       "custom_css": [
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}",
