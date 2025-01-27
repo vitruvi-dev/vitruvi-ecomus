@@ -54,15 +54,6 @@
             "collection_link": "#stone"
           }
         },
-        "collection_item_MmqWxE": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/page_faq_get-to-know-move_2024-06.jpg",
-            "title": "Move Diffuser",
-            "collection_link": "#move"
-          }
-        },
         "collection_item_PxdbJi": {
           "type": "collection_item",
           "settings": {
@@ -70,6 +61,15 @@
             "image": "shopify://shop_images/pdp_glow-difuser_feature_3_mobile_image.png",
             "title": "Glow Diffuser",
             "collection_link": "#glow"
+          }
+        },
+        "collection_item_MmqWxE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-move_2024-06.jpg",
+            "title": "Move Diffuser",
+            "collection_link": "#move"
           }
         },
         "collection_item_MeqH4q": {
@@ -100,8 +100,8 @@
       },
       "block_order": [
         "collection_item_8jBfNx",
-        "collection_item_MmqWxE",
         "collection_item_PxdbJi",
+        "collection_item_MmqWxE",
         "collection_item_MeqH4q",
         "collection_item_wBNHVA",
         "view_all_Vqf37p"
