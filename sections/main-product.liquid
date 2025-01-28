@@ -23,6 +23,7 @@
   }
 {%- endstyle -%}
 
+<!-- Custom rule that hides Shop Promise when custom badges contains 'Pre-Order' -->
 {% if product.metafields.theme.custom_badges.value contains 'Pre-Order' %}
   {%- style -%}
     delivery-promise-wc {display: none !important;}
