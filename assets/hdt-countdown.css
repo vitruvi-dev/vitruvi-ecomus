@@ -21,7 +21,7 @@
   padding: var(--cd-pd-y) var(--cd-pd-x);
   border: var(--cd-bd-w, 1px) solid var(--cd-bd-cl);
   background-color: var(--cd-bg);
-  border-radius: var(--cd-bdr, 3px);
+  border-radius: 0px;
   color: var(--cd-color);
 }
 
