@@ -394,6 +394,39 @@
         "padding_rate": 75
       }
     },
+    "top_heading_GTjYAL": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_Yk8Ark": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ product.metafields.ecomus.banner_header.value }}",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_dXe8rc": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "{{ product.metafields.ecomus.banner_subheader.value }}",
+            "sub_heading_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Yk8Ark",
+        "sub_heading_dXe8rc"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_BP4B93": {
       "type": "image-with-text",
       "blocks": {
@@ -467,39 +500,6 @@
         "alignment_mb": "center",
         "padding_top": 60,
         "padding_bottom": 60,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_GTjYAL": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_Yk8Ark": {
-          "type": "heading",
-          "settings": {
-            "heading": "{{ product.metafields.ecomus.banner_header.value }}",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_dXe8rc": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "{{ product.metafields.ecomus.banner_subheader.value }}",
-            "sub_heading_fs": "lg"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Yk8Ark",
-        "sub_heading_dXe8rc"
-      ],
-      "settings": {
-        "spacing_item": 30,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -1057,10 +1057,10 @@
     "featured_collection_carousel_U3L6Hg",
     "icon_box_xRGYey",
     "video_width_text2_gAFGz7",
-    "image_with_text_BP4B93",
-    "image_with_text_6XdK7H",
     "top_heading_GTjYAL",
     "banner_gdzX4R",
+    "image_with_text_BP4B93",
+    "image_with_text_6XdK7H",
     "testimonials_2_NVU3JF",
     "171512128966062076",
     "related",
