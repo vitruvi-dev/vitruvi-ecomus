@@ -71,7 +71,9 @@
         "countdown_fmPRkK",
         "button_G99RRj"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".hdt-cd-heading {color: white; font-style: italic;}"
+      ],
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
