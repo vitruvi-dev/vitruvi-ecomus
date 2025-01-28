@@ -225,7 +225,7 @@
         "sec_heading": "Pick Your Perfect Scent",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover 6 exclusive, 100% natural scents crafted to last up to 30 days for effortless home aromas.</p>",
+        "sec_subheading": "<p>Discover 4 exclusive, 100% natural scents crafted to last up to 500 hours for effortless home aromas.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "btn_heading": false,
@@ -344,24 +344,6 @@
         "padding_top": 60,
         "padding_bottom": 60,
         "padding_rate": 75
-      }
-    },
-    "173802729459b68bc7": {
-      "type": "apps",
-      "blocks": {
-        "dealeasy_app_block_xQmcKj": {
-          "type": "shopify://apps/dealeasy/blocks/app-block/e47a8634-0496-480d-9e46-6f7fafd34b30",
-          "settings": {
-            "lb-product-handle": "push-plug-in-wall-diffuser",
-            "lb-product-id": ""
-          }
-        }
-      },
-      "block_order": [
-        "dealeasy_app_block_xQmcKj"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "video_width_text2_gAFGz7": {
@@ -1074,7 +1056,6 @@
     "tabs",
     "featured_collection_carousel_U3L6Hg",
     "icon_box_xRGYey",
-    "173802729459b68bc7",
     "video_width_text2_gAFGz7",
     "image_with_text_BP4B93",
     "image_with_text_6XdK7H",
