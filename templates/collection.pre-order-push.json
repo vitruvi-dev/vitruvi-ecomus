@@ -530,14 +530,14 @@
         "heading_CqWH9G": {
           "type": "heading",
           "settings": {
-            "heading": "Easy to Set Up, Easy to Use",
+            "heading": "Scent Your Space in Seconds",
             "heading_fs": "h4"
           }
         },
         "text_tHrATe": {
           "type": "text",
           "settings": {
-            "text": "<p>Just add an Air Scent Refill, turn it on, and enjoy consistent scenting without the mess. Perfect for busy lifestyles, it’s a hassle-free way to elevate your home environment.</p>"
+            "text": "<p>The Push Diffuser scents up to 200 sq ft in 10 seconds or less. Pair it with Vitruvi’s natural scent cartridges for effortless, flame-free fragrance that’s better for your home and air.</p>"
           }
         }
       },
@@ -549,7 +549,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_air-diffuser_white_feature-3-3_image.jpg",
+        "image": "shopify://shop_images/pdp_push-diffuser_white_gallery_1_image.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -571,14 +571,14 @@
         "heading_gtPhpL": {
           "type": "heading",
           "settings": {
-            "heading": "Scent Up to 1,500 Sq. Ft.",
+            "heading": "Unexpectedly Long-Lasting Scent",
             "heading_fs": "h4"
           }
         },
         "text_Efa6Wz": {
           "type": "text",
           "settings": {
-            "text": "<p>With five adjustable scent strengths, the Air Waterless Diffuser is ready to scent living spaces of all sizes.</p>"
+            "text": "<p>Enjoy up to 500 hours of consistent, natural fragrance with each refill. Simply plug it in, press a button, and let the Push Diffuser do the rest.</p>"
           }
         }
       },
@@ -590,7 +590,7 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_air-diffuser_white_feature-3-2_image.jpg",
+        "image": "shopify://shop_images/pdp_push-diffuser_white_gallery_2_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -612,14 +612,14 @@
         "heading_ccXq94": {
           "type": "heading",
           "settings": {
-            "heading": "30 Days of Natural Aroma",
+            "heading": "Beautifully Minimal, Naturally Functional",
             "heading_fs": "h4"
           }
         },
         "text_Gmkg9i": {
           "type": "text",
           "settings": {
-            "text": "<p>Vitruvi's 100% natural scent refills provide a full month of toxin-free aromas. It’s a simple, and safe scenting experience for your home.</p>"
+            "text": "<p>Say goodbye to synthetic scents. With its matte ceramic finish, the Push Diffuser is both décor and air care, perfect for any room.</p>"
           }
         }
       },
@@ -631,8 +631,10 @@
         ".hdt-container {width: 80%; max-width: 1440px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/pdp_air-diffuser_white_feature-2_image.jpg",
-        "style_image": "1",
+        "image": "shopify://shop_images/pdp_push-diffuser_white_gallery_5_image.jpg",
+        "first_image": "shopify://shop_images/pdp_push-diffuser_white_gallery_4_image.jpg",
+        "second_image": "shopify://shop_images/pdp_push-diffuser_white_gallery_6_image.jpg",
+        "style_image": "33",
         "image_effect": "zoom-in",
         "color_scheme": "",
         "image_last": true,
