@@ -662,7 +662,7 @@
         "text_VdzXUY": {
           "type": "text",
           "settings": {
-            "text": "<p>Experience pure scenting with Vitruvi’s ultra-efficient cold-air technology. Designed to work without water or heat, it delivers a consistent, mess-free aroma.</p>"
+            "text": "<p>Experience natural scenting with the Push Diffuser—no heat, no water, just effortless, long-lasting fragrance at the push of a button.</p>"
           }
         }
       },
@@ -703,6 +703,7 @@
         },
         "text_iyNwRy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Experience the future of scenting with mess-free, waterless technology.</p>",
             "adding_border": false
