@@ -404,51 +404,53 @@
                       </div>
                     </details>
                   {%- when 'featured_products' -%}
-                    <details class="hdt-widget hdt-widget-featured-products" is="hdt-accordion" aria-expanded="false" open {{ block.shopify_attributes }}>
-                      {%- if block.settings.widget_heading != blank -%}
-                        <summary class="hdt-widget-title hdt-flex hdt-align-center hdt-justify-between hdt-h6 hdt-font-normal">
-                          <span>{{ block.settings.widget_heading }}</span>
-                          <span accordion-icon>
-                            <svg class="hdt-facet-title_icon" xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7" fill="none"><path d="M11 5.5L5.5 6.55868e-08L-6.55868e-08 5.5L0.97625 6.47625L5.5 1.9525L10.0238 6.47625L11 5.5Z" fill="currentColor"/></svg>
-                          </span>
-                        </summary>
-                      {%- endif -%}
-                      <div class="hdt-widget-content">
-                        <div class="hdt-products-list hdt-row-grid hdt-row-grid--modify hdt-ratio--{{ block.settings.image_ratio }} {% if block.settings.image_size %} hdt-object-cover{% else %} hdt-object-contain{% endif %} lg:hdt-grid-cols-1">
-                          {%- liquid
-                            assign product_collection = block.settings.product_list | default: block.settings.collection.products
-                            assign color_list = 'products.theme_settings.color' | t | downcase | strip | replace: ' ,', ',' | replace: ', ', ',' | split: ',' | uniq
-                            assign size_list = 'products.theme_settings.size' | t | downcase | strip | replace: ' ,', ',' | replace: ', ', ',' | split: ',' | uniq
-                          -%}
-                            {%- if product_collection != blank -%}
-                              {%- liquid
-                              for product in product_collection limit: block.settings.products_count
-                                render 'pr_loop_item', section_id: block.id, product: product, sizes: "92px", widths: "92, 100, 180, 200"
-                              endfor -%}
-                            {%- else -%}
-                              {%- capture current -%}
-                                {%- cycle 1, 2 , 3, 4 -%}
-                              {%- endcapture -%}
-                              {%- for i in (1..block.settings.products_count) -%}
-                                <div class="hdt-card-product hdt-pr-loop hdt-loop-item">
-                                  <div class="hdt-card-product__wrapper hdt-flex hdt-loop-inner">
-                                    <div class="hdt-card-product__media hdt-loop-img hdt-relative hdt-oh">
-                                        <div class="hdt-product-img hdt-ratio" style="--aspect-ratioapt: 1">
-                                          {{ 'product-apparel-' | append: current }}
-                                        </div>
-                                      <a data-pr-href class="hdt-full-width-link" href="{{ product.url }}"></a>
-                                    </div>
-                                    <div class="hdt-card-product__info">
-                                      <a href="{{ product_url }}" class="hdt-card-product__title hdt-h6" data-not-instant>{{ 'onboarding.product_title' | t }}</a>
-                                      {%- render 'card-price', product: product, price_class: '', show_compare_at_price: true -%}
+                    {%- if block.settings.product_list != blank -%}
+                      <details class="hdt-widget hdt-widget-featured-products" is="hdt-accordion" aria-expanded="false" open {{ block.shopify_attributes }}>
+                        {%- if block.settings.widget_heading != blank -%}
+                          <summary class="hdt-widget-title hdt-flex hdt-align-center hdt-justify-between hdt-h6 hdt-font-normal">
+                            <span>{{ block.settings.widget_heading }}</span>
+                            <span accordion-icon>
+                              <svg class="hdt-facet-title_icon" xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7" fill="none"><path d="M11 5.5L5.5 6.55868e-08L-6.55868e-08 5.5L0.97625 6.47625L5.5 1.9525L10.0238 6.47625L11 5.5Z" fill="currentColor"/></svg>
+                            </span>
+                          </summary>
+                        {%- endif -%}
+                        <div class="hdt-widget-content">
+                          <div class="hdt-products-list hdt-row-grid hdt-row-grid--modify hdt-ratio--{{ block.settings.image_ratio }} {% if block.settings.image_size %} hdt-object-cover{% else %} hdt-object-contain{% endif %} lg:hdt-grid-cols-1">
+                            {%- liquid
+                              assign product_collection = block.settings.product_list | default: block.settings.collection.products
+                              assign color_list = 'products.theme_settings.color' | t | downcase | strip | replace: ' ,', ',' | replace: ', ', ',' | split: ',' | uniq
+                              assign size_list = 'products.theme_settings.size' | t | downcase | strip | replace: ' ,', ',' | replace: ', ', ',' | split: ',' | uniq
+                            -%}
+                              {%- if product_collection != blank -%}
+                                {%- liquid
+                                for product in product_collection limit: block.settings.products_count
+                                  render 'pr_loop_item', section_id: block.id, product: product, sizes: "92px", widths: "92, 100, 180, 200"
+                                endfor -%}
+                              {%- else -%}
+                                {%- capture current -%}
+                                  {%- cycle 1, 2 , 3, 4 -%}
+                                {%- endcapture -%}
+                                {%- for i in (1..block.settings.products_count) -%}
+                                  <div class="hdt-card-product hdt-pr-loop hdt-loop-item">
+                                    <div class="hdt-card-product__wrapper hdt-flex hdt-loop-inner">
+                                      <div class="hdt-card-product__media hdt-loop-img hdt-relative hdt-oh">
+                                          <div class="hdt-product-img hdt-ratio" style="--aspect-ratioapt: 1">
+                                            {{ 'product-apparel-' | append: current | placeholder_svg_tag: 'hdt-placeholder-svg' }}
+                                          </div>
+                                        <a data-pr-href class="hdt-full-width-link" href="{{ product.url }}"></a>
+                                      </div>
+                                      <div class="hdt-card-product__info">
+                                        <a href="{{ product_url }}" class="hdt-card-product__title hdt-h6" data-not-instant>{{ 'onboarding.product_title' | t }}</a>
+                                        {%- render 'card-price', product: product, price_class: '', show_compare_at_price: true -%}
+                                      </div>
                                     </div>
                                   </div>
-                                </div>
-                              {%- endfor -%}
-                            {%- endif -%}
+                                {%- endfor -%}
+                              {%- endif -%}
+                          </div>
                         </div>
-                      </div>
-                    </details>
+                      </details>
+                    {%- endif -%}
                   {%- when 'iconbox' -%}
                     <details class="hdt-widget hdt-widget-iconbox" is="hdt-accordion" aria-expanded="false" open {{ block.shopify_attributes }}>
                       {%- if block.settings.widget_heading != blank -%}
