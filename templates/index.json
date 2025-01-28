@@ -37,7 +37,7 @@
         "countdown_fmPRkK": {
           "type": "countdown",
           "settings": {
-            "title": "Ends soon",
+            "title": "",
             "year": 2025,
             "month": 2,
             "day": 1,
