@@ -701,6 +701,7 @@
         },
         "text_iyNwRy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Experience the future of scenting with mess-free, waterless technology.</p>",
             "adding_border": false
