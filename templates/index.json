@@ -289,14 +289,14 @@
         "heading_x3hxKQ": {
           "type": "heading",
           "settings": {
-            "heading": "Pre-Orders",
-            "heading_fs": "h4"
+            "heading": "New Arrivals",
+            "heading_fs": "h3"
           }
         },
         "sub_heading_eMehNb": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Lorem ipsum dolar sit amet",
+            "sub_heading": "Pre-orders now available.",
             "sub_heading_fs": "base"
           }
         }
@@ -306,7 +306,7 @@
         "sub_heading_eMehNb"
       ],
       "settings": {
-        "spacing_item": 30,
+        "spacing_item": 0,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
@@ -352,7 +352,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "image": "shopify://shop_images/page_home_halffeaturev2.png",
+        "image": "shopify://shop_images/pdp_push-diffuser_white_gallery_2_image.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
