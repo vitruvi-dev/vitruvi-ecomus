@@ -411,6 +411,9 @@
         "accordion_item_xg6Gja",
         "accordion_item_EpHLPr"
       ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
       "settings": {
         "accordion_position": "start",
         "accordion_icon": "1",
