@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "top_heading_TkKzrj": {
@@ -15,14 +15,14 @@
         "sub_heading_Xqk6Fe": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "QUICK START GUIDE",
+            "sub_heading": "GET TO KNOW",
             "sub_heading_fs": "xl"
           }
         },
         "heading_bkRD7y": {
           "type": "heading",
           "settings": {
-            "heading": "Get to Know the Cloud Humidifier",
+            "heading": "Vitruvi Cool-Mist Humidifiers",
             "heading_fs": "h2"
           }
         }
@@ -38,7 +38,50 @@
         "fullwidth": false,
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 100,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "categories_section_NRfp3T": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_B6TeVF": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/page_faq_get-to-know-cloud_2024-06.jpg",
+            "title": "Cloud Humidifier",
+            "collection_link": "#cloud"
+          }
+        },
+        "view_all_Vqf37p": {
+          "type": "view_all",
+          "settings": {
+            "title": "Back to FAQs",
+            "item_link": "shopify://pages/frequently-asked-questions"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_B6TeVF",
+        "view_all_Vqf37p"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "small",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_qGrXkw": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<div id=\"cloud\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nCloud Humidifier\n</h2></div></div>",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -81,7 +124,7 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_features_video.mp4",
+        "video": "shopify://files/videos/page_manual-humidifier-cloud_features_video.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -130,8 +173,8 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_set-up_video.mp4",
-        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+        "video": "shopify://files/videos/page_manual-humidifier-cloud_set-up_video.mp4",
+        "external_video_url": "<iframe width=\"1905\" height=\"712\" src=\"https://www.youtube.com/embed/_9VUPq3SxOc\" title=\"Share your brand story by adding a video to your store\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
         "video_ratio": "16_9",
         "color_scheme": "",
         "full_width": false,
@@ -179,7 +222,7 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_cleaning_video.mp4",
+        "video": "shopify://files/videos/page_manual-humidifier-cloud_cleaning_video.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -228,7 +271,7 @@
         "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
       ],
       "settings": {
-        "video": "shopify:\/\/files\/videos\/page_manual-humidifier-cloud_filter_v2_video.mp4",
+        "video": "shopify://files/videos/page_manual-humidifier-cloud_filter_v2_video.mp4",
         "external_video_url": "",
         "video_ratio": "16_9",
         "color_scheme": "",
@@ -368,6 +411,10 @@
         "accordion_item_xg6Gja",
         "accordion_item_EpHLPr"
       ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}",
+        "h2 {text-align: center;}"
+      ],
       "settings": {
         "accordion_position": "start",
         "accordion_icon": "1",
@@ -383,6 +430,8 @@
   },
   "order": [
     "top_heading_TkKzrj",
+    "categories_section_NRfp3T",
+    "custom_liquid_qGrXkw",
     "top_heading_yjXtDA",
     "video_2_CeHmJV",
     "top_heading_G9XgdY",
