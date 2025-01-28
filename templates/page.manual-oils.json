@@ -15,7 +15,7 @@
         "sub_heading_XxdtMW": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "QUICK START GUIDE",
+            "sub_heading": "GET TO KNOW",
             "sub_heading_fs": "lg"
           }
         },
@@ -79,8 +79,8 @@
       "settings": {
         "color_scheme": "",
         "style": "normal",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
