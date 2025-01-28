@@ -412,7 +412,8 @@
         "accordion_item_EpHLPr"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}",
+        "h2 {text-align: center;}"
       ],
       "settings": {
         "accordion_position": "start",
