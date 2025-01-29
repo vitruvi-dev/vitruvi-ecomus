@@ -36,12 +36,11 @@
         },
         "countdown_fmPRkK": {
           "type": "countdown",
-          "disabled": true,
           "settings": {
             "title": "",
             "year": 2025,
-            "month": 1,
-            "day": 20,
+            "month": 2,
+            "day": 1,
             "hour": 0,
             "minute": 0,
             "effect_cd": "move_top",
@@ -49,7 +48,7 @@
             "prepend_number": false,
             "hide_on_complete": false,
             "mess_complete": "",
-            "color_scheme": ""
+            "color_scheme": "scheme-2"
           }
         },
         "button_G99RRj": {
@@ -72,7 +71,9 @@
         "countdown_fmPRkK",
         "button_G99RRj"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".hdt-cd-heading {color: white; font-style: italic;}"
+      ],
       "settings": {
         "image_height": "full",
         "fixed_height": 860,
@@ -283,23 +284,125 @@
         "padding_rate": 75
       }
     },
+    "top_heading_6mUyLi": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_x3hxKQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "New Arrivals",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_eMehNb": {
+          "type": "sub_heading",
+          "disabled": true,
+          "settings": {
+            "sub_heading": "Pre-orders now available.",
+            "sub_heading_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_x3hxKQ",
+        "sub_heading_eMehNb"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing_item": 0,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_TH3zJL": {
       "type": "image-with-text",
       "blocks": {
+        "label_FfBxMg": {
+          "type": "label",
+          "settings": {
+            "label": "NEW",
+            "label_fs": "base"
+          }
+        },
         "heading_weepe7": {
           "type": "heading",
           "settings": {
-            "heading": "New: <i>Air Waterless Diffuser</i>",
+            "heading": "Push Plug-In Diffuser",
             "heading_fs": "h4"
           }
         },
         "text_6HVHHK": {
           "type": "text",
           "settings": {
-            "text": "<p>No water, no mess—the Air Waterless Diffuser fills up to 1,500 sq. ft. with long-lasting, all-natural scent for up to 30 days.</p><p>Pre order now and receive a free scent refill with your air diffuser.</p>"
+            "text": "<p>Ditch the candles and synthetic scents—the Push Plug-In Wall Diffuser fills up to 200 sq. ft. with long-lasting, all-natural scent for up to 500 hours.</p><p>Pre-order now and receive a free Push Scent Refill with your Push Diffuser.</p>"
           }
         },
         "button_i3NAcL": {
+          "type": "button",
+          "settings": {
+            "btn_label": "PRE-ORDER NOW",
+            "btn_link": "shopify://products/push-plug-in-wall-diffuser",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "label_FfBxMg",
+        "heading_weepe7",
+        "text_6HVHHK",
+        "button_i3NAcL"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/Homepage_push-diffuser_half-feature.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "start-center",
+        "alignment_mb": "center",
+        "padding_top": 21,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_HMHahX": {
+      "type": "image-with-text",
+      "blocks": {
+        "label_Pk8wpG": {
+          "type": "label",
+          "settings": {
+            "label": "NEW",
+            "label_fs": "base"
+          }
+        },
+        "heading_4CLcYH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Air Waterless Diffuser",
+            "heading_fs": "h4"
+          }
+        },
+        "text_Hy7CzX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No water, no mess—the Air Waterless Diffuser fills up to 1,500 sq. ft. with long-lasting, all-natural scent for up to 30 days.</p><p>Pre-order now and receive a free Air Scent Refill with your AIr Diffuser.</p>"
+          }
+        },
+        "button_y48nYp": {
           "type": "button",
           "settings": {
             "btn_label": "PRE-ORDER NOW",
@@ -313,20 +416,17 @@
         }
       },
       "block_order": [
-        "heading_weepe7",
-        "text_6HVHHK",
-        "button_i3NAcL"
-      ],
-      "custom_css": [
-        "@media (min-width: 767px) {p, li {font-size: 120%; }}",
-        "i {font-family: \"Kaftan\"; font-style: normal;}"
+        "label_Pk8wpG",
+        "heading_4CLcYH",
+        "text_Hy7CzX",
+        "button_y48nYp"
       ],
       "settings": {
         "image": "shopify://shop_images/page_home_halffeaturev2.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
-        "image_last": true,
+        "image_last": false,
         "content_position": "center",
         "alignment": "left",
         "content_pl": 0,
@@ -1027,7 +1127,9 @@
     "hero_image_3kanN3",
     "video_GKb7jj",
     "slideshow_EjwCVy",
+    "top_heading_6mUyLi",
     "image_with_text_TH3zJL",
+    "image_with_text_HMHahX",
     "featured_collection_grid_W6JYha",
     "collections_list_64Hida",
     "featured_collection_grid_GfmdDT",
