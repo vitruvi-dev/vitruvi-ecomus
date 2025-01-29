@@ -61,6 +61,10 @@
             "size_chart_page": ""
           }
         },
+        "appstle_subscription_appstle_subscription_product_page_widget_CMPwR6": {
+          "type": "shopify://apps/appstle-subscription/blocks/appstle-subscription-product-page-widget/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
+          "settings": {}
+        },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
@@ -90,6 +94,7 @@
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
         "1248e930-5734-45b4-a1d6-a814910fdb63",
+        "appstle_subscription_appstle_subscription_product_page_widget_CMPwR6",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
         "img_trust_6bXKGh"
       ],
