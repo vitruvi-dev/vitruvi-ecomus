@@ -79,10 +79,10 @@
           "type": "mega_product",
           "settings": {
             "title": "Diffusers",
-            "product_list_title": "SPOTLIGHT",
+            "product_list_title": "NEW ARRIVALS",
             "product_list": [
               "air-waterless-diffuser",
-              "build-your-own-diffuser-bundle"
+              "push-plug-in-wall-diffuser"
             ],
             "image_ratio": "square",
             "image_size": true,
