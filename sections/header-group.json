@@ -79,10 +79,10 @@
           "type": "mega_product",
           "settings": {
             "title": "Diffusers",
-            "product_list_title": "NEW ARRIVALS",
+            "product_list_title": "PRE-ORDER",
             "product_list": [
-              "air-waterless-diffuser",
-              "push-plug-in-wall-diffuser"
+              "push-plug-in-wall-diffuser",
+              "air-waterless-diffuser"
             ],
             "image_ratio": "square",
             "image_size": true,
