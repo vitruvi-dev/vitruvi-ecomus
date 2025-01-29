@@ -51,7 +51,7 @@
         "custom_liquid_wMHWk7": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% render 'product-gwp',\n\nimage_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973',\n\nheader_text: 'Exclusive Pre-Order Gift',\n\ncopy_text: 'Your choice of scent refill added to every Air Waterless Diffuser order, while supplies last.'\n\n%}"
+            "custom_liquid": "{% render 'product-gwp',\n\nimage_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973',\n\nheader_text: 'Exclusive Pre-Order Gift',\n\ncopy_text: 'Your choice of Air Scent Refill added to every Air Waterless Diffuser order, while supplies last.'\n\n%}"
           }
         },
         "order_KHym36": {
