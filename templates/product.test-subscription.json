@@ -48,66 +48,43 @@
           "type": "price",
           "settings": {}
         },
-        "custom_liquid_wMHWk7": {
-          "type": "custom_liquid",
+        "1248e930-5734-45b4-a1d6-a814910fdb63": {
+          "type": "variant_picker",
           "settings": {
-            "custom_liquid": "{% render 'product-gwp',\n\nimage_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973',\n\nheader_text: 'Exclusive Pre-Order Gift',\n\ncopy_text: 'Your choice of Air Scent Refill added to every Air Waterless Diffuser purchase, while supplies last.'\n\n%}"
+            "pick_mode": "first_available",
+            "enable_historystate": true,
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "medium",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
           }
         },
-        "order_KHym36": {
-          "type": "order",
-          "settings": {
-            "hide_pre": false,
-            "icon_svg": "box2",
-            "ani": "none",
-            "txt": "<b>Experience the Air Waterless Diffuser first</b>—pre-orders ship late February.",
-            "ds": 10,
-            "de": 15,
-            "mode": "1",
-            "cut_day": "",
-            "off_days": "",
-            "frm_day": "t44, t45 t46",
-            "time": "16:00:00"
-          }
-        },
-        "linked_products_HaJWbm": {
-          "type": "linked_products",
-          "settings": {
-            "option_name": "Scent",
-            "option_values": "{{ product.title }}",
-            "product_list": [
-              "boost-air-scent-refill",
-              "forest-frost-air-scent-refill",
-              "pacific-air-scent-refill",
-              "rosy-glow-air-scent-refill",
-              "sleep-air-scent-refill",
-              "warm-vanilla-air-scent-refill"
-            ],
-            "linked_type": "image",
-            "linked_size": "small"
-          }
+        "appstle_subscription_appstle_subscription_product_page_widget_CMPwR6": {
+          "type": "shopify://apps/appstle-subscription/blocks/appstle-subscription-product-page-widget/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
+          "settings": {}
         },
         "ad820e37-dee5-41f3-9692-bf46d9664103": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false,
+            "show_gift_card_recipient": true,
             "show_price_variant": true,
             "show_wishlist": false,
             "show_compare": false
           }
         },
-        "img_trust_Nj7Aj9": {
+        "img_trust_6bXKGh": {
           "type": "img_trust",
-          "source": "{{ product.metafields.ecomus.pdp_badge.value }}",
           "settings": {
             "show_icon": false,
-            "mess": "{{ product.metafields.ecomus.pdp_badge.value.message.value }}",
+            "mess": "",
             "source": "1",
             "image": "{{ product.metafields.ecomus.pdp_badge.value.image.value }}",
             "wimg": 600,
             "svg": "",
-            "height": 30
+            "height": 100
           }
         }
       },
@@ -116,17 +93,13 @@
         "3a222052-35a9-4684-a336-6a32a56eb638",
         "yotpo_product_reviews_ugc_star_rating_HQFQre",
         "edac686e-a845-4ed7-9b50-51639a11cf56",
-        "custom_liquid_wMHWk7",
-        "order_KHym36",
-        "linked_products_HaJWbm",
+        "1248e930-5734-45b4-a1d6-a814910fdb63",
+        "appstle_subscription_appstle_subscription_product_page_widget_CMPwR6",
         "ad820e37-dee5-41f3-9692-bf46d9664103",
-        "img_trust_Nj7Aj9"
+        "img_trust_6bXKGh"
       ],
       "custom_css": [
-        ".gwp-cta,.byob-cta {gap: 25px; padding: 25px;}",
-        ".byob-src,.gwp-src {padding: 0% 35% 0% 35%; width: auto; height: auto;}",
-        ".byob-text,.byob-button,.gwp-text {text-align: center;}",
-        "@media (min-width: 768px) {.gwp-cta {grid-template-rows: auto; grid-template-columns: 20% 80%; gap: 0px; padding: 15px 5px 15px 5px; } .byob-cta {grid-template-rows: auto; grid-template-columns: 20% 50% 30%; gap: 0px; padding: 15px 5px 15px 5px; } .gwp-image, .gwp-text, .byob-img, .byob-text, .byob-button {text-align: left; } .gwp-src, .byob-src {padding: 0% 0% 0% 0%; max-height: 80px; }}"
+        ".hdt-sticky-atc__qty-selector {display: none;}"
       ],
       "settings": {
         "space_content_media": true,
@@ -157,51 +130,42 @@
     "tabs": {
       "type": "main-product-tabs",
       "blocks": {
-        "tab_des_r9U8LH": {
+        "76effdab-2914-4a34-a303-417cde99ff0a": {
           "type": "tab_des",
           "settings": {
             "title": "Description"
           }
         },
-        "tab_html_r8KYLQ": {
+        "tab_html_8nNyXa": {
           "type": "tab_html",
           "settings": {
-            "title": "Aroma Notes",
-            "content": "{{ product.metafields.ecomus.tabs_scent_ingredients | metafield_tag }}",
+            "title": "Product Details",
+            "content": "{{ product.metafields.ecomus.tabs_hardware_specs | metafield_tag }}",
             "page": ""
           }
         },
-        "tab_html_NGKtrx": {
+        "tab_html_6HcXqi": {
           "type": "tab_html",
           "settings": {
-            "title": "What's Inside",
-            "content": "{{ product.metafields.ecomus.tabs_included_products | metafield_tag }}",
-            "page": ""
-          }
-        },
-        "tab_html_8PLjap": {
-          "type": "tab_html",
-          "settings": {
-            "title": "How to Use",
+            "title": "How It Works",
             "content": "",
             "page": "{{ product.metafields.ecomus.tabs_how_to.value }}"
           }
         },
-        "tab_html_KQpeCL": {
+        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c": {
           "type": "tab_html",
           "settings": {
             "title": "Shipping & Returns",
             "content": "",
-            "page": "{{ product.metafields.ecomus[\"linked-page_product-returns\"].value }}"
+            "page": "product-returns-default"
           }
         }
       },
       "block_order": [
-        "tab_des_r9U8LH",
-        "tab_html_r8KYLQ",
-        "tab_html_NGKtrx",
-        "tab_html_8PLjap",
-        "tab_html_KQpeCL"
+        "76effdab-2914-4a34-a303-417cde99ff0a",
+        "tab_html_8nNyXa",
+        "tab_html_6HcXqi",
+        "d0839947-6bc5-42cc-85f7-9e94ce6b3e6c"
       ],
       "settings": {
         "tabs_design": "tab_vertical",
@@ -212,193 +176,25 @@
         "padding_rate": 50
       }
     },
-    "icon_box_C6TXn9": {
-      "type": "icon-box",
-      "blocks": {
-        "item_LxpgtV": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "leaf",
-            "custom_svg": "",
-            "image": "shopify://shop_images/icons_drop_2024-06.svg",
-            "icon_width": 60,
-            "icon_width_mb": 60,
-            "link": "",
-            "open_link": false,
-            "title": "Only 100% natural clean scents",
-            "content": "",
-            "adding_border": false
-          }
-        },
-        "item_dGEfXk": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "health",
-            "custom_svg": "",
-            "image": "shopify://shop_images/icons_heart_2024-06.svg",
-            "icon_width": 60,
-            "icon_width_mb": 60,
-            "link": "",
-            "open_link": false,
-            "title": "Vegan and cruelty-free",
-            "content": "",
-            "adding_border": false
-          }
-        },
-        "item_np3GKW": {
-          "type": "item",
-          "settings": {
-            "icon_svg": "box",
-            "custom_svg": "",
-            "image": "shopify://shop_images/icons_recycle_2024-08.svg",
-            "icon_width": 60,
-            "icon_width_mb": 60,
-            "link": "",
-            "open_link": false,
-            "title": "Fully Recyclable & UV Protected Bottles",
-            "content": "",
-            "adding_border": false
-          }
-        }
-      },
-      "block_order": [
-        "item_LxpgtV",
-        "item_dGEfXk",
-        "item_np3GKW"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "base",
-        "heading_reverse": false,
-        "heading_gap": 30,
-        "sec_heading_spacing": 30,
-        "icon_pos_center": true,
-        "icon_pos_center_mb": true,
-        "icon_circle": false,
-        "space_icon_heading": "medium",
-        "size_heading": "medium",
-        "heading_uppercase": false,
-        "space_heading_content": "small",
-        "col_dk": "4",
-        "col_tb": "4",
-        "col_mb": "1",
-        "carousel_mobile": true,
-        "border_style": "none",
-        "fullwidth": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "slideshow_Ak3WEL": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_label_A93gJr": {
-          "type": "slide_label",
-          "settings": {
-            "image": "{{ product.metafields.ecomus.feature_1_media.value }}",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "scheme-4",
-            "sub_heading": "{{ product.metafields.ecomus.feature_1_heading.value }}",
-            "sub_heading_fs": "h5",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "{{ product.metafields.ecomus.feature_1_subheading.value }}",
-            "heading_fs": "h4",
-            "heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "1",
-            "content_bg": false,
-            "content_position": "center-start",
-            "alignment": "left",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_label_A93gJr"
-      ],
-      "custom_css": [
-        "img {opacity: 80%;}"
-      ],
-      "settings": {
-        "full_width": false,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 450,
-        "image_height_mb": "fixed",
-        "fixed_height_mb": 300,
-        "color_scheme": "scheme-3",
-        "loop": false,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "171512128966062076": {
-      "type": "apps",
-      "blocks": {
-        "yotpo_product_reviews_ugc_reviews_dERaaf": {
-          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "yotpo_product_reviews_ugc_reviews_dERaaf"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "related": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Customers Also Loved",
-        "heading_tag": "h2",
-        "heading_size": "h4",
+        "heading_tag": "h3",
+        "heading_size": "h5",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 50,
-        "limit": 4,
+        "limit": 10,
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
         "show_vendor": false,
-        "col_dk": "4",
+        "col_dk": "6",
         "col_tb": "4",
         "col_mb": "2",
         "navUI": true,
@@ -589,6 +385,23 @@
         "padding_rate": 75
       }
     },
+    "171512128966062076": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_ugc_reviews_dERaaf": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_ugc_reviews_dERaaf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "recently": {
       "type": "recently-products",
       "disabled": true,
@@ -696,11 +509,9 @@
     "breacrumb",
     "main",
     "tabs",
-    "icon_box_C6TXn9",
-    "slideshow_Ak3WEL",
-    "171512128966062076",
     "related",
     "accordion_WDEpM3",
+    "171512128966062076",
     "recently",
     "sidebar"
   ]
