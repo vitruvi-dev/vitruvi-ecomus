@@ -333,7 +333,7 @@
         "custom_liquid_Jkwf9X": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"hdt-product__order-content hdt-inline-flex hdt-align-center\"><img src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973\"><span class=\"hdt-s-text2\"><b>Exclusive Pre-Order Gift</b>\n—Your choice of scent refill added to every Air Waterless Diffuser order, while supplies last.</span>\n                  </div>"
+            "custom_liquid": "<div class=\"hdt-product__order-content hdt-inline-flex hdt-align-center\"><img src=\"https://cdn.shopify.com/s/files/1/2490/3170/files/boost-cta2.png?v=1737071973\"><span class=\"hdt-s-text2\"><b>Exclusive Pre-Order Gift</b>\n—Your choice of Air Scent Refill added to every Air Waterless Diffuser purchase, while supplies last.</span>\n                  </div>"
           }
         },
         "order_d6bcyF": {
@@ -701,6 +701,7 @@
         },
         "text_iyNwRy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Experience the future of scenting with mess-free, waterless technology.</p>",
             "adding_border": false
