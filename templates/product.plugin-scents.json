@@ -51,7 +51,7 @@
         "custom_liquid_xccBPd": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% render 'product-gwp',\n\nimage_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_push-refill_box_15ml_front_vanilla-mint_gallery_1.png',\n\nheader_text: 'Exclusive Pre-Order Gift',\n\ncopy_text: 'Save 50% on your choice of scent refill with every Push Diffuser, while supplies last.'\n\n%}"
+            "custom_liquid": "{% render 'product-gwp',\n\nimage_url: 'https://cdn.shopify.com/s/files/1/2490/3170/files/pdp_push-refill_box_15ml_front_vanilla-mint_gallery_1.png',\n\nheader_text: 'Exclusive Pre-Order Gift',\n\ncopy_text: 'Your choice of Push Scent Refill added to every Push Diffuser purchase, while supplies last.'\n\n%}"
           }
         },
         "order_KHym36": {
