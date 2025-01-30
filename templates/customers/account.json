@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -24,9 +24,7 @@
         "07a5aa24-dd2b-4a86-b317-574b7aeefd77"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
         "spacing_hd": 5,
@@ -44,10 +42,18 @@
             "heading": "Orders",
             "heading_fs": "h4"
           }
+        },
+        "sub_heading_LGdm7E": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "<span style=\"font-style: underline;\"><a href=\"#smile-home\">Manage Loyalty Account</a></span>",
+            "sub_heading_fs": "base"
+          }
         }
       },
       "block_order": [
-        "heading_k68HXR"
+        "heading_k68HXR",
+        "sub_heading_LGdm7E"
       ],
       "settings": {
         "spacing_item": 30,
