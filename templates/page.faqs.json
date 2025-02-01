@@ -97,6 +97,24 @@
             "collection_link": "shopify://pages/get-to-know-vitruvi-water-diffusers"
           }
         },
+        "collection_item_xUbYTC": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_air-diffuser_white_feature-3-2_image.jpg",
+            "title": "Waterless Diffusers",
+            "collection_link": "shopify://pages/get-to-know-vitruvi-waterless-diffusers"
+          }
+        },
+        "collection_item_jbgakn": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_push-diffuser_white_feature-3-2_image.jpg",
+            "title": "Plug-In Diffusers",
+            "collection_link": "shopify://pages/get-to-know-vitruvi-waterless-diffusers"
+          }
+        },
         "collection_item_wBNHVA": {
           "type": "collection_item",
           "settings": {
@@ -126,6 +144,8 @@
       "block_order": [
         "collection_item_B6TeVF",
         "collection_item_8jBfNx",
+        "collection_item_xUbYTC",
+        "collection_item_jbgakn",
         "collection_item_wBNHVA",
         "collection_item_4WeQDG",
         "view_all_Vqf37p"
