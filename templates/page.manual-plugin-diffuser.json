@@ -9,35 +9,311 @@
  */
 {
   "sections": {
-    "heading": {
-      "type": "main-heading",
+    "top_heading_TkKzrj": {
+      "type": "top-heading",
       "blocks": {
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384": {
-          "type": "1",
+        "sub_heading_dtDUjN": {
+          "type": "sub_heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h3"
+            "sub_heading": "GET TO KNOW",
+            "sub_heading_fs": "xl"
+          }
+        },
+        "heading_bkRD7y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vitruvi Plug-In Diffusers",
+            "heading_fs": "h2"
           }
         }
       },
       "block_order": [
-        "5ecb9555-19e4-433b-8817-1ccaa3a41384"
+        "sub_heading_dtDUjN",
+        "heading_bkRD7y"
       ],
       "settings": {
-        "image": "shopify://shop_images/z4683181570507_46fb10fa21da971ae2af71e75431028c.png",
+        "spacing_item": 15,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
         "color_scheme": "",
-        "spacing_hd": 0,
-        "padding_top": 80,
-        "padding_bottom": 86
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {}
+    "categories_section_NRfp3T": {
+      "type": "categories-section",
+      "blocks": {
+        "collection_item_8jBfNx": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/pdp_push-diffuser_white_feature-3-2_image.jpg",
+            "title": "Push",
+            "collection_link": "#push"
+          }
+        },
+        "view_all_Vqf37p": {
+          "type": "view_all",
+          "settings": {
+            "title": "Back to FAQs",
+            "item_link": "shopify://pages/frequently-asked-questions"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_8jBfNx",
+        "view_all_Vqf37p"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "style": "normal",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_QYteg7": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<div id=\"push\" class=\"hdt-container\"><div class=\"hdt-row-grid hdt-text-center md:hdt-text-center hdt-grid-cols-1\"><h2 class=\"hdt-s-text hdt-h3\" style=\"font-family: 'Kaftan'; color: white; background-color: #474946; width: auto; padding-top: 2rem; padding-bottom: 2rem;\">\nPush Diffuser\n</h2></div></div>",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_fNRNei": {
+      "type": "video-2",
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/page_manual-diffuser-stone_features_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "video_2_bcV3Ta": {
+      "type": "video-2",
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "video": "shopify://files/videos/page_manual-diffuser-stone_set-up_video_desktop.mp4",
+        "external_video_url": "",
+        "video_ratio": "16_9",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_MreEGt": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_na3Xay": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO CLEAN YOUR",
+            "sub_fs": "lg"
+          }
+        },
+        "heading_Khfajq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Interior",
+            "heading_fs": "h4"
+          }
+        },
+        "text_pkNiRG": {
+          "type": "text",
+          "settings": {
+            "text": "<ol><li>Fill reservoir halfway with water; add 1 tablespoon white vinegar.</li><li>Let the solution sit for 30 minutes.</li><li>Rinse, then wipe away any remaining oil residue.</li><li>Repeat once per week.</li></ol>"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_na3Xay",
+        "heading_Khfajq",
+        "text_pkNiRG"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pdp_stone-diffuser_white_gallery_5_v3_image.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center-start",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_tbWHUW": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_KPqA9T": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "HOW TO CLEAN YOUR",
+            "sub_fs": "lg"
+          }
+        },
+        "heading_Cc8jU3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cover",
+            "heading_fs": "h4"
+          }
+        },
+        "text_AnHbHp": {
+          "type": "text",
+          "settings": {
+            "text": "<ol><li>Soak in soapy water for 10 minutes.</li><li>Rub out any marks with clean fingers.</li><li>Rinse and let air dry.</li></ol>"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_KPqA9T",
+        "heading_Cc8jU3",
+        "text_AnHbHp"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pdp_replacement-part_stone-diffuser-cover_cocoa_gallery_1_image.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center-start",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "left",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "accordion_ykb3Cd": {
+      "type": "accordion",
+      "blocks": {
+        "title_tngDnk": {
+          "type": "title",
+          "settings": {
+            "title": "Frequently Asked Questions"
+          }
+        },
+        "accordion_item_43zaVh": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I use Push Scent refills in my Stone, Move, Glow Diffuser?",
+            "content": "<p>Push Scent Refills cannot be used in water based ultrasonic diffusers -- They are expertly designed to work with our Push Plug-In Diffuser. Push Scent refills are natural aroma oils, composed of essential oils and naturally derived compounds from plants. Water based essential oil diffusers are designed to work with different essential oil consistency.</p>"
+          }
+        },
+        "accordion_item_ECqy46": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can I use my diffuser blend in the Push Diffuser?",
+            "content": "<p>You are unable to use your existing diffuser blends with the Push Plug-In Diffuser. The Push Plug-In Diffuser must be used with the Push Scent Refills. The Push Scent Refills are expertly crafted to ensure consistent diffusing and are created specifically to work with our Push Plug-In Diffuser. </p>"
+          }
+        },
+        "accordion_item_8TrmJy": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Is cleaning required?",
+            "content": "<p>There is no cleaning required of our Push Plug-In Diffuser. Simply change the aroma and plug the Push Plug-In Diffuser in to begin scenting. </p>"
+          }
+        },
+        "accordion_item_hmbayQ": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is the Push Plug-In Diffuser made of?",
+            "content": "<p>The Push Plug-In Diffuser is made of BPA-free plastic. </p>"
+          }
+        },
+        "accordion_item_HbAyrg": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How does the Push Plug-In Diffuser diffuse scent?",
+            "content": "<p>The Push Plug-In Diffuser uses a simple, yet effective method to bring your favorite scents into your home. The wick absorbs the natural oil, and a heater gently warms the wick, allowing the fragrance to be released into the air. We’ve designed specialized ventilation to improve airflow and enhance the performance, ensuring a more consistent and long-lasting scent experience<em>.</em></p>"
+          }
+        },
+        "accordion_item_CPY9Kx": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Does the Push Plug-In Wall Diffuser need to be plugged in to diffuse?",
+            "content": "<p>Yes. The Push Plug-In Wall Diffuser must be plugged directly into a wall outlet to power on. There is no power button. Please be sure to not cover the Push Plug-In Wall Diffuser with a towel or piece of furniture while in use. </p>"
+          }
+        },
+        "accordion_item_VMheQb": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Will future scents for the Push Plug-In Diffuser be released?",
+            "content": "<p>Yes, we will be releasing future scents!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title_tngDnk",
+        "accordion_item_43zaVh",
+        "accordion_item_ECqy46",
+        "accordion_item_8TrmJy",
+        "accordion_item_hmbayQ",
+        "accordion_item_HbAyrg",
+        "accordion_item_CPY9Kx",
+        "accordion_item_VMheQb"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-container {padding-left: 20%; padding-right: 20%; }}",
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "accordion_position": "start",
+        "accordion_icon": "2",
+        "open_first": false,
+        "enable_link_list": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
-    "heading",
-    "main"
+    "top_heading_TkKzrj",
+    "categories_section_NRfp3T",
+    "custom_liquid_QYteg7",
+    "video_2_fNRNei",
+    "video_2_bcV3Ta",
+    "image_with_text_MreEGt",
+    "image_with_text_tbWHUW",
+    "accordion_ykb3Cd"
   ]
 }
