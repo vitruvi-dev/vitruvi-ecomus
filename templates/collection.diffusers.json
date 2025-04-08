@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -47,9 +46,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
@@ -92,9 +89,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "essential-oil-diffusers",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
@@ -125,15 +120,13 @@
         "sec_heading": "Bundle & Save",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Everything you need to enhance your air.<\/p>",
+        "sec_subheading": "<p>Everything you need to enhance your air.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "diffuser-bundles",
-        "product_list": [
-
-        ],
+        "collection": "diffuser-bundles-old",
+        "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
         "image_size": true,
