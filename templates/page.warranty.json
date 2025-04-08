@@ -195,7 +195,7 @@
           "type": "button",
           "settings": {
             "btn_label": "FIND IT HERE",
-            "btn_link": "shopify://collections/replacement-parts",
+            "btn_link": "shopify://collections/replacement-parts-old",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
