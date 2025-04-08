@@ -841,7 +841,7 @@
           "humidifiers",
           "essential-oil-diffusers",
           "scent-kits",
-          "essential-oil-blends",
+          "essential-oil-blends-old",
           "essential-oils"
         ],
         "text_transform": false,

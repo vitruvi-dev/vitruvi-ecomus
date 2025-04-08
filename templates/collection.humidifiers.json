@@ -142,6 +142,7 @@
         },
         "variant_picker_RwY4Xy": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "pick_mode": "first",
             "hide_sold_out": false,
@@ -206,6 +207,7 @@
       ],
       "settings": {
         "product": "cloud-humidifier",
+        "image": "shopify://shop_images/Cloud-Gallery-1-White.png",
         "media_width": 40,
         "desktop_media_layout": "thumbnail_left",
         "desktop_media_position": "left",
@@ -278,7 +280,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "humidifier-bundles",
+        "collection": "humidifier-bundles-old",
         "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
