@@ -241,7 +241,7 @@
         "collection_item_3tzmMw": {
           "type": "collection_item",
           "settings": {
-            "collection": "diffuser-blends",
+            "collection": "diffuser-blends-old",
             "image": "shopify://shop_images/page_home_holiday2024_grid_scents.jpg",
             "title": "Blends",
             "collection_link": ""
@@ -1047,7 +1047,7 @@
           "humidifiers",
           "essential-oil-diffusers",
           "scent-kits",
-          "essential-oil-blends",
+          "essential-oil-blends-old",
           "essential-oils-2"
         ],
         "text_transform": false,
