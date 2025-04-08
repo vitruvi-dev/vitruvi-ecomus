@@ -132,7 +132,7 @@
           "settings": {
             "title": "Bundle & Save",
             "collection_list": [
-              "gifts",
+              "gifts-old",
               "bundle-and-save-old"
             ],
             "image_ratio": "adapt_image",
