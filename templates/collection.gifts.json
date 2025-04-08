@@ -94,7 +94,7 @@
           "type": "tab_item",
           "settings": {
             "title": "Gift Cards",
-            "collection": "gift-cards",
+            "collection": "gift-cards-old",
             "product_list": []
           }
         }
