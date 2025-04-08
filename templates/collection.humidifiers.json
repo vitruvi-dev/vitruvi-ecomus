@@ -700,7 +700,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "scents",
+        "collection": "scents-old",
         "product_list": [],
         "product_des": "10",
         "image_ratio": "square",
@@ -887,7 +887,7 @@
           "shop-all",
           "humidifiers",
           "diffusers",
-          "scents",
+          "scents-old",
           "accessories-old"
         ],
         "text_transform": false,
