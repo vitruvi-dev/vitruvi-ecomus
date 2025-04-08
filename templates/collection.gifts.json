@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "top_heading_pMLWNL": {
@@ -79,9 +79,7 @@
           "settings": {
             "title": "Best-Sellers",
             "collection": "best-sellers",
-            "product_list": [
-
-            ]
+            "product_list": []
           }
         },
         "tab_item_7y6aWW": {
@@ -89,19 +87,15 @@
           "settings": {
             "title": "Gifts Under $100",
             "collection": "gifts-under-100",
-            "product_list": [
-
-            ]
+            "product_list": []
           }
         },
         "tab_item_chFyKc": {
           "type": "tab_item",
           "settings": {
             "title": "Gift Cards",
-            "collection": "gift-cards",
-            "product_list": [
-
-            ]
+            "collection": "gift-cards-old",
+            "product_list": []
           }
         }
       },
@@ -153,9 +147,9 @@
         "banner_2_wGNqDt": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "image": "shopify://shop_images/ugc_1_sahndra_diffuser-stone_white.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "banner_url": "shopify://products/stone-essential-oil-diffuser",
             "banner_target": false,
             "heading": "@silchuknest",
             "heading_fs": "base",
@@ -178,9 +172,9 @@
         "banner_2_Gd9rXf": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1__sahnndra_cloud-humidifier_oat.jpg",
+            "image": "shopify://shop_images/ugc_1__sahnndra_cloud-humidifier_oat.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/products\/cloud-humidifier",
+            "banner_url": "shopify://products/cloud-humidifier",
             "banner_target": false,
             "heading": "@sahnndra",
             "heading_fs": "base",
@@ -203,9 +197,9 @@
         "banner_2_gYifcd": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "image": "shopify://shop_images/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
             "color_scheme": "scheme-3",
-            "banner_url": "shopify:\/\/products\/stone-essential-oil-diffuser",
+            "banner_url": "shopify://products/stone-essential-oil-diffuser",
             "banner_target": false,
             "heading": "@emilytartaglia",
             "heading_fs": "base",
@@ -259,7 +253,7 @@
         "sec_heading": "Customer-Favorite Gift Bundles",
         "heading_tag": "h2",
         "heading_size": "h5",
-        "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.<\/p>",
+        "sec_subheading": "<p>Discover our expertly curated bundles, designed to make gifting effortless. These customer-favorite sets are perfectly paired to create a beautifully scented and cared-for space.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -300,8 +294,8 @@
           "type": "slide_label",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/home_slideshow_byob-scents.png",
-            "url": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "image": "shopify://shop_images/home_slideshow_byob-scents.png",
+            "url": "shopify://products/build-your-own-scent-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Bundle & Save On Scents",
@@ -312,7 +306,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-scent-bundle",
+            "btn_link": "shopify://products/build-your-own-scent-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -336,8 +330,8 @@
         "slide_label_KFMjzR": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/page_home_hero_summersale2024_image_v1_desktop.jpg",
-            "url": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "image": "shopify://shop_images/page_home_hero_summersale2024_image_v1_desktop.jpg",
+            "url": "shopify://products/build-your-own-diffuser-bundle",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "sub_heading": "Build Your Own Gift Bundle",
@@ -348,7 +342,7 @@
             "heading_fs": "base",
             "heading_fw": "normal",
             "btn_label": "GET STARTED",
-            "btn_link": "shopify:\/\/products\/build-your-own-diffuser-bundle",
+            "btn_link": "shopify://products/build-your-own-diffuser-bundle",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -406,8 +400,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -439,9 +432,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "10",
         "image_ratio": "square",
