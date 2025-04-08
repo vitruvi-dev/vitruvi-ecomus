@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "heading": {
@@ -15,8 +15,7 @@
         "breadcrumb_CM7qtX": {
           "type": "breadcrumb",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9a1347b4-da62-490d-9fd4-427a03686ac2": {
           "type": "heading",
@@ -48,9 +47,7 @@
     "main": {
       "type": "main-collection",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "product_des": "4",
         "image_ratio": "square",
@@ -94,7 +91,7 @@
         "text_c9RHPY": {
           "type": "text",
           "settings": {
-            "text": "<p>Up to 40% off sitewide ends soon.<\/p>",
+            "text": "<p>Up to 40% off sitewide ends soon.</p>",
             "adding_border": false
           }
         },
@@ -130,8 +127,8 @@
         "fixed_height": 200,
         "image_height_mb": "fixed",
         "fixed_height_mb": 100,
-        "image": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
-        "image_mb": "shopify:\/\/shop_images\/page_manual-main-blue_image_3.png",
+        "image": "shopify://shop_images/page_manual-main-blue_image_3.png",
+        "image_mb": "shopify://shop_images/page_manual-main-blue_image_3.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -157,9 +154,7 @@
           "settings": {
             "title": "Diffusers",
             "collection": "essential-oil-diffusers",
-            "product_list": [
-
-            ]
+            "product_list": []
           }
         },
         "tab_item_chFyKc": {
@@ -167,9 +162,7 @@
           "settings": {
             "title": "Diffuser Scents",
             "collection": "essential-oils-for-diffusers",
-            "product_list": [
-
-            ]
+            "product_list": []
           }
         }
       },
@@ -177,9 +170,7 @@
         "tab_item_p7DMf4",
         "tab_item_chFyKc"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "tabs_heading": "Best-Selling Diffusers",
         "heading_size": "h5",
@@ -219,7 +210,7 @@
         "banner_2_wGNqDt": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1_sahndra_diffuser-stone_white.jpg",
+            "image": "shopify://shop_images/ugc_1_sahndra_diffuser-stone_white.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -244,7 +235,7 @@
         "banner_2_Gd9rXf": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_5_sahnndra_diffuser-move_white.jpg",
+            "image": "shopify://shop_images/ugc_5_sahnndra_diffuser-move_white.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -269,7 +260,7 @@
         "banner_2_gYifcd": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
+            "image": "shopify://shop_images/ugc_2__emilytartaglia_diffuser-stone_terracotta.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -326,9 +317,7 @@
           "settings": {
             "title": "Humidifiers",
             "collection": "humidifiers",
-            "product_list": [
-
-            ]
+            "product_list": []
           }
         },
         "tab_item_6NBgVj": {
@@ -336,9 +325,7 @@
           "settings": {
             "title": "Filters & Accessories",
             "collection": "essential-oils-for-diffusers",
-            "product_list": [
-
-            ]
+            "product_list": []
           }
         }
       },
@@ -385,7 +372,7 @@
         "banner_2_UHXEme": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_1_sahnndra_cloud-humidifier_oat.jpg",
+            "image": "shopify://shop_images/ugc_1_sahnndra_cloud-humidifier_oat.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -410,7 +397,7 @@
         "banner_2_8KTJnH": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_5_yana.sushchik_cloud-humidifier_oat.jpg",
+            "image": "shopify://shop_images/ugc_5_yana.sushchik_cloud-humidifier_oat.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -435,7 +422,7 @@
         "banner_2_Lqe8wE": {
           "type": "banner_2",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ugc_3_emilytartaglia_cloud-humidifier_dove.jpg",
+            "image": "shopify://shop_images/ugc_3_emilytartaglia_cloud-humidifier_dove.jpg",
             "color_scheme": "scheme-3",
             "banner_url": "",
             "banner_target": false,
@@ -489,19 +476,15 @@
           "settings": {
             "title": "Diffuser Blends",
             "collection": "essential-oil-blends",
-            "product_list": [
-
-            ]
+            "product_list": []
           }
         },
         "tab_item_VhL7Ut": {
           "type": "tab_item",
           "settings": {
             "title": "Essential Oils",
-            "collection": "essential-oils",
-            "product_list": [
-
-            ]
+            "collection": "essential-oils-old",
+            "product_list": []
           }
         },
         "tab_item_m96mgW": {
@@ -509,9 +492,7 @@
           "settings": {
             "title": "Air Fresheners",
             "collection": "natural-air-freshener-sprays",
-            "product_list": [
-
-            ]
+            "product_list": []
           }
         }
       },
@@ -561,7 +542,7 @@
       "settings": {
         "heading": "Save on Sleep Bundles",
         "label": "Set the stage for your best night's rest.",
-        "image": "shopify:\/\/shop_images\/collection_sleep-humidifier-bedside.jpg",
+        "image": "shopify://shop_images/collection_sleep-humidifier-bedside.jpg",
         "external_video_url": "",
         "banner_url": "",
         "banner_target": false,
@@ -570,9 +551,7 @@
         "image_height_mb": "fixed",
         "fixed_height_mb": 250,
         "collection": "sleep-bundles",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "products_count": 3,
         "product_des": "4",
         "image_ratio": "adapt_image",
