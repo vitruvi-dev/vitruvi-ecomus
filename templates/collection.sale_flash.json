@@ -214,7 +214,7 @@
         "collection_item_hyjBLh": {
           "type": "collection_item",
           "settings": {
-            "collection": "bundle-and-save",
+            "collection": "bundle-and-save-old",
             "image": "shopify://shop_images/collection_bfcm2024_bundles.png",
             "title": "Gift Bundles",
             "collection_link": ""
