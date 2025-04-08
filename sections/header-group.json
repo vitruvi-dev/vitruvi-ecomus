@@ -71,7 +71,7 @@
           "settings": {
             "title": "Gifts",
             "collection_list": [
-              "gifts",
+              "gifts-old",
               "holiday-scents"
             ],
             "image_ratio": "adapt_image",
