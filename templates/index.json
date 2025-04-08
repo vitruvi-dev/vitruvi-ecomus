@@ -306,7 +306,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP GIFTS",
-            "btn_link": "shopify://collections/gifts",
+            "btn_link": "shopify://collections/gifts-old",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
