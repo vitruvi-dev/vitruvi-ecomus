@@ -199,7 +199,7 @@
           "settings": {
             "image": "shopify://shop_images/page_home_hero_holidaylaunch_image_v2_desktop.png",
             "image_mb": "shopify://shop_images/page_home_hero_holidaylaunch_image_v1_mobile.jpg",
-            "url": "shopify://collections/holiday-collection",
+            "url": "shopify://collections/holiday-entertaining",
             "banner_target": false,
             "color_scheme": "scheme-3",
             "heading": "<p><strong>NEW</strong><br/>HOLIDAY COLLECTION</p>",
@@ -209,7 +209,7 @@
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "SHOP HOLIDAY",
-            "btn_link": "shopify://collections/holiday-collection",
+            "btn_link": "shopify://collections/holiday-entertaining",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -285,7 +285,7 @@
           "type": "button",
           "settings": {
             "btn_label": "SHOP HOLIDAY",
-            "btn_link": "shopify://collections/holiday-collection",
+            "btn_link": "shopify://collections/holiday-entertaining",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
