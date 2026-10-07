@@ -59,9 +59,7 @@
     {% if template contains "collection" and collection.handle == "types" %}
     <meta name="robots" content="noindex, follow">
     {% endif %}
-    {% if (template contains "collection" and collection.handle == "all") or
-    (template contains "collection" and collection.handle == "new") or
-    (canonical_url == "https://vitruvi.com/collections") %}
+    {% if template contains "collection" and collection.handle == "all" or template contains "collection" and collection.handle == "new" or canonical_url == "https://vitruvi.com/collections" %}
     <meta name="robots" content="noindex, follow">
     {% endif %}
 
@@ -119,3 +117,18 @@
     {%- endunless -%}
   </body>
 </html>
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: |-
+    {% if (template contains "collection" and collection.handle == "all") or
+        (template contains "collection" and collection.handle == "new") or
+        (canonical_url == "https://vitruvi.com/collections") %}
+  to: '{% if template contains "collection" and collection.handle == "all" or template
+    contains "collection" and collection.handle == "new" or canonical_url == "https://vitruvi.com/collections"
+    %}'
+  position: 3259..3448
+{% endcomment %}
